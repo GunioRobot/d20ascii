@@ -2,8 +2,6 @@ all: gitsave srd-epub srd-html srd-pdf
 
 gitsave:
 	rm -rf *~ */*~ */*/*~ */*/*/*~
-	git add src Makefile
-	git add -u
 	git commit -a -m"Incremental save" --allow-empty
 
 srd-html: out/srd/index.html
