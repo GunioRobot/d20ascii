@@ -1,4 +1,4 @@
-Table 3–5: Bard Spells Known
+.Bard Spells Known
 [options="header",cols="^,^,^,^,^,^,^,^"]
 |========================================
 | Level | 0 | 1st | 2nd | 3rd | 4th | 5th | 6th
