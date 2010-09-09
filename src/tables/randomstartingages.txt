@@ -1,0 +1,12 @@
+.Random Starting Ages
+[options="header"]
+|================
+| Race | Adulthood | Barbarian Rogue Sorcerer | Bard Fighter Paladin Ranger | Cleric Druid Monk Wizard
+| Human | 15 years | +1d4 | +1d6 | +2d6
+| Dwarf | 40 years | +3d6 | +5d6 | +7d6
+| Elf | 110 years | +4d6 | +6d6 | +10d6
+| Gnome | 40 years | +4d6 | +6d6 | +9d6
+| Half-elf | 20 years | +1d6 | +2d6 | +3d6
+| Half-orc | 14 years | +1d4 | +1d6 | +2d6
+| Halfling | 20 years | +2d4 | +3d6 | +4d6
+|================

@@ -1,0 +1,15 @@
+
+NPC Classes
+-----------
+
+Placeholder text
+
+include::classes/adept.txt[]
+
+include::classes/aristocrat.txt[]
+
+include::classes/commoner.txt[]
+
+include::classes/expert.txt[]
+
+include::classes/warrior.txt[]

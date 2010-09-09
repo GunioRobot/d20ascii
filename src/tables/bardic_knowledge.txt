@@ -1,0 +1,9 @@
+.Bardic Knowledge
+[options="header"]
+|======
+| DC | Type of Knowledge
+| 10 | Common, known by at least a substantial minority drinking; common legends of the local population.
+| 20 | Uncommon but available, known by only a few people legends.
+| 25 | Obscure, known by few, hard to come by.
+| 30 | Extremely obscure, known by very few, possibly forgotten by most who once knew it, possibly known only by those who don’t understand the significance of the knowledge.
+|======

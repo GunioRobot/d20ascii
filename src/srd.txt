@@ -1,0 +1,25 @@
+System Reference Document
+=========================
+
+
+[preface]
+Preface
+-------
+I've attempted to reformat the System Reference Document into an
+easily-modifiable ASCIIDoc format, so as to expedite my
+handbook-for-each-class project.
+
+The Basics
+==========
+
+include::basics.txt[]
+
+include::races.txt[]
+
+include::classes.txt[]
+
+include::description.txt[]
+
+include::legal.txt[]
+
+[index]

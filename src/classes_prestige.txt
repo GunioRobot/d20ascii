@@ -1,0 +1,34 @@
+
+Prestige Classes
+----------------
+Placeholder Text
+
+include::classes/arcane_archer.txt[]
+
+include::classes/arcane_trickster.txt[]
+
+include::classes/archmage.txt[]
+
+include::classes/assassin.txt[]
+
+include::classes/blackguard.txt[]
+
+include::classes/dragon_disciple.txt[]
+
+include::classes/duelist.txt[]
+
+include::classes/dwarven_defender.txt[]
+
+include::classes/eldritch_knight.txt[]
+
+include::classes/hierophant.txt[]
+
+include::classes/horizon_walker.txt[]
+
+include::classes/loremaster.txt[]
+
+include::classes/mystic_theurge.txt[]
+
+include::classes/shadowdancer.txt[]
+
+include::classes/thaumaturgist.txt[]
