@@ -22,5 +22,5 @@
 | 18th | 6 | 5 | 5 | 5 | 4 | 4 | 3
 | 19th | 6 | 5 | 5 | 5 | 5 | 4 | 4
 | 20th | 6 | 5 | 5 | 5 | 5 | 5 | 4
-7+| 1. Provided the bard has a high enough Charisma score to have a bonus spell of this level.
+8+| 1. Provided the bard has a high enough Charisma score to have a bonus spell of this level.
 |========================================
