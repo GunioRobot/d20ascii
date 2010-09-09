@@ -3,7 +3,7 @@
 |================================================================
 6+| 7+^|Spells Per Day
 | Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special | 0 | 1st | 2nd | 3rd | 4th | 5th | 6th
-| 1st | +0 | +0 | +2 | +2 | Bardic music, bardic knowledge,  countersong, fascinate, inspire courage +1 | 2 | — | — | — | — | — | —|
+| 1st | +0 | +0 | +2 | +2 | Bardic music, bardic knowledge,  countersong, fascinate, inspire courage +1 | 2 | — | — | — | — | — | —
 | 2nd | +1 | +0 | +3 | +3 | | 3 | 0 | — | — | — | — | —
 | 3rd | +2 | +1 | +3 | +3 | Inspire competence | 3 | 1 | — | — | — | — | —
 | 4th | +3 | +1 | +4 | +4 | | 3 | 2 | 0 | — | — | — | —
