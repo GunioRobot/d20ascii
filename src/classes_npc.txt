@@ -1,9 +1,4 @@
 
-NPC Classes
-===========
-
-Placeholder text
-
 include::classes/adept.txt[]
 
 include::classes/aristocrat.txt[]

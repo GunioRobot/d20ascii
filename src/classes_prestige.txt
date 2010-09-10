@@ -1,8 +1,4 @@
 
-Prestige Classes
-================
-
-Placeholder Text
 
 include::classes/arcane_archer.txt[]
 
