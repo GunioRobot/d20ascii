@@ -1,6 +1,3 @@
-Classes
-=======
-
 include::classes_base.txt[]
 
 include::classes_prestige.txt[]

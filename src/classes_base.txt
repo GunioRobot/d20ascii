@@ -1,6 +1,6 @@
 
 Base Classes
-------------
+============
 
 include::classes/barbarian.txt[]
 
