@@ -1,9 +1,9 @@
 System Reference Document
 =========================
 
-ifdef::arcana-unearthed[]
-{set:arcana-unearthed-variant-classes}
-endif::arcana-unearthed[]
+ifdef::unearthed-arcana[]
+{set:unearthed-arcana-variant-classes}
+endif::unearthed-arcana[]
 
 include::basics.txt[]
 
