@@ -1,5 +1,5 @@
 .The Druid's Animal Companion
-[options=header]
+[options="header"]
 |==============
 | Class Level | Bonus HD | Natural Armor Adj. | Str/Dex Adj.
 | Bonus Tricks | Special
