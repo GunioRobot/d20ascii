@@ -6,8 +6,8 @@ gitsave:
 
 srd-html: out/srd/index.html
 
-out/srd/index.html: out/srd.xml mychunk.xsl
-	xmlto -o out/srd xhtml out/srd.xml -m mychunk.xsl
+out/srd/index.html: out/srd.xml src/mychunk.xsl
+	xmlto -o out/srd xhtml out/srd.xml -m src/mychunk.xsl
 
 srd-pdf: out/srd.pdf
 
