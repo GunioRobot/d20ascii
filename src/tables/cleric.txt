@@ -24,4 +24,4 @@
 | 20th | +15/+10/+5 | +12 | +6 | +12 |  | 6 | 5+1 | 5+1 | 5+1 | 5+1 | 5+1 | 4+1 | 4+1 | 4+1 | 4+1
 16+| In addition to the stated number of spells per day for 1st- through 9th-level spells, a cleric gets a domain spell for each spell level, starting at 1st.
 16+| The "+1" in the entries on this table represents that spell. Domain spells are in addition to any bonus spells the cleric may receive for having a high Wisdom score.
-| |=================
+|=================
