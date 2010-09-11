@@ -83,8 +83,8 @@ of the following lists, applying the indicated adjustment to the druid’s
 level (in parentheses) for purposes of determining the companion’s
 characteristics and special abilities.
 
-4th Level or Higher (Level –3)
-+++++++++++++++++++++++++++++
+Companions of 4th Level or Higher (Level –3)
+++++++++++++++++++++++++++++++++++++++++++++
 * Ape (animal) 
 * Bear, black (animal) 
 * Bison (animal)
@@ -101,8 +101,8 @@ characteristics and special abilities.
 * Snake, Large viper (animal)
 * Wolverine (animal)
 
-7th Level or Higher (Level –6)
-++++++++++++++++++++++++++++++
+Companions of 7th Level or Higher (Level –6)
+++++++++++++++++++++++++++++++++++++++++++++
 * Bear, brown (animal) 
 * Dire wolverine
 * Crocodile, giant (animal) 
@@ -116,8 +116,8 @@ characteristics and special abilities.
 * Snake, Huge viper (animal)
 * Tiger (animal)
 
-10th Level or Higher (Level –9)
-+++++++++++++++++++++++++++++++
+Companions of 10th Level or Higher (Level –9)
++++++++++++++++++++++++++++++++++++++++++++++
 * Bear, polar (animal) 
 * Dire lion 
 * Megaraptor (dinosaur) 
@@ -125,14 +125,14 @@ characteristics and special abilities.
 * Snake, giant constrictor (animal)
 * Whale, orca^1^ (animal)
 
-13th Level or Higher (Level –12)
-++++++++++++++++++++++++++++++++
+Companions of 13th Level or Higher (Level –12)
+++++++++++++++++++++++++++++++++++++++++++++++
 * Dire bear 
 * Elephant (animal)
 * Octopus, giant^1^ (animal)
 
-16th Level or Higher (Level –15)
-++++++++++++++++++++++++++++++++
+Companions of 16th Level or Higher (Level –15)
+++++++++++++++++++++++++++++++++++++++++++++++
 * Dire shark^1^ 
 * Dire tiger 
 * Squid, giant1 (animal)
