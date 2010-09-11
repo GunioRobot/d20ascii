@@ -33,11 +33,17 @@ All of the following are Class Features of the assassin prestige class.
 
 *Weapon and Armor Proficiency:* Assassins are proficient with the crossbow (hand, light, or heavy), dagger (any type), dart, rapier, sap, shortbow (normal and composite), and short sword. Assassins are proficient with light armor but not with shields.
 
+indexterm:[Class Features,Sneak Attack]
+
 *Sneak Attack:* This is exactly like the rogue ability of the same name. The extra damage dealt increases by +1d6 every other level (2nd, 4th, 6th, 8th, and 10th). If an assassin gets a sneak attack bonus from another source the bonuses on damage stack.
+
+indexterm:[Class Features,Death Attack]
 
 *Death Attack:* If an assassin studies his victim for 3 rounds and then makes a sneak attack with a melee weapon that successfully deals damage, the sneak attack has the additional effect of possibly either paralyzing or killing the target (assassin’s choice). While studying the victim, the assassin can undertake other actions so long as his attention stays focused on the target and the target does not detect the assassin or recognize the assassin as an enemy. If the victim of such an attack fails a Fortitude save (DC 10 + the assassin’s class level + the assassin’s Int modifier) against the kill effect, she dies. If the saving throw fails against the paralysis effect, the victim is rendered helpless and unable to act for 1d6 rounds plus 1 round per level of the assassin. If the victim’s saving throw succeeds, the attack is just a normal sneak attack. Once the assassin has completed the 3 rounds of study, he must make the death attack within the next 3 rounds.
 
 If a death attack is attempted and fails (the victim makes her save) or if the assassin does not launch the attack within 3 rounds of completing the study, 3 new rounds of study are required before he can attempt another death attack.
+
+indexterm:[Class Features,Poison Use]
 
 *Poison Use:* Assassins are trained in the use of poison and never risk accidentally poisoning themselves when applying poison to a blade.
 
@@ -49,15 +55,23 @@ Upon reaching 6th level, at every even-numbered level after that (8th and 10th),
 
 include::../tables/assassin_spells_known.asciidoc[]
 
+indexterm:[Class Features,Save Bonus Against Poison]
+
 *Save Bonus against Poison:* The assassin gains a natural saving throw bonus to all poisons gained at 2nd level that increases by +1 for every two additional levels the assassin gains.
+
+indexterm:[Class Features,Uncanny Dodge]
 
 *Uncanny Dodge (Ex):* Starting at 2nd level, an assassin retains his Dexterity bonus to AC (if any) regardless of being caught flat-footed or struck by an invisible attacker. (He still loses any Dexterity bonus to AC if immobilized.)
 
 If a character gains uncanny dodge from a second class the character automatically gains improved uncanny dodge (see below).
 
+indexterm:[Class Features,Improved Uncanny Dodge]
+
 *Improved Uncanny Dodge (Ex):* At 5th level, an assassin can no longer be flanked, since he can react to opponents on opposite sides of him as easily as he can react to a single attacker. This defense denies rogues the ability to use flank attacks to sneak attack the assassin. The exception to this defense is that a rogue at least four levels higher than the assassin can flank him (and thus sneak attack him).
 
 If a character gains uncanny dodge (see above) from a second class the character automatically gains improved uncanny dodge, and the levels from those classes stack to determine the minimum rogue level required to flank the character.
+
+indexterm:[Class Features,Hide in Plain Sight]
 
 *Hide in Plain Sight (Su):* At 8th level, an assassin can use the Hide skill even while being observed. As long as he is within 10 feet of some sort of shadow, an assassin can hide himself from view in the open without having anything to actually hide behind.
 

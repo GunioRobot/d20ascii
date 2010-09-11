@@ -156,13 +156,19 @@ A barbarian dedicated to the ape totem does not gain the standard fast
 movement, uncanny dodge, trap sense, and improved uncanny dodge barbarian
 class features, and instead gains the following abilities.
 
+indexterm:[Class Features,Climb Speed]
+
 * At 1st level, an ape-totem barbarian gains a climb speed equal to one-half
 his base land speed (round down to the nearest 5-foot interval). For
 instance, a human, elf, half-elf, or half-orc ape-totem barbarian has a
 climb speed of 15 feet, while a dwarf, gnome, or halfling ape-totem
 barbarian has a climb speed of 10 feet.
 
+indexterm:[Class Features,Intimidate Bonus]
+
 * At 2nd level, an ape-totem barbarian gains a +2 bonus on Intimidate checks.
+
+indexterm:[Class Features,Power Attack]
 
 * A 3rd level ape-totem barbarian gains Power Attack as a bonus feat.
 
@@ -175,10 +181,16 @@ A barbarian dedicated to the bear totem does not gain the standard fast
 movement, uncanny dodge, trap sense, and improved uncanny dodge barbarian
 class features, and instead gains the following abilities.
 
+indexterm:[Class Features,Toughness]
+
 * A 1st-level bear-totem barbarian gains Toughness as a bonus feat.
+
+indexterm:[Class Features,Improved Grapple]
 
 * At 2nd level, a bear-totem barbarian gains Improved Grapple as a bonus feat,
 even if he doesn't meet the normal prerequisites.
+
+indexterm:[Class Features,Great Fortitude]
 
 * A 3rd-level bear-totem barbarian gains Great Fortitude as a bonus feat.
 Beginning at 5th level, a bear-totem barbarian gains a +4 bonus on grapple
@@ -190,11 +202,17 @@ A barbarian dedicated to the boar totem does not gain the standard fast
 movement, uncanny dodge, trap sense, and improved uncanny dodge barbarian
 class features, and instead gains the following abilities.
 
+indexterm:[Class Features,Diehard]
+
 * When raging, a 1st-level boar-totem barbarian is treated as having the
 Diehard feat, even if he doesn't meet the normal prerequisites.
 
+indexterm:[Class Features,Longer Rage]
+
 * At 3rd level and higher, a boar-totem barbarian's rage lasts for 2 rounds
 longer than normal.
+
+indexterm:[Class Features,Improved Damage Reduction]
 
 * Beginning at 7th level, a boar-totem barbarian's damage reduction is 1 point
 higher than the normal value. Thus, at 7th level, a boar-totem barbarian's
@@ -207,10 +225,16 @@ A barbarian dedicated to the dragon totem does not gain the standard fast
 movement, uncanny dodge, trap sense, and improved uncanny dodge barbarian
 class features, and instead gains the following abilities.
 
+indexterm:[Class Features,Blind-Fight]
+
 * A 1st-level dragon-totem barbarian gains Blind-Fight as a bonus feat.
+
+indexterm:[Class Features,Save Bonus Against Paralysis and Sleep Effects]
 
 * At 2nd level, a dragon-totem barbarian gains a +2 bonus on saves against
 paralysis and sleep effects.
+
+indexterm:[Class Features,Frightful Presence]
 
 * At 5th level, a dragon-totem barbarian gains the frightful presence ability.
 The save DC is equal to 10 + 1/2 barbarian level + barbarian's Cha modifier.
@@ -221,8 +245,12 @@ A barbarian dedicated to the eagle totem does not gain the standard fast
 movement and trap sense barbarian class features, and instead gains the
 following abilities.
 
+indexterm:[Class Features,Spot Bonus]
+
 * At 1st level, an eagle-totem barbarian's keen vision grants him a +2 bonus
 on Spot checks.
+
+indexterm:[Class Features,Lightning Reflexes]
 
 * An eagle-totem barbarian gains Lightning Reflexes as a bonus feat at 3rd
 level.
@@ -233,11 +261,19 @@ A barbarian dedicated to the horse totem does not gain the standard uncanny
 dodge, trap sense, and improved uncanny dodge barbarian class features, and
 instead gains the following abilities.
 
+indexterm:[Class Features,Run]
+
 * At 2nd level, a horse-totem barbarian gains Run as a bonus feat.
+
+indexterm:[Class Features,Handle Animal Bonus]
+
+indexterm:[Class Features,Ride Bonus]
 
 * A 3rd-level horse-totem barbarian gains a +2 bonus on Handle Animal checks
 made with regard to horses and a +2 bonus on Ride checks made to ride a
 horse.
+
+indexterm:[Class Features,Endurance]
 
 * At 5th level, a horse-totem barbarian gains Endurance as a bonus feat.
 
@@ -252,9 +288,15 @@ A barbarian dedicated to the lion totem does not gain the standard fast
 movement, uncanny dodge, and improved uncanny dodge barbarian class
 features, and instead gains the following abilities.
 
+indexterm:[Class Features,Run]
+
 * At 1st level, a lion-totem barbarian gains Run as a bonus feat.
 
+indexterm:[Class Features,Hide Bonus]
+
 * A 2nd-level lion-totem barbarian gains a +2 bonus on Hide checks.
+
+indexterm:[Class Features,Damage Bonus While Charging]
 
 * A 5th-level lion-totem barbarian gains a +2 bonus on damage rolls whenever
 he charges.
@@ -265,14 +307,22 @@ A barbarian dedicated to the serpent totem does not gain the standard fast
 movement, uncanny dodge, trap sense, and improved uncanny dodge barbarian
 class features, and instead gains the following abilities.
 
+indexterm:[Class Features,Fortitude Save Bonus Against Poison]
+
 * At 1st level, a serpent-totem barbarian gains a +2 bonus on Fortitude saves
 against poison.
+
+indexterm:[Class Features,Move Silently Bonus]
 
 * A 2nd-level serpent-totem barbarian gains a +2 bonus on Move Silently
 checks.
 
+indexterm:[Class Features,Improved Grapple]
+
 * At 3rd level, a serpent-totem barbarian gains Improved Grapple as a bonus
 feat, even if he doesn't meet the normal prerequisites.
+
+indexterm:[Class Features,Improved Initiative]
 
 * A serpent-totem barbarian gains Improved Initiative as a bonus feat at 5th
 level.
@@ -283,8 +333,14 @@ A barbarian dedicated to the wolf totem does not gain the standard uncanny
 dodge, trap sense, and improved uncanny dodge barbarian class features, and
 instead gains the following abilities.
 
+indexterm:[Class Features,Improved Trip]
+
 * A 2nd-level wolf-totem barbarian gains Improved Trip as a bonus feat, even
 if he doesn't meet the normal prerequisites.
 
+indexterm:[Class Features,Track]
+
 * A 5th-level wolf-totem barbarian gains Track as a bonus feat.
+
 endif::unearthed-arcana-variant-classes[]
+

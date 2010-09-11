@@ -4,6 +4,8 @@ Prestige Classes
 Prestige Class Overview
 -----------------------
 
+indexterm:[Prestige Classes]
+
 Prestige classes offer a new form of multiclassing. Unlike the basic
 classes, characters must meet Requirements before they can take their first
 level of a prestige class. The rules for level advancement apply to this

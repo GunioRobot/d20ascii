@@ -46,6 +46,8 @@ to his deity’s weapon as a bonus feat. He also receives the appropriate
 Martial Weapon Proficiency feat as a bonus feat, if the weapon falls into
 that category.
 
+indexterm:[Class Features,Aura]
+
 *Aura (Ex):* A cleric of a chaotic, evil, good, or lawful deity has a
 particularly powerful aura corresponding to the deity’s alignment (see the
 detect evil spell for details). Clerics who don’t worship a specific deity
@@ -94,6 +96,8 @@ one or the other each day in his domain spell slot. If a domain spell is not
 on the cleric spell list, a cleric can prepare it only in his domain spell
 slot.
 
+indexterm:[Class Features,Spontaneous Casting]
+
 *Spontaneous Casting:* A good cleric (or a neutral cleric of a good deity) can
 channel stored spell energy into healing spells that the cleric did not
 prepare ahead of time. The cleric can “lose” any prepared spell that is not
@@ -113,6 +117,10 @@ below).
 alignment opposed to his own or his deity’s (if he has one). Spells
 associated with particular alignments are indicated by the chaos, evil,
 good, and law descriptors in their spell descriptions.
+
+indexterm:[Class Features,Turn Undead]
+
+indexterm:[Class Features,Rebuke Undead]
 
 *Turn or Rebuke Undead (Su):* Any cleric, regardless of alignment, has the
 power to affect undead creatures by channeling the power of his faith

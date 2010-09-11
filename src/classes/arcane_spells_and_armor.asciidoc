@@ -1,6 +1,8 @@
 Arcane Spells and Armor
 ^^^^^^^^^^^^^^^^^^^^^^^
 
+indexterm:[Arcane Spells and Armor]
+
 Wizards and sorcerers do not know how to wear armor effectively.
 
 If desired, they can wear armor anyway (though they’ll be clumsy in it), or they can gain training in the proper use of armor (with the various Armor Proficiency feats—light, medium, and heavy—and the Shield Proficiency feat), or they can multiclass to add a class that grants them armor proficiency. Even if a wizard or sorcerer is wearing armor with which he or she is proficient, however, it might still interfere with spellcasting.

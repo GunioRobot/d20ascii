@@ -37,11 +37,19 @@ All of the following are Class Features of the blackguard prestige class.
 
 *Weapon and Armor Proficiency:* Blackguards are proficient with all simple and martial weapons, with all types of armor, and with shields.
 
+indexterm:[Class Features,Aura of Evil]
+
 *Aura of Evil (Ex):* The power of a blackguard’s aura of evil (see the detect evil spell) is equal to his class level plus his cleric level, if any.
+
+indexterm:[Class Features,Detect Good]
 
 *Detect Good (Sp):* At will, a blackguard can use detect good as a spell-like ability, duplicating the effect of the detect good spell.
 
+indexterm:[Class Features,Poison Use]
+
 *Poison Use:* Blackguards are skilled in the use of poison and never risk accidentally poisoning themselves when applying poison to a blade.
+
+indexterm:[Class Features,Dark Blessing]
 
 *Dark Blessing (Su):* A blackguard applies his Charisma modifier (if positive) as a bonus on all saving throws.
 
@@ -49,15 +57,23 @@ All of the following are Class Features of the blackguard prestige class.
 
 Blackguard bonus spells are based on Wisdom, and saving throws against these spells have a DC of 10 + spell level + the blackguard’s Wisdom modifier. When the blackguard gets 0 spells per day of a given spell level he gains only the bonus spells he would be entitled to based on his Wisdom score for that spell level. The blackguard’s spell list appears below. A blackguard has access to any spell on the list and can freely choose which to prepare, just as a cleric. A blackguard prepares and casts spells just as a cleric does (though a blackguard cannot spontaneously cast cure or inflict spells).
 
+indexterm:[Class Features,Smite Good]
+
 *Smite Good (Su):* Once a day, a blackguard of 2nd level or higher may attempt to smite good with one normal melee attack.
 
 He adds his Charisma modifier (if positive) to his attack roll and deals 1 extra point of damage per class level. If a blackguard accidentally smites a creature that is not good, the smite has no effect but it is still used up for that day.
 
 At 5th level, and again at 10th level, a blackguard may smite good one additional time per day.
 
+indexterm:[Class Features,Aura of Despair]
+
 *Aura of Despair (Su):* Beginning at 3rd level, the blackguard radiates a malign aura that causes enemies within 10 feet of him to take a –2 penalty on all saving throws.
 
+indexterm:[Class Features,Command Undead]
+
 *Command Undead (Su):* When a blackguard reaches 3rd level, he gains the supernatural ability to command and rebuke undead. He commands undead as would a cleric of two levels lower.
+
+indexterm:[Class Features,Sneak Attack]
 
 *Sneak Attack:* This ability, gained at 4th level, is like the rogue ability of the same name. The extra damage increases by +1d6 every third level beyond 4th (7th and 10th). If a blackguard gets a sneak attack bonus from another source the bonuses on damage stack.
 
