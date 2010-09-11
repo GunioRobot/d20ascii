@@ -128,7 +128,7 @@ A barbarian who becomes lawful loses the ability to rage and cannot gain
 more levels as a barbarian. He retains all the other benefits of the class
 (damage reduction, fast movement, trap sense, and uncanny dodge).
 
-ifdef::unearthed-arcana[]
+ifdef::unearthed-arcana-variant-classes[]
 Barbarian Variant: Totem Barbarian
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 In a barbarian-heavy campaign, you can increase the variation between
