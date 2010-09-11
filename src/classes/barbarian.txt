@@ -287,4 +287,4 @@ instead gains the following abilities.
 if he doesn't meet the normal prerequisites.
 
 * A 5th-level wolf-totem barbarian gains Track as a bonus feat.
-endif::unearthed-arcana[]
+endif::unearthed-arcana-variant-classes[]
