@@ -21,7 +21,7 @@ srd-epub: out/srd.epub
 out/srd.epub: out/srd.xml
 	dbtoepub -o out/srd.epub out/srd.xml
 
-out/srd.xml: src/*.txt src/tables/*.txt src/classes/*.txt
+out/srd.xml: src/*.txt src/tables/*.txt src/classes/*.txt Makefile
 	asciidoc -d book -a unearthed-arcana -b docbook -o out/srd.xml src/srd.txt
 
 
