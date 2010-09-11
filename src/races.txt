@@ -79,7 +79,7 @@ indexterm:[Dwarves]
 
 * +2 racial bonus on Craft checks that are related to stone or metal.
 
-* *Automatic Languages:* Common and Dwarven. Bonus Languages: Giant, Gnome, Goblin, Orc, Terran, and Undercommon.
+* *Automatic Languages:* Common and Dwarven. *Bonus Languages:* Giant, Gnome, Goblin, Orc, Terran, and Undercommon.
 
 * *Favored Class:* Fighter. A multiclass dwarf's fighter class does not count when determining whether he takes an experience point penalty for multiclassing
 
@@ -101,7 +101,7 @@ indexterm:[Elves]
 
 * +2 racial bonus on Listen, Search, and Spot checks. An elf who merely passes within 5 feet of a secret or concealed door is entitled to a Search check to notice it as if she were actively looking for it.
 
-* *Automatic Languages:* Common and Elven. Bonus Languages: Draconic, Gnoll, Gnome, Goblin, Orc, and Sylvan.
+* *Automatic Languages:* Common and Elven. *Bonus Languages:* Draconic, Gnoll, Gnome, Goblin, Orc, and Sylvan.
 
 * *Favored Class:* Wizard. A multiclass elf 's wizard class does not count when determining whether she takes an experience point penalty for multiclassing.
 
@@ -131,7 +131,7 @@ indexterm:[Gnomes]
 
 * +2 racial bonus on Craft (alchemy) checks.
 
-* Automatic Languages: Common and Gnome. Bonus Languages: Draconic, Dwarven, Elven, Giant, Goblin, and Orc. In addition, a gnome can speak with a burrowing mammal (a badger, fox, rabbit, or the like, see below). This ability is innate to gnomes. See the speak with animals spell description.
+* Automatic Languages: Common and Gnome. *Bonus Languages:* Draconic, Dwarven, Elven, Giant, Goblin, and Orc. In addition, a gnome can speak with a burrowing mammal (a badger, fox, rabbit, or the like, see below). This ability is innate to gnomes. See the speak with animals spell description.
 
 * Spell-Like Abilities: 1/day—speak with animals (burrowing mammal only, duration 1 minute). A gnome with a Charisma score of at least 10 also has the following spell-like abilities: 1/day—dancing lights, ghost sound, prestidigitation. Caster level 1st; save DC 10 + gnome's Cha modifier + spell level.
 
@@ -155,7 +155,7 @@ indexterm:[Half-Elves]
 
 * Elven Blood: For all effects related to race, a half-elf is considered an elf.
 
-* Automatic Languages: Common and Elven. Bonus Languages: Any (other than secret languages, such as Druidic).
+* Automatic Languages: Common and Elven. *Bonus Languages:* Any (other than secret languages, such as Druidic).
 
 * Favored Class: Any. When determining whether a multiclass half-elf takes an experience point penalty, her highest-level class does not count.
 
@@ -174,7 +174,7 @@ A half-orc's starting Intelligence score is always at least 3. If this adjustmen
 
 * Orc Blood: For all effects related to race, a half-orc is considered an orc.
 
-* Automatic Languages: Common and Orc. Bonus Languages: Draconic, Giant, Gnoll, Goblin, and Abyssal.
+* Automatic Languages: Common and Orc. *Bonus Languages:* Draconic, Giant, Gnoll, Goblin, and Abyssal.
 
 * Favored Class: Barbarian. A multiclass half-orc's barbarian class does not count when determining whether he takes an experience point penalty.
 
@@ -199,6 +199,6 @@ indexterm:[Halflings]
 
 * +2 racial bonus on Listen checks.
 
-* Automatic Languages: Common and Halfling. Bonus Languages: Dwarven, Elven, Gnome, Goblin, and Orc.
+* Automatic Languages: Common and Halfling. *Bonus Languages:* Dwarven, Elven, Gnome, Goblin, and Orc.
 
 * Favored Class: Rogue. A multiclass halfling's rogue class does not count when determining whether she takes an experience point penalty for multiclassing.
