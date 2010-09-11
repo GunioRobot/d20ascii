@@ -1,8 +1,8 @@
 all: clearmess srd-all srd-ua-all
 
-srd-all: srd-epub srd-html srd-pdf
+srd-all: srd-epub srd-html srd-pdf srd-html-nochunks
 
-srd-ua-all: srd-ua-epub srd-ua-html srd-ua-pdf
+srd-ua-all: srd-ua-epub srd-ua-html srd-ua-pdf srd-ua-html-nochunks
 
 clearmess:
 	rm -rf *~ */*~ */*/*~ */*/*/*~
@@ -13,6 +13,16 @@ gitsave: clearmess
 	git commit -a
 
 srd-html: out/srd/index.html
+
+srd-html-nochunks: out/srd.html
+
+out/srd.html: out/srd.xml
+	xmlto -o out html-nochunks out/srd.xml
+
+srd-ua-html-nochunks: out/srd-ua.html
+
+out/srd-ua.html: out/srd-ua.xml
+	xmlto -o out html-nochunks out/srd-ua.xml
 
 out/srd/index.html: out/srd.xml src/mychunk.xsl
 	xmlto -o out/srd xhtml out/srd.xml -m src/mychunk.xsl
