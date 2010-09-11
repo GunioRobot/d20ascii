@@ -1,5 +1,5 @@
 .The Druid
-[options="header",cols="2,3,2,2,2,6,1,1,1,1,1,1,1,1,1,1"]
+[options="header",cols="2,4,2,2,2,6,1,1,1,1,1,1,1,1,1,1"]
 |==================
 | Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special | 0 | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th
 | 1st | +0 | +2 | +0 | +2 | Animal companion, nature sense, wild empathy | 3 | 1 | — | — | — | — | — | — | — | —
