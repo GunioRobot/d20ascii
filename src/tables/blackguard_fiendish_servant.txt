@@ -1,0 +1,14 @@
+.The Blackguard's Fiendish Servant
+[options="header",cols="2,1,1,1,1,6"]
+|=====
+| Character Level | Bonus HD | Natural Armor Adj. | Str Adj. | Int | Special
+| 12th or lower | +2 | +1 | +1 | 6 | Empathic link, improved evasion, share saving throws, share spells
+| 13th-15th | +4 | +3 | +2 | 7 | Speak with blackguard
+| 16th-18th | +6 | +5 | +3 | 8 | Blood bond
+| 19th-20th | +8 | +7 | +4 | 9 | Spell resistance
+6+| Character Level: The character level of the blackguard (his blackguard level plus his original class level).
+6+| Bonus HD: Extra eight-sided (d8) Hit Dice, each of which gains a Constitution modifier, as normal. Extra Hit Dice improve the servant’s base attack and base save bonuses, as normal.
+6+| Natural Armor Adj.: This is an improvement to the servant’s existing natural armor bonus.
+6+| Str Adj.: Add this figure to the servant’s Strength score.
+6+| Int: The servant’s Intelligence score. (A fiendish servant is smarter than normal animals of its kind.)
+|=====

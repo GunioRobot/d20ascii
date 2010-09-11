@@ -15,7 +15,21 @@ include::races.txt[]
 
 include::classes.txt[]
 
+include::skills.txt[]
+
+include::feats.txt[]
+
 include::description.txt[]
+
+include::equipment.txt[]
+
+include::combat.txt[]
+
+include::adventuring.txt[]
+
+include::magic.txt[]
+
+include::spells.txt[]
 
 include::legal.txt[]
 
