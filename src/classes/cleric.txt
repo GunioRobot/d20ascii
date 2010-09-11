@@ -17,7 +17,8 @@ Class Skills
 Concentration (Con), Craft (Int), Diplomacy (Cha), Heal (Wis), Knowledge
 (arcana) (Int), Knowledge (history) (Int), Knowledge (religion) (Int),
 Knowledge (the planes) (Int), Profession (Wis), and Spellcraft (Int). 
-Domains and Class Skills: A cleric who chooses the Animal or Plant domain
+
+*Domains and Class Skills:* A cleric who chooses the Animal or Plant domain
 adds Knowledge (nature) (Int) to the cleric class skills listed above. A
 cleric who chooses the Knowledge domain adds all Knowledge (Int) skills to
 the list. A cleric who chooses the Travel domain adds Survival (Wis) to the
