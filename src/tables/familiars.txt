@@ -1,0 +1,17 @@
+.Familiars
+[options="header",cols="1,5"]
+|=====
+| Familiar | Special
+| Bat | Master gains a +3 bonus on Listen checks
+| Cat | Master gains a +3 bonus on Move Silently checks
+| Hawk | Master gains a +3 bonus on Spot checks in bright light
+| Lizard | Master gains a +3 bonus on Climb checks
+| Owl | Master gains a +3 bonus on Spot checks in shadows
+| Rat | Master gains a +2 bonus on Fortitude saves
+| Raven^1^ | Master gains a +3 bonus on Appraise checks
+| Snake^2^ | Master gains a +3 bonus on Bluff checks
+| Toad | Master gains +3 hit points
+| Weasel | Master gains a +2 bonus on Reflex saves
+2+| 1. A raven familiar can speak one language of its master’s choice as a supernatural ability.
+2+| 2. Tiny viper.
+|=====

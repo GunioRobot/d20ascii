@@ -7,72 +7,52 @@ A familiar also grants special abilities to its master (a sorcerer or wizard), a
 
 Levels of different classes that are entitled to familiars stack for the purpose of determining any familiar abilities that depend on the master’s level.
 
+include::../tables/familiars.txt[]
 
-Familiar Basics: Use the basic statistics for a creature of the familiar’s kind, but make the following
-changes:
-Hit Dice: For the purpose of effects related to number of Hit Dice, use the master’s character level or the familiar’s normal HD total, whichever is higher.
-Hit Points: The familiar has one-half the master’s total hit points (not including temporary hit points), rounded down, regardless of its actual Hit Dice.
-Attacks: Use the master’s base attack bonus, as calculated from all his classes. Use the familiar’s Dexterity or Strength modifier, whichever is greater, to get the familiar’s melee attack bonus with natural weapons.
+Familiar Basics
+^^^^^^^^^^^^^^^
+
+Use the basic statistics for a creature of the familiar’s kind, but make the following changes:
+
+*Hit Dice:* For the purpose of effects related to number of Hit Dice, use the master’s character level or the familiar’s normal HD total, whichever is higher.
+
+*Hit Points:* The familiar has one-half the master’s total hit points (not including temporary hit points), rounded down, regardless of its actual Hit Dice.
+
+*Attacks:* Use the master’s base attack bonus, as calculated from all his classes. Use the familiar’s Dexterity or Strength modifier, whichever is greater, to get the familiar’s melee attack bonus with natural weapons.
+
 Damage equals that of a normal creature of the familiar’s kind.
-Saving Throws: For each saving throw, use either the familiar’s base save bonus (Fortitude +2, Reflex +2, Will +0) or the master’s (as calculated from all his classes), whichever is better. The familiar uses its own ability modifiers to saves, and it doesn’t share any of the other bonuses that the master might have on saves.
-Skills: For each skill in which either the master or the familiar has ranks, use either the normal skill ranks for an animal of that type or the master’s skill ranks, whichever are better. In either case, the familiar uses its own ability modifiers. Regardless of a familiar’s total skill modifiers, some skills may remain beyond the familiar’s ability to use.
-Familiar Ability Descriptions: All familiars have special abilities (or impart abilities to their masters) depending on the master’s combined level in classes that grant familiars, as shown on the table below. The abilities given on the table are cumulative. 
-Natural Armor Adj.: The number noted here is an improvement to the familiar’s existing natural armor bonus.
-Int: The familiar’s Intelligence score.
-Alertness (Ex): While a familiar is within arm’s reach, the master gains the Alertness feat.
-Improved Evasion (Ex): When subjected to an attack that normally allows a Reflex saving throw for half damage, a familiar takes no damage if it makes a successful saving throw and half damage even if the saving throw fails.
-Share Spells: At the master’s option, he may have any spell (but not any spell-like ability) he casts on himself also affect his familiar. The familiar must be within 5 feet at the time of casting to receive the benefit.
-If the spell or effect has a duration other than instantaneous, it stops affecting the familiar if it moves farther than 5 feet away and will not affect the familiar again even if it returns to the master before the duration expires. Additionally, the master may cast a spell with a target of “You” on his familiar (as a touch range spell) instead of on himself.
-A master and his familiar can share spells even if the spells normally do not affect creatures of the familiar’s type (magical beast).
-Empathic Link (Su): The master has an empathic link with his familiar out to a distance of up to 1 mile. The master cannot see through the familiar’s eyes, but they can communicate empathically. Because of the limited nature of the link, only general emotional content can be communicated.
-Because of this empathic link, the master has the same connection to an item or place that his familiar does.
-Deliver Touch Spells (Su): If the master is 3rd level or higher, a familiar can deliver touch spells for him. If the master and the familiar are in contact at the time the master casts a touch spell, he can designate his familiar as the “toucher.” The familiar can then deliver the touch spell just as the master could. As usual, if the master casts another spell before the touch is delivered, the touch spell dissipates.
-Speak with Master (Ex): If the master is 5th level or higher, a familiar and the master can communicate verbally as if they were using a common language. Other creatures do not understand the communication without magical help.
-Speak with Animals of Its Kind (Ex): If the master is 7th level or higher, a familiar can communicate with animals of approximately the same kind as itself (including dire varieties): bats with bats, rats with rodents, cats with felines, hawks and owls and ravens with birds, lizards and snakes with reptiles, toads with amphibians, weasels with similar creatures (weasels, minks, polecats, ermines, skunks, wolverines, and badgers). Such communication is limited by the intelligence of the conversing creatures.
-Spell Resistance (Ex): If the master is 11th level or higher, a familiar gains spell resistance equal to the master’s level + 5. To affect the familiar with a spell, another spellcaster must get a result on a caster level check (1d20 + caster level) that equals or exceeds the familiar’s spell resistance.
-Scry on Familiar (Sp): If the master is 13th level or higher, he may scry on his familiar (as if casting the scrying spell) once per day.
 
-Master Class Level 
-Natural Armor Adj. 
-Int 
-Special
-1st–2nd 
-+1 
-6 
-Alertness, improved evasion, share spells, empathic link
-3rd–4th 
-+2 
-7 
-Deliver touch spells
-5th–6th 
-+3 
-8 
-Speak with master
-7th–8th 
-+4 
-9 
-Speak with animals of its kind
-9th–10th 
-+5 
-10 
-—
-11th–12th 
-+6 
-11 
-Spell resistance
-13th–14th 
-+7 
-12 
-Scry on familiar
-15th–16th 
-+8 
-13 
-—
-17th–18th 
-+9 
-14 
-—
-19th–20th 
-+10 
-15 
-—
+*Saving Throws:* For each saving throw, use either the familiar’s base save bonus (Fortitude +2, Reflex +2, Will +0) or the master’s (as calculated from all his classes), whichever is better. The familiar uses its own ability modifiers to saves, and it doesn’t share any of the other bonuses that the master might have on saves.
+
+*Skills:* For each skill in which either the master or the familiar has ranks, use either the normal skill ranks for an animal of that type or the master’s skill ranks, whichever are better. In either case, the familiar uses its own ability modifiers. Regardless of a familiar’s total skill modifiers, some skills may remain beyond the familiar’s ability to use.
+
+*Familiar Ability Descriptions:* All familiars have special abilities (or impart abilities to their masters) depending on the master’s combined level in classes that grant familiars, as shown on the table below. The abilities given on the table are cumulative. 
+
+*Natural Armor Adj.:* The number noted here is an improvement to the familiar’s existing natural armor bonus.
+
+*Int:* The familiar’s Intelligence score.
+
+*Alertness (Ex):* While a familiar is within arm’s reach, the master gains the Alertness feat.
+
+*Improved Evasion (Ex):* When subjected to an attack that normally allows a Reflex saving throw for half damage, a familiar takes no damage if it makes a successful saving throw and half damage even if the saving throw fails.
+
+*Share Spells:* At the master’s option, he may have any spell (but not any spell-like ability) he casts on himself also affect his familiar. The familiar must be within 5 feet at the time of casting to receive the benefit.
+
+If the spell or effect has a duration other than instantaneous, it stops affecting the familiar if it moves farther than 5 feet away and will not affect the familiar again even if it returns to the master before the duration expires. Additionally, the master may cast a spell with a target of “You” on his familiar (as a touch range spell) instead of on himself.
+
+A master and his familiar can share spells even if the spells normally do not affect creatures of the familiar’s type (magical beast).
+
+*Empathic Link (Su):* The master has an empathic link with his familiar out to a distance of up to 1 mile. The master cannot see through the familiar’s eyes, but they can communicate empathically. Because of the limited nature of the link, only general emotional content can be communicated.
+
+Because of this empathic link, the master has the same connection to an item or place that his familiar does.
+
+*Deliver Touch Spells (Su):* If the master is 3rd level or higher, a familiar can deliver touch spells for him. If the master and the familiar are in contact at the time the master casts a touch spell, he can designate his familiar as the “toucher.” The familiar can then deliver the touch spell just as the master could. As usual, if the master casts another spell before the touch is delivered, the touch spell dissipates.
+
+*Speak with Master (Ex):* If the master is 5th level or higher, a familiar and the master can communicate verbally as if they were using a common language. Other creatures do not understand the communication without magical help.
+
+*Speak with Animals of Its Kind (Ex):* If the master is 7th level or higher, a familiar can communicate with animals of approximately the same kind as itself (including dire varieties): bats with bats, rats with rodents, cats with felines, hawks and owls and ravens with birds, lizards and snakes with reptiles, toads with amphibians, weasels with similar creatures (weasels, minks, polecats, ermines, skunks, wolverines, and badgers). Such communication is limited by the intelligence of the conversing creatures.
+
+*Spell Resistance (Ex):* If the master is 11th level or higher, a familiar gains spell resistance equal to the master’s level + 5. To affect the familiar with a spell, another spellcaster must get a result on a caster level check (1d20 + caster level) that equals or exceeds the familiar’s spell resistance.
+
+*Scry on Familiar (Sp):* If the master is 13th level or higher, he may scry on his familiar (as if casting the scrying spell) once per day.
+

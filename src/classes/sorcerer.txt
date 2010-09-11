@@ -49,4 +49,6 @@ If the familiar dies or is dismissed by the sorcerer, the sorcerer must attempt 
 
 A character with more than one class that grants a familiar may have only one familiar at a time.
 
+include::arcane_spells_and_armor.txt[]
+
 include::familiars.txt[]
