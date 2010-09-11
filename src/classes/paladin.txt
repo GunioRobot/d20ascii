@@ -11,7 +11,7 @@ The Paladin Base Class
 Class Skills
 ^^^^^^^^^^^^
 
-*The paladin’s class skills (and the key ability for each skill)* are Concentration (Con), Craft (Int), Diplomacy (Cha), Handle Animal (Cha), Heal (Wis), Knowledge (nobility and royalty) (Int), Knowledge (religion) (Int), Profession (Wis), Ride (Dex), and Sense Motive (Wis).
+*The paladin’s class skills (and the key ability for each skill) are:* Concentration (Con), Craft (Int), Diplomacy (Cha), Handle Animal (Cha), Heal (Wis), Knowledge (nobility and royalty) (Int), Knowledge (religion) (Int), Profession (Wis), Ride (Dex), and Sense Motive (Wis).
 
 *Skill Points at 1st Level:* (2 + Int modifier) x4.
 
@@ -24,31 +24,31 @@ Class Features
 
 All of the following are class features of the paladin.
 
-Weapon and Armor Proficiency: Paladins are proficient with all simple and martial weapons, with all types of armor (heavy, medium, and light), and with shields (except tower shields).
+*Weapon and Armor Proficiency:* Paladins are proficient with all simple and martial weapons, with all types of armor (heavy, medium, and light), and with shields (except tower shields).
 
-Aura of Good (Ex): The power of a paladin’s aura of good (see the detect good spell) is equal to her paladin level.
+*Aura of Good (Ex):* The power of a paladin’s aura of good (see the detect good spell) is equal to her paladin level.
 
-Detect Evil (Sp): At will, a paladin can use detect evil, as the spell.
+*Detect Evil (Sp):* At will, a paladin can use detect evil, as the spell.
 
-Smite Evil (Su): Once per day, a paladin may attempt to smite evil with one normal melee attack. She adds her Charisma bonus (if any) to her attack roll and deals 1 extra point of damage per paladin level. If the paladin accidentally smites a creature that is not evil, the smite has no effect, but the ability is still used up for that day.
+*Smite Evil (Su):* Once per day, a paladin may attempt to smite evil with one normal melee attack. She adds her Charisma bonus (if any) to her attack roll and deals 1 extra point of damage per paladin level. If the paladin accidentally smites a creature that is not evil, the smite has no effect, but the ability is still used up for that day.
 
 At 5th level, and at every five levels thereafter, the paladin may smite evil one additional time per day, as indicated on Table: The Paladin, to a maximum of five times per day at 20th level.
 
-Divine Grace (Su): At 2nd level, a paladin gains a bonus equal to her Charisma bonus (if any) on all saving throws.
+*Divine Grace (Su):* At 2nd level, a paladin gains a bonus equal to her Charisma bonus (if any) on all saving throws.
 
-Lay on Hands (Su): Beginning at 2nd level, a paladin with a Charisma score of 12 or higher can heal wounds (her own or those of others) by touch. Each day she can heal a total number of hit points of damage equal to her paladin level x her Charisma bonus. A paladin may choose to divide her healing among multiple recipients, and she doesn’t have to use it all at once. Using lay on hands is a standard action.
+*Lay on Hands (Su):* Beginning at 2nd level, a paladin with a Charisma score of 12 or higher can heal wounds (her own or those of others) by touch. Each day she can heal a total number of hit points of damage equal to her paladin level x her Charisma bonus. A paladin may choose to divide her healing among multiple recipients, and she doesn’t have to use it all at once. Using lay on hands is a standard action.
 
 Alternatively, a paladin can use any or all of this healing power to deal damage to undead creatures. Using lay on hands in this way requires a successful melee touch attack and doesn’t provoke an attack of opportunity. The paladin decides how many of her daily allotment of points to use as damage after successfully touching an undead creature.
 
-Aura of Courage (Su): Beginning at 3rd level, a paladin is immune to fear (magical or otherwise). Each ally within 10 feet of her gains a +4 morale bonus on saving throws against fear effects.
+*Aura of Courage (Su):* Beginning at 3rd level, a paladin is immune to fear (magical or otherwise). Each ally within 10 feet of her gains a +4 morale bonus on saving throws against fear effects.
 
 This ability functions while the paladin is conscious, but not if she is unconscious or dead.
 
-Divine Health (Ex): At 3rd level, a paladin gains immunity to all diseases, including supernatural and magical diseases.
+*Divine Health (Ex):* At 3rd level, a paladin gains immunity to all diseases, including supernatural and magical diseases.
 
-Turn Undead (Su):When a paladin reaches 4th level, she gains the supernatural ability to turn undead. She may use this ability a number of times per day equal to 3 + her Charisma modifier. She turns undead as a cleric of three levels lower would.
+*Turn Undead (Su):* When a paladin reaches 4th level, she gains the supernatural ability to turn undead. She may use this ability a number of times per day equal to 3 + her Charisma modifier. She turns undead as a cleric of three levels lower would.
 
-Spells: Beginning at 4th level, a paladin gains the ability to cast a small number of divine spells, which are drawn from the paladin spell list. A paladin must choose and prepare her spells in advance.
+*Spells:* Beginning at 4th level, a paladin gains the ability to cast a small number of divine spells, which are drawn from the paladin spell list. A paladin must choose and prepare her spells in advance.
 
 To prepare or cast a spell, a paladin must have a Wisdom score equal to at least 10 + the spell level. The Difficulty Class for a saving throw against a paladin’s spell is 10 + the spell level + the paladin’s Wisdom modifier.
 
@@ -58,7 +58,7 @@ A paladin prepares and casts spells the way a cleric does, though she cannot los
 
 Through 3rd level, a paladin has no caster level. At 4th level and higher, her caster level is one-half her paladin level.
 
-Special Mount (Sp): Upon reaching 5th level, a paladin gains the service of an unusually intelligent, strong, and loyal steed to serve her in her crusade against evil (see below). This mount is usually a heavy warhorse (for a Medium paladin) or a warpony (for a Small paladin).
+*Special Mount (Sp):* Upon reaching 5th level, a paladin gains the service of an unusually intelligent, strong, and loyal steed to serve her in her crusade against evil (see below). This mount is usually a heavy warhorse (for a Medium paladin) or a warpony (for a Small paladin).
 
 Once per day, as a full-round action, a paladin may magically call her mount from the celestial realms in which it resides. This ability is the equivalent of a spell of a level equal to one-third the paladin’s level. The mount immediately appears adjacent to the paladin and remains for 2 hours per paladin level; it may be dismissed at any time as a free action. The mount is the same creature each time it is summoned, though the paladin may release a particular mount from service.
 
@@ -66,13 +66,13 @@ Each time the mount is called, it appears in full health, regardless of any dama
 
 Should the paladin’s mount die, it immediately disappears, leaving behind any equipment it was carrying. The paladin may not summon another mount for thirty days or until she gains a paladin level, whichever comes first, even if the mount is somehow returned from the dead. During this thirty-day period, the paladin takes a –1 penalty on attack and weapon damage rolls.
 
-Remove Disease (Sp): At 6th level, a paladin can produce a remove disease effect, as the spell, once per week. She can use this ability one additional time per week for every three levels after 6th (twice per week at 9th, three times at 12th, and so forth).
+*Remove Disease (Sp):* At 6th level, a paladin can produce a remove disease effect, as the spell, once per week. She can use this ability one additional time per week for every three levels after 6th (twice per week at 9th, three times at 12th, and so forth).
 
-Code of Conduct: A paladin must be of lawful good alignment and loses all class abilities if she ever willingly commits an evil act.
+*Code of Conduct:* A paladin must be of lawful good alignment and loses all class abilities if she ever willingly commits an evil act.
 
 Additionally, a paladin’s code requires that she respect legitimate authority, act with honor (not lying, not cheating, not using poison, and so forth), help those in need (provided they do not use the help for evil or chaotic ends), and punish those who harm or threaten innocents.
 
-Associates: While she may adventure with characters of any good or neutral alignment, a paladin will never knowingly associate with evil characters, nor will she continue an association with someone who consistently offends her moral code. A paladin may accept only henchmen, followers, or cohorts who are lawful good.
+*Associates:* While she may adventure with characters of any good or neutral alignment, a paladin will never knowingly associate with evil characters, nor will she continue an association with someone who consistently offends her moral code. A paladin may accept only henchmen, followers, or cohorts who are lawful good.
 
 Ex-Paladins
 ^^^^^^^^^^^

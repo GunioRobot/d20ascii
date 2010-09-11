@@ -1,5 +1,5 @@
 .The Paladin's Mount
-[options="header"]
+[options="header",cols="1,1,1,1,1,6"]
 |=====
 | Paladin Level | Bonus HD | Natural Armor Adj. | Str Adj. | Int | Special
 | 5th-7th | +2 | +4 | +1 | 6 | Empathic link, improved evasion, share spells, share saving throws

@@ -1,0 +1,21 @@
+.Ranger Favored Enemies
+[options="header"]
+|====
+| Type (Subtype) | Type (Subtype)
+| Aberration | Humanoid (reptilian)
+| Animal | Magical beast
+| Construct | Monstrous Humanoid
+| Dragon | Ooze
+| Elemental | Outsider (air)
+| Fey | Outsider (chaotic)
+| Giant | Outsider (earth)
+| Humanoid (aquatic) | Outsider (evil)
+| Humanoid (dwarf) | Outsider (fire)
+| Humanoid (elf) | Outsider (good)
+| Humanoid (goblinoid) | Outsider (lawful)
+| Humanoid (gnoll) | Outsider (native)
+| Humanoid (gnome) | Outsider (water)
+| Humanoid (halfling) | Plant
+| Humanoid (human) | Undead
+| Humanoid (orc) | Vermin
+|====
