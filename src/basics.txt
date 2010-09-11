@@ -1,4 +1,7 @@
 The Basics
+==========
+
+The Basics
 ----------
 *The Core Mechanic:* Whenever you attempt an action that has some chance of failure, you roll a twenty-sided die (d20). To determine if your character succeeds at a task you do this:
 
