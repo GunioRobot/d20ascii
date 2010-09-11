@@ -28,7 +28,7 @@ below, for more information.
 
 *Skill Points at Each Additional Level:* 2 + Int modifier.
 
-include::../tables/cleric.txt
+include::../tables/cleric.txt[]
 
 Class Features
 ^^^^^^^^^^^^^^
