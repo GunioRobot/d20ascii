@@ -108,13 +108,13 @@ indexterm:[Age]
 You can choose or randomly generate your character’s age. If you choose it, it must be at least the minimum age for the character’s race and class (see Table: Random Starting Ages). Your character’s minimum starting age is the adulthood age of his or her race plus the number of dice indicated in the entry corresponding to the character’s race and class on Table: Random Starting Ages.
 Alternatively, refer to Table: Random Starting Ages and roll dice to determine how old your character is.
 
-include::tables/randomstartingages.txt[]
+include::tables/randomstartingages.asciidoc[]
 
 With age, a character’s physical ability scores decrease and his or her mental ability scores increase (see Table: Aging Effects). The effects of each aging step are cumulative. However, none of a character’s ability scores can be reduced below 1 in this way.
 When a character reaches venerable age, secretly roll his or her maximum age, which is the number from the Venerable column on Table: Aging Effects plus the result of the dice roll indicated on the Maximum Age column on that table, and records the result, which the player does not know. A character who reaches his or her maximum age dies of old age at some time during the following year.
 The maximum ages are for player characters. Most people in the world at large die from pestilence, accidents, infections, or violence before getting to venerable age.
 
-include::tables/agingeffects.txt[]
+include::tables/agingeffects.asciidoc[]
 
 Height and Weight
 ^^^^^^^^^^^^^^^^^
@@ -124,4 +124,4 @@ indexterm:[Weight]
 
 The dice roll given in the Height Modifier column determines the character’s extra height beyond the base height. That same number multiplied by the dice roll or quantity given in the Weight Modifier column determines the character’s extra weight beyond the base weight.
 
-include::tables/randomheightandweight.txt[]
+include::tables/randomheightandweight.asciidoc[]

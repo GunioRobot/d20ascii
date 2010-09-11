@@ -20,7 +20,7 @@ Spellcraft (Int), Spot (Wis), Survival (Wis), and Swim (Str).
 
 *Skill Points at Each Additional Level:* 4 + Int modifier.
 
-include::../tables/druid.txt[]
+include::../tables/druid.asciidoc[]
 
 Class Features
 ^^^^^^^^^^^^^^
@@ -197,5 +197,5 @@ abilities (including her animal companion, but not including weapon, armor,
 and shield proficiencies). She cannot thereafter gain levels as a druid
 until she atones (see the atonement spell description).
 
-include::druid_animal_companion.txt[]
+include::druid_animal_companion.asciidoc[]
 

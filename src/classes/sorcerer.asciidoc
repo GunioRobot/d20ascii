@@ -17,9 +17,9 @@ Class Skills
 
 *Skill Points at Each Additional Level:* 2 + Int modifier.
 
-include::../tables/sorcerer.txt[]
+include::../tables/sorcerer.asciidoc[]
 
-include::../tables/sorcerer_spells_known.txt[]
+include::../tables/sorcerer_spells_known.asciidoc[]
 
 
 Class Features
@@ -49,6 +49,6 @@ If the familiar dies or is dismissed by the sorcerer, the sorcerer must attempt 
 
 A character with more than one class that grants a familiar may have only one familiar at a time.
 
-include::arcane_spells_and_armor.txt[]
+include::arcane_spells_and_armor.asciidoc[]
 
-include::familiars.txt[]
+include::familiars.asciidoc[]

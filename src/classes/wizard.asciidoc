@@ -17,7 +17,7 @@ Class Skills
 
 *Skill Points at Each Additional Level:* 2 + Int modifier.
 
-include::../tables/wizard.txt[]
+include::../tables/wizard.asciidoc[]
 
 Class Features
 ^^^^^^^^^^^^^^
@@ -83,7 +83,7 @@ Spells that do not fall into any of these schools are called universal spells.
 
 *Universal:* Not a school, but a category for spells that all wizards can learn. A wizard cannot select universal as a specialty school or as a prohibited school. Only a limited number of spells fall into this category.
 
-include::arcane_spells_and_armor.txt[]
+include::arcane_spells_and_armor.asciidoc[]
 
-include::familiars.txt[]
+include::familiars.asciidoc[]
 

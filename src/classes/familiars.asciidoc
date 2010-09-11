@@ -7,7 +7,7 @@ A familiar also grants special abilities to its master (a sorcerer or wizard), a
 
 Levels of different classes that are entitled to familiars stack for the purpose of determining any familiar abilities that depend on the master’s level.
 
-include::../tables/familiars.txt[]
+include::../tables/familiars.asciidoc[]
 
 Familiar Basics
 ^^^^^^^^^^^^^^^

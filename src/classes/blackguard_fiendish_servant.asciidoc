@@ -8,7 +8,7 @@ A blackguard may have only one fiendish servant at a time.
 Should the blackguard’s servant die, he may call for another one after a year and a day. The new fiendish servant has all the accumulated abilities due a servant of the blackguard’s current level.
 
 
-include::../tables/blackguard_fiendish_servant.txt[]
+include::../tables/blackguard_fiendish_servant.asciidoc[]
 
 The abilities mentioned in the “Special” column of the accompanying table are described below.
 

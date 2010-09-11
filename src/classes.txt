@@ -1,6 +1,0 @@
-
-include::classes_base.txt[]
-
-include::classes_prestige.txt[]
-
-include::classes_npc.txt[]

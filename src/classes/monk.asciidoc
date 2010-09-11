@@ -17,7 +17,7 @@ Class Skills
 
 *Skill Points at Each Additional Level:* 4 + Int modifier.
 
-include::../tables/monk.txt[]
+include::../tables/monk.asciidoc[]
 
 Class Features
 ^^^^^^^^^^^^^^
@@ -50,7 +50,7 @@ A monk’s unarmed strike is treated both as a manufactured weapon and a natural
 
 A monk also deals more damage with her unarmed strikes than a normal person would, as shown on Table: The Monk. The unarmed damage on Table: The Monk is for Medium monks. A Small monk deals less damage than the amount given there with her unarmed attacks, while a Large monk deals more damage; see Table: Small or Large Monk Unarmed Damage.
 
-include::../tables/monk_unarmed_damage.txt[]
+include::../tables/monk_unarmed_damage.asciidoc[]
 
 *Bonus Feat:* At 1st level, a monk may select either Improved Grapple or Stunning Fist as a bonus feat. At 2nd level, she may select either Combat Reflexes or Deflect Arrows as a bonus feat. At 6th level, she may select either Improved Disarm or Improved Trip as a bonus feat. A monk need not have any of the prerequisites normally required for these feats to select them.
 

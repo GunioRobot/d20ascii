@@ -17,7 +17,7 @@ Class Skills
 
 *Skill Points at Each Additional Level:* 2 + Int modifier.
 
-include::../tables/paladin.txt[]
+include::../tables/paladin.asciidoc[]
 
 Class Features
 ^^^^^^^^^^^^^^
@@ -81,5 +81,5 @@ A paladin who ceases to be lawful good, who willfully commits an evil act, or wh
 
 Like a member of any other class, a paladin may be a multiclass character, but multiclass paladins face a special restriction. A paladin who gains a level in any class other than paladin may never again raise her paladin level, though she retains all her paladin abilities.
 
-include::paladin_mount.txt[]
+include::paladin_mount.asciidoc[]
 

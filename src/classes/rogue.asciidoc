@@ -17,7 +17,7 @@ Class Skills
 
 *Skill Points at Each Additional Level:* 8 + Int modifier.
 
-include::../tables/rogue.txt[]
+include::../tables/rogue.asciidoc[]
 
 Class Features
 ^^^^^^^^^^^^^^

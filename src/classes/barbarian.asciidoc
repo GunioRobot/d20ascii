@@ -15,7 +15,7 @@ Class Skills
 
 *Skill Points at Each Additional Level:* 4 + Int modifier.
 
-include::../tables/barbarian.txt[]
+include::../tables/barbarian.asciidoc[]
 
 Class Features
 ^^^^^^^^^^^^^^

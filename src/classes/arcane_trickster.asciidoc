@@ -26,7 +26,7 @@ The arcane trickster’s class skills (and the key ability for each skill) are A
 
 *Skill Points at Each Level:* 4 + Int modifier.
 
-include::../tables/arcane_trickster.txt[]
+include::../tables/arcane_trickster.asciidoc[]
 
 Class Features
 ^^^^^^^^^^^^^^

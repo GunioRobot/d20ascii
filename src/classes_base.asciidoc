@@ -1,0 +1,27 @@
+
+Base Classes
+============
+
+include::classes/multiclass.asciidoc[]
+
+include::classes/barbarian.asciidoc[]
+
+include::classes/bard.asciidoc[]
+
+include::classes/cleric.asciidoc[]
+
+include::classes/druid.asciidoc[]
+
+include::classes/fighter.asciidoc[]
+
+include::classes/monk.asciidoc[]
+
+include::classes/paladin.asciidoc[]
+
+include::classes/ranger.asciidoc[]
+
+include::classes/rogue.asciidoc[]
+
+include::classes/sorcerer.asciidoc[]
+
+include::classes/wizard.asciidoc[]

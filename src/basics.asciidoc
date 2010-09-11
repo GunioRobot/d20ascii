@@ -40,7 +40,7 @@ Each ability, after changes made because of race, has a modifier ranging from â€
 The modifier is the number you apply to the die roll when your character tries to do something related to
 that ability. You also use the modifier with some numbers that arenâ€™t die rolls. A positive modifier is called a bonus, and a negative modifier is called a penalty.
 
-include::tables/abilitymodifiersandbonusspells.txt[]
+include::tables/abilitymodifiersandbonusspells.asciidoc[]
 
 Abilities and Spellcasters
 ^^^^^^^^^^^^^^^^^^^^^^^^^^

@@ -1,0 +1,10 @@
+
+include::classes/adept.asciidoc[]
+
+include::classes/aristocrat.asciidoc[]
+
+include::classes/commoner.asciidoc[]
+
+include::classes/expert.asciidoc[]
+
+include::classes/warrior.asciidoc[]

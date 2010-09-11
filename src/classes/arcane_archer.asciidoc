@@ -26,7 +26,7 @@ The arcane archer’s class skills (and the key ability for each skill) are Craf
 
 *Skill Points at Each Level:* 4 + Int modifier.
 
-include::../tables/arcane_archer.txt[]
+include::../tables/arcane_archer.asciidoc[]
 
 Class Features
 ^^^^^^^^^^^^^^

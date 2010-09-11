@@ -24,7 +24,7 @@ Class Skills
 
 *Skill Points at Each Level:* 4 + Int modifier.
 
-include::../tables/assassin.txt[]
+include::../tables/assassin.asciidoc[]
 
 Class Features
 ^^^^^^^^^^^^^^
@@ -47,7 +47,7 @@ The assassin’s spell list appears below. An assassin casts spells just as a ba
 
 Upon reaching 6th level, at every even-numbered level after that (8th and 10th), an assassin can choose to learn a new spell in place of one he already knows. The new spell’s level must be the same as that of the spell being exchanged, and it must be at least two levels lower than the highest-level assassin spell the assassin can cast. An assassin may swap only a single spell at any given level, and must choose whether or not to swap the spell at the same time that he gains new spells known for that level.
 
-include::../tables/assassin_spells_known.txt[]
+include::../tables/assassin_spells_known.asciidoc[]
 
 *Save Bonus against Poison:* The assassin gains a natural saving throw bonus to all poisons gained at 2nd level that increases by +1 for every two additional levels the assassin gains.
 

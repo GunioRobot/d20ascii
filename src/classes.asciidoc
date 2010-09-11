@@ -1,0 +1,6 @@
+
+include::classes_base.asciidoc[]
+
+include::classes_prestige.asciidoc[]
+
+include::classes_npc.asciidoc[]

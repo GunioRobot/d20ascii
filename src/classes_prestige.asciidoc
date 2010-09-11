@@ -30,32 +30,32 @@ class levels held by that character.
 *Class Level:* The level of a character in a particular class. For a character
 with levels in only one class, class level and character level are the same.
 
-include::classes/arcane_archer.txt[]
+include::classes/arcane_archer.asciidoc[]
 
-include::classes/arcane_trickster.txt[]
+include::classes/arcane_trickster.asciidoc[]
 
-include::classes/archmage.txt[]
+include::classes/archmage.asciidoc[]
 
-include::classes/assassin.txt[]
+include::classes/assassin.asciidoc[]
 
-include::classes/blackguard.txt[]
+include::classes/blackguard.asciidoc[]
 
-include::classes/dragon_disciple.txt[]
+include::classes/dragon_disciple.asciidoc[]
 
-include::classes/duelist.txt[]
+include::classes/duelist.asciidoc[]
 
-include::classes/dwarven_defender.txt[]
+include::classes/dwarven_defender.asciidoc[]
 
-include::classes/eldritch_knight.txt[]
+include::classes/eldritch_knight.asciidoc[]
 
-include::classes/hierophant.txt[]
+include::classes/hierophant.asciidoc[]
 
-include::classes/horizon_walker.txt[]
+include::classes/horizon_walker.asciidoc[]
 
-include::classes/loremaster.txt[]
+include::classes/loremaster.asciidoc[]
 
-include::classes/mystic_theurge.txt[]
+include::classes/mystic_theurge.asciidoc[]
 
-include::classes/shadowdancer.txt[]
+include::classes/shadowdancer.asciidoc[]
 
-include::classes/thaumaturgist.txt[]
+include::classes/thaumaturgist.asciidoc[]

@@ -17,7 +17,7 @@ Class Skills
 
 *Skill Points at Each Additional Level:* 6 + Int modifier.
 
-include::../tables/ranger.txt[]
+include::../tables/ranger.asciidoc[]
 
 Class Features
 ^^^^^^^^^^^^^^
@@ -32,7 +32,7 @@ At 5th level and every five levels thereafter (10th, 15th, and 20th level), the 
 
 If the ranger chooses humanoids or outsiders as a favored enemy, he must also choose an associated subtype, as indicated on the table. If a specific creature falls into more than one category of favored enemy, the ranger’s bonuses do not stack; he simply uses whichever bonus is higher.
 
-include::../tables/ranger_favored_enemies.txt[]
+include::../tables/ranger_favored_enemies.asciidoc[]
 
 *Track:* A ranger gains Track as a bonus feat.
 

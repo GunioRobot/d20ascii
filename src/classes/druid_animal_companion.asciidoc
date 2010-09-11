@@ -4,7 +4,7 @@ A druid’s animal companion is different from a normal animal of its kind in
 many ways. A druid’s animal companion is superior to a normal animal of its
 kind and has special powers, as described below.
 
-include::../tables/druid_animal_companion.txt[]
+include::../tables/druid_animal_companion.asciidoc[]
 
 Animal Companion Basics
 ^^^^^^^^^^^^^^^^^^^^^^^

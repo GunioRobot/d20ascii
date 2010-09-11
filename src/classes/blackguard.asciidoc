@@ -28,7 +28,7 @@ Class Skills
 
 *Skill Points at Each Level:* 2 + Int modifier.
 
-include::../tables/blackguard.txt[]
+include::../tables/blackguard.asciidoc[]
 
 Class Features
 ^^^^^^^^^^^^^^
@@ -102,4 +102,4 @@ A fallen paladin who becomes a blackguard gains all of the following abilities t
 
 The character level of the character does not change. With the loss of paladin levels, the character no longer gains as many extra abilities for being a fallen paladin. 
 
-include::blackguard_fiendish_servant.txt[]
+include::blackguard_fiendish_servant.asciidoc[]

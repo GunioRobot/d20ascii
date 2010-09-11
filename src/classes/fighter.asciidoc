@@ -15,7 +15,7 @@ Class Skills
 
 *Skill Points at Each Additional Level:* 2 + Int modifier.
 
-include::../tables/fighter.txt[]
+include::../tables/fighter.asciidoc[]
 
 Class Features
 ^^^^^^^^^^^^^^

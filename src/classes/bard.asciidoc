@@ -16,8 +16,8 @@ Class Skills
 
 *Skill Points at Each Additional Level:* 6 + Int modifier.
 
-include::../tables/bard.txt[]
-include::../tables/bard_spells_known.txt[]
+include::../tables/bard.asciidoc[]
+include::../tables/bard_spells_known.asciidoc[]
 
 Class Features
 ^^^^^^^^^^^^^^
@@ -41,7 +41,7 @@ indexterm:[Class Features,Bardic Knowledge]
 
 A successful bardic knowledge check will not reveal the powers of a magic item but may give a hint as to its general function. A bard may not take 10 or take 20 on this check; this sort of knowledge is essentially random. 
 
-include::../tables/bardic_knowledge.txt[]
+include::../tables/bardic_knowledge.asciidoc[]
 
 indexterm:[Class Features,Bardic Music]
 *Bardic Music:* Once per day per bard level, a bard can use his song or poetics to produce magical effects on those around him (usually including himself, if desired). While these abilities fall under the category of bardic music and the descriptions discuss singing or playing instruments, they can all be activated by reciting poetry, chanting, singing lyrical songs, singing melodies, whistling, playing an instrument, or playing an instrument in combination with some spoken performance. Each ability requires both a minimum bard level and a minimum number of ranks in the Perform skill to qualify; if a bard does not have the required number of ranks in at least one Perform skill, he does not gain the bardic music ability until he acquires the needed ranks.
