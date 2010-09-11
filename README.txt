@@ -1,0 +1,2 @@
+Converting the System Reference Document into asciidoc, with a makefile to
+create quite a few outputs from said asciidoc.
