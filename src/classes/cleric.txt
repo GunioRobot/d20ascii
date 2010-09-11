@@ -109,7 +109,7 @@ choice). Once the player makes this choice, it cannot be reversed. This
 choice also determines whether the cleric turns or commands undead (see
 below).
 
-Chaotic, Evil, Good, and Lawful Spells: A cleric can’t cast spells of an
+*Chaotic, Evil, Good, and Lawful Spells:* A cleric can’t cast spells of an
 alignment opposed to his own or his deity’s (if he has one). Spells
 associated with particular alignments are indicated by the chaos, evil,
 good, and law descriptors in their spell descriptions.
