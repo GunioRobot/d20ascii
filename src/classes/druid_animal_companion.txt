@@ -129,7 +129,7 @@ characteristics and special abilities.
 ++++++++++++++++++++++++++++++++
 * Dire bear 
 * Elephant (animal)
-* Octopus, giant1 (animal)
+* Octopus, giant^1^ (animal)
 
 16th Level or Higher (Level –15)
 ++++++++++++++++++++++++++++++++
