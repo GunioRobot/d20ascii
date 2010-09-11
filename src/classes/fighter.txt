@@ -1,13 +1,15 @@
 Fighter
 -------
 
+The Fighter Base Class
+~~~~~~~~~~~~~~~~~~~~~~
 *Alignment:* Any.
 
 *Hit Die:* d10.
 
 Class Skills
-~~~~~~~~~~~~
-*The fighter’s class skills (and the key ability for each skill) are: Climb (Str), Craft (Int), Handle Animal (Cha), Intimidate (Cha), Jump (Str), Ride (Dex), and Swim (Str).
+^^^^^^^^^^^^
+*The fighter’s class skills (and the key ability for each skill) are:* Climb (Str), Craft (Int), Handle Animal (Cha), Intimidate (Cha), Jump (Str), Ride (Dex), and Swim (Str).
 
 *Skill Points at 1st Level:* (2 + Int modifier) x4.
 
@@ -16,7 +18,7 @@ Class Skills
 include::../tables/fighter.txt[]
 
 Class Features
-~~~~~~~~~~~~~~
+^^^^^^^^^^^^^^
 
 All of the following are class features of the fighter.
 
