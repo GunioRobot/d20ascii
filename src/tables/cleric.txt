@@ -1,5 +1,5 @@
 .The Cleric
-[options="header",cols="1,3,1,1,1,5,1,1,1,1,1,1,1,1,1,1"]
+[options="header",cols="1,3,2,2,2,4,1,1,1,1,1,1,1,1,1,1"]
 |=================
 | Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special | 0 | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th
 | 1st | +0 | +2 | +0 | +2 | Turn or rebuke undead | 3 | 1+1 | — | — | — | — | — | — | — | —
