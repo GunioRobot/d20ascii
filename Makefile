@@ -26,7 +26,7 @@ out/srd.epub: out/srd.xml
 	dbtoepub -o out/srd.epub out/srd.xml
 
 out/srd.xml: src/*.txt src/tables/*.txt src/classes/*.txt Makefile
-	asciidoc -a idprefix=srd -d book -b docbook -o out/srd.xml src/srd.txt
+	asciidoc -a idprefix=srd- -d book -b docbook -o out/srd.xml src/srd.txt
 
 srd-ua-html: out/srd-ua/index.html
 
@@ -44,7 +44,7 @@ out/srd-ua.epub: out/srd-ua.xml
 	dbtoepub -o out/srd-ua.epub out/srd-ua.xml
 
 out/srd-ua.xml: src/*.txt src/tables/*.txt src/classes/*.txt Makefile
-	asciidoc -d book -a idprefix=srd-ua -a unearthed-arcana -b docbook -o out/srd-ua.xml src/srd.txt
+	asciidoc -d book -a idprefix=srd-ua- -a unearthed-arcana -b docbook -o out/srd-ua.xml src/srd.txt
 
 
 clean:
