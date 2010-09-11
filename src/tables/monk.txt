@@ -1,5 +1,5 @@
 .The Monk
-[options="header"]
+[options="header",cols="2,5,2,2,2,8,9,4,3,5"]
 |======
 | Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special | Flurry of Blows | Unarmed Damage ^1^ | AC Bonus | Unarmored Speed Bonus
 | 1st | +0 | +2 | +2 | +2 | Bonus feat, flurry of blows, unarmed strike | -2/-2 | 1d6 | +0 | +0 ft.
