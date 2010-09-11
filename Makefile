@@ -1,4 +1,4 @@
-all: gitsave srd-all
+all: gitsave srd-all srd-ua-all
 
 srd-all: srd-epub srd-html srd-pdf
 
