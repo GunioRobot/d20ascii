@@ -1,14 +1,16 @@
-all: gitsave srd-all srd-ua-all
+all: clearmess srd-all srd-ua-all
 
 srd-all: srd-epub srd-html srd-pdf
 
 srd-ua-all: srd-ua-epub srd-ua-html srd-ua-pdf
 
-gitsave:
+clearmess:
 	rm -rf *~ */*~ */*/*~ */*/*/*~
+
+gitsave: clearmess
 	git add src
 	git add -u
-	git commit -a -m"Incremental save" --allow-empty
+	git commit -a
 
 srd-html: out/srd/index.html
 
