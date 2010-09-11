@@ -8,6 +8,7 @@ The Cleric Base Class
 is, it may be one step away on either the lawful–chaotic axis or the
 good–evil axis, but not both). A cleric may not be neutral unless his
 deity’s alignment is also neutral.
+
 *Hit Die:* d8.
 
 Class Skills
