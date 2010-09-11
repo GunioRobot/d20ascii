@@ -136,7 +136,7 @@ outsiders, respectively). These choices are in addition to the bonus
 languages available to the character because of his race.
 
 Ex-Clerics
-~~~~~~~~~~
+^^^^^^^^^^
 A cleric who grossly violates the code of conduct required by his god loses
 all spells and class features, except for armor and shield proficiencies and
 proficiency with simple weapons. He cannot thereafter gain levels as a
