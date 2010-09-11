@@ -44,7 +44,7 @@ out/srd-ua.epub: out/srd-ua.xml
 	dbtoepub -o out/srd-ua.epub out/srd-ua.xml
 
 out/srd-ua.xml: src/*.txt src/tables/*.txt src/classes/*.txt Makefile
-	asciidoc -d book -a unearthed-arcana -b docbook -o out/srd-ua.xml src/srd-ua.txt
+	asciidoc -d book -a unearthed-arcana -b docbook -o out/srd-ua.xml src/srd.txt
 
 
 clean:
