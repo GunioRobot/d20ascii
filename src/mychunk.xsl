@@ -3,6 +3,7 @@
                 version="1.0"
                 exclude-result-prefixes="exsl">
 
+<xsl:param name="use.id.as.filename" select="1"/>
 <xsl:param name="chunk.section.depth" select="1"></xsl:param>
 
 </xsl:stylesheet>
