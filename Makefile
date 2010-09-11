@@ -25,7 +25,7 @@ srd-epub: out/srd.epub
 out/srd.epub: out/srd.xml
 	dbtoepub -o out/srd.epub out/srd.xml
 
-out/srd.xml: src/*.txt src/tables/*.txt src/classes/*.txt Makefile
+out/srd.xml: src/*.asciidoc src/tables/*.asciidoc src/classes/*.asciidoc Makefile
 	asciidoc -a idprefix= -d book -b docbook -o out/srd.xml src/srd.asciidoc
 
 srd-ua-html: out/srd-ua/index.html
