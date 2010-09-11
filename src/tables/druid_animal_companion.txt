@@ -1,8 +1,7 @@
 .The Druid's Animal Companion
 [options="header"]
 |==============
-| Class Level | Bonus HD | Natural Armor Adj. | Str/Dex Adj.
-| Bonus Tricks | Special
+| Class Level | Bonus HD | Natural Armor Adj. | Str/Dex Adj. | Bonus Tricks | Special
 | 1st-2nd | +0 | +0 | +0 | 1 | Link, share spells
 | 3rd-5th | +2 | +2 | +1 | 2 | Evasion
 | 6th-8th | +4 | +4 | +2 | 3 | Devotion
