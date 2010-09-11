@@ -1,8 +1,8 @@
 Bard
 ----
 
-Bard Base Class
-~~~~~~~~~~~~~~~
+The Bard Base Class
+~~~~~~~~~~~~~~~~~~~
 
 *Alignment:* Any nonlawful.
 

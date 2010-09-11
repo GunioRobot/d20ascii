@@ -1,8 +1,8 @@
 Barbarian
 ---------
 
-Barbarian Base Class
-~~~~~~~~~~~~~~~~~~~~
+The Barbarian Base Class
+~~~~~~~~~~~~~~~~~~~~~~~~
 *Alignment:* Any nonlawful.
 
 *Hit Die:* d12.
