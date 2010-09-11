@@ -156,7 +156,7 @@ A barbarian dedicated to the ape totem does not gain the standard fast
 movement, uncanny dodge, trap sense, and improved uncanny dodge barbarian
 class features, and instead gains the following abilities.
 
-At 1st level, an ape-totem barbarian gains a climb speed equal to one-half
+* At 1st level, an ape-totem barbarian gains a climb speed equal to one-half
 his base land speed (round down to the nearest 5-foot interval). For
 instance, a human, elf, half-elf, or half-orc ape-totem barbarian has a
 climb speed of 15 feet, while a dwarf, gnome, or halfling ape-totem
