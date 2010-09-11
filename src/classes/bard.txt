@@ -1,12 +1,15 @@
 Bard
 ----
 
+Bard Base Class
+~~~~~~~~~~~~~~~
+
 *Alignment:* Any nonlawful.
 
 *Hit Die:* d6.
 
 Class Skills
-~~~~~~~~~~~~
+^^^^^^^^^^^^
 *The bard’s class skills (and the key ability for each skill) are:* Appraise (Int), Balance (Dex), Bluff (Cha), Climb (Str), Concentration (Con), Craft (Int), Decipher Script (Int), Diplomacy (Cha), Disguise (Cha), Escape Artist (Dex), Gather Information (Cha), Hide (Dex), Jump (Str), Knowledge (all skills, taken individually) (Int), Listen (Wis), Move Silently (Dex), Perform (Cha), Profession (Wis), Sense Motive (Wis), Sleight of Hand (Dex), Speak Language (n/a), Spellcraft (Int), Swim (Str), Tumble (Dex), and Use Magic Device (Cha).
 
 *Skill Points at 1st Level:* (6 + Int modifier) x 4.
@@ -17,7 +20,7 @@ include::../tables/bard.txt[]
 include::../tables/bard_spells_known.txt[]
 
 Class Features
-~~~~~~~~~~~~~~
+^^^^^^^^^^^^^^
 All of the following are class features of the bard.
 
 *Weapon and Armor Proficiency:* A bard is proficient with all simple weapons, plus the longsword, rapier, sap, short sword, shortbow, and whip. Bards are proficient with light armor and shields (except tower shields). A bard can cast bard spells while wearing light armor without incurring the normal arcane spell failure chance. However, like any other arcane spellcaster, a bard wearing medium or heavy armor or using a shield incurs a chance of arcane spell failure if the spell in question has a somatic component (most do). A multiclass bard still incurs the normal arcane spell failure chance for arcane spells received from other classes.
@@ -81,5 +84,5 @@ indexterm:[Bardic Music,Mass Suggestion]
 _Mass Suggestion (Sp):_ This ability functions like suggestion, above, except that a bard of 18th level or higher with 21 or more ranks in a Perform skill can make the suggestion simultaneously to any number of creatures that he has already fascinated (see above). Mass suggestion is an enchantment (compulsion), mind-affecting, language-dependent ability.
 
 Ex-Bards
-~~~~~~~~
+^^^^^^^^
 A bard who becomes lawful in alignment cannot progress in levels as a bard, though he retains all his bard abilities.
