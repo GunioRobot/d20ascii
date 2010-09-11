@@ -22,7 +22,7 @@ out/srd.epub: out/srd.xml
 	dbtoepub -o out/srd.epub out/srd.xml
 
 out/srd.xml: src/*.txt src/tables/*.txt src/classes/*.txt
-	asciidoc -d book -b docbook -o out/srd.xml src/srd.txt
+	asciidoc -d book -a unearthed-arcana -b docbook -o out/srd.xml src/srd.txt
 
 
 clean:
