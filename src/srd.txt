@@ -1,6 +1,10 @@
 System Reference Document
 =========================
 
+ifdef::full[]
+{set:unearthed-arcana}
+endif::full[]
+
 ifdef::unearthed-arcana[]
 {set:unearthed-arcana-variant-classes}
 endif::unearthed-arcana[]

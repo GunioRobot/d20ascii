@@ -1,0 +1,48 @@
+Arcane Trickster
+----------------
+
+The Arcane Trickster
+~~~~~~~~~~~~~~~~~~~~
+
+*Hit Die:* d4.
+
+Requirements
+^^^^^^^^^^^^
+
+To qualify to become an arcane trickster, a character must fulfill all of the following criteria.
+
+*Alignment:* Any nonlawful.
+
+*Skills:* Decipher Script 7 ranks, Disable Device 7 ranks, Escape Artist 7 ranks, Knowledge (arcana) 4 ranks.
+
+*Spells:* Ability to cast mage hand and at least one arcane spell of 3rd level or higher.
+
+*Special:* Sneak attack +2d6.
+
+Class Skills
+^^^^^^^^^^^^
+
+The arcane trickster’s class skills (and the key ability for each skill) are Appraise (Int), Balance (Dex), Bluff (Cha), Climb (Str), Concentration (Con), Craft (Int), Decipher Script (Int), Diplomacy (Cha), Disable Device (Int), Disguise (Cha), Escape Artist (Dex), Gather Information (Cha), Hide (Dex), Jump (Str), Knowledge (all skills taken individually) (Int), Listen (Wis), Move Silently (Dex), Open Lock (Dex), Profession (Wis), Sense Motive (Wis), Search (Int), Sleight of Hand (Dex), Speak Language (Int), Spellcraft (Int), Spot (Wis), Swim (Str), Tumble (Dex), and Use Rope (Dex).
+
+*Skill Points at Each Level:* 4 + Int modifier.
+
+include::../tables/arcane_trickster.txt[]
+
+Class Features
+^^^^^^^^^^^^^^
+
+All of the following are Class Features of the arcane trickster prestige class.
+
+*Weapon and Armor Proficiency:* Arcane tricksters gain no proficiency with any weapon or armor.
+
+*Spells per Day:* When a new arcane trickster level is gained, the character gains new spells per day as if he had also gained a level in a spellcasting class he belonged to before adding the prestige class. He does not, however, gain any other benefit a character of that class would have gained, except for an increased effective level of spellcasting. If a character had more than one spellcasting class before becoming an arcane trickster, he must decide to which class he adds the new level for purposes of determining spells per day.
+
+*Ranged Legerdemain:* An arcane trickster can perform one of the following class skills at a range of 30 feet: Disable Device, Open Lock, or Sleight of Hand. Working at a distance increases the normal skill check DC by 5, and an arcane trickster cannot take 10 on this check. Any object to be manipulated must weigh 5 pounds or less.
+
+An arcane trickster can use ranged legerdemain once per day initially, twice per day upon attaining 5th level, and three times per day at 9th level or higher. He can make only one ranged legerdemain skill check each day, and only if he has at least 1 rank in the skill being used.
+
+*Sneak Attack:* This is exactly like the rogue ability of the same name. The extra damage dealt increases by +1d6 every other level (2nd, 4th, 6th, 8th, and 10th). If an arcane trickster gets a sneak attack bonus from another source the bonuses on damage stack.
+
+*Impromptu Sneak Attack:* Beginning at 3rd level, once per day an arcane trickster can declare one melee or ranged attack he makes to be a sneak attack (the target can be no more than 30 feet distant if the impromptu sneak attack is a ranged attack). The target of an impromptu sneak attack loses any Dexterity bonus to AC, but only against that attack. The power can be used against any target, but creatures that are not subject to critical hits take no extra damage (though they still lose any Dexterity bonus to AC against the attack).
+
+At 7th level, an arcane trickster can use this ability twice per day.
