@@ -2,6 +2,8 @@
 Base Classes
 ============
 
+include::classes/multiclass.txt[]
+
 include::classes/barbarian.txt[]
 
 include::classes/bard.txt[]
