@@ -1,3 +1,5 @@
+NPC Classes
+===========
 
 include::classes/adept.asciidoc[]
 
