@@ -135,7 +135,7 @@ As before, the benefits of the ranger’s chosen style apply only when he wears 
 *Hide in Plain Sight (Ex):* While in any sort of natural terrain, a ranger of 17th level or higher can use the Hide skill even while being observed.
 
 Epic Rangers
-------------
+~~~~~~~~~~~~
 
 EPIC RANGER 
 Hit Die: d8

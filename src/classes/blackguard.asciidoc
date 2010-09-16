@@ -135,7 +135,7 @@ The character level of the character does not change. With the loss of paladin l
 include::blackguard_fiendish_servant.asciidoc[]
 
 Epic Blackguards
-----------------
+~~~~~~~~~~~~~~~~
 
 EPIC BLACKGUARD
 Hit Die: d10. 

@@ -147,7 +147,7 @@ Ex-Bards
 A bard who becomes lawful in alignment cannot progress in levels as a bard, though he retains all his bard abilities.
 
 Epic Bards
-----------
+~~~~~~~~~~
 
 EPIC BARD
 Hit Die: d6

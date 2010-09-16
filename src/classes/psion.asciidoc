@@ -346,6 +346,8 @@ Sneaky
 Sympathetic
 +3 bonus on Sense Motive checks
 
+Epic Psions
+~~~~~~~~~~~
 
 EPIC PSION
 Hit Die: d4.

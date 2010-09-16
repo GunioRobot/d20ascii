@@ -99,7 +99,7 @@ Elaborate Parry (Ex): At 7th level and higher, if a duelist chooses to fight def
 Deflect Arrows: At 9th level, a duelist gains the benefit of the Deflect Arrows feat when using a light or one-handed piercing weapon.
 
 Epic Duelist
-------------
+~~~~~~~~~~~~
 
 EPIC DUELIST
 Hit Die: d10

@@ -53,7 +53,7 @@ All of the following are class features of the fighter.
 These bonus feats are in addition to the feat that a character of any class gets from advancing levels. A fighter is not limited to the list of fighter bonus feats when choosing these feats.
 
 Epic Fighters
--------------
+~~~~~~~~~~~~~
 
 EPIC FIGHTER 
 Hit Die: d10

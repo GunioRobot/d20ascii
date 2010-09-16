@@ -103,7 +103,7 @@ _Slippery Mind (Ex):_ This ability represents the rogue’s ability to wriggle f
 _Feat:_ A rogue may gain a bonus feat in place of a special ability.
 
 Epic Rogues
------------
+~~~~~~~~~~~
 
 EPIC ROGUE 
 Hit Die: d6. 

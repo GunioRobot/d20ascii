@@ -101,8 +101,7 @@ include::arcane_spells_and_armor.asciidoc[]
 include::familiars.asciidoc[]
 
 Epic Sorcerers
---------------
-
+~~~~~~~~~~~~~~
 
 EPIC SORCERER
 Hit Die: d4. 

@@ -109,7 +109,7 @@ Cavernous (Planar): You gain tremorsense with a 30-foot range.
 Other (Planar): If other planes are in use additional Planar Terrains can be created.
 
 Epic Horizon Walker
--------------------
+~~~~~~~~~~~~~~~~~~~
 
 EPIC HORIZON WALKER
 Hit Die: d8

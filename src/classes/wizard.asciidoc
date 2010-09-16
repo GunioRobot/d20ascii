@@ -112,7 +112,7 @@ include::arcane_spells_and_armor.asciidoc[]
 include::familiars.asciidoc[]
 
 Epic Wizards
-------------
+~~~~~~~~~~~~
 
 EPIC WIZARD 
 Hit Die: d4. 

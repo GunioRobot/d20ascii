@@ -128,7 +128,7 @@ A monk who becomes nonlawful cannot gain new levels as a monk but retains all mo
 Like a member of any other class, a monk may be a multiclass character, but multiclass monks face a special restriction. A monk who gains a new class or (if already multiclass) raises another class by a level may never again raise her monk level, though she retains all her monk abilities.
 
 Epic Monks
-----------
+~~~~~~~~~~
 
 EPIC MONK 
 Hit Die: d8

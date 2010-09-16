@@ -112,8 +112,7 @@ If a character gains uncanny dodge (see above) from a second class the character
 Mobile Defense (Ex): At 8th level, a dwarven defender can adjust his position while maintaining a defensive stance. While in a defensive stance, he can take one 5-foot step each round without losing the benefit of the stance.
 
 Epic Dwarven Defender
----------------------
-
+~~~~~~~~~~~~~~~~~~~~~
 
 EPIC DWARVEN DEFENDER 
 Hit Die: d12. 

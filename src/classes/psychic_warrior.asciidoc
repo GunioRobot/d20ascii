@@ -217,6 +217,9 @@ To learn or manifest a power, a psychic warrior must have a Wisdom score of at l
 Bonus Feats: At 1st level, a psychic warrior gets a bonus combat-oriented feat in addition to the feat that any 1st level character gets and the bonus feat granted to a human character. The psychic warrior gains an additional bonus feat at 2nd level and every three levels thereafter (5th, 8th, 11th, 14th, 17th, and 20th). These bonus feats must be drawn from the feats noted as fighter bonus feats or psionic feats. The psychic warrior must still meet all prerequisites for the bonus feat, including ability score and base attack bonus minimums as well as class requirements. A psychic warrior cannot choose feats that specifically require levels in the fighter class unless he is a multiclass character with the requisite levels in the fighter class.
 These bonus feats are in addition to the feats that a character of any class gains every three levels. A psychic warrior is not limited to fighter bonus feats and psionic feats when choosing these other feats.
 
+Epic Psychic Warrior
+~~~~~~~~~~~~~~~~~~~~
+
 EPIC PSYCHIC WARRIOR
 Hit Die: d8. 
 Skill Points at Each Additional Level: 2 + Int modifier. 

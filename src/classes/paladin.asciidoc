@@ -108,7 +108,7 @@ Like a member of any other class, a paladin may be a multiclass character, but m
 include::paladin_mount.asciidoc[]
 
 Epic Paladins
--------------
+~~~~~~~~~~~~~
 
 EPIC PALADIN 
 Hit Die: d10

@@ -224,7 +224,7 @@ until she atones (see the atonement spell description).
 include::druid_animal_companion.asciidoc[]
 
 Epic Druids
------------
+~~~~~~~~~~~
 
 EPIC DRUID 
 Hit Die: d8

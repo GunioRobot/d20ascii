@@ -103,7 +103,8 @@ Slippery Mind (Ex): At 7th level, if a shadowdancer is affected by an enchantmen
 Improved Evasion (Ex): This ability, gained at 10th level, works like evasion (see above). A shadowdancer takes no damage at all on successful saving throws against attacks that allow a Reflex saving throw for half damage. What’s more, she takes only half damage even if she fails her saving throw.
 
 Epic Shadowdancer
------------------
+~~~~~~~~~~~~~~~~~
+
 EPIC SHADOWDANCER 
 Hit Die: d8. 
 Skill Points at Each Additional Level: 6 + Int modifier. 

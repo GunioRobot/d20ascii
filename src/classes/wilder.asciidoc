@@ -231,6 +231,9 @@ The extra cost is not a natural part of that power’s cost. It does not augment
 At 9th level, the penalty assessed against telepathy powers manifested on a wilder is increased to 2 power points. At 13th level, the penalty increases to 3 power points, and at 17th level it increases to 4 power points.
 As a standard action, a wilder can choose to lower this effect for 1 round.
 
+Epic Wilders
+~~~~~~~~~~~~
+
 EPIC WILDER
 Hit Die: d6.
 Skill Points at Each Additional Level: 4 + Int modifier.

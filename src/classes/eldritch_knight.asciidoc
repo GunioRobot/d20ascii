@@ -92,7 +92,7 @@ Spells per Day: From 2nd level on, when a new eldritch knight level is gained, t
 If a character had more than one arcane spellcasting class before she became an eldritch knight, she must decide to which class she adds each level of eldritch knight for the purpose of determining spells per day.
 
 Epic Eldritch Knight
---------------------
+~~~~~~~~~~~~~~~~~~~~
 
 EPIC ELDRITCH KNIGHT
 Hit Die: d6

@@ -177,7 +177,7 @@ proficiency with simple weapons. He cannot thereafter gain levels as a
 cleric of that god until he atones (see the atonement spell description).
 
 Epic Clerics
-------------
+~~~~~~~~~~~~
 
 EPIC CLERIC 
 Hit Die: d8

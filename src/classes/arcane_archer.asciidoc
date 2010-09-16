@@ -78,7 +78,7 @@ indexterm:[Class Features,Arrow of Death]
 *Arrow of Death (Sp):* At 10th level, an arcane archer can create an arrow of death that forces the target, if damaged by the arrow’s attack, to make a DC 20 Fortitude save or be slain immediately. It takes one day to make an arrow of death, and the arrow only functions for the arcane archer who created it. The arrow of death lasts no longer than one year, and the archer can only have one such arrow in existence at a time.
 
 Epic Arcane Archer
-------------------
+~~~~~~~~~~~~~~~~~~
 
 EPIC ARCANE ARCHER 
 Hit Die: d8. 

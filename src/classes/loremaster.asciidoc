@@ -145,7 +145,7 @@ More newfound arcana
 * As if gained through having a high ability score.
 
 Epic Loremaster
----------------
+~~~~~~~~~~~~~~~
 
 EPIC LOREMASTER 
 Hit Die: d4. 

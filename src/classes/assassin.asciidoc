@@ -121,7 +121,7 @@ Assassins choose their spells from the following list:
 4th Level: clairaudience/clairvoyance, dimension door, freedom of movement, glibness, greater invisibility, locate creature, modify memory, poison.
 
 Epic Assassins
---------------
+~~~~~~~~~~~~~~
 
 EPIC ASSASSIN 
 Hit Die: d6. 

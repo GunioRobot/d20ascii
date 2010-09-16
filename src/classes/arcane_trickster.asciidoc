@@ -68,7 +68,7 @@ indexterm:[Impromptu Sneak Attack]
 At 7th level, an arcane trickster can use this ability twice per day.
 
 Epic Arcane Tricksters
-----------------------
+~~~~~~~~~~~~~~~~~~~~~~
 
 EPIC ARCANE TRICKSTER
 Hit Die: d4

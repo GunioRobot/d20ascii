@@ -207,7 +207,8 @@ Knife to the Soul (Su): Beginning at 13th level, when a soulknife executes a psy
 The soulknife decides which ability score his psychic strike damages and the division of ability damage and extra dice of damage when he imbues his mind blade with the psychic strike energy.
 Multiple Throw (Ex): At 17th level and higher, a soulknife can throw a number of mind blades per round equal to the number of melee attacks he could make.
 
-
+Epic Soulknives
+~~~~~~~~~~~~~~~
 
 EPIC SOULKNIFE
 Hit Die: d10.
