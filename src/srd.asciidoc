@@ -27,9 +27,17 @@ include::combat.asciidoc[]
 
 include::adventuring.asciidoc[]
 
+include::types.asciidoc[]
+
 include::magic.asciidoc[]
 
 include::spells.asciidoc[]
+
+include::psionics.asciidoc[]
+
+include::powers.asciidoc[]
+
+include::epicspells.asciidoc[]
 
 include::monsters.asciidoc[]
 

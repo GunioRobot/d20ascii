@@ -4,3 +4,5 @@ include::classes_base.asciidoc[]
 include::classes_prestige.asciidoc[]
 
 include::classes_npc.asciidoc[]
+
+include::classes/epic_prestige_classes.asciidoc[]

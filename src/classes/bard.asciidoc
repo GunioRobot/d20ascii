@@ -145,3 +145,40 @@ _Mass Suggestion (Sp):_ This ability functions like suggestion, above, except th
 Ex-Bards
 ^^^^^^^^
 A bard who becomes lawful in alignment cannot progress in levels as a bard, though he retains all his bard abilities.
+
+Epic Bards
+----------
+
+EPIC BARD
+Hit Die: d6
+Skill Points at Each Additional Level: 6 + Int modifier
+Spells: The bard’s caster level is equal to his or her class level. The bard’s number of spells per day does not increase after 20th level. The bard does not learn additional spells unless he or she selects the Spell Knowledge feat.
+Bardic Music: The bard gains no new bardic music effects from his or her Perform ranks. However, he or she may select epic feats that grant new bardic music effects
+Bardic Knowledge: Add the bard’s class level + Intelligence modifier to all bardic knowledge checks, as normal. 
+Bonus Feats: The epic bard gains a bonus feat (selected from the list of epic bard bonus feats) every three levels after 20th. 
+Epic Bard Bonus Feat List: Augmented Alchemy, Deafening Song, Epic Inspiration, Epic Leadership, Epic Reputation, Epic Skill Focus, Group Inspiration, Hindering Song, Improved Combat Casting, Improved Metamagic, Improved Spell Capacity, Inspire Excellence, Lasting Inspiration, Master Staff, Master Wand, Music of the Gods, Permanent Emanation, Polyglot, Ranged Inspiration, Rapid Inspiration, Reactive Countersong, Spell Knowledge, Spell Stowaway, Spell Opportunity, Tenacious Magic. 
+Inspire Courage (Su): The epic bard’s bonus when this ability is used increases by +1 every six levels higher than 20th.
+
+Table: The Epic Bard 
+Bard Level
+Special 
+21st
+— 
+22nd
+— 
+23rd
+Bonus feat 
+24th
+— 
+25th
+— 
+26th
+Inspire Courage +5, Bonus feat 
+27th
+— 
+28th
+— 
+29th
+Bonus feat 
+30th
+— 

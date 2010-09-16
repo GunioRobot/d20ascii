@@ -101,3 +101,37 @@ Improved Uncanny Dodge (Ex): At 5th level, a shadowdancer can no longer be flank
 If a character gains uncanny dodge (see above) from a second class the character automatically gains improved uncanny dodge, and the levels from those classes stack to determine the minimum rogue level required to flank the character.
 Slippery Mind (Ex): At 7th level, if a shadowdancer is affected by an enchantment and fails her saving throw, 1 round later she can attempt her saving throw again. She only gets this one extra chance to succeed at her saving throw. If it fails as well, the spell’s effects occur normally.
 Improved Evasion (Ex): This ability, gained at 10th level, works like evasion (see above). A shadowdancer takes no damage at all on successful saving throws against attacks that allow a Reflex saving throw for half damage. What’s more, she takes only half damage even if she fails her saving throw.
+
+Epic Shadowdancer
+-----------------
+EPIC SHADOWDANCER 
+Hit Die: d8. 
+Skill Points at Each Additional Level: 6 + Int modifier. 
+Summon Shadow: Every third level gained after 9th adds +2 HD (and the requisite base attace and base save bonus increases) to the shadowdancer’s shadow companion. 
+Shadow Jump: The total distance of a shadowdancer’s shadow jump doubles every two levels after 10th. 
+Bonus Feats: The epic shadowdancer gains a bonus feat (selected from the list of epic shadowdancer feats) every three levels after 20th. 
+Epic Shadowdancer Bonus Feat List: Blinding Speed, Dexterous Fortitude, Dexterous Will, Epic Dodge, Epic Skill Focus, Epic Speed, Exceptional Deflection, Improved Combat Reflexes, Improved Darkvision, Improved Whirlwind Attack, Infinite Deflection, Legendary Leaper, Reflect Arrows, Self-Concealment, Spellcasting Harrier, Superior Initiative. 
+Table: The Epic Shadowdancer 
+Level
+Special 
+11th
+— 
+12th
+Summon shadow (four of 8 HD each), shadow jump (320 ft.) 
+13th
+Bonus feat 
+14th
+Shadow jump (640 ft.) 
+15th
+Summon shadow (five of 10 HD each) 
+16th
+Shadow jump (1,280 ft.), bonus feat 
+17th
+— 
+18th
+Summon shadow (six of 12 HD each), shadow jump (2,560 ft.) 
+19th
+Bonus feat 
+20th
+Shadow jump (5,120 ft.)
+

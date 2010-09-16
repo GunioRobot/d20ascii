@@ -51,3 +51,35 @@ All of the following are class features of the fighter.
 *Bonus Feats:* At 1st level, a fighter gets a bonus combat-oriented feat in addition to the feat that any 1st-level character gets and the bonus feat granted to a human character. The fighter gains an additional bonus feat at 2nd level and every two fighter levels thereafter (4th, 6th, 8th, 10th, 12th, 14th, 16th, 18th, and 20th). These bonus feats must be drawn from the feats noted as fighter bonus feats. A fighter must still meet all prerequisites for a bonus feat, including ability score and base attack bonus minimums.
 
 These bonus feats are in addition to the feat that a character of any class gets from advancing levels. A fighter is not limited to the list of fighter bonus feats when choosing these feats.
+
+Epic Fighters
+-------------
+
+EPIC FIGHTER 
+Hit Die: d10
+Skill Points at Each Additional Level: 2 + Int modifier
+Bonus Feats: The epic fighter gains a bonus feat (selected from the list of epic fighter bonus feats) every two levels after 20th. 
+Epic Fighter Bonus Feat List: Armor Skin, Combat Archery, Damage Reduction, Devastating Critical, Dire Charge, Distant Shot, Energy Resistance, Epic Endurance, Epic Leadership, Epic Prowess, Epic Toughness, Epic Weapon Focus, Epic Weapon Specialization, Exceptional Deflection, Improved Combat Reflexes, Improved Manyshot, Improved Stunning Fist, Improved Whirlwind Attack, Infinite Deflection, Instant Reload, Legendary Commander, Legendary Rider, Legendary Wrestler, Overwhelming Critical, Penetrate Damage Reduction, Perfect Two-Weapon Fighting, Reflect Arrows, Spellcasting Harrier, Storm of Throws, Superior Initiative, Swarm of Arrows, Two-Weapon Rend, Uncanny Accuracy. In addition to the feats on this list, the fighter may treat any feat designated as a fighter bonus feat, but not listed here, as being on his or her bonus feat list. 
+Table: The Epic Fighter 
+Fighter Level
+Special 
+21st
+— 
+22nd
+Bonus feat 
+23rd
+— 
+24th
+Bonus feat 
+25th
+— 
+26th
+Bonus feat 
+27th
+— 
+28th
+Bonus feat 
+29th
+— 
+30th
+Bonus feat 

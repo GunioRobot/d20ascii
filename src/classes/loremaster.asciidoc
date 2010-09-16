@@ -143,3 +143,38 @@ Newfound arcana
 More newfound arcana 
 1 bonus 2nd-level spell*
 * As if gained through having a high ability score.
+
+Epic Loremaster
+---------------
+
+EPIC LOREMASTER 
+Hit Die: d4. 
+Skill Points at Each Additional Level: 4 + Int modifier. 
+Spells: The epic loremaster’s caster level increases by 1 per level gained above 10th. The epic loremaster continues to gain new spells per day (and spells known, if applicable) at each new level, up to the maximum spells per day and spells known of the spellcasting class to which the loremaster belonged before adding the prestige class.
+Secret: The loremaster doesn’t gain additional secrets after 10th level, because there is a limit to the number of secrets that can be gained, but the character can choose a lore-master secret instead of a bonus feat. Remember that a character can’t select the same secret twice. 
+Lore: Add the loremaster’s class level + Intelligence modifier to all lore checks, as normal. 
+Bonus Feats: The epic loremaster gains a bonus feat (selected from the list of epic loremaster feats) every three levels after 10th. 
+Epic Loremaster Bonus Feat List: Augmented Alchemy, Automatic Quicken Spell, Automatic Silent Spell, Automatic Still Spell, Craft Epic Magic Arms and Armor, Craft Epic Rod, Craft Epic Staff, Craft Epic Wondrous Item, Efficient Item Creation, Enhance Spell, Epic Spell Focus, Epic Spell Penetration, Epic Spellcasting, Forge Epic Ring, Ignore Material Components, Improved Combat Casting, Improved Heighten Spell, Improved Metamagic, Improved Spell Capacity, Intensify Spell, Master Staff, Master Wand, Multispell, Permanent Emanation, Polyglot, Scribe Epic Scroll, Spell Knowledge, Spell Stowaway, Spell Opportunity, Spontaneous Spell, Tenacious Magic. In addition to the feats on this list, the loremaster can select a loremaster secret instead of a bonus feat. 
+Table: The Epic Loremaster 
+Level
+Special 
+11th
+— 
+12th
+— 
+13th
+Bonus feat 
+14th
+— 
+15th
+— 
+16th
+Bonus feat 
+17th
+— 
+18th
+— 
+19th
+Bonus feat 
+20th
+— 

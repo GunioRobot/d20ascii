@@ -175,3 +175,38 @@ A cleric who grossly violates the code of conduct required by his god loses
 all spells and class features, except for armor and shield proficiencies and
 proficiency with simple weapons. He cannot thereafter gain levels as a
 cleric of that god until he atones (see the atonement spell description).
+
+Epic Clerics
+------------
+
+EPIC CLERIC 
+Hit Die: d8
+Skill Points at Each Additional Level: 2 + Int modifier
+Spells: The cleric’s caster level is equal to his or her class level. The cleric’s number of spells per day does not increase after 20th level
+Turn or Rebuke Undead: Use the cleric’s class level to determine the most powerful undead affected by a turn or rebuke check and the turning damage, just as normal. 
+Bonus Feats: The epic cleric gains a bonus feat (selected from the list of epic cleric bonus feats) every three levels after 20th. 
+Epic Cleric Bonus Feat List: Armor Skin, Automatic Quicken Spell, Automatic Silent Spell, Automatic Still Spell, Bonus Domain, Enhance Spell, Epic Spell Focus, Epic Spell Penetration, Epic Spellcasting, Ignore Material Components, Improved Alignment-Based Casting, Improved Combat Casting, Improved Heighten Spell, Improved Metamagic, Improved Spell Capacity, Intensify Spell, Multispell, Negative Energy Burst, Permanent Emanation, Planar Turning, Positive Energy Aura, Spectral Strike, Spell Stowaway, Spell Opportunity, Spontaneous Domain Access, Spontaneous Spell, Tenacious Magic, Undead Mastery, Zone of Animation. 
+
+Table: The Epic Cleric 
+Cleric Level
+Special 
+21st
+— 
+22nd
+— 
+23rd
+Bonus feat 
+24th
+—
+25th
+—
+26th
+Bonus feat 
+27th
+— 
+28th
+— 
+29th
+Bonus feat 
+30th
+— 

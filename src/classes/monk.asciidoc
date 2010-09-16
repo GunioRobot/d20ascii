@@ -126,3 +126,67 @@ Ex-Monks
 A monk who becomes nonlawful cannot gain new levels as a monk but retains all monk abilities.
 
 Like a member of any other class, a monk may be a multiclass character, but multiclass monks face a special restriction. A monk who gains a new class or (if already multiclass) raises another class by a level may never again raise her monk level, though she retains all her monk abilities.
+
+Epic Monks
+----------
+
+EPIC MONK 
+Hit Die: d8
+Skill Points at Each Additional Level: 4 + Int modifier
+AC Bonus: The monk’s bonus to Armor Class when unarmored increases by +1 every five levels higher than 20th. 
+Unarmed Strike: The damage for a monk’s unarmed strike does not increase after 16th level. 
+Stunning Attack: If the monk has the Stunning Fist feat use the monk’s class level when determining the DC to resist this attack, as normal. 
+Unarmored Speed Bonus: The epic monk’s speed when wearing no armor increases by 10 feet every three levels higher than 18th. The unarmored speed of Small and dwarven monks increases by 5 feet instead of 10 feet.
+Ki Strike: The monk’s ki strike ability does not automatically increase with class level after 16th level. 
+Wholeness of Body (Su): The epic monk can cure up to twice his or her class level in hit points each day, as normal. 
+Abundant Step (Su): Use the monk’s class level when determining the effective caster level of this ability, as normal. 
+Diamond Soul (Ex): The epic monk’s spell resistance is equal to his or her class level +10, as normal. 
+Quivering Palm (Su): Use the monk’s class level when determining the DC to resist this attack, as normal. 
+Empty Body (Su): Use the monk’s class level when determining the duration of this effect, as normal. 
+Bonus Feats: The epic monk gains a bonus feat (selected from the list of epic monk bonus feats) every five levels higher than 20th. 
+Epic Monk Bonus Feat List: Armor Skin, Blinding Speed, Damage Reduction, Energy Resistance, Epic Prowess, Epic Speed, Epic Toughness, Exceptional Deflection, Fast Healing, Improved Combat Reflexes, Improved Ki Strike, Improved Spell Resistance, Improved Stunning Fist, Infinite Deflection, Keen Strike, Legendary Climber, Legendary Wrestler, Reflect Arrows, Righteous Strike, Self-Concealment, Shattering Strike, Vorpal Strike. 
+Table: The Epic Monk 
+Monk Level
+AC Bonus
+Unarmored Speed Bonus
+Special 
+21st
++4
++70 ft.
+
+22nd
++4
++70 ft.
+
+23rd
++4
++70 ft.
+
+24th
++4
++80 ft.
+
+25th
++5
++80 ft.
+Bonus feat 
+26th
++5
++80 ft.
+
+27th
++5
++90 ft.
+
+28th
++5
++90 ft.
+
+29th
++5
++90 ft.
+
+30th
++6
++100ft.
+Bonus feat 

@@ -133,3 +133,39 @@ As before, the benefits of the ranger’s chosen style apply only when he wears 
 *Camouflage (Ex):* A ranger of 13th level or higher can use the Hide skill in any sort of natural terrain, even if the terrain doesn’t grant cover or concealment.
 
 *Hide in Plain Sight (Ex):* While in any sort of natural terrain, a ranger of 17th level or higher can use the Hide skill even while being observed.
+
+Epic Rangers
+------------
+
+EPIC RANGER 
+Hit Die: d8
+Skill Points at Each Additional Level: 6 + Int modifier
+Spells: The ranger’s caster level is equal to one-half his or her class level, as normal. The ranger’s number of spells per day does not increase after 20th level. 
+Favored Enemy (Ex): The epic ranger gains one additional favored enemy, and his or her bonuses against one category of favored enemies goes up by +2, every five levels higher than 20th. 
+Animal companion:  The epic ranger’s animal companion continues to increase in power.  The ranger’s effective druid level is half his or her ranger level.
+Bonus Feats: The epic ranger gains a bonus feat (selected from the list of epic ranger feats) every three levels after 20th. 
+Epic Ranger Bonus Feat List: Bane of Enemies, Blinding Speed, Combat Archery, Death of Enemies, Distant Shot, Epic Endurance, Epic Prowess, Epic Speed, Epic Toughness, Epic Weapon Focus, Fast Healing, Improved Combat Casting, Improved Favored Enemy, Improved Manyshot, Improved Spell Capacity, Legendary Climber, Legendary Rider, Legendary Tracker, Perfect Health, Perfect Two-Weapon Fighting, Permanent Emanation, Spontaneous Spell, Storm of Throws, Swarm of Arrows, Two-Weapon Rend, Uncanny Accuracy. 
+Table: The Epic Ranger 
+Ranger Level
+Special 
+21st
+— 
+22nd
+— 
+23rd
+Bonus feat 
+24th
+— 
+25th
+6th favored enemy 
+26th
+Bonus feat 
+27th
+— 
+28th
+— 
+29th
+Bonus feat 
+30th
+7th favored enemy 
+

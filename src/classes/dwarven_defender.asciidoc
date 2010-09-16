@@ -110,3 +110,40 @@ Improved Uncanny Dodge (Ex): At 6th level, a dwarven defender can no longer be f
 The exception to this defense is that a rogue at least four levels higher than the dwarven defender can flank him (and thus sneak attack him).
 If a character gains uncanny dodge (see above) from a second class the character automatically gains improved uncanny dodge, and the levels from those classes stack to determine the minimum rogue level required to flank the character.
 Mobile Defense (Ex): At 8th level, a dwarven defender can adjust his position while maintaining a defensive stance. While in a defensive stance, he can take one 5-foot step each round without losing the benefit of the stance.
+
+Epic Dwarven Defender
+---------------------
+
+
+EPIC DWARVEN DEFENDER 
+Hit Die: d12. 
+Skill Points at Each Additional Level: 2 + Int modifier. 
+Defensive Stance: The epic dwarven defender gains one additional defensive stance per day every two levels above 9th. 
+Defensive Awareness: The dwarven defender’s defensive awareness bonus on saves against traps doesn’t increase after 10th level. 
+Damage Reduction: The epic dwarven defender’s damage reduction increases by 3 points every four levels above 10th. 
+Trap Sense (Ex): The epic dwarven defender’s bonus increases by +1 every four levels higher than 8th. 
+Bonus Feats: The epic dwarven defender gains a bonus feat (selected from the list of epic dwarven defender feats) everyfive levels after 10th. 
+Epic Dwarven Defender Bonus Feat List: Armor Skin, Bulwark of Defense, Damage Reduction, Devastating Critical, Energy Resistance, Epic Endurance, Epic Prowess, Epic Toughness, Epic Weapon Focus, Fast Healing, Improved Combat Reflexes, Improved Dark-vision, Instant Reload, Mobile Defense, Overwhelming Critical, Perfect Health, Spellcasting Harrier. 
+Table: The Epic Dwarven Defender 
+Level
+Special
+11th 
+Defensive stance 6/day
+12th 
+Trap sense +3
+13th 
+Defensive stance 7/day
+14th 
+Damage reduction 9/—
+15th 
+Bonus feat, defensive stance 8/day
+16th 
+Trap sense +4
+17th 
+Defensive stance 9/day
+18th 
+Damage reduction 12/—
+19th 
+Defensive stance 10/day
+20th 
+Bonus feat, trap sense +5

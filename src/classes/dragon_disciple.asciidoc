@@ -157,3 +157,39 @@ Blindsense (Ex): At 5th level, the dragon disciple gains blindsense with a range
 Any opponent the dragon disciple cannot see still has total concealment against him, and the dragon disciple still has the normal miss chance when attacking foes that have concealment. Visibility still affects the movement of a creature with blindsense. A creature with blindsense is still denied its Dexterity bonus to Armor Class against attacks from creatures it cannot see. At 10th level, the range of this ability increases to 60 feet.
 Wings (Ex): At 9th level, a dragon disciple grows a set of draconic wings. He may now fly at a speed equal to his normal land speed, with average maneuverability.
 Dragon Apotheosis: At 10th level, a dragon disciple takes on the half-dragon template. His breath weapon reaches full strength (as noted above), and he gains +4 to Strength and +2 to Charisma. His natural armor bonus increases to +4, and he acquires low-light vision, 60-foot darkvision, immunity to sleep and paralysis effects, and immunity to the energy type used by his breath weapon (see above).
+
+Epic Dragon Disciple
+--------------------
+
+EPIC DRAGON DISCIPLE
+Hit Die: d12.
+Skill Points at Each Additional Level: 2 + Int modifier.
+Natural Armor: At 13th level, and every 3 levels thereafter, the dragon disciple's natural armor bonus increases by +1 (to +5 at 13th, +6 at 16th, and so on).
+Breath Weapon: At 13th level, and every 4 levels thereafter, the damage dealt by the epic dragon disciple's breath weapon increases by 2d8.
+Bonus Feats: The epic dragon disciple gains a bonus feat (selected from the list of epic dragon disciple feats) every 4 levels after 10th.
+Epic Dragon Disciple Bonus Feat List: Armor Skin, Damage Reduction, Epic Prowess, Epic Skill Focus (Knowledge [arcana]), Epic Toughness, Extended Life Span, Flyby Attack†, Great Charisma, Great Constitution, Great Strength, Hover†, Improved Combat Casting, Improved Darkvision, Improved Spell Capacity, Improved Spell Resistance, Snatch†, Spell Knowledge, Wingover†.
+†Non-epic feat. Treat the dragon disciple's age category as one-half his class level for the purpose of the Hover feat.
+Table: Epic Dragon Disciple
+Level
+Special
+11th
+—
+12th
+—
+13th
+Breath weapon (8d8), natural armor +5
+14th
+Bonus feat
+15th
+—
+16th
+Natural armor +6
+17th
+Breath weapon (10d8)
+18th
+ Bonus feat
+19th
+ Natural armor +7
+20th
+—
+

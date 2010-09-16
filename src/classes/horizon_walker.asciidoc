@@ -107,3 +107,36 @@ Shifting (Planar): You instinctively anticipate shifts in the reality of the pla
 Aligned (Planar): You have the instinctive ability to mimic the dominant alignment of the plane. You incur none of the penalties for having an alignment at odds with that of the plane, and spells and abilities that harm those of the opposite alignment don’t affect you. You have the dominant alignment of the plane with regard to magic, but your behavior and any alignment-related Class Features you have are unaffected.
 Cavernous (Planar): You gain tremorsense with a 30-foot range.
 Other (Planar): If other planes are in use additional Planar Terrains can be created.
+
+Epic Horizon Walker
+-------------------
+
+EPIC HORIZON WALKER
+Hit Die: d8
+Skill Points at Each Additional Level: 4 + Int modifier
+Improved Terrain Mastery: The epic horizon walker may select one of the terrains already in her terrain mastery repertoire. The insight bonus on attack and damage rolls against creatures of that terrain increases by +1. The maximum insight bonus for any one terrain is equal to the epic horizon walker’s class level divided by 10, rounded up.
+Bonus Feats: The epic horizon walker gains a bonus feat (selected from the list of epic horizon walker feats) every 4 levels after 10th.
+Epic Horizon Walker Bonus Feat List: Armor Skin, Blinding Speed, Energy Resistance, Epic Endurance, Epic Prowess, Epic Reputation, Epic Skill Focus, Epic Speed, Epic Toughness, Extended Life Span, Legendary Climber, Perfect Health, Polyglot.
+Table: Epic Horizon Walker
+Level
+Special
+11th
+Improved Terrain Mastery
+12th 
+Improved Terrain Mastery
+13th 
+Improved Terrain Mastery
+14th 
+Bonus feat, improved Terrain Mastery
+15th 
+Improved Terrain Mastery
+16th 
+Improved Terrain Mastery
+17th 
+Improved Terrain Mastery
+18th 
+Bonus feat, improved Terrain Mastery
+19th 
+Improved Terrain Mastery
+20th
+Improved Terrain Mastery

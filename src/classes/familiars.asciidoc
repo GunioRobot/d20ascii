@@ -73,3 +73,59 @@ Because of this empathic link, the master has the same connection to an item or 
 
 *Scry on Familiar (Sp):* If the master is 13th level or higher, he may scry on his familiar (as if casting the scrying spell) once per day.
 
+Epic Familiars
+~~~~~~~~~~~~~~
+
+FAMILIARS AT EPIC LEVEL 
+Special abilities granted to a familiar continue to grow as the level of its master increases beyond 20th, as shown on Table: Epic Familiar Special Abilities. Even though the table shows advancement only to 42nd level, that is not the limit. The patterns in the table continue infinitely. Familiar special abilities gained at less than 20th level also continue to improve. 
+Familiar Spell: The familiar gains the benefit of the Familiar Spell epic feat for the spell its master chooses. 
+Table: Epic Familiar Special Abilities
+Master Class Level
+Natural Armor
+Int
+Special 
+21st–22nd
++11
+16
+Familiar Spell 
+23rd–24th
++12
+17 
+
+25th–26th
++13
+18
+
+27th–28th
++14
+19 
+
+29th–30th
++15
+20 
+
+31st–32nd
++16
+21
+Familiar Spell 
+33rd–34th
++17
+22 
+
+35th–36th
++18
+23 
+
+37th–38th
++19
+24 
+
+39th–40th
++20
+25 
+
+41st–42nd
++21
+26
+Familiar Spell 
+

@@ -223,3 +223,37 @@ until she atones (see the atonement spell description).
 
 include::druid_animal_companion.asciidoc[]
 
+Epic Druids
+-----------
+
+EPIC DRUID 
+Hit Die: d8
+Skill Points at Each Additional Level: 4 + Int modifier
+Spells: The druid’s caster level is equal to his or her class level. The druid’s number of spells per day does not increase after 20th level. 
+Animal Companion: The Druid’s animal companion continues to increase in power.  Every three levels higher than 20th the animal companion gains 2 bonus hit dice, +1 strength and dexterity, and an additional trick. 
+Wild Shape: The epic druid can use this ability to take the form of an animal one additional time per day every four levels higher than 18th.  The druid’s ability to wild shape into an elemental does not improve.
+Bonus Feats: The epic druid gains a bonus feat (selected from the list of epic druid bonus feats) every four levels after 20th. 
+Epic Druid Bonus Feat List: Automatic Quicken Spell, Automatic Silent Spell, Automatic Still Spell, Colossal Wild Shape, Diminutive Wild Shape, Dragon Wild Shape, Energy Resistance, Enhance Spell, Epic Spell Focus, Epic Spell Penetration, Epic Spellcasting, Fast Healing, Fine Wild Shape, Gargantuan Wild Shape, Ignore Material Components, Improved Combat Casting, Improved Elemental Wild Shape, Improved Heighten Spell, Improved Metamagic, Improved Spell Capacity, Intensify Spell, Magical Beast Companion, Magical Beast Wild Shape, Multi-spell, Perfect Health, Permanent Emanation, Plant Wild Shape, Spell Stowaway, Spell Opportunity, Spontaneous Spell, Tenacious Magic, Vermin Wild Shape. 
+Table: The Epic Druid 
+Druid Level
+Special 
+21st
+— 
+22nd
+Wild shape 7/day 
+23rd
+— 
+24th
+Bonus feat 
+25th
+— 
+26th
+Wild shape 8/day 
+27th
+— 
+28th
+Bonus feat 
+29th
+— 
+30th
+Wild shape 9/day

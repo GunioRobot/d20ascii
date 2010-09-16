@@ -107,3 +107,41 @@ Like a member of any other class, a paladin may be a multiclass character, but m
 
 include::paladin_mount.asciidoc[]
 
+Epic Paladins
+-------------
+
+EPIC PALADIN 
+Hit Die: d10
+Skill Points at Each Additional Level: 2 + Int modifier
+Lay on Hands (Su): Each day a paladin can cure a total number of hit points equal to his or her Charisma bonus (if any) times his or her class level, as normal
+Smite Evil (Su): The epic paladin adds his or her class level to damage with any smite evil attack, as normal. He or she can smite one additional time per day for every five levels higher than 20th.
+Turn Undead: The paladin turns undead as a cleric of two levels lower, as normal. 
+Spells: The paladin’s caster level is equal to one-half his or her class level, as normal.  The paladin’s number of spells per day does not increase after 20th level. 
+Special Mount: The epic paladin’s special mount continues to increase in power. Every five levels after 20th the special mount gains +2 bonus Hit Dice, its natural armor increases by +2, its Strength adjustment increases by +1, and its Intelligence increases by +1. The mount’s spell resistance equals the paladin’s class level + 5. 
+Remove Disease (Sp): The epic paladin can use remove disease one additional time per week for every three levels higher than 18th. 
+Bonus Feats: The epic paladin gains a bonus feat (selected from the list of epic paladin feats) every three levels higher than 20th. 
+Epic Paladin Bonus Feat List: Armor Skin, Devastating Critical, Epic Leadership, Epic Prowess, Epic Reputation, Epic Toughness, Epic Weapon Focus, Great Smiting, Holy Strike, Improved Aura of Courage, Improved Combat Casting, Improved Spell Capacity, Legendary Commander, Legendary Rider, Overwhelming Critical, Perfect Health, Permanent Emanation, Planar Turning, Positive Energy Aura, Spectral Strike, Spontaneous Spell, Widen Aura of Courage. 
+Table: The Epic Paladin 
+Paladin Level
+Special 
+21st
+Remove disease 6/week 
+22nd
+— 
+23rd
+Bonus feat 
+24th
+Remove disease 7/week 
+25th
+Smite evil 6/day
+26th
+Bonus feat
+27th
+Remove disease 8/week 
+28th
+— 
+29th
+Bonus feat 
+30th
+Remove disease 9/week 
+

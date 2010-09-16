@@ -58,7 +58,6 @@ out/srd-ua.epub: out/srd-ua.xml
 out/srd-ua.xml: src/*.asciidoc src/classes/*.asciidoc Makefile
 	asciidoc -d book -a idprefix= -a unearthed-arcana -b docbook -o out/srd-ua.xml src/srd.asciidoc
 
-
 clean:
 	rm -rf out/*
 

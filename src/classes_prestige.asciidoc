@@ -42,6 +42,8 @@ include::classes/assassin.asciidoc[]
 
 include::classes/blackguard.asciidoc[]
 
+include::classes/cerebremancer.asciidoc[]
+
 include::classes/dragon_disciple.asciidoc[]
 
 include::classes/duelist.asciidoc[]
@@ -50,14 +52,30 @@ include::classes/dwarven_defender.asciidoc[]
 
 include::classes/eldritch_knight.asciidoc[]
 
+include::classes/elocator.asciidoc[]
+
 include::classes/hierophant.asciidoc[]
 
 include::classes/horizon_walker.asciidoc[]
 
 include::classes/loremaster.asciidoc[]
 
+include::classes/metamind.asciidoc[]
+
 include::classes/mystic_theurge.asciidoc[]
+
+include::classes/psion_uncarnate.asciidoc[]
+
+include::classes/psionic_fist.asciidoc[]
+
+include::classes/pyrokineticist.asciidoc[]
 
 include::classes/shadowdancer.asciidoc[]
 
+include::classes/slayer.asciidoc[]
+
 include::classes/thaumaturgist.asciidoc[]
+
+include::classes/thrallherd.asciidoc[]
+
+include::classes/war_mind.asciidoc[]

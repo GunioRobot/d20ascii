@@ -111,3 +111,36 @@ include::arcane_spells_and_armor.asciidoc[]
 
 include::familiars.asciidoc[]
 
+Epic Wizards
+------------
+
+EPIC WIZARD 
+Hit Die: d4. 
+Skill Points at Each Additional Level: 2 + Int modifier. 
+Spells: The wizard’s caster level is equal to her class level. The wizard’s number of spells per day does not increase after 20th level. Each time the wizard achieves a new level, he or she learns two new spells of any spell levels that he or she can cast (according to his or her new level). 
+Familiar: The wizards’s familiar continues to increase in power. Every two levels beyond 20th the familiar’s natural armor and Intelligence each increase by +1. The familiar’s spell resistance is equal to the master’s class level + 5. At 21st level and again every ten levels higher than 21st, the familiar gains the benefit of the Familiar Spell epic feat for a spell of its master’s choice.
+Bonus Feats: The epic wizard gains a bonus feat (selected from the list of epic wizard feats) every three levels after 20th. 
+Epic Wizard Bonus Feat List: Augmented Alchemy, Automatic Quicken Spell, Automatic Silent Spell, Automatic Still Spell, Combat Casting, Craft Epic Magic Arms and Armor, Craft Epic Rod, Craft Epic Staff, Craft Epic Wondrous Item, Efficient Item Creation, Enhance Spell, Epic Spell Focus, Epic Spell Penetration, Epic Spellcasting, Familiar Spell, Forge Epic Ring, Ignore Material Components, Improved Combat Casting, Improved Heighten Spell, Improved Metamagic, Improved Spell Capacity, Intensify Spell, Multispell, Permanent Emanation, Scribe Epic Scroll, Spell Focus, Spell Knowledge, Spell Mastery, Spell Penetration Spell Stowaway, Spell Opportunity, Spontaneous Spell, Tenacious Magic. In addition to the feats on this list, the wizard may select any item creation feat or metamagic feat not listed here. 
+Table: The Epic Wizard 
+Wizard Level
+Special 
+21st
+— 
+22nd
+— 
+23rd
+Bonus feat 
+24th
+— 
+25th
+— 
+26th
+Bonus feat 
+27th
+— 
+28th
+— 
+29th
+Bonus feat 
+30th
+— 

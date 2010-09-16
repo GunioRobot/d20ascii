@@ -18,10 +18,18 @@ include::classes/monk.asciidoc[]
 
 include::classes/paladin.asciidoc[]
 
+include::classes/psion.asciidoc[]
+
+include::classes/psychic_warrior.asciidoc[]
+
 include::classes/ranger.asciidoc[]
 
 include::classes/rogue.asciidoc[]
 
 include::classes/sorcerer.asciidoc[]
+
+include::classes/soulknife.asciidoc[]
+
+include::classes/wilder.asciidoc[]
 
 include::classes/wizard.asciidoc[]

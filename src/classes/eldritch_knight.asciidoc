@@ -90,3 +90,36 @@ Weapon and Armor Proficiency: Eldritch knights gain no proficiency with any weap
 Bonus Feat: At 1st level, an eldritch knight may choose a bonus feat from the list of feats available to fighters. This is in addition to the feats that a character of any class normally gets from advancing levels. The character must still meet any prerequisites for these bonus feats, including levels of fighter for the Weapon Specialization, Greater Weapon Focus, and Greater Weapon Specialization feats.
 Spells per Day: From 2nd level on, when a new eldritch knight level is gained, the character gains new spells per day as if she had also gained a level in whatever arcane spellcasting class she belonged to before she added the prestige class. She does not, however, gain any other benefit a character of that class would have gained. This essentially means that she adds the level of eldritch knight to the level of whatever other arcane spellcasting class the character has, then determines spells per day and caster level accordingly.
 If a character had more than one arcane spellcasting class before she became an eldritch knight, she must decide to which class she adds each level of eldritch knight for the purpose of determining spells per day.
+
+Epic Eldritch Knight
+--------------------
+
+EPIC ELDRITCH KNIGHT
+Hit Die: d6
+Skill Points at Each Additional Level: 2 + Int modifier
+Spells: The epic eldritch knight’s caster level increases by 1 per level gained above 10th. The epic eldritch knight continues to gain new spells per day (and spells known, if applicable) at each new level, up to the maximum spells per day and spells known of the arcane spellcasting class to which the eldritch knight belonged before adding the prestige class.
+Bonus Feats: The epic eldritch knight gains a bonus feat (selected from the list of epic eldritch knight feats) every 4 levels after 10th.
+Epic Eldritch Knight Bonus Feat List: Armor Skin, Automatic Still Spell, Combat Archery, Damage Reduction, Devastating Critical, Dire Charge, Distant Shot, Enhance Spell, Epic Prowess, Epic Spell Focus, Epic Spell Penetration, Epic Spellcasting, Epic Toughness, Epic Weapon Focus, Ignore Material Components, Improved Combat Casting, Improved Combat Reflexes, Improved Manyshot, Improved Spell Capacity, Improved Whirlwind Attack, Instant Reload, Legendary Rider, Overwhelming Critical, Penetrate Damage Reduction, Perfect Two-Weapon Fighting, Permanent Emanation, Spell Knowledge, Spell Opportunity, Spell Stowaway, Spellcasting Harrier, Spontaneous Spell, Storm of Throws, Superior Initiative, Swarm of Arrows, Tenacious Magic, Two-Weapon Rend, Uncanny Accuracy.
+Table: Epic Eldritch Knight
+Level 
+Special
+11th
+—
+12th 
+—
+13th
+—
+14th 
+Bonus feat
+15th
+—
+16th
+—
+17th
+—
+18th 
+Bonus feat
+19th
+—
+20th
+—

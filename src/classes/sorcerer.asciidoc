@@ -99,3 +99,38 @@ A character with more than one class that grants a familiar may have only one fa
 include::arcane_spells_and_armor.asciidoc[]
 
 include::familiars.asciidoc[]
+
+Epic Sorcerers
+--------------
+
+
+EPIC SORCERER
+Hit Die: d4. 
+Skill Points at Each Additional Level: 2 + Int modifier. 
+Spells: The sorcerer’s caster level is equal to his or her class level. The sorcerer’s number of spells per day does not increase after 20th level. The sorcerer does not learn additional spells unless he or she selects the Spell Knowledge feat. 
+Familiar: The sorcerer’s familiar continues to increase in power. Every two levels beyond 20th the familiar’s natural armor and Intelligence each increase by +1. The familiar’s spell resistance is equal to the master’s class level + 5. At 21st level and again every ten levels higher than 21st, the familiar gains the benefit of the Familiar Spell epic feat for a spell of its master’s choice.
+Bonus Feats: The epic sorcerer gains a bonus feat (selected from the list of epic sorcerer bonus feats) every three levels after 20th. 
+Epic Sorcerer Bonus Feat List: Augmented Alchemy, Automatic Quicken Spell, Automatic Silent Spell, Automatic Still Spell, Energy Resistance, Enhance Spell, Epic Spell Focus, Epic Spell Penetration, Epic Spellcasting, Familiar Spell, Ignore Material Components, Improved Combat Casting, Improved Heighten Spell, Improved Metamagic, Improved Spell Capacity, Intensify Spell, Master Staff, Master Wand, Multispell, Permanent Emanation, Spell Knowledge, Spell Stowaway, Spell Opportunity. 
+Table: The Epic Sorcerer 
+Sorcerer Level
+Special 
+21st
+— 
+22nd
+— 
+23rd
+Bonus feat 
+24th
+— 
+25th
+— 
+26th
+Bonus feat 
+27th
+— 
+28th
+— 
+29th
+Bonus feat 
+30th
+—

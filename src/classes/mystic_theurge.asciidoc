@@ -98,3 +98,36 @@ Class Features
 All of the following are features of the mystic theurge prestige class.
 Weapon and Armor Proficiency: Mystic theurges gain no proficiency with any weapon or armor.
 Spells per Day: When a new mystic theurge level is gained, the character gains new spells per day as if he had also gained a level in any one arcane spellcasting class he belonged to before he added the prestige class and any one divine spellcasting class he belonged to previously. He does not, however, gain any other benefit a character of that class would have gained. This essentially means that he adds the level of mystic theurge to the level of whatever other arcane spellcasting class and divine spellcasting class the character has, then determines spells per day and caster level accordingly. If a character had more than one arcane spellcasting class or more than one divine spellcasting class before he became a mystic theurge, he must decide to which class he adds each level of mystic theurge for the purpose of determining spells per day.
+
+Epic Mystic Theurge
+-------------------
+
+EPIC MYSTIC THEURGE
+Hit Die: d4
+Skill Points at Each Additional Level: 2 + Int modifier
+Spells: When an odd-numbered mystic theurge level above 10th is gained she gains new spells per day (and spells known, if applicable), as if she had gained a level in an arcane spellcasting class she belonged to previously, up to the maximum spells per day and spells known by that class. Her caster level in that class also increases by +1. When an even-numbered mystic theurge level above 10th is gained she gains new spells per day (and spells known, if applicable), as if she had gained a level in a divine spellcasting class she belonged to previously, up to the maximum spells per day and spells known by that class. Her caster level in that class also increases by +1.
+Bonus Feats: The epic mystic theurge gains a bonus feat (selected from the list of epic mystic theurge feats) every 6 levels after 10th.
+Epic Mystic Theurge Bonus Feat List: Automatic Quicken Spell, Automatic Silent Spell, Automatic Still Spell, Bonus Domain, Enhance Spell, Epic Spell Focus, Epic Spell Penetration, Epic Spellcasting, Ignore Material Components, Improved Alignment-Based Casting, Improved Combat Casting, Improved Heighten Spell, Improved Metamagic, Improved Spell Capacity, Intensify Spell, Multispell, Permanent Emanation, Spell Knowledge, Spell Opportunity, Spell Stowaway, Spontaneous Domain Access, Spontaneous Spell, Tenacious Magic.
+Table: Epic Mystic Theurge
+Level
+Special
+11th
+—
+12th
+—
+13th
+—
+14th
+—
+15th
+—
+16th 
+Bonus feat
+17th
+—
+18th
+—
+19th
+—
+20th
+—

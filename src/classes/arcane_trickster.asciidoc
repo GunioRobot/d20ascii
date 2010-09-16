@@ -66,3 +66,39 @@ indexterm:[Impromptu Sneak Attack]
 *Impromptu Sneak Attack:* Beginning at 3rd level, once per day an arcane trickster can declare one melee or ranged attack he makes to be a sneak attack (the target can be no more than 30 feet distant if the impromptu sneak attack is a ranged attack). The target of an impromptu sneak attack loses any Dexterity bonus to AC, but only against that attack. The power can be used against any target, but creatures that are not subject to critical hits take no extra damage (though they still lose any Dexterity bonus to AC against the attack).
 
 At 7th level, an arcane trickster can use this ability twice per day.
+
+Epic Arcane Tricksters
+----------------------
+
+EPIC ARCANE TRICKSTER
+Hit Die: d4
+Skill Points at Each Additional Level: 4 + Int modifier
+Spells: The epic arcane trickster’s caster level increases by 1 per level gained above 10th. The epic arcane trickster continues to gain new spells per day (and spells known, if applicable) at each new level, up to the maximum spells per day and spells known of the arcane spellcasting class to which the arcane trickster belonged before adding the prestige class.
+Sneak Attack: The epic arcane trickster’s sneak attack damage increases by +1d6 every 2 levels above 10th.
+Impromptu Sneak Attack: The arcane trickster may use this ability one additional time per day for every 4 levels above 7th.
+Ranged Legerdemain: The arcane trickster may use this ability one additional time per day for every 4 levels above 9th.
+Bonus Feats: The epic arcane trickster gains a bonus feat selected from the list of epic arcane trickster feats) every 4 levels after 10th.
+Epic Arcane Trickster Bonus Feat List: Automatic Silent Spell Automatic Still Spell, Blinding Speed, Epic Skill Focus, Improved Combat Casting, Improved Sneak Attack, Improved Spell Capacity, Lingering Damage, Self-Concealment, Sneak Attack of Opportunity, Spell Knowledge, Spell Opportunity, Spell Stowaway.
+Table: Epic Arcane Trickster
+Level
+Special
+11th
+Impromptu sneak attack 3/day
+12th
+Sneak attack +8d6
+13th
+Ranged legerdemain 4/day
+14th
+Sneak attack +9d6
+15th
+Impromptu sneak attack 4/day
+16th
+Sneak attack +10d6
+17th
+Ranged legerdemain 5/day
+18th
+Sneak attack +11d6
+19th
+Impromptu sneak attack 5/day
+20th
+Sneak attack +12d6

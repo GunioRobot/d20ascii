@@ -97,3 +97,38 @@ When making a precise strike, a duelist cannot attack with a weapon in her other
 Acrobatic Charge (Ex): At 6th level, a duelist gains the ability to charge in situations where others cannot. She may charge over difficult terrain that normally slows movement. Depending on the circumstance, she may still need to make appropriate checks to successfully move over the terrain.
 Elaborate Parry (Ex): At 7th level and higher, if a duelist chooses to fight defensively or use total defense in melee combat, she gains an additional +1 dodge bonus to AC for each level of duelist she has.
 Deflect Arrows: At 9th level, a duelist gains the benefit of the Deflect Arrows feat when using a light or one-handed piercing weapon.
+
+Epic Duelist
+------------
+
+EPIC DUELIST
+Hit Die: d10
+Skill Points at Each Additional Level: 4 + Int modifier
+Precise Strike: Every five levels above 10th, the extra damage inflicted by the epic duelist’s precise strike increases by +1d6.
+Bonus Feats: The epic duelist gains a bonus feat (selected from the list of epic duelist feats) every 3 levels after 10th.
+Epic Duelist Bonus Feat List: Blinding Speed, Epic Prowess, Epic Reputation, Epic Skill Focus, Epic Speed, Epic Weapon Focus (rapier), Exceptional Deflection*, Improved Combat Reflexes, Improved Whirlwind Attack, Infinite Deflection*, Perfect Two-Weapon Fighting, Superior Initiative, Two-Weapon Rend.
+*The epic duelist need not have Improved Unarmed Strike to qualify for these feats, but in that case must be using a light or one-handed piercing weapon.
+Table: Epic Duelist
+Level
+Special
+11th
+—
+12th
+—
+13th 
+Bonus feat
+14th
+—
+15th 
+Precise strike +3d6
+16th 
+Bonus feat
+17th
+—
+18th
+—
+19th 
+Bonus feat
+20th 
+Precise strike +4d6
+

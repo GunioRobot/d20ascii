@@ -101,3 +101,39 @@ Upon gaining this ability, she selects a number of skills equal to 3 + her Intel
 _Slippery Mind (Ex):_ This ability represents the rogue’s ability to wriggle free from magical effects that would otherwise control or compel her. If a rogue with slippery mind is affected by an enchantment spell or effect and fails her saving throw, she can attempt it again 1 round later at the same DC. She gets only this one extra chance to succeed on her saving throw.
 
 _Feat:_ A rogue may gain a bonus feat in place of a special ability.
+
+Epic Rogues
+-----------
+
+EPIC ROGUE 
+Hit Die: d6. 
+Skill Points at Each Additional Level: 8 + Int modifier.
+Sneak Attack: The epic rogue’s sneak attack damage increases by +1d6 at every odd-numbered level. 
+Special Abilities: The rogue does not gain additional rogue special abilities after 19th level, but can choose one of the rogue class special abilities (crippling strike, defensive roll, improved evasion, opportunist, skill mastery, or slippery mind) instead of a bonus feat. 
+Trap Sense (Ex): The epic rogue’s bonus increases by +1 every three levels higher than 18th.
+Bonus Feats: The epic rogue gains a bonus feat (selected from the list of epic rogue feats) every four levels after 20th. 
+Epic Rogue Bonus Feat List: Blinding Speed, Combat Archery, Dexterous Fortitude, Dexterous Will, Epic Dodge, Epic Reputation, Epic Skill Focus, Epic Speed, Improved Combat Reflexes, Improved Sneak Attack, Legendary Climber, Lingering Damage, Self-Concealment, Sneak Attack of Opportunity, Spellcasting Harrier, Superior Initiative, Trap Sense, Uncanny Accuracy. The rogue may choose a special rogue ability instead of a bonus feat. 
+Table: The Epic Rogue 
+Rogue Level
+Special 
+21st
+Sneak attack +11d6 , trap sense +7
+22nd
+— 
+23rd
+Sneak attack +12d6 
+24th
+Trap sense +8, bonus feat 
+25th
+Sneak attack +13d6 
+26th
+—
+27th
+Sneak attack +14d6, trap sense +9
+28th
+Bonus feat 
+29th
+Sneak attack +15d6
+30th
+Trap sense +10
+

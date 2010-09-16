@@ -76,3 +76,37 @@ indexterm:[Class Features,Hail of Arrows]
 indexterm:[Class Features,Arrow of Death]
 
 *Arrow of Death (Sp):* At 10th level, an arcane archer can create an arrow of death that forces the target, if damaged by the arrow’s attack, to make a DC 20 Fortitude save or be slain immediately. It takes one day to make an arrow of death, and the arrow only functions for the arcane archer who created it. The arrow of death lasts no longer than one year, and the archer can only have one such arrow in existence at a time.
+
+Epic Arcane Archer
+------------------
+
+EPIC ARCANE ARCHER 
+Hit Die: d8. 
+Skill Points at Each Additional Level: 4 + Int modifier. 
+Enchant Arrow: For every two levels beyond 9th, the potency of the arrows fired by the arcane archer increases by +1. 
+Hail of Arrows: In lieu of his or her regular attacks, once per day the arcane archer can fire an arrow at each and every target within range, with a maximum number of targets equal to his or her arcane archer class level, as normal. 
+Bonus Feats: The arcane archer gains a bonus feat (selected from the list of epic arcane archer feats) every four levels after 10th. 
+Epic Arcane Archer Bonus Feat List: Blinding Speed, Combat Archery, Distant Shot, Epic Prowess, Epic Speed, Epic Toughness, Epic Weapon Focus (any bow other than a crossbow), Improved Arrow of Death, Improved Combat Casting, Improved Low-Light Vision, Improved Manyshot, Swarm of Arrows, Uncanny Accuracy. 
+Table: The Epic Arcane Archer 
+Level
+Special 
+11th
+Enchant arrow +6 
+12th
+— 
+13th
+Enchant arrow +7 
+14th
+Bonus feat 
+15th
+Enchant arrow +8 
+16th
+— 
+17th
+Enchant arrow +9 
+18th
+Bonus feat 
+19th
+Enchant arrow +10 
+20th
+— 
