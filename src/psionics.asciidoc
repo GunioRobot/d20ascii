@@ -155,7 +155,7 @@ For the purpose of psionics–magic transparency, telepathy powers are equivalen
 Charm: A power of the charm subdiscipline changes the way the subject views you, typically making it see you as a good friend.
 Compulsion: A power of the compulsion subdiscipline forces the subject to act in some manner or changes the way her mind works. Some compulsion powers determine the subject’s actions or the effects on the subject, some allow you to determine the subject’s actions when you manifest them, and others give you ongoing control over the subject.
 
-[DESCRIPTOR]
+\[DESCRIPTOR\]
 Appearing on the same line as the discipline and subdiscipline (when applicable) is a descriptor that further categorizes the power in some way. Some powers have more than one descriptor.
 The descriptors that apply to powers are acid, cold, death, electricity, evil, fire, force, good, language-dependent, light, mind-affecting, and sonic.
 Most of these descriptors have no game effect by themselves, but they govern how the power interacts with other powers, with spells, with special abilities, with unusual creatures, with alignment, and so on.
