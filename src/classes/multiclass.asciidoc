@@ -1,5 +1,5 @@
-Multiclass Creatures
---------------------
+Multiclass Characters
+---------------------
 
 A character may add new classes as he or she progresses in level, thus becoming a multiclass character. The class abilities from a character’s different classes combine to determine a multiclass character’s overall abilities. Multiclassing improves a character’s versatility at the expense of focus.
 
