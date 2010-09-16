@@ -5,7 +5,15 @@ The paladin’s mount is superior to a normal mount of its kind and has special 
 
 A paladin’s mount is treated as a magical beast, not an animal, for the purpose of all effects that depend on its type (though it retains an animal’s HD, base attack bonus, saves, skill points, and feats).
 
-include::../tables/paladin_mount.asciidoc[]
+.The Paladin's Mount
+[options="header",cols="1,1,1,1,1,6"]
+|=====
+| Paladin Level | Bonus HD | Natural Armor Adj. | Str Adj. | Int | Special
+| 5th-7th | +2 | +4 | +1 | 6 | Empathic link, improved evasion, share spells, share saving throws
+| 8th-10th | +4 | +6 | +2 | 7 | Improved speed
+| 11th-14th | +6 | +8 | +3 | 8 | Command creatures of its kind
+| 15th-20th | +8 | +10 | +4 | 9 | Spell resistance
+|=====
 
 *Paladin’s Mount Basics:* Use the base statistics for a creature of the mount’s kind, but make changes to take into account the attributes and characteristics summarized on the table and described below.
 

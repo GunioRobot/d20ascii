@@ -17,7 +17,32 @@ Class Skills
 
 *Skill Points at Each Additional Level:* 4 + Int modifier.
 
-include::../tables/monk.asciidoc[]
+.The Monk
+[options="header",cols="2,5,2,2,2,8,9,4,3,5"]
+|======
+| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special | Flurry of Blows | Unarmed Damage ^1^ | AC Bonus | Unarmored Speed Bonus
+| 1st | +0 | +2 | +2 | +2 | Bonus feat, flurry of blows, unarmed strike | -2/-2 | 1d6 | +0 | +0 ft.
+| 2nd | +1 | +3 | +3 | +3 | Bonus feat, evasion | -1/-1 | 1d6 | +0 | +0 ft.
+| 3rd | +2 | +3 | +3 | +3 | Still mind | +0/+0 | 1d6 | +0 | +10 ft.
+| 4th | +3 | +4 | +4 | +4 | Ki strike (magic), slow fall 20 ft. | +1/+1 | 1d8 | +0 | +10 ft.
+| 5th | +3 | +4 | +4 | +4 | Purity of body | +2/+2 | 1d8 | +1 | +10 ft.
+| 6th | +4 | +5 | +5 | +5 | Bonus feat, slow fall 30 ft. | +3/+3 | 1d8 | +1 | +20 ft.
+| 7th | +5 | +5 | +5 | +5 | Wholeness of body | +4/+4 | 1d8 | +1 | +20 ft.
+| 8th | +6/+1 | +6 | +6 | +6 | Slow fall 40 ft. | +5/+5/+0 | 1d10 | +1 | +20 ft.
+| 9th | +6/+1 | +6 | +6 | +6 | Improved evasion | +6/+6/+1 | 1d10 | +1 | +30 ft.
+| 10th | +7/+2 | +7 | +7 | +7 | Ki strike (lawful), slow fall 50 ft. | +7/+7/+2 | 1d10 | +2 | +30 ft.
+| 11th | +8/+3 | +7 | +7 | +7 | Diamond body, greater flurry | +8/+8/+8/+3 | 1d10 | +2 | +30 ft.
+| 12th | +9/+4 | +8 | +8 | +8 | Abundant step, slow fall 60 ft. | +9/+9/+9/+4 | 2d6 | +2 | +40 ft.
+| 13th | +9/+4 | +8 | +8 | +8 | Diamond soul | +9/+9/+9/+4 | 2d6 | +2 | +40 ft.
+| 14th | +10/+5 | +9 | +9 | +9 | Slow fall 70 ft. | +10/+10/+10/+5 | 2d6 | +2 | +40 ft.
+| 15th | +11/+6/+1 | +9 | +9 | +9 | Quivering palm | +11/+11/+11/+6/+1 | 2d6 | +3 | +50 ft.
+| 16th | +12/+7/+2 | +10 | +10 | +10 | Ki strike (adamantine), slow fall 80 ft. | +12/+12/+12/+7/+2 | 2d8 | +3 | +50 ft.
+| 17th | +12/+7/+2 | +10 | +10 | +10 | Timeless body, tongue of the sun and moon | +12/+12/+12/+7/+2 | 2d8 | +3 | +50 ft.
+| 18th | +13/+8/+3 | +11 | +11 | +11 | Slow fall 90 ft. | +13/+13/+13/+8/+3 | 2d8 | +3 | +60 ft.
+| 19th | +14/+9/+4 | +11 | +11 | +11 | Empty body | +14/+14/+14/+9/+4 | 2d8 | +3 | +60 ft.
+| 20th | +15/+10/+5 | +12 | +12 | +12 | Perfect self, slow fall any distance | +15/+15/+15/+10/+5 | 2d10 | +4 | +60 ft.
+10+| 1. The value shown is for Medium monks. See Table: Small or Large Monk Unarmed Damage for Small or Large monks.
+|======
 
 Class Features
 ^^^^^^^^^^^^^^
@@ -50,7 +75,17 @@ A monk’s unarmed strike is treated both as a manufactured weapon and a natural
 
 A monk also deals more damage with her unarmed strikes than a normal person would, as shown on Table: The Monk. The unarmed damage on Table: The Monk is for Medium monks. A Small monk deals less damage than the amount given there with her unarmed attacks, while a Large monk deals more damage; see Table: Small or Large Monk Unarmed Damage.
 
-include::../tables/monk_unarmed_damage.asciidoc[]
+.Small or Large Monk Unarmed Damage
+[options="header"]
+|======
+| Level | Damage (Small Monk) | Damage (Large Monk)
+| 1st-3rd | 1d4 | 1d8
+| 4th-7th | 1d6 | 2d6
+| 8th-11th | 1d8 | 2d8
+| 12th-15th | 1d10 | 3d6
+| 16th-19th | 2d6 | 3d8
+| 20th | 2d8 | 4d8
+|======
 
 *Bonus Feat:* At 1st level, a monk may select either Improved Grapple or Stunning Fist as a bonus feat. At 2nd level, she may select either Combat Reflexes or Deflect Arrows as a bonus feat. At 6th level, she may select either Improved Disarm or Improved Trip as a bonus feat. A monk need not have any of the prerequisites normally required for these feats to select them.
 
