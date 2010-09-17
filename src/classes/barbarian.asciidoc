@@ -155,38 +155,35 @@ more levels as a barbarian. He retains all the other benefits of the class
 Epic Barbarians
 ~~~~~~~~~~~~~~~
 
-EPIC BARBARIAN 
-Hit Die: d12
-Skill Points at Each Additional Level: 4 + Int modifier 
-Barbarian Rage: The epic barbarian gains one use of rage per day every four levels after 20th. 
-Trap Sense (Ex): The epic barbarian’s bonus increases by +1 every three levels higher than 18th. 
-Damage Reduction (Ex): The epic barbarian’s damage reduction increases by 1 point every three levels higher than 19th. 
-Bonus Feats: The epic barbarian gains a bonus feat (selected from the list of epic barbarian bonus feats) every four levels higher than 20th. 
-Epic Barbarian Bonus Feat List: Armor Skin, Chaotic Rage, Damage Reduction, Devastating Critical, Dire Charge, Epic Endurance, Epic Prowess, Epic Speed, Epic Toughness, Epic Weapon Focus, Fast Healing, Incite Rage, Legendary Climber, Legendary Leaper, Legendary Rider, Legendary Tracker, Legendary Wrestler, Mighty Rage, Overwhelming Critical, Ruinous Rage, Terrifying Rage, Thundering Rage. 
-Table: The Epic Barbarian 
-Barbarian Level
-Special 
-21st
-Trap sense +7
-22nd
-Damage reduction 6/–
-23rd
-—
-24th
-Rage 7/day, Trap sense +8, bonus feat 
-25th
-Damage reduction 7/–
-26th
-—
-27th
-Trap sense +9
-28th
-Damage reduction 8/–, Rage 8/day, bonus feat 
-29th
-—
-30th
-Trap sense +10
+*Hit Die:* d12
 
+*Skill Points at Each Additional Level:* 4 + Int modifier 
+
+*Barbarian Rage:* The epic barbarian gains one use of rage per day every four levels after 20th. 
+
+*Trap Sense (Ex):* The epic barbarian’s bonus increases by +1 every three levels higher than 18th. 
+
+*Damage Reduction (Ex):* The epic barbarian’s damage reduction increases by 1 point every three levels higher than 19th. 
+
+*Bonus Feats:* The epic barbarian gains a bonus feat (selected from the list of epic barbarian bonus feats) every four levels higher than 20th. 
+
+*Epic Barbarian Bonus Feat List:* Armor Skin, Chaotic Rage, Damage Reduction, Devastating Critical, Dire Charge, Epic Endurance, Epic Prowess, Epic Speed, Epic Toughness, Epic Weapon Focus, Fast Healing, Incite Rage, Legendary Climber, Legendary Leaper, Legendary Rider, Legendary Tracker, Legendary Wrestler, Mighty Rage, Overwhelming Critical, Ruinous Rage, Terrifying Rage, Thundering Rage. 
+
+.The Epic Barbarian
+[options="header"]
+|=====
+| Level | Special  
+| 21st | Trap sense +7
+| 22nd | Damage reduction 6/–
+| 23rd | —
+| 24th | Rage 7/day, Trap sense +8, bonus feat 
+| 25th | Damage reduction 7/–
+| 26th | —
+| 27th | Trap sense +9
+| 28th | Damage reduction 8/–, Rage 8/day, bonus feat 
+| 29th | —
+| 30th | Trap sense +10
+|=====
 
 ifdef::unearthed-arcana-variant-classes[]
 Barbarian Variant: Totem Barbarian

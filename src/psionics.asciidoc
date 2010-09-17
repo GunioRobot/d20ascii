@@ -4,6 +4,11 @@ Psionics
 PSIONIC POWERS OVERVIEW
 -----------------------
 
+THE POWER POINT RESERVE
+Psionic characters fuel their abilities through a pool, or reserve, of power points. Your power point reserve is equal to your base power points gained from your class, bonus power points from a high key ability score (see Abilities and Manifesters, below), and any additional bonus power points from sources such as your character race and feat selections.
+
+
+
 Psionic powers spring from sentient minds. Even an undead creature or a being that has no physical form can create a reserve of inner strength necessary to manifest powers, as long as it has an Intelligence score of at least 1. Vermin possessed of a hive mind ability are an exception to this rule.
 A psionic power is a one-time psionic effect. Psionic characters and creatures need not prepare their powers for use ahead of time. They either have sufficient power points to manifest a power or they do not.
 A power is manifested when a psionic character pays its power point cost. Some psionic creatures automatically manifest powers, called psi-like abilities, without paying a power point cost. Other creatures pay power points to manifest their powers, just as characters do.
