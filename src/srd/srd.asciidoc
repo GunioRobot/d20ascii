@@ -13,7 +13,7 @@ include::basics.asciidoc[]
 
 include::races.asciidoc[]
 
-include::classes.asciidoc[]
+include::../../gen/srd/base-classes.asciidoc[]
 
 include::skills.asciidoc[]
 

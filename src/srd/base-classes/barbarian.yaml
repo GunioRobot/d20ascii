@@ -1,0 +1,200 @@
+- Name: Barbarian
+  Table Format: cols="1,3,1,1,1,10"
+  Alignment: Any nonlawful.
+  Hit Die: d12
+  Saves:
+    Fortitude: Good
+    Reflex: Poor
+    Will: Poor
+  Skill Points Per Level: 4
+  Class Skills:
+    Climb: Str
+    Craft: Int
+    Handle Animal: Cha
+    Intimidate: Cha
+    Jump: Str
+    Listen: Wis
+    Ride: Dex
+    Survival: Wis
+    Swim: Str
+  Base Attack Bonus: Good
+  Class Features:
+    Weapon and Armor Proficiency:
+      Level: 0
+      Description: >
+        A barbarian is proficient with all simple and martial weapons, light
+        armor, medium armor, and shields (except tower shields).
+    Fast Movement:
+      Level: 1
+      Short: Fast Movement
+      Description:
+        A barbarian's land speed is faster than the norm for his race by +10
+        feet.  This benefit applies only when he is wearing no armor, light
+        armor, or medium armor and not carrying a heavy load.  Apply this
+        bonus before modifying the barbarian's speed because of any load
+        carried or armor worn.
+    Illiteracy:
+      Level: 1
+      Short: Illiteracy
+      Description:
+        Barbarians are the only characters who do not automatically know how
+        to read and write.  A barbarian may spend 2 skill points to gain the
+        ability to read and write all languages he is able to speak.
+        
+        A barbarian who gains a level in any other class automatically gains
+        literacy. Any other character who gains a barbarian level does not lose the
+        literacy he or she already had.
+    Rage (Ex):
+      Level: 1
+      Short: Rage (1/day)
+      Description:
+        A barbarian can fly into a rage a certain number of times per day. 
+        In a rage, a barbarian temporarily gains a +4 bonus to Strength, a
+        +4 bonus to Constitution, and a +2 morale bonus on Will saves, but
+        he takes a -2 penalty to Armor Class.  The increase in Constitution
+        increases the barbarian's hit points by 2 points per level, but
+        these hit points go away at the end of the rage when his
+        Constitution score drops back to normal.  (These extra hit points
+        are not lost first the way temporary hit points are.) While raging,
+        a barbarian cannot use any Charisma-, Dexterity-, or
+        Intelligence-based skills (except for Balance, Escape Artist,
+        Intimidate, and Ride), the Concentration skill, or any abilities
+        that require patience or concentration, nor can he cast spells or
+        activate magic items that require a command word, a spell trigger
+        (such as a wand), or spell completion (such as a scroll) to
+        function.  He can use any feat he has except Combat Expertise, item
+        creation feats, and metamagic feats.  A fit of rage lasts for a
+        number of rounds equal to 3 + the character's (newly improved)
+        Constitution modifier.  A barbarian may prematurely end his rage. 
+        At the end of the rage, the barbarian loses the rage modifiers and
+        restrictions and becomes fatigued (-2 penalty to Strength, -2
+        penalty to Dexterity, can't charge or run) for the duration of the
+        current encounter (unless he is a 17th-level barbarian, at which
+        point this limitation no longer applies; see below).
+        
+        A barbarian can fly into a rage only once per encounter. At 1st
+        level he can use his rage ability once per day.  At 4th level and
+        every four levels thereafter, he can use it one additional time per
+        day (to a maximum of six times per day at 20th level).  Entering a
+        rage takes no time itself, but a barbarian can do it only during his
+        action, not in response to someone else's action.
+    Rage 4:
+      Level: 4
+      Short: Rage (2/day)
+    Rage 8:
+      Level: 8
+      Short: Rage (3/day)
+    Rage 12:
+      Level: 12
+      Short: Rage (4/day)
+    Rage 16:
+      Level: 16
+      Short: Rage (5/day)
+    Rage 20:
+      Level: 20
+      Short: Rage (6/day)
+    Uncanny Dodge (Ex):
+      Level: 2
+      Short: Uncanny Dodge
+      Description:
+        At 2nd level, a barbarian retains his Dexterity bonus to AC (if any)
+        even if he is caught flat-footed or struck by an invisible attacker. 
+        However, he still loses his Dexterity bonus to AC if immobilized.
+
+        If a barbarian already has uncanny dodge from a different class, he
+        automatically gains improved uncanny dodge (see below) instead.
+    Trap Sense (Ex):
+      Level: 3
+      Short: Trap Sense +1
+      Description:
+        Starting at 3rd level, a barbarian gains a +1 bonus on Reflex saves
+        made to avoid traps and a +1 dodge bonus to AC against attacks made
+        by traps.  These bonuses rise by +1 every three barbarian levels
+        thereafter (6th, 9th, 12th, 15th, and 18th level).  Trap sense
+        bonuses gained from multiple classes stack.
+    Trap Sense 6:
+      Level: 6
+      Short: Trap Sense +2
+    Trap Sense 9:
+      Level: 9
+      Short: Trap Sense +3
+    Trap Sense 12:
+      Level: 12
+      Short: Trap Sense +4
+    Trap Sense 15:
+      Level: 15
+      Short: Trap Sense +5
+    Trap Sense 18:
+      Level: 18
+      Short: Trap Sense +6
+    Improved Uncanny Dodge (Ex):
+      Level: 5
+      Short: Improved Uncanny Dodge
+      Description:
+         At 5th level and higher, a barbarian can no longer be flanked. 
+         This defense denies a rogue the ability to sneak attack the
+         barbarian by flanking him, unless the attacker has at least four
+         more rogue levels than the target has barbarian levels.  If a
+         character already has uncanny dodge (see above) from a second
+         class, the character automatically gains improved uncanny dodge
+         instead, and the levels from the classes that grant uncanny dodge
+         stack to determine the minimum level a rogue must be to flank the
+         character.
+    Damage Reduction (Ex):
+      Level: 7
+      Short: Damage Reduction 1/-
+      Description:
+        At 7th level, a barbarian gains Damage Reduction.
+
+        Subtract 1 from the damage the barbarian takes each time he is dealt
+        damage from a weapon or a natural attack.  At 10th level, and every
+        three barbarian levels thereafter (13th, 16th, and 19th level), this
+        damage reduction rises by 1 point.  Damage reduction can reduce
+        damage to 0 but not below 0.
+    Damage Reduction 10:
+      Level: 10
+      Short: Damage Reduction 2/-
+    Damage Reduction 13:
+      Level: 13
+      Short: Damage Reduction 3/-
+    Damage Reduction 16:
+      Level: 16
+      Short: Damage Reduction 4/-
+    Damage Reduction 19:
+      Level: 19
+      Short: Damage Reduction 5/-
+    Greater Rage (Ex):
+      Level: 11
+      Short: Greater Rage
+      Description:
+        At 11th level, a barbarian's bonuses to Strength and Constitution
+        during his rage each increase to +6, and his morale bonus on Will
+        saves increases to +3.  The penalty to AC remains at -2.
+    Indomitable Will (Ex):
+      Level: 14
+      Short: Indomitable Will
+      Description:
+        While in a rage, a barbarian of 14th level or higher gains a +4
+        bonus on Will saves to resist enchantment spells.  This bonus stacks
+        with all other modifiers, including the morale bonus on Will saves
+        he also receives during his rage.
+    Tireless Rage (Ex):
+      Level: 17
+      Short: Tireless Rage
+      Description:
+        At 17th level and higher, a barbarian no longer becomes fatigued at
+        the end of his rage.
+    Mighty Rage (Ex):
+      Level: 20
+      Short: Mighty Rage
+      Description:
+        At 20th level, a barbarian's bonuses to Strength and Constitution
+        during his rage each increase to +8, and his morale bonus on Will
+        saves increases to +4.  The penalty to AC remains at -2.
+  Ex:
+    Name: Ex-Barbarians
+    Description:
+      A barbarian who becomes lawful loses the ability to rage and cannot
+      gain more levels as a barbarian.  He retains all the other benefits of
+      the class (damage reduction, fast movement, trap sense, and uncanny
+      dodge).

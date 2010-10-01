@@ -1,0 +1,1395 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+    "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="generator" content="AsciiDoc 8.5.2" />
+<title></title>
+<style type="text/css">
+/* Debug borders */
+p, li, dt, dd, div, pre, h1, h2, h3, h4, h5, h6 {
+/*
+  border: 1px solid red;
+*/
+}
+
+body {
+  margin: 1em 5% 1em 5%;
+}
+
+a {
+  color: blue;
+  text-decoration: underline;
+}
+a:visited {
+  color: fuchsia;
+}
+
+em {
+  font-style: italic;
+  color: navy;
+}
+
+strong {
+  font-weight: bold;
+  color: #083194;
+}
+
+tt {
+  color: navy;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: #527bbd;
+  font-family: sans-serif;
+  margin-top: 1.2em;
+  margin-bottom: 0.5em;
+  line-height: 1.3;
+}
+
+h1, h2, h3 {
+  border-bottom: 2px solid silver;
+}
+h2 {
+  padding-top: 0.5em;
+}
+h3 {
+  float: left;
+}
+h3 + * {
+  clear: left;
+}
+
+div.sectionbody {
+  font-family: serif;
+  margin-left: 0;
+}
+
+hr {
+  border: 1px solid silver;
+}
+
+p {
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+}
+
+ul, ol, li > p {
+  margin-top: 0;
+}
+
+pre {
+  padding: 0;
+  margin: 0;
+}
+
+span#author {
+  color: #527bbd;
+  font-family: sans-serif;
+  font-weight: bold;
+  font-size: 1.1em;
+}
+span#email {
+}
+span#revnumber, span#revdate, span#revremark {
+  font-family: sans-serif;
+}
+
+div#footer {
+  font-family: sans-serif;
+  font-size: small;
+  border-top: 2px solid silver;
+  padding-top: 0.5em;
+  margin-top: 4.0em;
+}
+div#footer-text {
+  float: left;
+  padding-bottom: 0.5em;
+}
+div#footer-badges {
+  float: right;
+  padding-bottom: 0.5em;
+}
+
+div#preamble {
+  margin-top: 1.5em;
+  margin-bottom: 1.5em;
+}
+div.tableblock, div.imageblock, div.exampleblock, div.verseblock,
+div.quoteblock, div.literalblock, div.listingblock, div.sidebarblock,
+div.admonitionblock {
+  margin-top: 1.0em;
+  margin-bottom: 1.5em;
+}
+div.admonitionblock {
+  margin-top: 2.0em;
+  margin-bottom: 2.0em;
+  margin-right: 10%;
+  color: #606060;
+}
+
+div.content { /* Block element content. */
+  padding: 0;
+}
+
+/* Block element titles. */
+div.title, caption.title {
+  color: #527bbd;
+  font-family: sans-serif;
+  font-weight: bold;
+  text-align: left;
+  margin-top: 1.0em;
+  margin-bottom: 0.5em;
+}
+div.title + * {
+  margin-top: 0;
+}
+
+td div.title:first-child {
+  margin-top: 0.0em;
+}
+div.content div.title:first-child {
+  margin-top: 0.0em;
+}
+div.content + div.title {
+  margin-top: 0.0em;
+}
+
+div.sidebarblock > div.content {
+  background: #ffffee;
+  border: 1px solid silver;
+  padding: 0.5em;
+}
+
+div.listingblock > div.content {
+  border: 1px solid silver;
+  background: #f4f4f4;
+  padding: 0.5em;
+}
+
+div.quoteblock, div.verseblock {
+  padding-left: 1.0em;
+  margin-left: 1.0em;
+  margin-right: 10%;
+  border-left: 5px solid #dddddd;
+  color: #777777;
+}
+
+div.quoteblock > div.attribution {
+  padding-top: 0.5em;
+  text-align: right;
+}
+
+div.verseblock > div.content {
+  white-space: pre;
+}
+div.verseblock > div.attribution {
+  padding-top: 0.75em;
+  text-align: left;
+}
+/* DEPRECATED: Pre version 8.2.7 verse style literal block. */
+div.verseblock + div.attribution {
+  text-align: left;
+}
+
+div.admonitionblock .icon {
+  vertical-align: top;
+  font-size: 1.1em;
+  font-weight: bold;
+  text-decoration: underline;
+  color: #527bbd;
+  padding-right: 0.5em;
+}
+div.admonitionblock td.content {
+  padding-left: 0.5em;
+  border-left: 3px solid #dddddd;
+}
+
+div.exampleblock > div.content {
+  border-left: 3px solid #dddddd;
+  padding-left: 0.5em;
+}
+
+div.imageblock div.content { padding-left: 0; }
+span.image img { border-style: none; }
+a.image:visited { color: white; }
+
+dl {
+  margin-top: 0.8em;
+  margin-bottom: 0.8em;
+}
+dt {
+  margin-top: 0.5em;
+  margin-bottom: 0;
+  font-style: normal;
+  color: navy;
+}
+dd > *:first-child {
+  margin-top: 0.1em;
+}
+
+ul, ol {
+    list-style-position: outside;
+}
+ol.arabic {
+  list-style-type: decimal;
+}
+ol.loweralpha {
+  list-style-type: lower-alpha;
+}
+ol.upperalpha {
+  list-style-type: upper-alpha;
+}
+ol.lowerroman {
+  list-style-type: lower-roman;
+}
+ol.upperroman {
+  list-style-type: upper-roman;
+}
+
+div.compact ul, div.compact ol,
+div.compact p, div.compact p,
+div.compact div, div.compact div {
+  margin-top: 0.1em;
+  margin-bottom: 0.1em;
+}
+
+div.tableblock > table {
+  border: 3px solid #527bbd;
+}
+thead, p.table.header {
+  font-family: sans-serif;
+  font-weight: bold;
+}
+tfoot {
+  font-weight: bold;
+}
+td > div.verse {
+  white-space: pre;
+}
+p.table {
+  margin-top: 0;
+}
+/* Because the table frame attribute is overriden by CSS in most browsers. */
+div.tableblock > table[frame="void"] {
+  border-style: none;
+}
+div.tableblock > table[frame="hsides"] {
+  border-left-style: none;
+  border-right-style: none;
+}
+div.tableblock > table[frame="vsides"] {
+  border-top-style: none;
+  border-bottom-style: none;
+}
+
+
+div.hdlist {
+  margin-top: 0.8em;
+  margin-bottom: 0.8em;
+}
+div.hdlist tr {
+  padding-bottom: 15px;
+}
+dt.hdlist1.strong, td.hdlist1.strong {
+  font-weight: bold;
+}
+td.hdlist1 {
+  vertical-align: top;
+  font-style: normal;
+  padding-right: 0.8em;
+  color: navy;
+}
+td.hdlist2 {
+  vertical-align: top;
+}
+div.hdlist.compact tr {
+  margin: 0;
+  padding-bottom: 0;
+}
+
+.comment {
+  background: yellow;
+}
+
+.footnote, .footnoteref {
+  font-size: 0.8em;
+}
+
+span.footnote, span.footnoteref {
+  vertical-align: super;
+}
+
+#footnotes {
+  margin: 20px 0 20px 0;
+  padding: 7px 0 0 0;
+}
+
+#footnotes div.footnote {
+  margin: 0 0 5px 0;
+}
+
+#footnotes hr {
+  border: none;
+  border-top: 1px solid silver;
+  height: 1px;
+  text-align: left;
+  margin-left: 0;
+  width: 20%;
+  min-width: 100px;
+}
+
+
+@media print {
+  div#footer-badges { display: none; }
+}
+
+div#toc {
+  margin-bottom: 2.5em;
+}
+
+div#toctitle {
+  color: #527bbd;
+  font-family: sans-serif;
+  font-size: 1.1em;
+  font-weight: bold;
+  margin-top: 1.0em;
+  margin-bottom: 0.1em;
+}
+
+div.toclevel1, div.toclevel2, div.toclevel3, div.toclevel4 {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+div.toclevel2 {
+  margin-left: 2em;
+  font-size: 0.9em;
+}
+div.toclevel3 {
+  margin-left: 4em;
+  font-size: 0.9em;
+}
+div.toclevel4 {
+  margin-left: 6em;
+  font-size: 0.9em;
+}
+/* Workarounds for IE6's broken and incomplete CSS2. */
+
+div.sidebar-content {
+  background: #ffffee;
+  border: 1px solid silver;
+  padding: 0.5em;
+}
+div.sidebar-title, div.image-title {
+  color: #527bbd;
+  font-family: sans-serif;
+  font-weight: bold;
+  margin-top: 0.0em;
+  margin-bottom: 0.5em;
+}
+
+div.listingblock div.content {
+  border: 1px solid silver;
+  background: #f4f4f4;
+  padding: 0.5em;
+}
+
+div.quoteblock-attribution {
+  padding-top: 0.5em;
+  text-align: right;
+}
+
+div.verseblock-content {
+  white-space: pre;
+}
+div.verseblock-attribution {
+  padding-top: 0.75em;
+  text-align: left;
+}
+
+div.exampleblock-content {
+  border-left: 3px solid #dddddd;
+  padding-left: 0.5em;
+}
+
+/* IE6 sets dynamically generated links as visited. */
+div#toc a:visited { color: blue; }
+</style>
+<script type="text/javascript">
+/*<![CDATA[*/
+window.onload = function(){asciidoc.footnotes();}
+var asciidoc = {  // Namespace.
+
+/////////////////////////////////////////////////////////////////////
+// Table Of Contents generator
+/////////////////////////////////////////////////////////////////////
+
+/* Author: Mihai Bazon, September 2002
+ * http://students.infoiasi.ro/~mishoo
+ *
+ * Table Of Content generator
+ * Version: 0.4
+ *
+ * Feel free to use this script under the terms of the GNU General Public
+ * License, as long as you do not remove or alter this notice.
+ */
+
+ /* modified by Troy D. Hanson, September 2006. License: GPL */
+ /* modified by Stuart Rackham, 2006, 2009. License: GPL */
+
+// toclevels = 1..4.
+toc: function (toclevels) {
+
+  function getText(el) {
+    var text = "";
+    for (var i = el.firstChild; i != null; i = i.nextSibling) {
+      if (i.nodeType == 3 /* Node.TEXT_NODE */) // IE doesn't speak constants.
+        text += i.data;
+      else if (i.firstChild != null)
+        text += getText(i);
+    }
+    return text;
+  }
+
+  function TocEntry(el, text, toclevel) {
+    this.element = el;
+    this.text = text;
+    this.toclevel = toclevel;
+  }
+
+  function tocEntries(el, toclevels) {
+    var result = new Array;
+    var re = new RegExp('[hH]([2-'+(toclevels+1)+'])');
+    // Function that scans the DOM tree for header elements (the DOM2
+    // nodeIterator API would be a better technique but not supported by all
+    // browsers).
+    var iterate = function (el) {
+      for (var i = el.firstChild; i != null; i = i.nextSibling) {
+        if (i.nodeType == 1 /* Node.ELEMENT_NODE */) {
+          var mo = re.exec(i.tagName);
+          if (mo && (i.getAttribute("class") || i.getAttribute("className")) != "float") {
+            result[result.length] = new TocEntry(i, getText(i), mo[1]-1);
+          }
+          iterate(i);
+        }
+      }
+    }
+    iterate(el);
+    return result;
+  }
+
+  var toc = document.getElementById("toc");
+  var entries = tocEntries(document.getElementById("content"), toclevels);
+  for (var i = 0; i < entries.length; ++i) {
+    var entry = entries[i];
+    if (entry.element.id == "")
+      entry.element.id = "_toc_" + i;
+    var a = document.createElement("a");
+    a.href = "#" + entry.element.id;
+    a.appendChild(document.createTextNode(entry.text));
+    var div = document.createElement("div");
+    div.appendChild(a);
+    div.className = "toclevel" + entry.toclevel;
+    toc.appendChild(div);
+  }
+  if (entries.length == 0)
+    toc.parentNode.removeChild(toc);
+},
+
+
+/////////////////////////////////////////////////////////////////////
+// Footnotes generator
+/////////////////////////////////////////////////////////////////////
+
+/* Based on footnote generation code from:
+ * http://www.brandspankingnew.net/archive/2005/07/format_footnote.html
+ */
+
+footnotes: function () {
+  var cont = document.getElementById("content");
+  var noteholder = document.getElementById("footnotes");
+  var spans = cont.getElementsByTagName("span");
+  var refs = {};
+  var n = 0;
+  for (i=0; i<spans.length; i++) {
+    if (spans[i].className == "footnote") {
+      n++;
+      // Use [\s\S] in place of . so multi-line matches work.
+      // Because JavaScript has no s (dotall) regex flag.
+      note = spans[i].innerHTML.match(/\s*\[([\s\S]*)]\s*/)[1];
+      noteholder.innerHTML +=
+        "<div class='footnote' id='_footnote_" + n + "'>" +
+        "<a href='#_footnoteref_" + n + "' title='Return to text'>" +
+        n + "</a>. " + note + "</div>";
+      spans[i].innerHTML =
+        "[<a id='_footnoteref_" + n + "' href='#_footnote_" + n +
+        "' title='View footnote' class='footnote'>" + n + "</a>]";
+      var id =spans[i].getAttribute("id");
+      if (id != null) refs["#"+id] = n;
+    }
+  }
+  if (n == 0)
+    noteholder.parentNode.removeChild(noteholder);
+  else {
+    // Process footnoterefs.
+    for (i=0; i<spans.length; i++) {
+      if (spans[i].className == "footnoteref") {
+        var href = spans[i].getElementsByTagName("a")[0].getAttribute("href");
+        href = href.match(/#.*/)[0];  // Because IE return full URL.
+        n = refs[href];
+        spans[i].innerHTML =
+          "[<a href='#_footnote_" + n +
+          "' title='View footnote' class='footnote'>" + n + "</a>]";
+      }
+    }
+  }
+}
+
+}
+/*]]>*/
+</script>
+</head>
+<body>
+<div id="header">
+</div>
+<div id="content">
+<h2 id="_adept">Adept</h2>
+<div class="sectionbody">
+<h3 id="_the_adept_base_class">The Adept Base Class</h3><div style="clear:left"></div>
+<div class="paragraph"><p><strong>Hit Die:</strong> d6</p></div>
+<h4 id="_class_skills">Class Skills</h4>
+<div class="paragraph"><p><strong>The Adept&#8217;s class skills (and the key ability for each skill) are:</strong>
+Concentration (Con), Craft (Int), Handle Animal (Cha), Heal (Wis), Knowledge (all skills taken individually) (Int), Profession (Wis), Spellcraft (Int), Survival (Wis)</p></div>
+<div class="paragraph"><p><strong>Skill Points at 1st Level:</strong> (2 + Int Modifier) x 4.</p></div>
+<div class="paragraph"><p><strong>Skill Points at Each Additional Level:</strong> 2 + Int Modifier.</p></div>
+<div class="tableblock">
+<table rules="all"
+width="100%"
+frame="border"
+cellspacing="0" cellpadding="4">
+<caption class="title">Table 1. The Adept</caption>
+<col width="16%" />
+<col width="16%" />
+<col width="16%" />
+<col width="16%" />
+<col width="16%" />
+<col width="16%" />
+<thead>
+<tr>
+<th align="left" valign="top"> Level </th>
+<th align="left" valign="top"> Base Attack Bonus </th>
+<th align="left" valign="top"> Fort Save </th>
+<th align="left" valign="top"> Ref Save </th>
+<th align="left" valign="top"> Will Save </th>
+<th align="left" valign="top"> Special</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left" valign="top"><p class="table">1</p></td>
+<td align="left" valign="top"><p class="table">+0</p></td>
+<td align="left" valign="top"><p class="table">+0</p></td>
+<td align="left" valign="top"><p class="table">+0</p></td>
+<td align="left" valign="top"><p class="table">+2</p></td>
+<td align="left" valign="top"><p class="table"></p></td>
+</tr>
+<tr>
+<td align="left" valign="top"><p class="table">2</p></td>
+<td align="left" valign="top"><p class="table">+1</p></td>
+<td align="left" valign="top"><p class="table">+0</p></td>
+<td align="left" valign="top"><p class="table">+0</p></td>
+<td align="left" valign="top"><p class="table">+3</p></td>
+<td align="left" valign="top"><p class="table">Summon Familiar</p></td>
+</tr>
+<tr>
+<td align="left" valign="top"><p class="table">3</p></td>
+<td align="left" valign="top"><p class="table">+1</p></td>
+<td align="left" valign="top"><p class="table">+1</p></td>
+<td align="left" valign="top"><p class="table">+1</p></td>
+<td align="left" valign="top"><p class="table">+3</p></td>
+<td align="left" valign="top"><p class="table"></p></td>
+</tr>
+<tr>
+<td align="left" valign="top"><p class="table">4</p></td>
+<td align="left" valign="top"><p class="table">+2</p></td>
+<td align="left" valign="top"><p class="table">+1</p></td>
+<td align="left" valign="top"><p class="table">+1</p></td>
+<td align="left" valign="top"><p class="table">+4</p></td>
+<td align="left" valign="top"><p class="table"></p></td>
+</tr>
+<tr>
+<td align="left" valign="top"><p class="table">5</p></td>
+<td align="left" valign="top"><p class="table">+2</p></td>
+<td align="left" valign="top"><p class="table">+1</p></td>
+<td align="left" valign="top"><p class="table">+1</p></td>
+<td align="left" valign="top"><p class="table">+4</p></td>
+<td align="left" valign="top"><p class="table"></p></td>
+</tr>
+<tr>
+<td align="left" valign="top"><p class="table">6</p></td>
+<td align="left" valign="top"><p class="table">+3</p></td>
+<td align="left" valign="top"><p class="table">+2</p></td>
+<td align="left" valign="top"><p class="table">+2</p></td>
+<td align="left" valign="top"><p class="table">+5</p></td>
+<td align="left" valign="top"><p class="table"></p></td>
+</tr>
+<tr>
+<td align="left" valign="top"><p class="table">7</p></td>
+<td align="left" valign="top"><p class="table">+3</p></td>
+<td align="left" valign="top"><p class="table">+2</p></td>
+<td align="left" valign="top"><p class="table">+2</p></td>
+<td align="left" valign="top"><p class="table">+5</p></td>
+<td align="left" valign="top"><p class="table"></p></td>
+</tr>
+<tr>
+<td align="left" valign="top"><p class="table">8</p></td>
+<td align="left" valign="top"><p class="table">+4</p></td>
+<td align="left" valign="top"><p class="table">+2</p></td>
+<td align="left" valign="top"><p class="table">+2</p></td>
+<td align="left" valign="top"><p class="table">+6</p></td>
+<td align="left" valign="top"><p class="table"></p></td>
+</tr>
+<tr>
+<td align="left" valign="top"><p class="table">9</p></td>
+<td align="left" valign="top"><p class="table">+4</p></td>
+<td align="left" valign="top"><p class="table">+3</p></td>
+<td align="left" valign="top"><p class="table">+3</p></td>
+<td align="left" valign="top"><p class="table">+6</p></td>
+<td align="left" valign="top"><p class="table"></p></td>
+</tr>
+<tr>
+<td align="left" valign="top"><p class="table">10</p></td>
+<td align="left" valign="top"><p class="table">+5</p></td>
+<td align="left" valign="top"><p class="table">+3</p></td>
+<td align="left" valign="top"><p class="table">+3</p></td>
+<td align="left" valign="top"><p class="table">+7</p></td>
+<td align="left" valign="top"><p class="table"></p></td>
+</tr>
+<tr>
+<td align="left" valign="top"><p class="table">11</p></td>
+<td align="left" valign="top"><p class="table">+5</p></td>
+<td align="left" valign="top"><p class="table">+3</p></td>
+<td align="left" valign="top"><p class="table">+3</p></td>
+<td align="left" valign="top"><p class="table">+7</p></td>
+<td align="left" valign="top"><p class="table"></p></td>
+</tr>
+<tr>
+<td align="left" valign="top"><p class="table">12</p></td>
+<td align="left" valign="top"><p class="table">+6</p></td>
+<td align="left" valign="top"><p class="table">+4</p></td>
+<td align="left" valign="top"><p class="table">+4</p></td>
+<td align="left" valign="top"><p class="table">+8</p></td>
+<td align="left" valign="top"><p class="table"></p></td>
+</tr>
+<tr>
+<td align="left" valign="top"><p class="table">13</p></td>
+<td align="left" valign="top"><p class="table">+6</p></td>
+<td align="left" valign="top"><p class="table">+4</p></td>
+<td align="left" valign="top"><p class="table">+4</p></td>
+<td align="left" valign="top"><p class="table">+8</p></td>
+<td align="left" valign="top"><p class="table"></p></td>
+</tr>
+<tr>
+<td align="left" valign="top"><p class="table">14</p></td>
+<td align="left" valign="top"><p class="table">+7</p></td>
+<td align="left" valign="top"><p class="table">+4</p></td>
+<td align="left" valign="top"><p class="table">+4</p></td>
+<td align="left" valign="top"><p class="table">+9</p></td>
+<td align="left" valign="top"><p class="table"></p></td>
+</tr>
+<tr>
+<td align="left" valign="top"><p class="table">15</p></td>
+<td align="left" valign="top"><p class="table">+7</p></td>
+<td align="left" valign="top"><p class="table">+5</p></td>
+<td align="left" valign="top"><p class="table">+5</p></td>
+<td align="left" valign="top"><p class="table">+9</p></td>
+<td align="left" valign="top"><p class="table"></p></td>
+</tr>
+<tr>
+<td align="left" valign="top"><p class="table">16</p></td>
+<td align="left" valign="top"><p class="table">+8</p></td>
+<td align="left" valign="top"><p class="table">+5</p></td>
+<td align="left" valign="top"><p class="table">+5</p></td>
+<td align="left" valign="top"><p class="table">+10</p></td>
+<td align="left" valign="top"><p class="table"></p></td>
+</tr>
+<tr>
+<td align="left" valign="top"><p class="table">17</p></td>
+<td align="left" valign="top"><p class="table">+8</p></td>
+<td align="left" valign="top"><p class="table">+5</p></td>
+<td align="left" valign="top"><p class="table">+5</p></td>
+<td align="left" valign="top"><p class="table">+10</p></td>
+<td align="left" valign="top"><p class="table"></p></td>
+</tr>
+<tr>
+<td align="left" valign="top"><p class="table">18</p></td>
+<td align="left" valign="top"><p class="table">+9</p></td>
+<td align="left" valign="top"><p class="table">+6</p></td>
+<td align="left" valign="top"><p class="table">+6</p></td>
+<td align="left" valign="top"><p class="table">+11</p></td>
+<td align="left" valign="top"><p class="table"></p></td>
+</tr>
+<tr>
+<td align="left" valign="top"><p class="table">19</p></td>
+<td align="left" valign="top"><p class="table">+9</p></td>
+<td align="left" valign="top"><p class="table">+6</p></td>
+<td align="left" valign="top"><p class="table">+6</p></td>
+<td align="left" valign="top"><p class="table">+11</p></td>
+<td align="left" valign="top"><p class="table"></p></td>
+</tr>
+<tr>
+<td align="left" valign="top"><p class="table">20</p></td>
+<td align="left" valign="top"><p class="table">+10</p></td>
+<td align="left" valign="top"><p class="table">+6</p></td>
+<td align="left" valign="top"><p class="table">+6</p></td>
+<td align="left" valign="top"><p class="table">+12</p></td>
+<td align="left" valign="top"><p class="table"></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="paragraph"><p><strong>Weapon and Armor Proficiency:</strong> Adepts are skilled with all simple weapons. Adepts are not proficient with any type of armor nor with shields.</p></div>
+<div class="paragraph"><p><strong>Spells:</strong> An adept casts divine spells which are drawn from the adept spell list.  Like a cleric, an adept must choose and prepare her spells in advance.  Unlike a cleric, an adept cannot spontaneously cast cure or inflict spells.</p></div>
+<div class="paragraph"><p>To prepare or cast a spell, an adept must have a Wisdom score equal to at least 10 + the spell level.  The Difficulty Class for a saving throw against an adept&#8217;s spell is 10 + the spell level + the adept&#8217;s Wisdom modifier.</p></div>
+<div class="paragraph"><p>Adepts, unlike wizards, do not acquire their spells from books or scrolls, nor do they prepare them through study.  Instead, they meditate or pray for their spells, receiving them as divine inspiration or through their own strength of faith.  Each adept must choose a time each day at which she must spend an hour in quiet contemplation or supplication to regain her daily allotment of spells.  Time spent resting has no effect on whether an adept can prepare spells.</p></div>
+<div class="paragraph"><p>Like other spellcasters, an adept can cast only a certain number of spells of each spell level per day.  Her base daily spell allotment is given on Table: The Adept.  In addition, she receives bonus spells per day if she has a high Wisdom score.</p></div>
+<div class="paragraph"><p><strong>Summon Familiar:</strong> At 2nd level, an adept can call a familiar, just as a sorcerer or wizard can.</p></div>
+</div>
+<h2 id="_aristocrat">Aristocrat</h2>
+<div class="sectionbody">
+<h3 id="_the_aristocrat_base_class">The Aristocrat Base Class</h3><div style="clear:left"></div>
+<div class="paragraph"><p><strong>Hit Die:</strong> d8</p></div>
+<h4 id="_class_skills_2">Class Skills</h4>
+<div class="paragraph"><p><strong>The Aristocrat&#8217;s class skills (and the key ability for each skill) are:</strong>
+Appraise (Int), Bluff (Cha), Diplomacy (Cha), Disguise (Cha), Forgery (Int), Gather Information (Cha), Handle Animal (Cha), Intimidate (Cha), Knowledge (all skills taken individually) (Int), Listen (Wis), Perform (Cha), Ride (Dex), Sense Motive (Wis), Speak Language, Spot (Wis), Survival (Wis), Swim (Str)</p></div>
+<div class="paragraph"><p><strong>Skill Points at 1st Level:</strong> (4 + Int Modifier) x 4.</p></div>
+<div class="paragraph"><p><strong>Skill Points at Each Additional Level:</strong> 4 + Int Modifier.</p></div>
+<div class="tableblock">
+<table rules="all"
+width="100%"
+frame="border"
+cellspacing="0" cellpadding="4">
+<caption class="title">Table 2. The Aristocrat</caption>
+<col width="16%" />
+<col width="16%" />
+<col width="16%" />
+<col width="16%" />
+<col width="16%" />
+<col width="16%" />
+<thead>
+<tr>
+<th align="left" valign="top"> Level </th>
+<th align="left" valign="top"> Base Attack Bonus </th>
+<th align="left" valign="top"> Fort Save </th>
+<th align="left" valign="top"> Ref Save </th>
+<th align="left" valign="top"> Will Save </th>
+<th align="left" valign="top"> Special</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left" valign="top"><p class="table">1</p></td>
+<td align="left" valign="top"><p class="table">+0</p></td>
+<td align="left" valign="top"><p class="table">+0</p></td>
+<td align="left" valign="top"><p class="table">+0</p></td>
+<td align="left" valign="top"><p class="table">+2</p></td>
+<td align="left" valign="top"><p class="table"></p></td>
+</tr>
+<tr>
+<td align="left" valign="top"><p class="table">2</p></td>
+<td align="left" valign="top"><p class="table">+1</p></td>
+<td align="left" valign="top"><p class="table">+0</p></td>
+<td align="left" valign="top"><p class="table">+0</p></td>
+<td align="left" valign="top"><p class="table">+3</p></td>
+<td align="left" valign="top"><p class="table"></p></td>
+</tr>
+<tr>
+<td align="left" valign="top"><p class="table">3</p></td>
+<td align="left" valign="top"><p class="table">+2</p></td>
+<td align="left" valign="top"><p class="table">+1</p></td>
+<td align="left" valign="top"><p class="table">+1</p></td>
+<td align="left" valign="top"><p class="table">+3</p></td>
+<td align="left" valign="top"><p class="table"></p></td>
+</tr>
+<tr>
+<td align="left" valign="top"><p class="table">4</p></td>
+<td align="left" valign="top"><p class="table">+3</p></td>
+<td align="left" valign="top"><p class="table">+1</p></td>
+<td align="left" valign="top"><p class="table">+1</p></td>
+<td align="left" valign="top"><p class="table">+4</p></td>
+<td align="left" valign="top"><p class="table"></p></td>
+</tr>
+<tr>
+<td align="left" valign="top"><p class="table">5</p></td>
+<td align="left" valign="top"><p class="table">+3</p></td>
+<td align="left" valign="top"><p class="table">+1</p></td>
+<td align="left" valign="top"><p class="table">+1</p></td>
+<td align="left" valign="top"><p class="table">+4</p></td>
+<td align="left" valign="top"><p class="table"></p></td>
+</tr>
+<tr>
+<td align="left" valign="top"><p class="table">6</p></td>
+<td align="left" valign="top"><p class="table">+4</p></td>
+<td align="left" valign="top"><p class="table">+2</p></td>
+<td align="left" valign="top"><p class="table">+2</p></td>
+<td align="left" valign="top"><p class="table">+5</p></td>
+<td align="left" valign="top"><p class="table"></p></td>
+</tr>
+<tr>
+<td align="left" valign="top"><p class="table">7</p></td>
+<td align="left" valign="top"><p class="table">+5</p></td>
+<td align="left" valign="top"><p class="table">+2</p></td>
+<td align="left" valign="top"><p class="table">+2</p></td>
+<td align="left" valign="top"><p class="table">+5</p></td>
+<td align="left" valign="top"><p class="table"></p></td>
+</tr>
+<tr>
+<td align="left" valign="top"><p class="table">8</p></td>
+<td align="left" valign="top"><p class="table">+6</p></td>
+<td align="left" valign="top"><p class="table">+2</p></td>
+<td align="left" valign="top"><p class="table">+2</p></td>
+<td align="left" valign="top"><p class="table">+6</p></td>
+<td align="left" valign="top"><p class="table"></p></td>
+</tr>
+<tr>
+<td align="left" valign="top"><p class="table">9</p></td>
+<td align="left" valign="top"><p class="table">+6</p></td>
+<td align="left" valign="top"><p class="table">+3</p></td>
+<td align="left" valign="top"><p class="table">+3</p></td>
+<td align="left" valign="top"><p class="table">+6</p></td>
+<td align="left" valign="top"><p class="table"></p></td>
+</tr>
+<tr>
+<td align="left" valign="top"><p class="table">10</p></td>
+<td align="left" valign="top"><p class="table">+7</p></td>
+<td align="left" valign="top"><p class="table">+3</p></td>
+<td align="left" valign="top"><p class="table">+3</p></td>
+<td align="left" valign="top"><p class="table">+7</p></td>
+<td align="left" valign="top"><p class="table"></p></td>
+</tr>
+<tr>
+<td align="left" valign="top"><p class="table">11</p></td>
+<td align="left" valign="top"><p class="table">+8</p></td>
+<td align="left" valign="top"><p class="table">+3</p></td>
+<td align="left" valign="top"><p class="table">+3</p></td>
+<td align="left" valign="top"><p class="table">+7</p></td>
+<td align="left" valign="top"><p class="table"></p></td>
+</tr>
+<tr>
+<td align="left" valign="top"><p class="table">12</p></td>
+<td align="left" valign="top"><p class="table">+9</p></td>
+<td align="left" valign="top"><p class="table">+4</p></td>
+<td align="left" valign="top"><p class="table">+4</p></td>
+<td align="left" valign="top"><p class="table">+8</p></td>
+<td align="left" valign="top"><p class="table"></p></td>
+</tr>
+<tr>
+<td align="left" valign="top"><p class="table">13</p></td>
+<td align="left" valign="top"><p class="table">+9</p></td>
+<td align="left" valign="top"><p class="table">+4</p></td>
+<td align="left" valign="top"><p class="table">+4</p></td>
+<td align="left" valign="top"><p class="table">+8</p></td>
+<td align="left" valign="top"><p class="table"></p></td>
+</tr>
+<tr>
+<td align="left" valign="top"><p class="table">14</p></td>
+<td align="left" valign="top"><p class="table">+10</p></td>
+<td align="left" valign="top"><p class="table">+4</p></td>
+<td align="left" valign="top"><p class="table">+4</p></td>
+<td align="left" valign="top"><p class="table">+9</p></td>
+<td align="left" valign="top"><p class="table"></p></td>
+</tr>
+<tr>
+<td align="left" valign="top"><p class="table">15</p></td>
+<td align="left" valign="top"><p class="table">+11</p></td>
+<td align="left" valign="top"><p class="table">+5</p></td>
+<td align="left" valign="top"><p class="table">+5</p></td>
+<td align="left" valign="top"><p class="table">+9</p></td>
+<td align="left" valign="top"><p class="table"></p></td>
+</tr>
+<tr>
+<td align="left" valign="top"><p class="table">16</p></td>
+<td align="left" valign="top"><p class="table">+12</p></td>
+<td align="left" valign="top"><p class="table">+5</p></td>
+<td align="left" valign="top"><p class="table">+5</p></td>
+<td align="left" valign="top"><p class="table">+10</p></td>
+<td align="left" valign="top"><p class="table"></p></td>
+</tr>
+<tr>
+<td align="left" valign="top"><p class="table">17</p></td>
+<td align="left" valign="top"><p class="table">+12</p></td>
+<td align="left" valign="top"><p class="table">+5</p></td>
+<td align="left" valign="top"><p class="table">+5</p></td>
+<td align="left" valign="top"><p class="table">+10</p></td>
+<td align="left" valign="top"><p class="table"></p></td>
+</tr>
+<tr>
+<td align="left" valign="top"><p class="table">18</p></td>
+<td align="left" valign="top"><p class="table">+13</p></td>
+<td align="left" valign="top"><p class="table">+6</p></td>
+<td align="left" valign="top"><p class="table">+6</p></td>
+<td align="left" valign="top"><p class="table">+11</p></td>
+<td align="left" valign="top"><p class="table"></p></td>
+</tr>
+<tr>
+<td align="left" valign="top"><p class="table">19</p></td>
+<td align="left" valign="top"><p class="table">+14</p></td>
+<td align="left" valign="top"><p class="table">+6</p></td>
+<td align="left" valign="top"><p class="table">+6</p></td>
+<td align="left" valign="top"><p class="table">+11</p></td>
+<td align="left" valign="top"><p class="table"></p></td>
+</tr>
+<tr>
+<td align="left" valign="top"><p class="table">20</p></td>
+<td align="left" valign="top"><p class="table">+15</p></td>
+<td align="left" valign="top"><p class="table">+6</p></td>
+<td align="left" valign="top"><p class="table">+6</p></td>
+<td align="left" valign="top"><p class="table">+12</p></td>
+<td align="left" valign="top"><p class="table"></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="paragraph"><p><strong>Weapon and Armor Proficiency:</strong> The aristocrat is proficient in the use of all simple and martial weapons and with all types of armor and shields.</p></div>
+</div>
+<h2 id="_barbarian">Barbarian</h2>
+<div class="sectionbody">
+<h3 id="_the_barbarian_base_class">The Barbarian Base Class</h3><div style="clear:left"></div>
+<div class="paragraph"><p><strong>Alignment:</strong> Any nonlawful.</p></div>
+<div class="paragraph"><p><strong>Hit Die:</strong> d12</p></div>
+<h4 id="_class_skills_3">Class Skills</h4>
+<div class="paragraph"><p><strong>The Barbarian&#8217;s class skills (and the key ability for each skill) are:</strong>
+Climb (Str), Craft (Int), Handle Animal (Cha), Intimidate (Cha), Jump (Str), Listen (Wis), Ride (Dex), Survival (Wis), Swim (Str)</p></div>
+<div class="paragraph"><p><strong>Skill Points at 1st Level:</strong> (4 + Int Modifier) x 4.</p></div>
+<div class="paragraph"><p><strong>Skill Points at Each Additional Level:</strong> 4 + Int Modifier.</p></div>
+<div class="tableblock">
+<table rules="all"
+width="100%"
+frame="border"
+cellspacing="0" cellpadding="4">
+<caption class="title">Table 3. The Barbarian</caption>
+<col width="5%" />
+<col width="17%" />
+<col width="5%" />
+<col width="5%" />
+<col width="5%" />
+<col width="58%" />
+<thead>
+<tr>
+<th align="left" valign="top"> Level </th>
+<th align="left" valign="top"> Base Attack Bonus </th>
+<th align="left" valign="top"> Fort Save </th>
+<th align="left" valign="top"> Ref Save </th>
+<th align="left" valign="top"> Will Save </th>
+<th align="left" valign="top"> Special</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left" valign="top"><p class="table">1</p></td>
+<td align="left" valign="top"><p class="table">+1</p></td>
+<td align="left" valign="top"><p class="table">+2</p></td>
+<td align="left" valign="top"><p class="table">+0</p></td>
+<td align="left" valign="top"><p class="table">+0</p></td>
+<td align="left" valign="top"><p class="table">Rage (1/day), Illiteracy, Fast Movement</p></td>
+</tr>
+<tr>
+<td align="left" valign="top"><p class="table">2</p></td>
+<td align="left" valign="top"><p class="table">+2</p></td>
+<td align="left" valign="top"><p class="table">+3</p></td>
+<td align="left" valign="top"><p class="table">+0</p></td>
+<td align="left" valign="top"><p class="table">+0</p></td>
+<td align="left" valign="top"><p class="table">Uncanny Dodge</p></td>
+</tr>
+<tr>
+<td align="left" valign="top"><p class="table">3</p></td>
+<td align="left" valign="top"><p class="table">+3</p></td>
+<td align="left" valign="top"><p class="table">+3</p></td>
+<td align="left" valign="top"><p class="table">+1</p></td>
+<td align="left" valign="top"><p class="table">+1</p></td>
+<td align="left" valign="top"><p class="table">Trap Sense +1</p></td>
+</tr>
+<tr>
+<td align="left" valign="top"><p class="table">4</p></td>
+<td align="left" valign="top"><p class="table">+4</p></td>
+<td align="left" valign="top"><p class="table">+4</p></td>
+<td align="left" valign="top"><p class="table">+1</p></td>
+<td align="left" valign="top"><p class="table">+1</p></td>
+<td align="left" valign="top"><p class="table">Rage (2/day)</p></td>
+</tr>
+<tr>
+<td align="left" valign="top"><p class="table">5</p></td>
+<td align="left" valign="top"><p class="table">+5</p></td>
+<td align="left" valign="top"><p class="table">+4</p></td>
+<td align="left" valign="top"><p class="table">+1</p></td>
+<td align="left" valign="top"><p class="table">+1</p></td>
+<td align="left" valign="top"><p class="table">Improved Uncanny Dodge</p></td>
+</tr>
+<tr>
+<td align="left" valign="top"><p class="table">6</p></td>
+<td align="left" valign="top"><p class="table">+6</p></td>
+<td align="left" valign="top"><p class="table">+5</p></td>
+<td align="left" valign="top"><p class="table">+2</p></td>
+<td align="left" valign="top"><p class="table">+2</p></td>
+<td align="left" valign="top"><p class="table">Trap Sense +2</p></td>
+</tr>
+<tr>
+<td align="left" valign="top"><p class="table">7</p></td>
+<td align="left" valign="top"><p class="table">+7</p></td>
+<td align="left" valign="top"><p class="table">+5</p></td>
+<td align="left" valign="top"><p class="table">+2</p></td>
+<td align="left" valign="top"><p class="table">+2</p></td>
+<td align="left" valign="top"><p class="table">Damage Reduction 1/-</p></td>
+</tr>
+<tr>
+<td align="left" valign="top"><p class="table">8</p></td>
+<td align="left" valign="top"><p class="table">+8</p></td>
+<td align="left" valign="top"><p class="table">+6</p></td>
+<td align="left" valign="top"><p class="table">+2</p></td>
+<td align="left" valign="top"><p class="table">+2</p></td>
+<td align="left" valign="top"><p class="table">Rage (3/day)</p></td>
+</tr>
+<tr>
+<td align="left" valign="top"><p class="table">9</p></td>
+<td align="left" valign="top"><p class="table">+9</p></td>
+<td align="left" valign="top"><p class="table">+6</p></td>
+<td align="left" valign="top"><p class="table">+3</p></td>
+<td align="left" valign="top"><p class="table">+3</p></td>
+<td align="left" valign="top"><p class="table">Trap Sense +3</p></td>
+</tr>
+<tr>
+<td align="left" valign="top"><p class="table">10</p></td>
+<td align="left" valign="top"><p class="table">+10</p></td>
+<td align="left" valign="top"><p class="table">+7</p></td>
+<td align="left" valign="top"><p class="table">+3</p></td>
+<td align="left" valign="top"><p class="table">+3</p></td>
+<td align="left" valign="top"><p class="table">Damage Reduction 2/-</p></td>
+</tr>
+<tr>
+<td align="left" valign="top"><p class="table">11</p></td>
+<td align="left" valign="top"><p class="table">+11</p></td>
+<td align="left" valign="top"><p class="table">+7</p></td>
+<td align="left" valign="top"><p class="table">+3</p></td>
+<td align="left" valign="top"><p class="table">+3</p></td>
+<td align="left" valign="top"><p class="table">Greater Rage</p></td>
+</tr>
+<tr>
+<td align="left" valign="top"><p class="table">12</p></td>
+<td align="left" valign="top"><p class="table">+12</p></td>
+<td align="left" valign="top"><p class="table">+8</p></td>
+<td align="left" valign="top"><p class="table">+4</p></td>
+<td align="left" valign="top"><p class="table">+4</p></td>
+<td align="left" valign="top"><p class="table">Rage (4/day), Trap Sense +4</p></td>
+</tr>
+<tr>
+<td align="left" valign="top"><p class="table">13</p></td>
+<td align="left" valign="top"><p class="table">+13</p></td>
+<td align="left" valign="top"><p class="table">+8</p></td>
+<td align="left" valign="top"><p class="table">+4</p></td>
+<td align="left" valign="top"><p class="table">+4</p></td>
+<td align="left" valign="top"><p class="table">Damage Reduction 3/-</p></td>
+</tr>
+<tr>
+<td align="left" valign="top"><p class="table">14</p></td>
+<td align="left" valign="top"><p class="table">+14</p></td>
+<td align="left" valign="top"><p class="table">+9</p></td>
+<td align="left" valign="top"><p class="table">+4</p></td>
+<td align="left" valign="top"><p class="table">+4</p></td>
+<td align="left" valign="top"><p class="table">Indomitable Will</p></td>
+</tr>
+<tr>
+<td align="left" valign="top"><p class="table">15</p></td>
+<td align="left" valign="top"><p class="table">+15</p></td>
+<td align="left" valign="top"><p class="table">+9</p></td>
+<td align="left" valign="top"><p class="table">+5</p></td>
+<td align="left" valign="top"><p class="table">+5</p></td>
+<td align="left" valign="top"><p class="table">Trap Sense +5</p></td>
+</tr>
+<tr>
+<td align="left" valign="top"><p class="table">16</p></td>
+<td align="left" valign="top"><p class="table">+16</p></td>
+<td align="left" valign="top"><p class="table">+10</p></td>
+<td align="left" valign="top"><p class="table">+5</p></td>
+<td align="left" valign="top"><p class="table">+5</p></td>
+<td align="left" valign="top"><p class="table">Damage Reduction 4/-, Rage (5/day)</p></td>
+</tr>
+<tr>
+<td align="left" valign="top"><p class="table">17</p></td>
+<td align="left" valign="top"><p class="table">+17</p></td>
+<td align="left" valign="top"><p class="table">+10</p></td>
+<td align="left" valign="top"><p class="table">+5</p></td>
+<td align="left" valign="top"><p class="table">+5</p></td>
+<td align="left" valign="top"><p class="table">Tireless Rage</p></td>
+</tr>
+<tr>
+<td align="left" valign="top"><p class="table">18</p></td>
+<td align="left" valign="top"><p class="table">+18</p></td>
+<td align="left" valign="top"><p class="table">+11</p></td>
+<td align="left" valign="top"><p class="table">+6</p></td>
+<td align="left" valign="top"><p class="table">+6</p></td>
+<td align="left" valign="top"><p class="table">Trap Sense +6</p></td>
+</tr>
+<tr>
+<td align="left" valign="top"><p class="table">19</p></td>
+<td align="left" valign="top"><p class="table">+19</p></td>
+<td align="left" valign="top"><p class="table">+11</p></td>
+<td align="left" valign="top"><p class="table">+6</p></td>
+<td align="left" valign="top"><p class="table">+6</p></td>
+<td align="left" valign="top"><p class="table">Damage Reduction 5/-</p></td>
+</tr>
+<tr>
+<td align="left" valign="top"><p class="table">20</p></td>
+<td align="left" valign="top"><p class="table">+20</p></td>
+<td align="left" valign="top"><p class="table">+12</p></td>
+<td align="left" valign="top"><p class="table">+6</p></td>
+<td align="left" valign="top"><p class="table">+6</p></td>
+<td align="left" valign="top"><p class="table">Mighty Rage, Rage (6/day)</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="paragraph"><p><strong>Weapon and Armor Proficiency:</strong> A barbarian is proficient with all simple and martial weapons, light armor, medium armor, and shields (except tower shields).</p></div>
+<div class="paragraph"><p><strong>Rage (Ex):</strong> A barbarian can fly into a rage a certain number of times per day. In a rage, a barbarian temporarily gains a +4 bonus to Strength, a +4 bonus to Constitution, and a +2 morale bonus on Will saves, but he takes a -2 penalty to Armor Class.  The increase in Constitution increases the barbarian&#8217;s hit points by 2 points per level, but these hit points go away at the end of the rage when his Constitution score drops back to normal.  (These extra hit points are not lost first the way temporary hit points are.) While raging, a barbarian cannot use any Charisma-, Dexterity-, or Intelligence-based skills (except for Balance, Escape Artist, Intimidate, and Ride), the Concentration skill, or any abilities that require patience or concentration, nor can he cast spells or activate magic items that require a command word, a spell trigger (such as a wand), or spell completion (such as a scroll) to function.  He can use any feat he has except Combat Expertise, item creation feats, and metamagic feats.  A fit of rage lasts for a number of rounds equal to 3 + the character&#8217;s (newly improved) Constitution modifier.  A barbarian may prematurely end his rage. At the end of the rage, the barbarian loses the rage modifiers and restrictions and becomes fatigued (-2 penalty to Strength, -2 penalty to Dexterity, can&#8217;t charge or run) for the duration of the current encounter (unless he is a 17th-level barbarian, at which point this limitation no longer applies; see below).</p></div>
+<div class="paragraph"><p>A barbarian can fly into a rage only once per encounter. At 1st level he can use his rage ability once per day.  At 4th level and every four levels thereafter, he can use it one additional time per day (to a maximum of six times per day at 20th level).  Entering a rage takes no time itself, but a barbarian can do it only during his action, not in response to someone else&#8217;s action.</p></div>
+<div class="paragraph"><p><strong>Illiteracy:</strong> Barbarians are the only characters who do not automatically know how to read and write.  A barbarian may spend 2 skill points to gain the ability to read and write all languages he is able to speak.</p></div>
+<div class="paragraph"><p>A barbarian who gains a level in any other class automatically gains literacy. Any other character who gains a barbarian level does not lose the literacy he or she already had.</p></div>
+<div class="paragraph"><p><strong>Fast Movement:</strong> A barbarian&#8217;s land speed is faster than the norm for his race by +10 feet.  This benefit applies only when he is wearing no armor, light armor, or medium armor and not carrying a heavy load.  Apply this bonus before modifying the barbarian&#8217;s speed because of any load carried or armor worn.</p></div>
+<div class="paragraph"><p><strong>Uncanny Dodge (Ex):</strong> At 2nd level, a barbarian retains his Dexterity bonus to AC (if any) even if he is caught flat-footed or struck by an invisible attacker. However, he still loses his Dexterity bonus to AC if immobilized.</p></div>
+<div class="paragraph"><p>If a barbarian already has uncanny dodge from a different class, he automatically gains improved uncanny dodge (see below) instead.</p></div>
+<div class="paragraph"><p><strong>Trap Sense (Ex):</strong> Starting at 3rd level, a barbarian gains a +1 bonus on Reflex saves made to avoid traps and a +1 dodge bonus to AC against attacks made by traps.  These bonuses rise by +1 every three barbarian levels thereafter (6th, 9th, 12th, 15th, and 18th level).  Trap sense bonuses gained from multiple classes stack.</p></div>
+<div class="paragraph"><p><strong>Improved Uncanny Dodge (Ex):</strong> At 5th level and higher, a barbarian can no longer be flanked. This defense denies a rogue the ability to sneak attack the barbarian by flanking him, unless the attacker has at least four more rogue levels than the target has barbarian levels.  If a character already has uncanny dodge (see above) from a second class, the character automatically gains improved uncanny dodge instead, and the levels from the classes that grant uncanny dodge stack to determine the minimum level a rogue must be to flank the character.</p></div>
+<div class="paragraph"><p><strong>Damage Reduction (Ex):</strong> At 7th level, a barbarian gains Damage Reduction.</p></div>
+<div class="paragraph"><p>Subtract 1 from the damage the barbarian takes each time he is dealt damage from a weapon or a natural attack.  At 10th level, and every three barbarian levels thereafter (13th, 16th, and 19th level), this damage reduction rises by 1 point.  Damage reduction can reduce damage to 0 but not below 0.</p></div>
+<div class="paragraph"><p><strong>Greater Rage (Ex):</strong> At 11th level, a barbarian&#8217;s bonuses to Strength and Constitution during his rage each increase to +6, and his morale bonus on Will saves increases to +3.  The penalty to AC remains at -2.</p></div>
+<div class="paragraph"><p><strong>Indomitable Will (Ex):</strong> While in a rage, a barbarian of 14th level or higher gains a +4 bonus on Will saves to resist enchantment spells.  This bonus stacks with all other modifiers, including the morale bonus on Will saves he also receives during his rage.</p></div>
+<div class="paragraph"><p><strong>Tireless Rage (Ex):</strong> At 17th level and higher, a barbarian no longer becomes fatigued at the end of his rage.</p></div>
+<div class="paragraph"><p><strong>Mighty Rage (Ex):</strong> At 20th level, a barbarian&#8217;s bonuses to Strength and Constitution during his rage each increase to +8, and his morale bonus on Will saves increases to +4.  The penalty to AC remains at -2.</p></div>
+<h4 id="_ex_barbarians">Ex-Barbarians</h4>
+<div class="paragraph"><p>A barbarian who becomes lawful loses the ability to rage and cannot gain more levels as a barbarian.  He retains all the other benefits of the class (damage reduction, fast movement, trap sense, and uncanny dodge).</p></div>
+</div>
+<h2 id="_cleric">Cleric</h2>
+<div class="sectionbody">
+<h3 id="_the_cleric_base_class">The Cleric Base Class</h3><div style="clear:left"></div>
+<div class="paragraph"><p><strong>Hit Die:</strong> d8</p></div>
+<h4 id="_class_skills_4">Class Skills</h4>
+<div class="paragraph"><p><strong>The Cleric&#8217;s class skills (and the key ability for each skill) are:</strong>
+Concentration (Con), Craft (Int), Diplomacy (Cha), Heal (Wis), Knowledge (Arcana) (Int), Knowledge (History) (Int), Knowledge (Religion) (Int), Knowledge (The Planes) (Int), Profession (Wis), Spellcraft (Int)</p></div>
+<div class="paragraph"><p><strong>Skill Points at 1st Level:</strong> (2 + Int Modifier) x 4.</p></div>
+<div class="paragraph"><p><strong>Skill Points at Each Additional Level:</strong> 2 + Int Modifier.</p></div>
+<div class="tableblock">
+<table rules="all"
+width="100%"
+frame="border"
+cellspacing="0" cellpadding="4">
+<caption class="title">Table 4. The Cleric</caption>
+<col width="16%" />
+<col width="16%" />
+<col width="16%" />
+<col width="16%" />
+<col width="16%" />
+<col width="16%" />
+<thead>
+<tr>
+<th align="left" valign="top"> Level </th>
+<th align="left" valign="top"> Base Attack Bonus </th>
+<th align="left" valign="top"> Fort Save </th>
+<th align="left" valign="top"> Ref Save </th>
+<th align="left" valign="top"> Will Save </th>
+<th align="left" valign="top"> Special</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left" valign="top"><p class="table">1</p></td>
+<td align="left" valign="top"><p class="table">+0</p></td>
+<td align="left" valign="top"><p class="table">+2</p></td>
+<td align="left" valign="top"><p class="table">+0</p></td>
+<td align="left" valign="top"><p class="table">+2</p></td>
+<td align="left" valign="top"><p class="table">Turn or Rebuke Undead</p></td>
+</tr>
+<tr>
+<td align="left" valign="top"><p class="table">2</p></td>
+<td align="left" valign="top"><p class="table">+1</p></td>
+<td align="left" valign="top"><p class="table">+3</p></td>
+<td align="left" valign="top"><p class="table">+0</p></td>
+<td align="left" valign="top"><p class="table">+3</p></td>
+<td align="left" valign="top"><p class="table"></p></td>
+</tr>
+<tr>
+<td align="left" valign="top"><p class="table">3</p></td>
+<td align="left" valign="top"><p class="table">+2</p></td>
+<td align="left" valign="top"><p class="table">+3</p></td>
+<td align="left" valign="top"><p class="table">+1</p></td>
+<td align="left" valign="top"><p class="table">+3</p></td>
+<td align="left" valign="top"><p class="table"></p></td>
+</tr>
+<tr>
+<td align="left" valign="top"><p class="table">4</p></td>
+<td align="left" valign="top"><p class="table">+3</p></td>
+<td align="left" valign="top"><p class="table">+4</p></td>
+<td align="left" valign="top"><p class="table">+1</p></td>
+<td align="left" valign="top"><p class="table">+4</p></td>
+<td align="left" valign="top"><p class="table"></p></td>
+</tr>
+<tr>
+<td align="left" valign="top"><p class="table">5</p></td>
+<td align="left" valign="top"><p class="table">+3</p></td>
+<td align="left" valign="top"><p class="table">+4</p></td>
+<td align="left" valign="top"><p class="table">+1</p></td>
+<td align="left" valign="top"><p class="table">+4</p></td>
+<td align="left" valign="top"><p class="table"></p></td>
+</tr>
+<tr>
+<td align="left" valign="top"><p class="table">6</p></td>
+<td align="left" valign="top"><p class="table">+4</p></td>
+<td align="left" valign="top"><p class="table">+5</p></td>
+<td align="left" valign="top"><p class="table">+2</p></td>
+<td align="left" valign="top"><p class="table">+5</p></td>
+<td align="left" valign="top"><p class="table"></p></td>
+</tr>
+<tr>
+<td align="left" valign="top"><p class="table">7</p></td>
+<td align="left" valign="top"><p class="table">+5</p></td>
+<td align="left" valign="top"><p class="table">+5</p></td>
+<td align="left" valign="top"><p class="table">+2</p></td>
+<td align="left" valign="top"><p class="table">+5</p></td>
+<td align="left" valign="top"><p class="table"></p></td>
+</tr>
+<tr>
+<td align="left" valign="top"><p class="table">8</p></td>
+<td align="left" valign="top"><p class="table">+6</p></td>
+<td align="left" valign="top"><p class="table">+6</p></td>
+<td align="left" valign="top"><p class="table">+2</p></td>
+<td align="left" valign="top"><p class="table">+6</p></td>
+<td align="left" valign="top"><p class="table"></p></td>
+</tr>
+<tr>
+<td align="left" valign="top"><p class="table">9</p></td>
+<td align="left" valign="top"><p class="table">+6</p></td>
+<td align="left" valign="top"><p class="table">+6</p></td>
+<td align="left" valign="top"><p class="table">+3</p></td>
+<td align="left" valign="top"><p class="table">+6</p></td>
+<td align="left" valign="top"><p class="table"></p></td>
+</tr>
+<tr>
+<td align="left" valign="top"><p class="table">10</p></td>
+<td align="left" valign="top"><p class="table">+7</p></td>
+<td align="left" valign="top"><p class="table">+7</p></td>
+<td align="left" valign="top"><p class="table">+3</p></td>
+<td align="left" valign="top"><p class="table">+7</p></td>
+<td align="left" valign="top"><p class="table"></p></td>
+</tr>
+<tr>
+<td align="left" valign="top"><p class="table">11</p></td>
+<td align="left" valign="top"><p class="table">+8</p></td>
+<td align="left" valign="top"><p class="table">+7</p></td>
+<td align="left" valign="top"><p class="table">+3</p></td>
+<td align="left" valign="top"><p class="table">+7</p></td>
+<td align="left" valign="top"><p class="table"></p></td>
+</tr>
+<tr>
+<td align="left" valign="top"><p class="table">12</p></td>
+<td align="left" valign="top"><p class="table">+9</p></td>
+<td align="left" valign="top"><p class="table">+8</p></td>
+<td align="left" valign="top"><p class="table">+4</p></td>
+<td align="left" valign="top"><p class="table">+8</p></td>
+<td align="left" valign="top"><p class="table"></p></td>
+</tr>
+<tr>
+<td align="left" valign="top"><p class="table">13</p></td>
+<td align="left" valign="top"><p class="table">+9</p></td>
+<td align="left" valign="top"><p class="table">+8</p></td>
+<td align="left" valign="top"><p class="table">+4</p></td>
+<td align="left" valign="top"><p class="table">+8</p></td>
+<td align="left" valign="top"><p class="table"></p></td>
+</tr>
+<tr>
+<td align="left" valign="top"><p class="table">14</p></td>
+<td align="left" valign="top"><p class="table">+10</p></td>
+<td align="left" valign="top"><p class="table">+9</p></td>
+<td align="left" valign="top"><p class="table">+4</p></td>
+<td align="left" valign="top"><p class="table">+9</p></td>
+<td align="left" valign="top"><p class="table"></p></td>
+</tr>
+<tr>
+<td align="left" valign="top"><p class="table">15</p></td>
+<td align="left" valign="top"><p class="table">+11</p></td>
+<td align="left" valign="top"><p class="table">+9</p></td>
+<td align="left" valign="top"><p class="table">+5</p></td>
+<td align="left" valign="top"><p class="table">+9</p></td>
+<td align="left" valign="top"><p class="table"></p></td>
+</tr>
+<tr>
+<td align="left" valign="top"><p class="table">16</p></td>
+<td align="left" valign="top"><p class="table">+12</p></td>
+<td align="left" valign="top"><p class="table">+10</p></td>
+<td align="left" valign="top"><p class="table">+5</p></td>
+<td align="left" valign="top"><p class="table">+10</p></td>
+<td align="left" valign="top"><p class="table"></p></td>
+</tr>
+<tr>
+<td align="left" valign="top"><p class="table">17</p></td>
+<td align="left" valign="top"><p class="table">+12</p></td>
+<td align="left" valign="top"><p class="table">+10</p></td>
+<td align="left" valign="top"><p class="table">+5</p></td>
+<td align="left" valign="top"><p class="table">+10</p></td>
+<td align="left" valign="top"><p class="table"></p></td>
+</tr>
+<tr>
+<td align="left" valign="top"><p class="table">18</p></td>
+<td align="left" valign="top"><p class="table">+13</p></td>
+<td align="left" valign="top"><p class="table">+11</p></td>
+<td align="left" valign="top"><p class="table">+6</p></td>
+<td align="left" valign="top"><p class="table">+11</p></td>
+<td align="left" valign="top"><p class="table"></p></td>
+</tr>
+<tr>
+<td align="left" valign="top"><p class="table">19</p></td>
+<td align="left" valign="top"><p class="table">+14</p></td>
+<td align="left" valign="top"><p class="table">+11</p></td>
+<td align="left" valign="top"><p class="table">+6</p></td>
+<td align="left" valign="top"><p class="table">+11</p></td>
+<td align="left" valign="top"><p class="table"></p></td>
+</tr>
+<tr>
+<td align="left" valign="top"><p class="table">20</p></td>
+<td align="left" valign="top"><p class="table">+15</p></td>
+<td align="left" valign="top"><p class="table">+12</p></td>
+<td align="left" valign="top"><p class="table">+6</p></td>
+<td align="left" valign="top"><p class="table">+12</p></td>
+<td align="left" valign="top"><p class="table"></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="paragraph"><p><strong>Chaotic, Evil, Good, and Lawful Spells:</strong> A cleric can&#8217;t cast spells of an alignment opposed to his own or his deity&#8217;s (if he has one).  Spells associated with particular alignments are indicated by the chaos, evil, good, and law descriptors in their spell descriptions.</p></div>
+<div class="paragraph"><p><strong>Spontaneous Casting:</strong> A good cleric (or a neutral cleric of a good deity) can channel stored spell energy into healing spells that the cleric did not prepare ahead of time.  The cleric can "lose" any prepared spell that is not a domain spell in order to cast any cure spell of the same spell level or lower (a cure spell is any spell with "cure" in its name).</p></div>
+<div class="paragraph"><p>An evil cleric (or a neutral cleric of an evil deity), can&#8217;t convert prepared spells to cure spells but can convert them to inflict spells (an inflict spell is one with "inflict" in its name).</p></div>
+<div class="paragraph"><p>A cleric who is neither good nor evil and whose deity is neither good nor evil can convert spells to either cure spells or inflict spells (player&#8217;s choice).  Once the player makes this choice, it cannot be reversed.  This choice also determines whether the cleric turns or commands undead.</p></div>
+<div class="paragraph"><p><strong>Aura (Ex):</strong> A cleric of a chaotic, evil, good, or lawful deity has a particularly powerful aura corresponding to the deity&#8217;s alignment (see the detect evil spell for details).  Clerics who don&#8217;t worship a specific deity but choose the Chaos, Evil, Good, or Law domain have a similarly powerful aura of the corresponding alignment.</p></div>
+<div class="paragraph"><p><strong>Bonus Languages:</strong> A cleric&#8217;s bonus language options include Celestial, Abyssal, and Infernal (the languages of good, chaotic evil, and lawful evil outsiders, respectively).  These choices are in addition to the bonus languages available to the character because of his race.</p></div>
+<div class="paragraph"><p><strong>Weapon and Armor Proficiency:</strong> Clerics are proficient with all simple weapons, with all types of armor (light, medium, and heavy), and with shields (except tower shields).</p></div>
+<div class="paragraph"><p>A cleric who chooses the War domain receives the Weapon Focus feat related to his deity&#8217;s weapon as a bonus feat.  He also receives the appropriate Martial Weapon Proficiency feat as a bonus feat, if the weapon falls into that category.</p></div>
+<div class="paragraph"><p><strong>Deity, Domains, and Domain Spells:</strong> A cleric&#8217;s deity influences his alignment, what magic he can perform, his values, and how others see him.  A cleric chooses two domains from among those belonging to his deity.  A cleric can select an alignment domain (Chaos, Evil, Good, or Law) only if his alignment matches that domain.</p></div>
+<div class="paragraph"><p>If a cleric is not devoted to a particular deity, he still selects two domains to represent his spiritual inclinations and abilities. The restriction on alignment domains still applies.</p></div>
+<div class="paragraph"><p>Each domain gives the cleric access to a domain spell at each spell level he can cast, from 1st on up, as well as a granted power.  The cleric gets the granted powers of both the domains selected.</p></div>
+<div class="paragraph"><p>With access to two domain spells at a given spell level, a cleric prepares one or the other each day in his domain spell slot.  If a domain spell is not on the cleric spell list, a cleric can prepare it only in his domain spell slot.</p></div>
+<div class="paragraph"><p><strong>Spells:</strong> A cleric casts divine spells, which are drawn from the cleric spell list.  However, his alignment may restrict him from casting certain spells opposed to his moral or ethical beliefs; see Chaotic, Evil, Good, and Lawful Spells, below.  A cleric must choose and prepare his spells in advance (see below).</p></div>
+<div class="paragraph"><p>To prepare or cast a spell, a cleric must have a Wisdom score equal to at least 10 + the spell level.  The Difficulty Class for a saving throw against a cleric&#8217;s spell is 10 + the spell level + the cleric&#8217;s Wisdom modifier.</p></div>
+<div class="paragraph"><p>Like other spellcasters, a cleric can cast only a certain number of spells of each spell level per day.  His base daily spell allotment is given on Table: The Cleric.  In addition, he receives bonus spells per day if he has a high Wisdom score.  A cleric also gets one domain spell of each spell level he can cast, starting at 1st level.  When a cleric prepares a spell in a domain spell slot, it must come from one of his two domains (see Deities, Domains, and Domain Spells, below).</p></div>
+<div class="paragraph"><p>Clerics meditate or pray for their spells. Each cleric must choose a time at which he must spend 1 hour each day in quiet contemplation or supplication to regain his daily allotment of spells.  Time spent resting has no effect on whether a cleric can prepare spells.  A cleric may prepare and cast any spell on the cleric spell list, provided that he can cast spells of that level, but he must choose which spells to prepare during his daily meditation.</p></div>
+<div class="paragraph"><p><strong>Turn or Rebuke Undead (Su):</strong> Any cleric, regardless of alignment, has the power to affect undead creatures by channeling the power of his faith through his holy (or unholy) symbol (see Turn or Rebuke Undead).</p></div>
+<div class="paragraph"><p>A good cleric (or a neutral cleric who worships a good deity) can turn or destroy undead creatures.  An evil cleric (or a neutral cleric who worships an evil deity) instead rebukes or commands such creatures.  A neutral cleric of a neutral deity must choose whether his turning ability functions as that of a good cleric or an evil cleric.  Once this choice is made, it cannot be reversed.  This decision also determines whether the cleric can cast spontaneous cure or inflict spells.</p></div>
+<div class="paragraph"><p>A cleric may attempt to turn undead a number of times per day equal to 3 + his Charisma modifier.  A cleric with 5 or more ranks in Knowledge (religion) gets a +2 bonus on turning checks against undead.</p></div>
+<h4 id="_ex_clerics">Ex-Clerics</h4>
+<div class="paragraph"><p>A cleric who grossly violates the code of conduct required by his god loses all spells and class features, except for armor and shield proficiencies and proficiency with simple weapons.  He cannot thereafter gain levels as a cleric of that god until he atones (see the atonement spell description).</p></div>
+</div>
+</div>
+<div id="footnotes"><hr /></div>
+<div id="footer">
+<div id="footer-text">
+Last updated 2010-09-26 02:55:39 EDT
+</div>
+</div>
+</body>
+</html>
