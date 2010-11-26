@@ -1,0 +1,946 @@
+Being Batman: the Logic Ninja's Guide to Wizards
+================================================
+
+_"Making the Most of What You Have (When What You Have Is Already Ridiculously Good)"_
+
+Editor's Note: This is a near-precise repost of the Logic Ninja's classic
+guide.  As the thread purge ate the old guide, but it's still as relevant as
+ever and I've gotten the man's permission, I'm reposting it for all the
+relevant links, and for all the people who have yet to read it.  So enjoy
+some classic optimization wisdom that once opened the eyes of thousands for
+how to make the most out of Wizards!
+
+The Very Basics of Wizardry
+---------------------------
+So, you're a wizard. Or rather, you're a geek, pretending to be a wizard,
+while the guy to your right pretends to be charismatic and good with people
+plus a master at assassinating people, the guy to your left pretends to be a
+slutty lesbian elf princess, and the guy across the table and behind the
+screen is indulging his power fantasies and would probably be getting off on
+it if not for his erectile difficulties--but hey, it's not like he's ever
+touched a girl, so the only person he's disappointing is himself.
+
+Anyway--you're a wizard. What does this mean?
+
+Traditionally, it means that at level 1 a house cat is a serious threat to
+you, while at level 20 you're "weak" to the same extent that OJ is "looking
+for the real killers".
+
+As a wizard, you don't have lots of HP, you can't swing swords well, and you
+try to stay as far away from things that want to kill you as you can while
+still drinking the tasty, tasty XP from their corpses.
+
+What you do have is spellcasting, and a familiar (which is more of a danger
+than an asset--until you hit level 11; more on that later).
+
+If you're playing a wizard, you already know you can cast spells and are
+really squishy, so let's get to the details.
+
+The Wizard and his Adventuring Buddies
+--------------------------------------
+
+_AKA "Those Chumps Who Hit Things For You, Stop Things From Hitting You, And
+Heal You When You Need It, While You Do All The Important Stuff"_
+
+The traditional adventuring party has four people, filling the roles of
+Meat-Shield, Skill-Monkey, Heal-Bitch, and Batman.  You're--as Frank Miller
+put--the goddamn Batman.
+
+Your job is to do whatever it is that needs doing, unless it falls into the
+category of "hitting things", "healing things", or "using skills that aren't
+Knowledge or Spellcraft".  Since this is D&D, "whatever it is that needs
+doing" will mostly be killing things (and, of course, not getting killed
+yourself).  To this end, you will cast spells that help you and your poor,
+ignorant, inferior companions (read: party), and hamper your enemies.
+
+
+Your Utility Belt
+-----------------
+
+You cast spells (well, either that, or hoard them all, not wanting to waste
+them, and therefore wind up sucking).  Spells can do lots of different
+things.  There are several general categories of spells:
+
+* Defensive Buffs: spells that make it more difficult to kill you and/or
+  your allies.
+
+* Offensive Buffs: spells that make it easier for you and/or your allies to
+  kill others.
+
+* Utility: mostly useful outside of combat, these spells help you accomplish
+general tasks.  For example, Rope Trick helps you rest without being eaten
+at night, Detect Secret Doors helps you find where people hid stuff, et
+cetera.
+
+* Offensive Spells: this category includes anything that does something someone doesn't like to them. There are a number of different kinds of these.
+
+** Save-or-Die: These make people do what it says. This is good because that's what you're trying to get people to do, a lot of the time. Example: Finger of Death
+
+** Save-or-Lose: These don't kill people, but they might as well. If they succeed, the fight is effectively won; all that remains is clean-up. Example: Fear.
+
+** Save-or-Suck: These don't make them lose by default, but they certainly make it a lot more likely. "Debuff" spells that hamper foes like Glitterdust, Slow, et cetera all fall in this category. The line between these and Save-or-Lose spells is pretty blurry.
+
+** Direct Damage: These spells, by and large, suck. Occasionally, they're useful, but when a good mage wants something damaged, he tells the fighter to go hit it. If it's hard to hurt, he buffs the fighter first.
+
+** Battlefield Control: These spells shape the battlefield in your favor. They make enemies stay away from you or otherwise do what you want, they buy you time, and so on. Examples: Solid Fog, Grease.
+
+** No Save: These spells do bad things to people, and people can't do a damn thing about it. Not too many of these, because they're so damn good.
+
+* Useless Crap: some spells just plain suck, period. This category covers things like Tenser's Floating Disc, Hold Portal, Detect Undead, and Shout.
+
+What kind of spells do you want? Well, you want some of each--except, most of the time, direct damage. Those are occasionally useful, and will be mentioned later, but in general, avoid them. Why? Because everyone else can do damage, and often, much better than you, while you can also do all the things no one else can. Leave damage to the guys with pointy sticks; you have better things to do.
+
+Think Your Cunning Plans All the Way Through
+
+Spells.
+
+Don't pick them haphazardly--either to learn or to memorize. Which spells should you pick? That depends on what you're doing and what you specialize in. Here's a general selection of good spells:
+
+Bread and Butter: PHB spells
+----------------------------
+
+Level 1
+~~~~~~~
+
+* Alarm: utility, and kind of a defensive buff--it keeps you from getting eaten by a moose while asleep.
+
+* Protection from X: defensive buff--the +2 AC/saves vs. X is nice, but the real kicker is the fact that it supresses all charms and compulsions. Very useful for low-will-save types.
+
+* Shield: defensive buff. Gives you +4 AC. The goodness is obvious.
+
+* Grease: battlefield control that can even be save-or-lose. Note that it forces balance checks, and creatures who don't have 5 ranks in balance are flat-footed while making balance checks... which means the party rogue can sneak attack away.
+
+* Mage Armor: defensive buff, so you're not TOTALLY squishy. Hours duration, as much AS as a chain shirt. What mage doesn't take it?
+
+* Mount: utility. Situational--sometimes, you need a horse to get somewhere quickly. The real use of Mount, though, is to combine it with Disguise Self and Magic Aura, get rid of the mount's magic aura, disguise yourself as someone else... and sell the horse to someone.
+
+* Identify: utility, needed to identify magic lewts.
+
+* True Strike: Offensive buff for when your touch-attack spells are having trouble hitting.
+
+* Charm Person: Utility/Offensive: it makes people your friends. That's all sorts of useful.
+
+* Sleep: Save-or-Lose. Sleep is the low-level "win spell"; even a cleric with 18 WIS only has a +6 will save at level 1, and with 18 INT you can have a DC 15 Sleep, 16 with focuses. That's a pretty solid chance of a failed save. With a 10-WIS fighter or rogue, it's a great chance.
+
+* Color Spray: Save-or-Lose. Similar to sleep, but it keeps being good for a lot longer. At levels 1-3ish Sleep is better because Color Spray is short-range and thus more likely to get you poked with a pointy stick.
+
+* Silent Image: Utility. It's an illusion. Use your creativity.
+
+* Ray of Enfeeblement: No save. Heavy strength drain can make a fighter useless--he suddenly can't move in his heavy armor! It's always good for dropping people's AB and damage, too. No save, like most ray spells; hitting with the ranged touch can occasionally be an issue.
+
+* Enlarge Person: a great low-level buff. Give your fighter reach and a strength bonus.
+
+Level 2
+~~~~~~~
+
+* Glitterdust: With a Will save vs. Blindness, this is a save-or-suck that affects an area. It can pretty much win battles for you, as the fighters have to contend with suddenly significantly less dangerous enemies.
+
+* Web: Battlefield control, this keeps people stuck and makes them move through it slowly if they aren't stuck.
+
+* Detect Thoughts: Utility. This is useful in all kinds of social situation. Haven't you ever wanted to know what someone's thinking?
+
+* See Invisibility: Utility and, in many ways, a defensive buff. Invisible people who want to hurt you are bad, because it means they're likely to actually do so.
+
+* Shatter: one of the few good Evocation spells, at low levels, this rocks the house as an offensive spell cast against enemy armor; later on it becomes utility (who needs to pick locks?).
+
+* Mirror Image: a great defensive buff. People have a good chance to miss you and hit your image.
+
+* Invisibility: utility that can be used as a defensive buff--hard to hit you if you can't be seen.
+
+* Bull's Strength: this becomes pointless once you have +STR items, but when you can first get it, it's a solid offensive buff. Put it on the fighter and he can hit things better and harder; it'll wind up doing more damage than Acid Arrow.
+
+* Rope Trick: once you hit Caster Level 9 (or extend it at CL 5), this spell is the perfect place to rest and prepare your spells in dungeons, the wilderness, et cetera.
+
+Level 3
+~~~~~~~
+
+* Dispel Magic: because you're not the only spellcaster around.
+
+* Magic Circle Against X: defensive buff; all the goodies of Protection From X, but longer-lasting (10 min/level) and covering everyone within 10' of the recipient.
+
+* Protection from Energy: defensive buff. Useful if you know what energy to expect ahead of time. Fighting fire elementals? Protection from Fire will help.
+
+* Phantom Steed: Utility. At first it seems meh, but then you realize that the horse can eventually fly (hours-duration Fly spell, effectively), and has a movement speed of 20 ft *per caster level*. At level 5, that's 100'. Take Ride ranks, and you can have the phantom horse move in, cast a spell, and have it move back. It caps at 240', which is pretty damn fast.
+
+* Stinking Cloud: Save-or-Lose. Nauseated creatures can't take standard ations, and thus can't hurt you. Plus, it makes for handy battlefield control, since others will want to avoid it.
+
+* Deep Slumber: Save-or-Lose. Like Sleep, but up to 10 HD; good for the same reason: you can just one-shot sleeping things.
+
+* Wind Wall: defensive buff. Another of the Evocation school's few good spells. This keeps you safe from archers. All archers.
+
+* Ray of Exhaustion: Save or suck, exhaustion is -6 STR and -6 DEX--and if you save, you get fatigued anyway, for -2 to each.
+
+* Vampiric Touch: temporary HP. Hurt others, heal yourself.
+
+* Fly: defensive buff. Mobility. If they can't reach you, hurting you is harder. At low levels, Fly + Wind Wall makes you pretty much untouchable by everything except spellcasters.
+
+* Haste: offensive and defensive buff. It makes everyone move faster, which is handy for mobility--and gives them an extra attack per round.
+A fireball deals 5d6 at level 5--that's 17 average damage on a *failed* save. A fighter can do 17 damage a hit at level 5, and with Haste, he'll be getting an extra attack each round. The damage from those will pile up above and beyond what the fireball most likely accomplished.
+
+* Magic Weapon, Greater: offensive buff. Obviating the need for weapons with a better than +1 bonus since 3.0.
+
+* Slow: a save-or-suck that's almost a save-or-lose. Multiple target, Will save (fighter and rogue weakness), and they can only take a move or a standard action. Run circles around them--they can move up to you OR hit you, not both! Just stay out of reach of a partial charge.
+
+Level 4
+~~~~~~~
+
+* Dimensional Anchor: stop the BBEG from teleporting out.
+
+* Black Tentacles: battlefield control that gets less useful over time. Grapple the enemy mage so he can't get away! Grapple the enemy rogue to keep him useless!
+
+* Dimension Door: control/utility/defensive--get out of trouble (i.e. out of grapples, or away from Silence areas if you have Silent Spell on it), or into places you shouldn't be.
+
+* Resilient Sphere: trap enemies, or protect yourself with it.
+
+* Solid Fog: a great, great battlefield control spell. No save, no SR, and they move at 5' a round when they're in it.
+
+* Confusion: Save-or-Lose. This spell can turn a difficult encounter into a cakewalk. Suddenly, the enemies are all ineffectual!
+
+* Greater Invisibility: attack and stay invisible. The party rogue will love this--sneak attacks galore. You'll love it, too, since it'll let you be safer when casting in combat.
+
+* Enervation: 1d4 negative levels. Negative levels impose penalties to saving throws, and make spellcasters lose spells. A great spell to metamagic; it actually comes into its own as you get higher in level.
+
+* Fear: Save-or-Lose, like Confusion.
+
+Level 5
+~~~~~~~
+
+* Teleport: now you can Teleport out of danger... or into it. This spell has a variety of uses, including getting to your sanctum when you're low on spells and in a dangerous place (and teleporting back later).
+
+* Wall of Stone: Battlefield control. Putting a big, long wall of stone wherever you want lets you shape the battlefield like woah.
+
+* Telepathic Bond: utility, get it Permanencied at higher levels. Instant communication between party members.
+
+* Prying Eyes: utility/defensive; a scouting system that's useful in many places.
+
+* Dominate Person: Save-or-Lose. Dominate an enemy. have him fight another enemy. You win.
+
+* Feeblemind: save-or-lose; other spellcasters beware!
+
+* Hold Monster: paralyzing things lets others one-shot them.
+
+* Shadow Evocation: depends on what you do with it. Want Wind Wall access despite having banned Evocation? Here y'go!
+
+* Baleful Polymorph: save-or-die. Not actually die, but be turned into a squirrel, which is effectively the same thing.
+
+* Overland Flight: longterm flight for those who don't want to risk their Phantom Steed being shot out from under them.
+
+Level 6
+~~~~~~~
+
+* Dispel Magic, Greater: because you're not the only mid-to-high level spellcaster out there.
+
+* Repulsion: defensive buff (will save from enemies) because if things could come close to you, they might hit you, and you don't want that.
+
+* Acid Fog: like solid fog, but with damage while they're trapped in there. Great with any kind of thing that traps them where they are.
+
+* True Seeing: Illusions? No. Period.
+
+* Heroism, Greater: Offensive buff. Who needs bards?
+
+* Contingency: defensive buff another rare good Evocation spell, this is a must for any wizard. Access it through Greater Shadow Evocation if you've banned the Evocation school. This is the spell you use to guard against the worst situtaion you can think of.
+
+* Disintegrate: a damage spell that's actually worth it due to the amount of damage on a failed save. Good against low-HP, low-Fort save types like rogues and mages.
+
+Level 7
+~~~~~~~
+
+* Banishment. "Oh no, a balor!" Poof.
+
+* Teleport, Greater: see Teleport, now safer.
+
+* Arcane Sight, Greater: defensive buff--because knowing whether or not, say, someone has Spell Turning up? That's a good thing.
+
+* Forcecage: save-or-lose. Expensive? Sure. No-save entrapment? Sure.
+
+* Finger of Death: Save-or-die. That's... about all there is to it.
+
+* Ethereal Jaunt: go ethereal to get yourself out of danger and get time to buff.
+
+* Limited Wish: unlike Wish, the XP cost isn't so bad pretty much want to never use it.
+
+Level 8
+~~~~~~~
+
+* Mind Blank: Defensive buff. Immunity to all mind-affecting things? That's way too good.
+
+* Prismatic Wall: this wall does BAD things to people.
+
+* Maze: save-or-lose. Great for low-INT types, like Barbarian and Cleric. Get them out of here, deal with everyone else, then gang-beat them when they come back.
+
+* Moment of Prescience: sometimes, you wish you could just make that saving throw, win that opposed check, land that touch attack. Well, now you can.
+
+* Greater Prying Eyes: scouts with True Seeing. And unlike True Seeing, no material component. Very useful.
+
+* Irresistible Dance: Save-or-lose... with no save. 1d4+1 rounds of "you win" if you land the touch attack.
+
+* Power Word: Stun: after the fighter's whacked a monster around a bit, this will let him easily finish it off.
+
+* Greater Shadow Evocation: Contingency for any specialist wizard who's smart and bans evocation.
+
+Level 9
+~~~~~~~
+
+* Prismatic Sphere: defensive buff, and the ultimate one at that. Unless they have a Rod of Cancellation, you're safe and sound while you do whatever you want.
+
+* Foresight: avoiding surprise and flatfootedness is very, very useful when it comes to surviving.
+
+* Dominate Monster: get yourself a big, tough bodyguard. The toughest thing ever to try to kill you. It has a duration of days. You can order someone to fail their saves. Just re-cast it every ten days or so, and they're your slave for life.
+
+* Energy Drain: 2d4 negative levels. Sure, they can be permanent, but you're better off with a metamagicked-up Enervation.
+
+* Time Stop: I don't need to actually tell you why this is good, do I?
+
+Milk and Honey: the PHB II and Spell Compendium
+-----------------------------------------------
+_includes spells from the Forgotten Realms books, from the Complete Arcane, et cetera._
+
+Level 1
+~~~~~~~
+
+* Blood Wind: turn the monk's fists into ranged weapons? KTHX! It's Evocation, one of the few good ones.
+
+* Fist of Stone (Comp. Arcane): great for fighter/mages. A level one spell that gives +6 STR for attacking purposes? Woo.
+
+* Ray of Clumsiness: like Ray of Enfeeblement, but for Dex. Lots of things have low dex. Most big monsters. Even dragons. This is great against fighters or against rogues.
+
+Level 2
+~~~~~~~
+
+* Baleful Transposition: switch the locations of the party fighter and the enemy mage? Delicious.
+
+* Create Magic Tattoo (Player's Guide to Faerun): at CL 11, you can use this to give yourself +1 CL for a day. High-level mages should spend the 100gp material components to cast an extended version of this; 50 gp a day for +1 caster level? It'd take 600 days to equal the price of an Orange Ioun Stone. Of course, you can have both.
+
+* Listening Lorecall (Comp. Adventurer): Have 5 listen ranks? Gain Blindsight 30'. Keep people from sneaking up.
+
+* Ray of Stupidity: 1d4+1 int damage, no save. Not a penlaty like Ray of Enfeeblement: DAMAGE. This spell takes down any animal and most magical beasts with one casting. Metamagic means that it can take down fighters and rogues, and seriously inconvenience other wizards. This spell is scary good.
+
+* Combust: a damage spell, so normally unremarkable, but good for Spell Storing weapons.
+
+* Bonefiddle: creepy, but good. Concentration duration, 3d6 damage a round on a failed fort save? A successful save ends it, but that might be a while for a low-Fort-save type. Good at level 3-4.
+
+* Sonorous Hum! This spell concentrates on other spells for you. Considering that a duration of "concentration" vs. "X/level" is a mitigating factor for spells that are otherwise too good for their level, in theory, that makes this spell great. Some combinations of spells with this one even qualify as cheese.
+
+* Slide, Greater: battlefield control, an interesting variety. With a Will save, you can move someone 20'. Drop enemy off cliff? Check! Help fighter move into position? Check! Generally cool.
+
+Level 3
+~~~~~~~
+
+* Bands of Steel (Comp. Arcane): a reflex save-or-lose, and there aren't many of those. They don't lose all *that* hard, but there you have it.
+
+* Anticipate Teleportation (level 4 in Comp. Arcane, 3 in Spell Compendium): this spell rocks. Delays people teleporting near you by 1 round, alerts you they're coming, and lasts hours/level. Lets you buff when someone dimension doors up next to you.
+
+* Mage Armor, Greater: at higher levels, replace Mage Armor with this, even if it costs a little money.
+
+* Unluck (level 4 in Comp. Arcane, 3 in Spell Compendium): incredibly good. Divination school, Will save--NOT mind affecting--and if they fail, they roll all dice twice and take the worse result of the two. Save-or-Lose, effectively.
+
+* Spell Vulnerability: reduce a creature's spell resistance. This spell can really help if you don't have Spell penetration feats, although it does offer a save.
+
+* Spiderskin: wizard Barkskin (from Underdark book)--+1 NA/3 levels, +5 at 15th; also gives hide/MS bonuses.
+
+* Halt (PHB II): immediate action, so cast on someone else's turn. Will save vs. inability to move anywhere that round. Extend it with a lesser rod so it applies on their next round too!
+
+Level 4
+~~~~~~~
+
+* Ray Deflection: rays can be deadly. Keep'em away with RAY-B-GONE!
+
+* Resistance, Greater: +3 to saving throws, 24 hour duration. Who needs a cloak of resistance?
+
+* Resist Energy, Mass: no need to cast Resist Energy repeatedly.
+
+* Orb of X (Comp. Arcane): damage spells, but worth learning, because there is no save and *no* SR. You just need to make a touch attack. CLd6, up to 15, plus the elemental orbs have secondary effects (i.e. Fire dazes for 1 round).
+
+* Assay Resistance: +10 CL to defeat one creature's Spell Resistance. Who needs Spell Penetration?
+
+* Battle Hymn: all your allies can reroll 1 will save/round? The rogue will love you as much as he does for the Greater Invisibility.
+
+* Defenestrating Sphere (Comp. Arcane): BEST. SPELL. EVER!!! Unfortunately, in the worst school (evocation)
+
+* Stone Sphere: combine battlefield control and damage. Push people around, occupy space, and damage people. Another of the rare good Evocation spells.
+
+* Shadow Well: not half bad, a lower-level Maze.
+
+* Burning Blood (Comp. Arcane): they make a fort save every round or take 1d8 fire, 1d8 acid... and have to only take a move action, which is the main attraction. This can largely incapacitate a rogue or caster type and keep hurting them, too.
+
+* Greater Mirror Image. More images, regrows 1 image/round... and cast as an immediate action!
+
+Level 5
+~~~~~~~
+
+* Contingent Energy Resistance: resist energy vs. whatever kind of energy first hits you.
+
+* Viscid Glob (Underdark): Reflex-save-or-lose, but only against medium creatures.
+
+* Fire Shield, Mass: Fire Shield is better for fighter types than for you. Now your whole party can have it.
+
+* Graymantle (some Faerun book): stop creatures from regenerating. Very useful at higher levels.
+
+* Blink, Greater (Comp. Arcane): all the benefits of Blink, none of the issues. Great defensive buff.
+
+* Fly, Mass: give your whole party maneouverability.
+
+Level 6
+~~~~~~~
+
+* Anticipate Teleportation, Greater (level 8 in Comp. Arcane, 6 in Spell Compendium): delays them for 3 rounds, lasts 24 hours, otherwise like Anticipate Teleportation. Awesome spell, cast it every day.
+
+* Resistance, Superior: +6 on saving throws. Throw that Cloak away.
+
+* Fire Spiders: battlefield control/damage; move them around as a move action while you cast as a standard action.
+
+* Freezing Fog: Solid Fog + Heightened Grease + 1d6/cold a round. Great battlefield control spell.
+
+* Bite of the Weretiger: ridiculously good for fighter/mages; huge stat boosts and a natural attack.
+
+* Brilliant Blade: make the fighter's weapon Brilliant Energy. Have him kill stuff.
+
+* Imbue Familiar with Spell Ability: this little gem makes your familiar useful. Give it the ability to cast (CL/3) spells of up to (CL/3) level: this is great because it acts independently, which means more spells per round. If you cast a Quickened Spell and a regular spell, and so does it, that's four spells that round. That's enough spells to end an equal-CR fight, sometimes. Certainly enough to buff up fast.
+
+Level 7
+~~~~~~~
+
+* Energy Immunity. Forget mere "resistance"!
+
+* Transfix: if you can find something not mind-immune to use it on, it's great! Paralysis for the win!
+
+* Stun Ray: stun someone for 1d4+1 rounds. Save-or-lose without the save--just a ranged touch attack.
+
+* Stern Reproof (Player's Guide to Faerun): Fort save or die. If they live, Will save or lose/suck (be dazed for 1d4 rounds).
+
+* Hiss of Sleep: high-level version of Sleep. Still great, for things it works on.
+
+* Avasculate: a great spell, halves their HP and stuns them. Evil only, though.
+
+* Bite of the Werebear: like Bite of the Weretiger, but even better.
+
+* Brilliant Aura (Complete Divine): ALL the party's weapons are Brilliant Energy!
+
+* Spell Matrix: store two spells, under level 3, and release both as a swift action. More spells in the beginning of a fight is great.
+
+Level 8
+~~~~~~~
+
+* Spell Engine: redo your spell selection... costs cash and XP, though, so use it wisely.
+
+* Avascular Mass: a better Avasculate. Still evil-only.
+
+* Wrathful Castigation (Magic of Faerun): Will save or die... and then another will save or effectively die (dazed for 1 round/level and -4 on all saves). Forcing two saves vs. losing is great... only problem is, it's mind-affecting, which things become less and less vulnerable to at these levels.
+
+* Chain Dispel: like Greater Dispel Magic... but targeted. At level 15, that's 15 targets. Disable 2 people's buffs, and all of their important gear temporarily!
+
+Level 9
+~~~~~~~
+
+* Absorption: the ultimate in protection from other casters' direct spells.
+
+* Effulgent Epurtation: for Elminster fanboys.
+
+* Maw of Chaos: horrific. A 15' emanation that deals 1d6/Caster Level each round (no cap, no save!), forces a will save each round vs. Daze for 1 round, and requires a DC 25+spell level concentration check to cast in its area. Combine with battlefield control for the WIN.
+
+* Reaving Dispel: Greater Dispel Magic... and TAKE their spells for yourself if you win!
+
+* Sphere of Ultimate Destruction: a sphere. Move it as a move action... and it is Disintegrate, ranged touch attack, on whatever it touches each round.
+
+* Spell Matrix, Greater: store up to 3 spells of level 3 and under to all release as 1 quickened action (Mirror Image/Shield/Spiderskin as a buff sequence, say).
+
+* Detonate (PHB II): surround someone with cute animals. Blow them all up for massive damage. Evil, but effective.
+
+
+Stinky Cheese
+-------------
+
+_spells that are broken, broken, broken._
+
+Level 2
+~~~~~~~
+
+* Alter Self: give yourself +6 natural armor, or flight, for 10 min/level with a level 2 spell? Like all the polymorph spells, way too good for its level--not so broken you probably shouldn't use it in a game, though. Combine with the Otherworldly feat for even more cheese.
+
+* Wraithstrike: swift action, make all attacks as touch attacks that round. Ridiculously good for fighter-mages, Power Attack for huge amounts of damage. You can Persist it quite normally in an 8th level slot, or by using various kinds of cheese, and that's when it becomes *completely* broken.
+
+Level 3
+~~~~~~~
+
+* Shivering Touch (Frostburn): a touch attack, no save, 3d6 dex damage. 3d6! Dex damage! Wanna one-shot a dragon? NOOO problem! Add some kind of reach (Arcane Reach from Archmage, or Reach Spell metamagic) and you can do it from safety. For the love of god, don't resport to this.
+
+Level 4
+~~~~~~~
+
+* Polymorph: far better than any other spell of its level, and many higher-level spells. The things you can do with this are ridiculous. It's completely broken, so much so WotC has given up on trying to fix it. Just don't use it.
+
+* Celerity (PHB II): this breaks casters worse than they're already broken. As an immediate action casting, gain a standard action, and be dazed on the next round. This means that no matter what, the wizard goes first. Combine with Time Stop to negate the disadvantage of being dazed in combat, or just use it to Teleport out of there or Dimension Door way out of reach.
+
+Level 8
+~~~~~~~
+
+* Polymorph Any Object: the worst of the lot. Turn yourself into a gold dragon and gain its INT score plus everything else? Come on. Most broken spell in the game.
+
+* Greater Celerity (PHB II): as Celerity, but grants a full-round action.
+
+Level 9
+~~~~~~~
+
+* Shapechange: CL up to 25 HD monsters. Gain their (Su) special qualities and attacks as well as the (Ex) ones. Completely and utterly ridiculous, as a more powerful Polymorph of course must be. Don't use this.
+
+* Disjunction: both DMs and players avoid it. Use it as a player and you fry the bad guy's loot; use it as a DM and your players lose their magic items and are very upset.
+
+* Gate: so many abuses. So very many. For example, Gate in creatures that can cast Wish as a (Su) ability and make them give you free wishes.
+
+
+On the Care and Feeding of Feats
+--------------------------------
+
+Feats. A wizard 20 will get 7, plus 1 if he's human, plus Scribe Scroll, plus 3 more bonus feats from the wizard class.
+
+What do you do with them?
+
+There are a few important kinds of feats: Metamagic feats, Item Creation feats, and enhancement feats such as Spell Focuses, or Extraordinary Spell Aim from the Complete Arcane.
+Some feats are good. Some feats aren't good. Here's a breakdown:
+
+
+Item Creation Feats
+~~~~~~~~~~~~~~~~~~~
+
+SRD
+^^^
+
+* Scribe Scroll: it's good 'cause it's free. Also, it lets you prepare utility spells and infrequently used spells or spells that don't depend on caster level. This means you're more likely to have the right spell at hand.
+
+* Craft Wondrous Item: it's good because wondrous items are the most common kind of magical item. If you're going to craft, you want this feat.
+
+* Craft Wand: this feat *can* be useful, if there's a spell you use very regularly; for example, a Wand of Rope Trick CL 9 will free up a second-level spell slot for you for the rest of the campaign, most likely. A Wand of Mirror Image, CL, oh... 5... can be a good idea. A Wand of Shield would be good, except that at high levels you don't have much better to do with those spell slots. Spells that don't rely on Caster Level are good candidates, as they'll be cheaper when made with minimum CL.
+
+* Craft Rod: if you're going to take any higher-level item creation feat, make it this one. Why? Because there are a lot of very useful, very expensive rods--metamagic rods are the best example. a Rod of Quicken Spell, Greater costs 170,000 gp--making it yourself will only cost you half of that, 85,000 gp (although it adds a cost of 6800! xp) and without one, you won't be quickening any of your high-level spells.
+
+* Brew Potion, Craft Staff, Craft Magic Arms and Armor, Forge Ring: Brew Potion isn't really worth the feat slot for a wizard. Craft Staff isn't worth it because you'd only make one or two. Craft Magic Arms and Armor--take it at your own risk, for it may turn you into the party's sword-creating slave (on the other hand, if you pace yourself, you can make a healthy profit by making the things for half price and charging the party 75%). Forge Ring, like Craft Staff, isn't that useful: you only have two ring slots, after all.
+
+* Craft Trap: this feat doesn't exist. The rules for creating one-shot and repeating spell-traps are in the DMG, and don't require a feat. If you're wondering what a good thing to trap is, try YOUR SPELLBOOK. That, or everything someone you don't like owns.
+
+Complete Series
+^^^^^^^^^^^^^^^
+
+* Craft Contingent Spell: Brokenly good. The limiting factor on Contingency is that wizards can only have one. With this spell, a wizard will have one for any situation that could conceivably harm him. Don't take it as a player and don't allow it as a DM.
+
+Metamagic Feats
+~~~~~~~~~~~~~~~
+
+SRD
+^^^
+
+* Extend Spell: a good low-level feat. Extend is particularly useful for hours/level and 10 minute/level spells, but at low levels rounds/level spells, or offensive spells that do something for a very short duration, can definitely benefit. Cost: +1
+
+* Empower Spell: okay for some spells (i.e. the Orb spells), but best for spells that there aren't slightly higher-level versions of. Why Empower a fireball? Cast Cone of Cold. Enervation, on the other hand, does great with a little Empowering.
+
+* Still/Silent Spell: better for sorcerers than for wizards. Paranoid wizards should take these, others should skip them.
+
+* Quicken Spell: At level 12, a wizard should either already have this or be taking it. There's no excuse not to. Quickened spells increase the wizard's efficiency--it's like trading spell slots for actions! Quickened spells let you buff quicker and get off spell combos in one round that might otherwise be avoided (i.e. Quickened True Strike + Ray spell, Quickened Web + Solid Fog).
+
+* Repeat Spell: +3 spell level increase, and the spell goes off again next round. This is good for spells with useful one-round effects, or spells you want to hit someone with twice, but the problem is that if the target moves or becomes invalid somehow, or people move out of the area you cast the spell in, it's wasted. Used wisely, it can be very handy.
+
+
+* Widen Spell: this would be useful with some limited-area spells (Grease, Solid Fog); take it if you have a spare feat slot and nothing better to do, but it's hardly necessary. Best as a metamagic rod.
+
+
+* Heighten Spell: if you're using Heighten Spell, you're relying on certain save-or-Xs too much.
+
+* Enlarge Spell: it sucks. If you lose because you can't reach an enemy with one particular spell, you deserve to lose... not to mention, hey, what're the odds that you prepared that one spell Enlarged?
+
+* Maximize Spell: not that it's BAD or anything--the +3 spell level increase is just too much.
+_A note on Maximize vs. Empower: Empower is better for smaller dice (1.5*1d4 = 3.5 on average, just 0.5 less than the maximized 4), Maximize for larger dice (1.5*1d10 = 8 on average, 2 less than the maximized 10). Note that even for larger dice, the extra spell level increase may well not be worth it._
+
+PHB II
+^^^^^^
+
+* Flash Frost Spell: if you have Snowcasting from Frostburn, Eschew Materials, and a bunch of area spells, this metamagic is fun. Still not that great, but a lot of fun. Otherwise, skip it.
+
+* Smiting Spell: yeah, uh, this one's good. Really good. How's about giving an archer four Combust arrows to Manyshot during the surprise round of combat? And so on. It's so good that you should take pains not to abuse it if you take it.
+
+Complete Series
+^^^^^^^^^^^^^^^
+
+* Chain Spell: expensive at +3, this is nevertheless one of the best metamagic feats, both for buffing (especially when combined with Reach Spell or Arcane Reach, letting you chain Touch spells) and offensively, with no-save spells (like rays).
+
+* Sculpt Spell: for a +1 spell level increase, you can pick from a list of different kinds of areas. This is useful, as it can let you avoid allies with area spells or get more enemies than you otherwise could.
+
+* Split Ray: like a ray-only Twin Spell. At +2, if you use rays even moderately often (and you should, they're good), this is a very good investment.
+
+* Reach Spell: +2 adjustment, makes a touch spell have 30' reach. Use it to either deliver touch spells from safety or turn them into ranged touch spells so you can apply Chain Spell (for example, Greater Magic Weapon--Chain Reach GMW gets all your party's weapons with one casting). This spell is lessened by the fact that most Archmages' first High Arcana is Arcane Reach, which gives you its benefits all the time for free, so you may well want to just live without it.
+
+
+* Sudden Still/Silent/Empower/Etc. 1/day? Meh, no thanks.
+
+* Born of the Three Thunders: it's a blaster feat. Wizards shouldn't be blasters.
+
+* Energy Substitution: see above.
+
+* Lord of the Uttercold: good only for complex, specialized necromancer builds.
+
+* Explosive Spell, Fortify Spell, Energy Admixture, Sanctify, Corrupt, etc. etc.: laaaaaaame.
+
+* Twin Spell: not bad, but at +4, I'd rather have Quicken.
+
+Enhancement Feats
+~~~~~~~~~~~~~~~~~
+
+SRD
+^^^
+
+* Spell Focus and Greater Spell Focus: if you use spells from a certain school a lot--take them. They're also prerequisites for, say, Archmage (one for each of two different schools). Take them for Save-or-X spell schools, not for schools that do things even on a failed save (like Evocation, if you aren't banning it) or schools that do things that don't involve saves (Divination, Abjuration, Transmutation depending on spell selection). Enchantment, Necromancy, and Illusion are the best schools for these feats.
+
+* Skill Focus: Spellcraft -- take it as a prerequisite for Archmage if you're planning on taking Archmage levels. Better early than late; you can do more with your level 9 feat slot, say, than with your level 1 feat slot.
+
+* Spell Penetration: in a core-only game (no access to Assay Spell Resistance and lots of no-SR spells), this is worth taking. Maybe even Greater Spell Penetration, if you find yourself having trouble.
+
+* Spell Mastery: this is vital if you think things might happen to your spellbook. It's pointless otherwise.
+
+* Combat Casting: IT'S A TRAP!! If you really want the bonus, take Skill Focus: Concentration; that way you get +3 instead of +4, but it applies *all* the time.
+
+* Eschew Materials: only worth it if your DM is a real stickler about keeping track of spell components; otherwise just write "3 spell component pouches" on your character sheet and forget about it.
+
+* Augment Summoning: if you're summoning regularly, you're doing something wrong. That's the druid's or cleric's job; after all, every time a wizard casts a spell that's on a divine list, for that round he's a sucker. Don't take this.
+
+* Improved Counterspell: don't take this unless you have access to Reactive Counterspell and want to make a counterspelling-dedicated character... in which case, make a sorcerer with those feats.
+
+* Point Blank Shot/Precise Shot: no need to waste feats on these, unless you use rays to the exclusion of almost all else.
+
+PHB II
+^^^^^^
+
+* Arcane Thesis: broken, right now, since it can reduce metamagic costs below 0. No DM will alow that; many won't allow reduction below 1. It's still worth taking with a spell like, say, Enervation. How's about a Split Ray (+1) Empowered (+1) Chain (+2) Enervation in an 8th level slot? 1.5*2d4 negative levels to all the enemies. Boo-yah.
+
+* Elven Spell Lore: the bonus on Dispel attempts is nice, and it's worth taking if you cast a damage spell a lot *and* your DM rules that you can change damage types to those other than the elemental ones. Sonic is almost never resisted, and then there's stuff like Vile damage that breaks the feat.
+
+* Combat Familiar and Spellcasting Familiar: don't, not worth it. Use Reach Spell or Spectral hand or Archmage's Arcane Reach to deliver touch spells, and use Imbue Familiar With Spell Ability to give your familiar spells.
+
+Complete Series
+^^^^^^^^^^^^^^^
+
+* Extraordinary Concentration: great if you can make the concentration checks; take at a high level, and it's not worth it without custom items that give you a major boost to your Concentration skill. The Sonorous Hum spell (Spell Compendium) does what this feat does but better, though.
+
+* Mobile Spellcasting: *awesome* if you can make the concentration checks. Move into range, spellcast, move out of range (of course, you can do that anyway thanks to Phantom Steed).
+
+* Extraordinary Spell Aim: like the Archmage's "Master of Shaping" ability, but requires a tough spellcraft check. Take this if you can get a custom spellcraft item--just don't use it on Antimagic Field. That's cheesy. Very cheesy.
+
+* Extra Slot: not worth it.
+
+* Extra Spell: ruled by Customer Service at Wizards repeatedly to not give you spells from outside your spell list, and thus, not worth it. If your DM rules otherwise, it can be awesome.
+
+* Arcane Mastery: combined with Elven Spell Lore, you would never fail a dispel check against someone of equal caster level--but that's a two-feat investment; you have better things to do.
+
+Other Feats
+~~~~~~~~~~~
+
+* Improved Initiative: going first is pretty important for wizards, although they have ways of compensating for it. Take this feat if you can afford to.
+
+
+* Leadership: sure, it's good. Too good. Absolutely and totally ridiculously cheesy if abused, in fact. I don't allow it in my games, and neither should you. If you want someone to be able to play two characters, let them do so; if not, forget the cohort, and have followers be an RP thing. I assign it the [Cheese] descriptor.
+
+* Touch Spell Specialization (Complete Arcane): ew blech yuck NO.
+
+Prerequisite Feats:
+These are feats that are prerequisites for prestige classes you want to enter. TAKE them, dummy.
+
+Digression--It's Mine, You Can't Have It! Or, Keeping Your Spellbook Safe
+-------------------------------------------------------------------------
+
+Without your spellbook, once you run out of spells for the day, you're just a commoner with a good will save and some magic items. In most games, this never comes up. In some, it does; if you know it will, take precautions, and, hell, you may want to take them anyway. There are two parts to this: the first is trapping your spellbook. The magic trap rules are, as mentioned, in the DMG; I had this idea for a recent character I made. At higher levels, you need tree traps: link them all to command words that must be spoken before the book is touched (or one command word for all three). The first is a Teleport trap, that will teleport the spellbook to your home, a friend of yours, or a temple of Mystra/Boccob/whoever you have an account with. This means that while you may not have your book, no one else does, either.
+
+The second is some kind of punishment for the fool who dared to mess with your stuff. I like Curse of the Putrid Husk from the BoVD for this: make them think their flesh is falling off in pieces! Of course, generally, something more lethal and with less [Evil] descriptor is better. Try Insanity, Finger of Death, or better yet, Geas: Find the Wizard Whose Spellbook You Tried To Steal, Confess to Him, and Go On a Quest He Assigns You. The third is Arcane Mark, to put your mark on the bugger.
+
+The second part is Spell Mastery (include Teleport), and/or always having one Teleport in reserve. This is so you can Teleport back to wherever your book went and pick it up.
+
+_You're Special All Right--Short Bus Special!_
+
+Wizards have the option of specialization--they can give up two schools of magic entirely for an extra spell per day of each level. While that sounds like a pretty raw deal, high-level spell slots are valuable.
+
+If the Complete Arcane, and especially the Spell Compendium, is in, then you should be a Diviner. If not, you should be a Transmuter or Conjurer. Why? Well, because transmutation and conjuration are the biggest school, containing at least one useful spell at every level--and because diviners only have to give up one school, and get enough useful spells with the Complete Arcane to make Divinerhood worthwhile.
+
+Here's an overview of the schools:
+* Abjuration: a lot of useful protections, and *dispel magic*. Can't give this one up.
+
+* Conjuration: Conjuration has, well, everything. Battlefield control, damage (with the Complete Arcane's Orb Of spells), the vital Teleport and Dimension Door, a bunch of utility...
+
+* Divination... you're not allowed to give up divination, and you'd be a fool to do so anyway.
+
+* Enchantment: enchantment has a bunch of nice save-or-lose spells, but between Illusion, Necromancy, and Transmutation, you have plenty of those anyway. Enchantment is a viable choice of banned school. Enchantment has a number of good spells, though, which are a pain to lose--Dominate and Charm, the Stern Reproof/Wrathful Castigation spells (save-or-loses with two saves per spell!), Freezing Glare (Frostburn), et cetera... however, it's nothing you can't make up for. Except Irresistible Dance, losing that sucks.
+
+* Evocation: Evocation is mostly direct damage, which makes it the sucky school. Important spells are Contingency and Wind Wall, which you can get through Greater Shadow Evocation and Shadow Evocation respectively. There are useful evocations, but not enough to make it anything but the best choice of banned school.
+
+* Illusion: lose it and you lose Invisibility and Greater Invisibility. Plus, the Image spells are versatile if you have a good imagination, the Shadow Evocation spells compensate if you banned Evocation, Illusory Pit from Comp. Arcane is brilliant, Mirror Image is a great defensive spell... you can certainly give up illusion, but it'll hurt a bit.
+
+* Necromancy: Ray of Enfeeblement, Spectral Hand, False Life, Ray of Exhaustion, Enervation and Fear, Finger of Death, Clone, Wail of the Banshee... metamagicked Enervation in particular is a good tactic at higher levels. You can give this up, but it really hurts.
+
+* Transmutation: too many spells to give up, period. Specialize in this, don't lose it.
+
+So, the three main candidates for being dropped are Evocation, Enchantment, and Illusion. You can't drop both Evocation and Illusion (no way of getting Contingency then) unless you have access to Craft Contingent Spell, and dropping both Enchantment and Illusion means that you have a lack of will-save-or-lose spells. That makes Evocation and Enchantment the natural choices for dropping if you have to drop two. Being a diviner means that you only have to drop one, so make it either Evocation or Illusion--probably evocation, since the only real reasons to take it (Contingency, Wind wall) are availible via illusion spells, albeit a bit later. Your focus has an effect--evocation has a little battlefield control, so a battlefield control wizard should dump enchantment, while a save-or-suck/lose/die focused wizard should drop evocation.
+
+Thus, one should either be a Diviner who bans evocation or enchantment, or a Transmuter or Conjurer who bans evocation and enchantment.
+
+
+Wonderful Unique Snowflake or Not? Specialization, Generalization, and Alternatives
+
+So: specialize, or generalize? With Divination as a speciality (excellent with the Complete Arcane spells--and without the Complete Arcane, losing Enchantment or Illusion hurts a lot less) you only lose one school, that you wouldn't use often, and you gain a bonus spell slot. I like to specialize, but it's not inherently superior. There is something to be said about keeping all your options open.
+
+However, if you're not going to specialize, Races of the Wild offers racial substitution levels for elven wizards. The first level is sort of a "generality specialist"--you lose the ability to specialize (which you weren't doing anyway if you're taking the racial sub level), and gain a bonus slot of your highest spell level (that moves around when you gain new spell levels), and learn an extra spell on each level-up. That's definitely an option competitive with Divination specialization.
+
+
+Mommy, Why Amn't I Like All the Other Children?
+
+While we're on the subject of specialization, it should be noted that the PHB II gives specialist wizards the option of trading in their familiar for an Immediate Magic ability--a special ability they can use INT bonus/day.
+
+Abjurers', Diviners', Necromancers', Transmuters' and Illusionists' immediate magic variants are all viable, especially at low levels--not necessarily better than a familiar if you use it to scout and etc. a lot, but most of the time, more useful and powerful. They don't however, scale with level. Abjurers' "urgent shield" becomes old hat once you can actually cast Shield; Transmuters' "sudden shift" becomes weak as soon as you actually acquire a method of flight; Diviners' save bonus matters less at higher levels, Illusionsts' is outdone by actual Mirror Image (and definitely the immediate-action-casting Greater Mirror Image spell from the PHB II, which you're using if you're using these variants). Necromancy's Cursed Glance is very nice, but it allows a will save, and the DC is based on your wizard level. If you're a pure wizard, it's good; if you prestige class, it'll start sucking in short order.
+Enchanters' "Instant Daze" is nice enough for a couple of levels, but not only is there a will save, but it can only affect your wizard level in HD! The higher level you get, the more HD monsters have compared to you, and both the DC and the HD are based on the wizard level--useless if you're going to prestige, which you should.
+Evokers' "counterfire" is utterly terrible.
+
+Basically, if you're a specialist, and you're going to be playing at lower levels, take the Immediate Magic variant unless you're an Abjurer, Enchanter or an Evoker. At higher levels, none of them are really viable.
+
+Except the Conjurers' "abrupt jaunt". That one's broken, and gobs and oodles better than the rest. If your DM is letting you take it, make sure he understands the exact implications--namely, you being aple to *poof* away from attacks INT bonus times/day, avoiding full attacks entirely.
+
+If you're going to have a prestige class, then the Enchanters' and Necromancers' wizard-level-dependent abilities become more and more useless; if you're going to reach level 11 (or start there or higher), Imbue Familiar With Spell Ability is too good to pass up; keep the familiar. For the first couple of levels, however, any and all of these abilities are good. Even the evoker's.
+
+
+
+I'm The Best There Is At What I Do, Bub
+
+A wizard has a huge array of spells availible and ways to combine them with metamagic--and with other spells.
+Some of these combinations work better than others. Some spell and metamagic combinations are better than others. I present to you, gentle reader, some humble example of magic and metamagic used to their fullest, as well as explanations of what to look for.
+
+
+Insight Into the Working of Things:
+
+* Sculpt Spell: this lets you modify the shape of your area spells. Therefore, it's best useful for spells whose power is limited by their area--for example, Color Spray. It's a cone, and its range is 15'. This means that we can turn it into four 10' cubes, none more than 15' away, rather than a 15' cone, and cover a lot more area--and pick which squares to cover (hint: the ones with enemies).
+Glitterdust is a 10' burst; changing that to a 20' ball will make it catch more enemies. Look for spells with limited areas, or who are limited by their shape (i.e. cone, line).
+
+
+* Empower Spell: as mentioned before, Empower is best with small dice. d4 spells good, d12 spells, Maximize or Repeat will do better.
+
+
+* Quicken Spell: get two spells a round off. Use it, of course, on important lower-level spells, including for combos that would be harder to pull off if the target got to move between spells.
+
+
+* Split Ray: this spell isn't as good with spells that already produce multiple rays (such as Scorching Ray), or with spells whose effects don't stack with themselves (such as Ray of Enfeeblement). For single-ray spells, though, it's like a cheaper Twin Spell; it works especially well with spells with cumulative effects--for example, Ray of Exhaustion (even if they make both saves, they're Exhausted).
+
+
+* Chain Spell: this spell has a lot of mitigating factors for its benefits: namely, damage spells do half damage to chained targets *and* grant a reflex save for *another* half, plus spells with saving throws are at -4 DC to chained targets.
+Therefore, you should Chain spells that don't do damage and don't have saving throws (or whose saving throws are very high, or who have effects even on successful saves). This way you avoid all the downsides of using the feat. Rays are great for this. Also, keep in mind that you can use it to buff! Ranged single-target buffs are perfect for this, and will now affect the entire party, not just one person. Good examples of spells to Chain: Fleshshiver from Player's Guide to Faerun (stun everyone, no save), Enervation.
+What happens if you Chain a Magic Jar spell? Do you possess many bodies at once? Ask your DM!
+
+
+Clever Tricks:
+
+* Sculpt Spell + Color Spray or Grease: both of these benefit from having their area change, and are thus able to affect more targets.
+
+* Sculpt spell + Sleep or Deep Slumber: affect only the targets you want (10' cubes)! that way, there are no "wasted" HD.
+
+* Sculpt Spell + Antimagic Field: lets you turn the AMF into four ten-foot cubes. In front of you. You have an AMF wall, and you're not in the area of the cubes, so you can cast just fine.
+
+* Sculpt Spell + Fear: round area bursts are better for affecting many enemies than cones. Make it a 20' ball.
+
+* Sculpt Spell + Forcecage: make your forcecage a 10' barred cage or a 20' solid wall.
+
+* Sculpt Spell + Black Tentacles: get your enemies but not your allies via the 10' cubes!
+
+
+* Reach Spell or Arcane Reach + Chain Spell: suddenly, you can cast Touch: spells on your whole party at once. It's a whopping +5 total level adjustment, but only +3 for the regular chain with the Archmage's Arcane Reach ability. Combine with such common buffs as Greater Magic Weapon (everyone's weapons at once), Magic Circle Against, Heroism/Greater Heroism (who needs a bard? The archmage can give everyone their +4 AB/damage as one of his 9th level spells, and still have others), Greater Invisibility ("Greater Invisibility Sphere"... but better), Stoneskin (do everybody for the price of one).
+
+* This also lets you turn Touch spells (usually, no-save) into ranged touches that will leap to everyone within 30', which can be used offensively. Shivering Touch becomes even scarier.
+
+* Reach (Arcane Reach or Reach Spell) + Chain Spell + Identify! For a 4th or 6th level slot, depending on method, you can identify (Caster Level) items at once--all for the same 100 gp!
+
+
+* Chain Spell + Split Ray: For +5 levels, a ray will affect everyone within 30' of a primary target... twice. Consider Enervation. Normally, 1d4 negative levels. Split Ray, 2d4. Chained split Ray--2d4 to everyone within range. 9th level, but compare to Energy Drain, which does 2d4 to a single target. You can also do this with Ray of Exhaustion: suddenly, everyone within range is Exhausted, getting -6 STR and -6 DEX. Add a Quickened (via rod or 8th level slot) Chain Ray of Enfeeblement first, and suddenly you're giving a 12-17 STR penalty/damage and 6 dex damage to everyone within 30' of the original target; that's enough to drop anything that doesn't have STR as a primary concern.
+
+
+* Ray of Enfeeblement + Ray of Exhaustion: as implied above, a great combination. Ray of Enfeeblement can't drop someone's STR below 1... but Ray of Exhaustion's STR damage on top of that can.
+
+
+* Chained Split Ray Enervation + Chained spell WITH a save--the saving throw penalty from the Enervation will counter the DC drop from Chain Spell.
+
+
+* Grease or Web (Quickened for best effect) + Solid or Acid Fog: this'll keep them in the fog for longer and make getting out of it harder.
+
+
+* Chained Dispel Magic: Target someone... and all of their items. This shuts down all their magic gear for 1d4 rounds; at high levels, that's a lot like losing. "Whoops, where'd my +4 CON and +5 saves go? ACK A FINGER OF DEATH TO MY FACE." A Lesser Rod of Chain Spell is 27,500 gp.
+
+
+* Dispel Magic + (Quickened) Shatter: destroy an item. Render it nonmagical, then Shatter it. Of course, that way you don't get the loot. A rod of Quicken Spell, Lesser removes the need for a higher-level slot.
+A rod of Chain Spell, Lesser, lets you do this to ALL their items. It's Disjunction, but low-level!
+
+
+* Quickened True Strike: Need to land that touch spell? This makes sure you do. Add Repeating to land another (or two more, if one's Quickened) the next round, but that's expensive in terms of modified spell level (8th).
+
+
+* See Invisiblity + Glitterdust: See Invisibility lets you see invisible people.
+Glitterdust makes sure the rest of your party can, too.
+
+Prestige Classes
+
+The first rule of prestige classing out of Wizard is this: [bb]Thou Shalt Not Give Up Caster Levels[/b]. It's basic. Spellcasting--especially arcane spellcasting--is the most powerful thing in D&D. Therefore, losing any of it is bad. It can be worth it--but it very, very rarely is. Giving up a caster level delays your access to higher-level spells, delays getting more spell slots, and if you lose more than a couple of levels, you irreparably damage your high-level spellcasting.
+
+The second rule of prestige classing out of Wizard is this: DO it. You've literally got nothing except your familiar's progression to lose. Any prestige class ability is better than that.
+
+
+Core Prestige Classes:
+
+Archmage: this is the staple prestige class of high-level wizards. Its 3.0 predecessor had Spell Power, so you could take Archmage 3, get Spell Power +1, +2, and +3, and wind up with a total of +6 to your spell DCs.
+Those days are over. However, Archmage remains useful--if not, perhaps, for all five levels.
+Qualifying for Archmage isn't totally easy, but it's not very difficult. Spell Focus isn't a bad feat, even if you might have to get Spell Focus in two schools rather than SF and Greater SF in one. Skill Focus: Spellcraft is a waste, but it's the price you pay for access to the class.
+The Archmage gets a High Arcana ability each level. Some of these are good, some of these, well, aren't.
+
+* Arcane Fire: Remember what I said about damage? Yeah. Skip it, unless you're an Arcane Trickster--more on that later.
+
+* Arcane Reach: this is very good, and usually the first thing to take with Archmage. Why? Because it removes the need to place yourself in danger (or use Reach Spell, which gives a +2 spell level adjustment) to deliver touch spells, many of which are fantastic--say, Irresistible Dance. You can take this twice for 60' range, but once for 30' will be enough--unless you find yourself getting smacked around for coming within 30' a lot, too, which you probably won't.
+
+* Mastery of Counterspelling: Counterspelling is for sorcerers with Improved Counterspell, Reactive Counterspell and Heighten Spell. Skip this.
+
+* Mastery of Elements: elemental substitution is for blaster. If you're a high-quality wizard, you aren't a blaster. Skip this.
+
+* Mastery of Shaping: this one's a good one. It does much the same thing as the Extraordinary Spell Aim feat, but without a Spellcraft check. Its uses range from "good" (making spaces in offensive AoE spells for your frontliners) to the "ridiculously good" (and therefore hanging offenses in some campaigns) use of casting Antimagic Field... and excluding yourself.
+
+* Spell Power: it's a pale imitation of its 3.0 self, but it's still good. +1 caster level isn't something to sneeze at; as an item, it costs 30k (Orange Ioun Stone). A higher caster level means CL-dependent spells do more, spells last longer, and your spells are harder to dispel (you, on the other hand, have an easier time dispelling others' spells). At the low price of one fifth-level slot, that's a bargain.
+
+* Spell-Like Ability: you can get a spell as a 2/day SLA for a 5th-level slot and an Nth level slot, where N is the level of your spell--or more often, by giving up higher level spell slots. Unlike with regular SLAs, the XP cost of the spell doesn't disappear. This can be all right if you know you'll always want to have access to a certain spell--Teleport, say. Giving up 2 5th level slots for Teleport as an SLA 2/day is just like always preparing two Teleports--except that you'll always have them, no matter what. This is more advantageous with higher-level spells (i.e. preparing Time Stop as a 2/day SLA can actually be a good idea, because you get 2 Time Stops for a 9th level slot and a 5th level slot, not 2 9th level slots).
+
+Arcane Trickster: this one's for rogue/wizards. If you're *determined* to be a rogue/wizard... play a Beguiler (PHB II). If you're determined to actually be a rogue/wizard, with Sneak Attack, be a Rogue/Wizard/Arcane Trickster/Archmage. Take Arcane Fire as a High Arcana and as many Archmage levels as you can fit in after Trickster. Why? Because Arcane Fire lets you turn spells into damage rays. An Archmage 4 can turn a first-level spell into a 5d6 ray. You can sneak attack with those rays and get extra damage. "Arcane Trickster" is a different kind of character than "wizard as primary arcanist", though, so enough said about this class.
+
+Eldritch Knight: You lose a spell level and gain a bonus feat, a d6 HD, and full BAB. Sweet deal, right? Sort of. You need to spend a level on Fighter to qualify. A Fighter1/Wizard9/EK 10 has 14 BAB compared to a Wizard 20's 10, which means one more iterative attack, and a few more hit points... in exchange for a loss of two caster levels. Not worth it.
+You can use the Militia feat from some Forgotten Realms book (proficiency with martial weapons) or the Otherworldly regional feat from Player's Guide to Faerun (makes you a native outsider--and all outsiders are proficient with all martial weapons) to qualify for EK without wasting a fighter level. A Wizard 10/Eldritch Knight 10 with that feat spends a feat on Otherworldly (which has the cheesy advantage of letting you Alter Self and Polymorph into outsiders) or Militia, gains a fighter bonus feat from EK, and has 5 BAB and a little more HP on a Wizard 20, at the loss of a caster level.
+Which, sadly, isn't really worth it, as it won't help you much in your role as primary arcanist
+Eldritch Knight IS useful for "gish", warrior/spellcaster hybrid builds, but those play a somewhat different role and, really, aren't as good--but they can be a whole lot of fun. Fighter 1/Wizard 6/Spellsword 1/Eldritch Knight 10/Archmage 2 is actually a relatively simple "gish" build; complicated ones look more like Paladin 2/Bard 7/Eldritch Knight 1/Sublime Chord 2/EK +3/Sacred Exorcist 4/EK +6. In any case, this isn't about spellswords, it's about wizards. So, moving on.
+
+Loremaster: at first glance, Loremaster is really kind of mediocre--and compared to powerhouse prestige classes like Archmage, Incantatrix, Initiate of the Sevenfold Veil, well... it is.
+Really, though, it's a full caster prestige class. You have nothing but familiar advancement to lose.
+Qualifying for Loremaster looks difficult at first, but really, it requires 10 ranks in any two knowledge skills (which you should have anyway), any three metamagic or item creation feats (which you should have anyway), and Skill Focus: any one Knowledge, which, well, okay, that's a waste--but Loremaster gives you a bonus feat later which makes up for it and can even be better than just taking a feat instead of Skill Focus. You also need to be able to cast seven Divinations, one of 3rd level or higher--which you maybe should have, but may well not. Of course, scribing a few extra spells isn't much of a price for PrC entry.
+Entering Loremaster gets you access to a bunch of class skills, more skill points per level, a Secret every odd level (five in all), two bonus languages, Bardic Lore, free Identifying, and free Legend Lore or Analyze Dweomer 1/day. The five best secrets are the ones that boost your saving throws, one of the bonus spells, and, of course, the Bonus Feat. The Bonus Feat means that your Skill Focus turns into any feat you wanted in its place--and, in fact, you can take some feats now you couldn't have qualified for when you took Skill Focus (such as a higher-level Craft feat), which makes this a delayed feat. Add up all those minor goodies, and they're not half bad. I'd take Wizard10/Loremaster 10 over Wizard 20 any day.
+
+Red Wizard: in 3.0, Red Wizard was ridiculously good. +5 DC in your specialization school over 10 levels, AND Circle Magic cheese (use Leadership to get spellcasting followers, have them sacrifice spell slots to boots your spells, get RIDICULOUS caster levels and DCs)? Add Archmage 3 with Spell Power 1, 2, and 3, and you have +11 DC by level 20, which means that DC 40+ spells are commonplace for you. Here's a D&D, you win it.
+Now... well, now it gets Spell Power, which means increased caster level, which means it's still really good. Of course, you have to be a specialist to be a Red Wizard, and then you lose *another* school... which means that if you're not a Diviner, you lose three schools. That's absolutely intolerable as a primary arcanist. Of course, a Diviner Red Wizard winds up losing two schools, like a normal specialist... but gets Spell Power +5. Plus, Circle Magic.
+Of course, you have to be a Red Wizard of Thay. Some people consider that a bit of a downside.
+
+Mystic Theurge:
+
+Don't take it. No, really. If you get the urge to take it, go play a Cleric 3/Wizard 3/Mystic Theurge 1 for a while, in a party with a Wizard 7 and a Cleric 7.
+Then cry.
+
+
+Complete Series Prestige Classes
+
+Argent Savant: sure, it's not *bad*... except that you give up a caster level. The perks really aren't worth it.
+
+Blood Magus: stylish, but not very good.
+
+Effigy Master: If you want a big hulking thing to defend you in combat, this is the way to go. Build yourself one. There's a caster level loss, so consider whether you want the big hulking thing, or more and higher-level spells sooner.
+
+Elemental Savant: Blaster prestige class, loses two caster levels, yeah... pass this one up.
+
+Enlightened Fist: if you MUST be a monk/wizard, this is the way to go. Snag the Carmendine Monk feat to use INT for your monk abilities, and remember how fragile you are.
+
+Fatespinner: this one's good. Really good. At the low, low cost of 5 ranks in Profession(gambler), you gain your Fatespinner level in "spin points", which you can add to spell DCs one at a time or all together--later, you get to automatically stabilize, make yourself remake a save, make friends or enemies remake saves... and the first four out of five levels don't lose a caster level. The fifth one DOES, but it lets you give an enemy with HD equal to or less than yours -10 to a save once a day... which is possibly worth it, since it can mean a guaranteed kill. The first 4 out of 5 levels are a no-brainer; any wizard would do well to take them. The fifth one--think carefully, but it can be worth it. Due to the HD limitation, it usually isn't--but it can be.
+
+Geometer: You lose no caster levels and qualify easily. Why not take this? If nothing else, the Book of Geometry saves you a little cash... or would, except that buying a Blessed Book is a great ide
+
+Green Star Adept: Lose five caster levels. And your CON score. And pay for the priviledge.
+No, thank you.
+
+Initiate of the Sevenfold Veil: How on earth does this not lose caster levels? This is the "don't die, ever" PrC. And the only thing you lose is having to take the feats that qualify you for it.
+Take it ASAP... if it's not too high-powered for your game. Which, let's face it, it probably is.
+
+Mage of the Arcane Order: this one's not as good as the Initiate, but still very nice. You have to get Cooperative Spell to qualify, and it sucks... but you get free metamagic feats from the class, which more than make up for it, and you gain a lot of versatility thanks to the Spellpool. It's also a good source of plot hooks for your DM.
+
+Master Transmogrifist: this relies on Polymorph. Polymorph is broken. Don't use Polymorph and, therefore, don't take this class. Besides, some exceptional cheese aside, losing four caster levels is too much.
+
+Mindbender: half caster level progression? No thanks! The first level make a great dip for any non-evil cater who can afford the skills it takes to qualify. 100' Telepathy FTW.
+
+Wayfarer Guide: There's no reason not to take the first level if it can fit into your character concept (which is easy--"hey, I'll join the guild, learn their techniques, and not stay if I don't like it there; why not?"). The second loses a caster level, so don't take it. Simple, huh?
+
+Wild Mage: Uh, no.Your allies will hate Random Deflector... and control is GOOD. Wizards are all about control. Minimize randomness, don't maximize it.
+
+Divine Oracle: The picture of this guy in the Complete Divine is hilarious. Seriously, what the hell is up with his pants? Those are so much worse than the Archmage's stylish rainbow cloak. Did he look into the future and foresee the coming of our Chaos Gnome overlords or something? Anyway--this requires investing Knowledge: Religion ranks and wasting a feat on Skill Focus, but it gives some solid nice perks over 10 levels, such as uncanny dodge and immunity to surprise. When you're a wizard, immunity to surprise keeps you alive, since people try to use surprise to kill you. Plus, you get a domain power and can cast each domain spell once/day in your regular slots... oh, and Evasion. Evasion is good. If you can afford the Skill Focus feat and Know(Religion) ranks, no reason not to take this for a divination-themed character.
+
+Geomancer: See Mystic Theurge.
+
+Rainbow Servant: It's stylish... and it loses four caster levels. Of course, it gives you access to all cleric spells. With four lost caster levels, you may even be better off as a Mystic Theurge.
+
+Sacred Exorcist: whoa! This requires being affiliated with a church and knowing Dispel Evil or Dismissal (decent spells anyway)... and then grants you a d8 HD, 3/4 BAB, Turn Undead, and some other goodies, with no lost caster levels. If you have a churchy wizard, take this *now*. Unless you're taking Initiate of the Sevenfold Cheese. Take that over this.
+
+Void Disciple: Blah blah lost caster levels blah blah don't take it. Same old.
+
+Daggerspell Mage: if you're going that route, better off with an Arcane Trickster/Archmage.
+
+Virtuoso: Lose a caster level, and the bardic music-like abilities it gives really aren't that good. Meh, pass it up.
+
+Bladesinger: Wow, half caster levels. How... interesting. Pass. Even for a fighter/mage type.
+
+Master of the Unseen Hand: Wow, NO caster levels. Pass.
+
+Spellsword: If you're a fighter/mage type, a one level dip is great. A three level dip can be good. More and you're losing too many caster levels.
+
+
+Player's Guide to Faerun Prestige Classes
+
+Arcane Devotee: better, like almost all full-caster-level PrCs, than going straight Wizard.
+
+Harper Agent: a mini-Bardic Knowledge and some saving throw boosts aren't worth a lost caster level.
+
+Hathran: Full casting, but very, very specific flavor-wise. If your character is a Witch of Rashemen, go the heck for it. Circle Magic cheese included.
+
+Incantatrix: The classic uber PrC of 3.5--Initiate of the Sevenfold Veil has defense, this has offense and general utility. Not one, not two, not three--four totally overpowered abilities: Metamagic Effect, Cooperative Metamagic, Metamagic Spell Trigger, and Practical Metamagic. And another fistful of non-broken but *good* abilities on top of that. Get an item that boosts your Spellcraft checks (make one yourself) and you're in wizard heaven.
+
+Shadow Adept: Not half bad in practice, mechanically, but in-game, serving Shar? Bad, bad idea.
+
+Spellguard of Silverymoon: Very nice, but flavor-specific. Unless your campaign is focused on Silverymoon, or your DM lets you apply it to whatever city it DOES focus on, this class doesn't really work.
+
+
+Eberron PrC - by The_Demented_One
+
+Alchemist Savant (MoE)
+Mmm...full caster level progression. This potion-themed PrC lets you brew potions faster, create spellvials, the offensive cousins of potions, and create universal potions, which let you add a spell to them on demand without having to use up a spell slot. Nothing amazingly power, but useful abilities and full caster progression make this a good choice for those with an eye towards crafting.
+
+Cataclysm Mage (ExH)
+This odd little PrC gives you caster level advancement at every level but the first, along with a fairly bizarre mishmash of abilities, culminating in the ability to manifest dragonmarks with no regard to normal restrictions. It’s got enough caster levels to be worth taking, but has no abilities that stand out as being very powerful.
+
+Dragon Prophet (MoE)
+Like the Cataclysm Mage, this gives you 9/10 caster level progression, and a mishmash of dragon-related abilities. There are a few neat abilities, notably the immortality gained at 10th level, but nothing terribly nice. Like Cataclysm Mage, taking it won’t hurt you, but it won’t help you terribly much.
+
+* -Ninja Note: some prophecy abilities aren't bad; good constellation powers are Lendys, Garyx, Tamara, Tiamat, Bahamut, Aasterinian. Plus, you get bonus Dragon Prophecier feats--Prophecy's Artifex lets you use wands and staffs as a swift action, which is nice. Prophecy's Shaper lets you Empower spells for free. Overall, if you really know what you're doing, this class can be worth it. Plus, it's got cool factor.
+
+Heir of Syberis (ECS)
+This 3-level PrC advances your caster level at all levels but the first, gives you some extra action points, and gives you a Mark of Syberis, essentially a dragonmark on crack that lets you use a seventh level or higher spell. Depending on the mark you choose, you can get a nice, high-level spell not on the wizard list, like Mass Heal or Storm of Vengeance. Useful if you use it to get a spell you normally couldn’t, but you’d otherwise probably be best just casting it normally.
+
+* -Ninja Note: this is better for fighter types than for mages, but getting Mass Heal twice/day, if you're a halfling of House Jorasco? I might turn that down, but I'd hesitate. It's a powerful three-level PrC overall.
+
+High Elemental Binder (PgtE)
+This neat PrC costs you only one caster level, in exchange for the services of a bevy of elementals. The neatest ability, though, is that you can bind them into items to increase their power. Problem is, though, that only you can use the resulting items, and you’d be much better off casting spells. If you want to take this one, go in as an Artificer, not a Wizard.
+
+Impure Prince (MoE)
+This quirky PrC causes you to take on the traits of an aberration, to the tune of two lost caster levels. Though meant for rangers and druids, a wizard can benefit from it–but not much. You get a few spells added to your class list, the ability to gain a symbiont, and partial immunity to critical hits. Unless you want to play a wizard with a grudge against aberrations, this is going to be of no use to you.
+
+Knight Phantom (FN)
+A pretty run of the mill gish class. Caster level advancement at every level but first, d8 HD, full base attack bonus, spellcasting in light armor, and some phantom-themed abilities. However, you have to take a fighter level to qualify, which, combined with the lost caster level as 1st, will set you back a spell level. I’d take it over the fairly generic Eldritch Knight in a gish build, as detailed earlier on by The Logic Ninja, but not for anything else.
+
+* -Ninja Note: at first glance, this looks pretty much completely superior to Eldritch Knight... but you lose a bonus feat, and have to *waste* a feat on Still Spell. Two feats vs. a higher HD and spellcasting in light armor. Me, I'd go with the feats, but if you don't need them, Phantom Knight is better.
+
+Recaster (RoE)
+This one’s good for those changeling wizards out there. You give up one caster level in exchange for access to spells from other class lists, bonus Sudden Metamagic feats and the ability to alter your spells on the fly–taking away components, changing areas, and such. If you’re playing a changeling wizard, there is no reason not to take this.
+
+* -Ninja Note: This class is awesome. If you're a changeling wizard, *take* it. Get Heal as a fifth-level spell from the Adept list, for example. Plus altering your spells on the fly--basically a free Sculpt Spell feat, among other goodies. One of the few concrete counterexamples to the "don't lose caster levels" rule.
+
+Renegade Mastermaker
+This PrC turns you into a warforged, leaving two caster levels by the wayside. While it’s the closest you’ll be getting to Edward Elric in D&D, it isn’t too useful for a wizard–far too many of the abilities are useful only to characters planning on going into melee, like the battlefist and damage reduction. If you want to play a warforged wizard, just play a warforged wizard–not this.
+
+Sharn Skymage (S:CoT)
+This 5-level PrC will cost you three caster levels. In exchange, you become better at flying with magic. Useless, useless, useless.
+
+* -Ninja Note: Sucks. So. HARD.
+
+Silver Pyromancer (FN)
+This PrC advances your caster level at every level but 1st, but you have to take a level of cleric to qualify. In exchange, you get various enhancements to your fire-based spells. Remember what TLN said about damage spells? Leave this one by the wayside.
+
+Spellcarved Soldier
+Ugh. While this warforged gish PrC requires you be able to cast spells, it gives no caster level advancement. Instead, it gives you a bevy of runes, which tend to have more use for a melee combatant than a caster. This isn’t for the party’s prime arcanist, though a fighter willing to take a level of artificer or warmage might get some benefit from it–but not much.
+
+Windwright Captain (ExH)
+This 5-level PrC gives you only half caster level advancement, which will put you a spell level behind other casters. However, what it lacks up in power, it makes up in coolness. You get your very own frickin’ airship, which you can control via telepathy. Essentially, you stop being Batman, in exchange for becoming the Uberpimp, the Pimp of Pimps.
+
+* -Ninja Note: of course, Batman could be a pimp if he wanted to. This prestige class is much better for, say, Bards than for wizards.

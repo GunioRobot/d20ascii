@@ -1,4 +1,4 @@
-all: clearmess srd-all srd-ua-all
+all: clearmess srd-all srd-ua-all handbooks
 
 srd-all: srd-epub srd-html srd-pdf srd-html-nochunks
 
@@ -75,3 +75,14 @@ clean:
 gen/srd/base-classes.asciidoc: src/srd/base-classes/*.yaml
 	mkdir -p gen/srd
 	python src/classes.py>gen/srd/base-classes.asciidoc
+
+handbooks:	out/beingbatman.html out/beingbatman.pdf
+
+out/beingbatman.html:	out/beingbatman.xml
+	xmlto -o out html-nochunks out/beingbatman.xml
+
+out/beingbatman.pdf:	out/beingbatman.xml
+	dblatex -o out/beingbatman.pdf -t pdf out/beingbatman.xml
+
+out/beingbatman.xml:	src/handbooks/beingbatman.asciidoc
+	asciidoc -d book -b docbook -o out/beingbatman.xml src/handbooks/beingbatman.asciidoc
