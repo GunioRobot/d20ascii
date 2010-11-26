@@ -1,14 +1,6 @@
 System Reference Document
 =========================
 
-ifdef::full[]
-{set:unearthed-arcana}
-endif::full[]
-
-ifdef::unearthed-arcana[]
-{set:unearthed-arcana-variant-classes}
-endif::unearthed-arcana[]
-
 include::basics.asciidoc[]
 
 include::races.asciidoc[]
@@ -42,5 +34,10 @@ include::epicspells.asciidoc[]
 include::monsters.asciidoc[]
 
 include::legal.asciidoc[]
+
+Handbooks
+=========
+
+include::../handbooks/beingbatman.asciidoc[]
 
 [index]

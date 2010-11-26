@@ -1,8 +1,6 @@
-all: clearmess srd-all srd-ua-all handbooks
+all: clearmess srd-all handbooks
 
 srd-all: srd-epub srd-html srd-pdf srd-html-nochunks
-
-srd-ua-all: srd-ua-epub srd-ua-html srd-ua-pdf srd-ua-html-nochunks
 
 clearmess:
 	rm -rf *~ */*~ */*/*~ */*/*/*~
@@ -20,12 +18,6 @@ out/srd.html: out/srd.xml
 	mkdir -p out
 	xmlto -o out html-nochunks out/srd.xml
 
-srd-ua-html-nochunks: out/srd-ua.html
-
-out/srd-ua.html: out/srd-ua.xml
-	mkdir -p out
-	xmlto -o out html-nochunks out/srd-ua.xml
-
 out/srd/index.html: out/srd.xml src/mychunk.xsl
 	mkdir -p out
 	xmlto -o out/srd xhtml out/srd.xml -m src/mychunk.xsl
@@ -42,31 +34,9 @@ out/srd.epub: out/srd.xml
 	mkdir -p out
 	dbtoepub -o out/srd.epub out/srd.xml
 
-out/srd.xml: src/srd/*.asciidoc gen/srd/base-classes.asciidoc Makefile
+out/srd.xml: src/srd/*.asciidoc gen/srd/base-classes.asciidoc Makefile src/handbooks/*asciidoc
 	mkdir -p out
 	asciidoc -a idprefix= -d book -b docbook -o out/srd.xml src/srd/srd.asciidoc
-
-srd-ua-html: out/srd-ua/index.html
-
-out/srd-ua/index.html: out/srd-ua.xml src/mychunk.xsl
-	mkdir -p out
-	xmlto -o out/srd-ua xhtml out/srd-ua.xml -m src/mychunk.xsl
-
-srd-ua-pdf: out/srd-ua.pdf
-
-out/srd-ua.pdf: out/srd-ua.xml
-	mkdir -p out
-	dblatex -o out/srd-ua.pdf -t pdf out/srd-ua.xml
-
-srd-ua-epub: out/srd-ua.epub
-
-out/srd-ua.epub: out/srd-ua.xml
-	mkdir -p out
-	dbtoepub -o out/srd-ua.epub out/srd-ua.xml
-
-out/srd-ua.xml: src/srd/*.asciidoc gen/srd/base-classes.asciidoc Makefile
-	mkdir -p out
-	asciidoc -d book -a idprefix= -a unearthed-arcana -b docbook -o out/srd-ua.xml src/srd/srd.asciidoc
 
 clean:
 	rm -rf out
@@ -77,6 +47,9 @@ gen/srd/base-classes.asciidoc: src/srd/base-classes/*.yaml
 	python src/classes.py>gen/srd/base-classes.asciidoc
 
 handbooks:	out/beingbatman.html out/beingbatman.pdf
+
+out/index.html: out/srd.xml
+	xmlto -o out/index.html html-nochunks out/srd.xml
 
 out/beingbatman.html:	out/beingbatman.xml
 	xmlto -o out html-nochunks out/beingbatman.xml
