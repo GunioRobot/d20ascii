@@ -10,7 +10,7 @@
 <xsl:param name="chunk.section.depth" select="1"></xsl:param>
 <xsl:template name="user.footer.content">
   <HR/>
-  <small><a href="https://dl.dropbox.com/u/1086388/d20ascii/out/srd/legal_information_2.html">
+  <small><a href="legal_information_2.html">
     Legal Information
   </a></small>
 </xsl:template>
