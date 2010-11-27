@@ -18,9 +18,10 @@ out/srd.html: out/srd.xml
 	mkdir -p out
 	xmlto -o out html-nochunks out/srd.xml
 
-out/srd/index.html: out/srd.xml src/mychunk.xsl
+out/srd/index.html: out/srd.xml src/mychunk.xsl src/stylesheet.css
 	mkdir -p out
 	xmlto -o out/srd xhtml out/srd.xml -m src/mychunk.xsl
+	cp src/stylesheet.css out/srd
 
 srd-pdf: out/srd.pdf
 

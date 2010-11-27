@@ -89,13 +89,13 @@ What kind of spells do you want? Well, you want some of each--except, most of th
 
 Think Your Cunning Plans All the Way Through
 
-Spells.
+=== Spells.
 
 Don't pick them haphazardly--either to learn or to memorize. Which spells should you pick? That depends on what you're doing and what you specialize in. Here's a general selection of good spells:
 
-=== Bread and Butter: PHB spells
+==== Bread and Butter: PHB spells
 
-==== Level 1
+===== Level 1
 
 * Alarm: utility, and kind of a defensive buff--it keeps you from getting eaten by a moose while asleep.
 
@@ -125,7 +125,7 @@ Don't pick them haphazardly--either to learn or to memorize. Which spells should
 
 * Enlarge Person: a great low-level buff. Give your fighter reach and a strength bonus.
 
-==== Level 2
+===== Level 2
 
 * Glitterdust: With a Will save vs. Blindness, this is a save-or-suck that affects an area. It can pretty much win battles for you, as the fighters have to contend with suddenly significantly less dangerous enemies.
 
@@ -145,7 +145,7 @@ Don't pick them haphazardly--either to learn or to memorize. Which spells should
 
 * Rope Trick: once you hit Caster Level 9 (or extend it at CL 5), this spell is the perfect place to rest and prepare your spells in dungeons, the wilderness, et cetera.
 
-==== Level 3
+===== Level 3
 
 * Dispel Magic: because you're not the only spellcaster around.
 
@@ -174,7 +174,7 @@ A fireball deals 5d6 at level 5--that's 17 average damage on a *failed* save. A 
 
 * Slow: a save-or-suck that's almost a save-or-lose. Multiple target, Will save (fighter and rogue weakness), and they can only take a move or a standard action. Run circles around them--they can move up to you OR hit you, not both! Just stay out of reach of a partial charge.
 
-==== Level 4
+===== Level 4
 
 * Dimensional Anchor: stop the BBEG from teleporting out.
 
@@ -194,7 +194,7 @@ A fireball deals 5d6 at level 5--that's 17 average damage on a *failed* save. A 
 
 * Fear: Save-or-Lose, like Confusion.
 
-==== Level 5
+===== Level 5
 
 * Teleport: now you can Teleport out of danger... or into it. This spell has a variety of uses, including getting to your sanctum when you're low on spells and in a dangerous place (and teleporting back later).
 
@@ -216,7 +216,7 @@ A fireball deals 5d6 at level 5--that's 17 average damage on a *failed* save. A 
 
 * Overland Flight: longterm flight for those who don't want to risk their Phantom Steed being shot out from under them.
 
-==== Level 6
+===== Level 6
 
 * Dispel Magic, Greater: because you're not the only mid-to-high level spellcaster out there.
 
@@ -232,7 +232,7 @@ A fireball deals 5d6 at level 5--that's 17 average damage on a *failed* save. A 
 
 * Disintegrate: a damage spell that's actually worth it due to the amount of damage on a failed save. Good against low-HP, low-Fort save types like rogues and mages.
 
-==== Level 7
+===== Level 7
 
 * Banishment. "Oh no, a balor!" Poof.
 
@@ -248,7 +248,7 @@ A fireball deals 5d6 at level 5--that's 17 average damage on a *failed* save. A 
 
 * Limited Wish: unlike Wish, the XP cost isn't so bad pretty much want to never use it.
 
-==== Level 8
+===== Level 8
 
 * Mind Blank: Defensive buff. Immunity to all mind-affecting things? That's way too good.
 
@@ -266,7 +266,7 @@ A fireball deals 5d6 at level 5--that's 17 average damage on a *failed* save. A 
 
 * Greater Shadow Evocation: Contingency for any specialist wizard who's smart and bans evocation.
 
-==== Level 9
+===== Level 9
 
 * Prismatic Sphere: defensive buff, and the ultimate one at that. Unless they have a Rod of Cancellation, you're safe and sound while you do whatever you want.
 
@@ -278,11 +278,11 @@ A fireball deals 5d6 at level 5--that's 17 average damage on a *failed* save. A 
 
 * Time Stop: I don't need to actually tell you why this is good, do I?
 
-=== Milk and Honey: the PHB II and Spell Compendium
+==== Milk and Honey: the PHB II and Spell Compendium
 
 _includes spells from the Forgotten Realms books, from the Complete Arcane, et cetera._
 
-==== Level 1
+===== Level 1
 
 * Blood Wind: turn the monk's fists into ranged weapons? KTHX! It's Evocation, one of the few good ones.
 
@@ -290,7 +290,7 @@ _includes spells from the Forgotten Realms books, from the Complete Arcane, et c
 
 * Ray of Clumsiness: like Ray of Enfeeblement, but for Dex. Lots of things have low dex. Most big monsters. Even dragons. This is great against fighters or against rogues.
 
-==== Level 2
+===== Level 2
 
 * Baleful Transposition: switch the locations of the party fighter and the enemy mage? Delicious.
 
@@ -308,7 +308,7 @@ _includes spells from the Forgotten Realms books, from the Complete Arcane, et c
 
 * Slide, Greater: battlefield control, an interesting variety. With a Will save, you can move someone 20'. Drop enemy off cliff? Check! Help fighter move into position? Check! Generally cool.
 
-==== Level 3
+===== Level 3
 
 * Bands of Steel (Comp. Arcane): a reflex save-or-lose, and there aren't many of those. They don't lose all *that* hard, but there you have it.
 
@@ -324,7 +324,7 @@ _includes spells from the Forgotten Realms books, from the Complete Arcane, et c
 
 * Halt (PHB II): immediate action, so cast on someone else's turn. Will save vs. inability to move anywhere that round. Extend it with a lesser rod so it applies on their next round too!
 
-==== Level 4
+===== Level 4
 
 * Ray Deflection: rays can be deadly. Keep'em away with RAY-B-GONE!
 
@@ -348,7 +348,7 @@ _includes spells from the Forgotten Realms books, from the Complete Arcane, et c
 
 * Greater Mirror Image. More images, regrows 1 image/round... and cast as an immediate action!
 
-==== Level 5
+===== Level 5
 
 * Contingent Energy Resistance: resist energy vs. whatever kind of energy first hits you.
 
@@ -362,7 +362,7 @@ _includes spells from the Forgotten Realms books, from the Complete Arcane, et c
 
 * Fly, Mass: give your whole party maneouverability.
 
-==== Level 6
+===== Level 6
 
 * Anticipate Teleportation, Greater (level 8 in Comp. Arcane, 6 in Spell Compendium): delays them for 3 rounds, lasts 24 hours, otherwise like Anticipate Teleportation. Awesome spell, cast it every day.
 
@@ -378,7 +378,7 @@ _includes spells from the Forgotten Realms books, from the Complete Arcane, et c
 
 * Imbue Familiar with Spell Ability: this little gem makes your familiar useful. Give it the ability to cast (CL/3) spells of up to (CL/3) level: this is great because it acts independently, which means more spells per round. If you cast a Quickened Spell and a regular spell, and so does it, that's four spells that round. That's enough spells to end an equal-CR fight, sometimes. Certainly enough to buff up fast.
 
-==== Level 7
+===== Level 7
 
 * Energy Immunity. Forget mere "resistance"!
 
@@ -398,7 +398,7 @@ _includes spells from the Forgotten Realms books, from the Complete Arcane, et c
 
 * Spell Matrix: store two spells, under level 3, and release both as a swift action. More spells in the beginning of a fight is great.
 
-==== Level 8
+===== Level 8
 
 * Spell Engine: redo your spell selection... costs cash and XP, though, so use it wisely.
 
@@ -408,7 +408,7 @@ _includes spells from the Forgotten Realms books, from the Complete Arcane, et c
 
 * Chain Dispel: like Greater Dispel Magic... but targeted. At level 15, that's 15 targets. Disable 2 people's buffs, and all of their important gear temporarily!
 
-==== Level 9
+===== Level 9
 
 * Absorption: the ultimate in protection from other casters' direct spells.
 
@@ -425,33 +425,33 @@ _includes spells from the Forgotten Realms books, from the Complete Arcane, et c
 * Detonate (PHB II): surround someone with cute animals. Blow them all up for massive damage. Evil, but effective.
 
 
-=== Stinky Cheese
+==== Stinky Cheese
 
 _spells that are broken, broken, broken._
 
-==== Level 2
+===== Level 2
 
 * Alter Self: give yourself +6 natural armor, or flight, for 10 min/level with a level 2 spell? Like all the polymorph spells, way too good for its level--not so broken you probably shouldn't use it in a game, though. Combine with the Otherworldly feat for even more cheese.
 
 * Wraithstrike: swift action, make all attacks as touch attacks that round. Ridiculously good for fighter-mages, Power Attack for huge amounts of damage. You can Persist it quite normally in an 8th level slot, or by using various kinds of cheese, and that's when it becomes *completely* broken.
 
-==== Level 3
+===== Level 3
 
 * Shivering Touch (Frostburn): a touch attack, no save, 3d6 dex damage. 3d6! Dex damage! Wanna one-shot a dragon? NOOO problem! Add some kind of reach (Arcane Reach from Archmage, or Reach Spell metamagic) and you can do it from safety. For the love of god, don't resport to this.
 
-==== Level 4
+===== Level 4
 
 * Polymorph: far better than any other spell of its level, and many higher-level spells. The things you can do with this are ridiculous. It's completely broken, so much so WotC has given up on trying to fix it. Just don't use it.
 
 * Celerity (PHB II): this breaks casters worse than they're already broken. As an immediate action casting, gain a standard action, and be dazed on the next round. This means that no matter what, the wizard goes first. Combine with Time Stop to negate the disadvantage of being dazed in combat, or just use it to Teleport out of there or Dimension Door way out of reach.
 
-==== Level 8
+===== Level 8
 
 * Polymorph Any Object: the worst of the lot. Turn yourself into a gold dragon and gain its INT score plus everything else? Come on. Most broken spell in the game.
 
 * Greater Celerity (PHB II): as Celerity, but grants a full-round action.
 
-==== Level 9
+===== Level 9
 
 * Shapechange: CL up to 25 HD monsters. Gain their (Su) special qualities and attacks as well as the (Ex) ones. Completely and utterly ridiculous, as a more powerful Polymorph of course must be. Don't use this.
 
@@ -594,7 +594,7 @@ _A note on Maximize vs. Empower: Empower is better for smaller dice (1.5*1d4 = 3
 
 * Touch Spell Specialization (Complete Arcane): ew blech yuck NO.
 
-==== Prerequisite Feats:
+==== Prerequisite Feats
 
 These are feats that are prerequisites for prestige classes you want to enter. TAKE them, dummy.
 
@@ -606,13 +606,14 @@ The second is some kind of punishment for the fool who dared to mess with your s
 
 The second part is Spell Mastery (include Teleport), and/or always having one Teleport in reserve. This is so you can Teleport back to wherever your book went and pick it up.
 
-_You're Special All Right--Short Bus Special!_
+=== You're Special All Right--Short Bus Special!
 
 Wizards have the option of specialization--they can give up two schools of magic entirely for an extra spell per day of each level. While that sounds like a pretty raw deal, high-level spell slots are valuable.
 
 If the Complete Arcane, and especially the Spell Compendium, is in, then you should be a Diviner. If not, you should be a Transmuter or Conjurer. Why? Well, because transmutation and conjuration are the biggest school, containing at least one useful spell at every level--and because diviners only have to give up one school, and get enough useful spells with the Complete Arcane to make Divinerhood worthwhile.
 
 Here's an overview of the schools:
+
 * Abjuration: a lot of useful protections, and *dispel magic*. Can't give this one up.
 
 * Conjuration: Conjuration has, well, everything. Battlefield control, damage (with the Complete Arcane's Orb Of spells), the vital Teleport and Dimension Door, a bunch of utility...
@@ -634,14 +635,14 @@ So, the three main candidates for being dropped are Evocation, Enchantment, and 
 Thus, one should either be a Diviner who bans evocation or enchantment, or a Transmuter or Conjurer who bans evocation and enchantment.
 
 
-Wonderful Unique Snowflake or Not? Specialization, Generalization, and Alternatives
+==== Wonderful Unique Snowflake or Not? Specialization, Generalization, and Alternatives
 
 So: specialize, or generalize? With Divination as a speciality (excellent with the Complete Arcane spells--and without the Complete Arcane, losing Enchantment or Illusion hurts a lot less) you only lose one school, that you wouldn't use often, and you gain a bonus spell slot. I like to specialize, but it's not inherently superior. There is something to be said about keeping all your options open.
 
 However, if you're not going to specialize, Races of the Wild offers racial substitution levels for elven wizards. The first level is sort of a "generality specialist"--you lose the ability to specialize (which you weren't doing anyway if you're taking the racial sub level), and gain a bonus slot of your highest spell level (that moves around when you gain new spell levels), and learn an extra spell on each level-up. That's definitely an option competitive with Divination specialization.
 
 
-Mommy, Why Amn't I Like All the Other Children?
+==== Mommy, Why Amn't I Like All the Other Children?
 
 While we're on the subject of specialization, it should be noted that the PHB II gives specialist wizards the option of trading in their familiar for an Immediate Magic ability--a special ability they can use INT bonus/day.
 
@@ -657,14 +658,14 @@ If you're going to have a prestige class, then the Enchanters' and Necromancers'
 
 
 
-I'm The Best There Is At What I Do, Bub
+=== I'm The Best There Is At What I Do, Bub
 
 A wizard has a huge array of spells available and ways to combine them with metamagic--and with other spells.
 
 Some of these combinations work better than others. Some spell and metamagic combinations are better than others. I present to you, gentle reader, some humble example of magic and metamagic used to their fullest, as well as explanations of what to look for.
 
 
-Insight Into the Working of Things:
+==== Insight Into the Working of Things
 
 * Sculpt Spell: this lets you modify the shape of your area spells. Therefore, it's best useful for spells whose power is limited by their area--for example, Color Spray. It's a cone, and its range is 15'. This means that we can turn it into four 10' cubes, none more than 15' away, rather than a 15' cone, and cover a lot more area--and pick which squares to cover (hint: the ones with enemies).
 Glitterdust is a 10' burst; changing that to a 20' ball will make it catch more enemies. Look for spells with limited areas, or who are limited by their shape (i.e. cone, line).
@@ -684,7 +685,7 @@ Therefore, you should Chain spells that don't do damage and don't have saving th
 What happens if you Chain a Magic Jar spell? Do you possess many bodies at once? Ask your DM!
 
 
-Clever Tricks:
+==== Clever Tricks
 
 * Sculpt Spell + Color Spray or Grease: both of these benefit from having their area change, and are thus able to affect more targets.
 
@@ -731,14 +732,14 @@ A rod of Chain Spell, Lesser, lets you do this to ALL their items. It's Disjunct
 * See Invisiblity + Glitterdust: See Invisibility lets you see invisible people.
 Glitterdust makes sure the rest of your party can, too.
 
-Prestige Classes
+=== Prestige Classes
 
 The first rule of prestige classing out of Wizard is this: [bb]Thou Shalt Not Give Up Caster Levels[/b]. It's basic. Spellcasting--especially arcane spellcasting--is the most powerful thing in D&D. Therefore, losing any of it is bad. It can be worth it--but it very, very rarely is. Giving up a caster level delays your access to higher-level spells, delays getting more spell slots, and if you lose more than a couple of levels, you irreparably damage your high-level spellcasting.
 
 The second rule of prestige classing out of Wizard is this: DO it. You've literally got nothing except your familiar's progression to lose. Any prestige class ability is better than that.
 
 
-Core Prestige Classes:
+==== Core Prestige Classes
 
 Archmage: this is the staple prestige class of high-level wizards. Its 3.0 predecessor had Spell Power, so you could take Archmage 3, get Spell Power +1, +2, and +3, and wind up with a total of +6 to your spell DCs.
 Those days are over. However, Archmage remains useful--if not, perhaps, for all five levels.
@@ -771,7 +772,7 @@ Really, though, it's a full caster prestige class. You have nothing but familiar
 Qualifying for Loremaster looks difficult at first, but really, it requires 10 ranks in any two knowledge skills (which you should have anyway), any three metamagic or item creation feats (which you should have anyway), and Skill Focus: any one Knowledge, which, well, okay, that's a waste--but Loremaster gives you a bonus feat later which makes up for it and can even be better than just taking a feat instead of Skill Focus. You also need to be able to cast seven Divinations, one of 3rd level or higher--which you maybe should have, but may well not. Of course, scribing a few extra spells isn't much of a price for PrC entry.
 Entering Loremaster gets you access to a bunch of class skills, more skill points per level, a Secret every odd level (five in all), two bonus languages, Bardic Lore, free Identifying, and free Legend Lore or Analyze Dweomer 1/day. The five best secrets are the ones that boost your saving throws, one of the bonus spells, and, of course, the Bonus Feat. The Bonus Feat means that your Skill Focus turns into any feat you wanted in its place--and, in fact, you can take some feats now you couldn't have qualified for when you took Skill Focus (such as a higher-level Craft feat), which makes this a delayed feat. Add up all those minor goodies, and they're not half bad. I'd take Wizard10/Loremaster 10 over Wizard 20 any day.
 
-Red Wizard: in 3.0, Red Wizard was ridiculously good. +5 DC in your specialization school over 10 levels, AND Circle Magic cheese (use Leadership to get spellcasting followers, have them sacrifice spell slots to boots your spells, get RIDICULOUS caster levels and DCs)? Add Archmage 3 with Spell Power 1, 2, and 3, and you have +11 DC by level 20, which means that DC 40+ spells are commonplace for you. Here's a D&D, you win it.
+Red Wizard: in 3.0, Red Wizard was ridiculously good. \+5 DC in your specialization school over 10 levels, AND Circle Magic cheese (use Leadership to get spellcasting followers, have them sacrifice spell slots to boots your spells, get RIDICULOUS caster levels and DCs)? Add Archmage 3 with Spell Power 1, 2, and 3, and you have +11 DC by level 20, which means that DC 40\+ spells are commonplace for you. Here's a D&D, you win it.
 Now... well, now it gets Spell Power, which means increased caster level, which means it's still really good. Of course, you have to be a specialist to be a Red Wizard, and then you lose *another* school... which means that if you're not a Diviner, you lose three schools. That's absolutely intolerable as a primary arcanist. Of course, a Diviner Red Wizard winds up losing two schools, like a normal specialist... but gets Spell Power +5. Plus, Circle Magic.
 Of course, you have to be a Red Wizard of Thay. Some people consider that a bit of a downside.
 
@@ -781,7 +782,7 @@ Don't take it. No, really. If you get the urge to take it, go play a Cleric 3/Wi
 Then cry.
 
 
-Complete Series Prestige Classes
+==== Complete Series Prestige Classes
 
 Argent Savant: sure, it's not *bad*... except that you give up a caster level. The perks really aren't worth it.
 
@@ -834,7 +835,7 @@ Master of the Unseen Hand: Wow, NO caster levels. Pass.
 Spellsword: If you're a fighter/mage type, a one level dip is great. A three level dip can be good. More and you're losing too many caster levels.
 
 
-Player's Guide to Faerun Prestige Classes
+==== Player's Guide to Faerun Prestige Classes
 
 Arcane Devotee: better, like almost all full-caster-level PrCs, than going straight Wizard.
 
@@ -849,7 +850,8 @@ Shadow Adept: Not half bad in practice, mechanically, but in-game, serving Shar?
 Spellguard of Silverymoon: Very nice, but flavor-specific. Unless your campaign is focused on Silverymoon, or your DM lets you apply it to whatever city it DOES focus on, this class doesn't really work.
 
 
-Eberron PrC - by The_Demented_One
+==== Eberron PrC
+_by The_Demented_One_
 
 Alchemist Savant (MoE)
 Mmm...full caster level progression. This potion-themed PrC lets you brew potions faster, create spellvials, the offensive cousins of potions, and create universal potions, which let you add a spell to them on demand without having to use up a spell slot. Nothing amazingly power, but useful abilities and full caster progression make this a good choice for those with an eye towards crafting.
@@ -857,15 +859,14 @@ Mmm...full caster level progression. This potion-themed PrC lets you brew potion
 Cataclysm Mage (ExH)
 This odd little PrC gives you caster level advancement at every level but the first, along with a fairly bizarre mishmash of abilities, culminating in the ability to manifest dragonmarks with no regard to normal restrictions. It’s got enough caster levels to be worth taking, but has no abilities that stand out as being very powerful.
 
-Dragon Prophet (MoE)
+Dragon Prophet (MoE) footnote:[Ninja Note: some prophecy abilities aren't bad; good constellation powers are Lendys, Garyx, Tamara, Tiamat, Bahamut, Aasterinian. Plus, you get bonus Dragon Prophecier feats--Prophecy's Artifex lets you use wands and staffs as a swift action, which is nice. Prophecy's Shaper lets you Empower spells for free. Overall, if you really know what you're doing, this class can be worth it. Plus, it's got cool factor.]
+
 Like the Cataclysm Mage, this gives you 9/10 caster level progression, and a mishmash of dragon-related abilities. There are a few neat abilities, notably the immortality gained at 10th level, but nothing terribly nice. Like Cataclysm Mage, taking it won’t hurt you, but it won’t help you terribly much.
 
-* -Ninja Note: some prophecy abilities aren't bad; good constellation powers are Lendys, Garyx, Tamara, Tiamat, Bahamut, Aasterinian. Plus, you get bonus Dragon Prophecier feats--Prophecy's Artifex lets you use wands and staffs as a swift action, which is nice. Prophecy's Shaper lets you Empower spells for free. Overall, if you really know what you're doing, this class can be worth it. Plus, it's got cool factor.
 
-Heir of Syberis (ECS)
+Heir of Syberis (ECS) footnote:[Ninja Note: this is better for fighter types than for mages, but getting Mass Heal twice/day, if you're a halfling of House Jorasco? I might turn that down, but I'd hesitate. It's a powerful three-level PrC overall.]
 This 3-level PrC advances your caster level at all levels but the first, gives you some extra action points, and gives you a Mark of Syberis, essentially a dragonmark on crack that lets you use a seventh level or higher spell. Depending on the mark you choose, you can get a nice, high-level spell not on the wizard list, like Mass Heal or Storm of Vengeance. Useful if you use it to get a spell you normally couldn’t, but you’d otherwise probably be best just casting it normally.
 
-* -Ninja Note: this is better for fighter types than for mages, but getting Mass Heal twice/day, if you're a halfling of House Jorasco? I might turn that down, but I'd hesitate. It's a powerful three-level PrC overall.
 
 High Elemental Binder (PgtE)
 This neat PrC costs you only one caster level, in exchange for the services of a bevy of elementals. The neatest ability, though, is that you can bind them into items to increase their power. Problem is, though, that only you can use the resulting items, and you’d be much better off casting spells. If you want to take this one, go in as an Artificer, not a Wizard.
@@ -873,23 +874,22 @@ This neat PrC costs you only one caster level, in exchange for the services of a
 Impure Prince (MoE)
 This quirky PrC causes you to take on the traits of an aberration, to the tune of two lost caster levels. Though meant for rangers and druids, a wizard can benefit from it–but not much. You get a few spells added to your class list, the ability to gain a symbiont, and partial immunity to critical hits. Unless you want to play a wizard with a grudge against aberrations, this is going to be of no use to you.
 
-Knight Phantom (FN)
+Knight Phantom (FN) footnote:[Ninja Note: at first glance, this looks pretty much completely superior to Eldritch Knight... but you lose a bonus feat, and have to *waste* a feat on Still Spell. Two feats vs. a higher HD and spellcasting in light armor. Me, I'd go with the feats, but if you don't need them, Phantom Knight is better.]
+
 A pretty run of the mill gish class. Caster level advancement at every level but first, d8 HD, full base attack bonus, spellcasting in light armor, and some phantom-themed abilities. However, you have to take a fighter level to qualify, which, combined with the lost caster level as 1st, will set you back a spell level. I’d take it over the fairly generic Eldritch Knight in a gish build, as detailed earlier on by The Logic Ninja, but not for anything else.
 
-* -Ninja Note: at first glance, this looks pretty much completely superior to Eldritch Knight... but you lose a bonus feat, and have to *waste* a feat on Still Spell. Two feats vs. a higher HD and spellcasting in light armor. Me, I'd go with the feats, but if you don't need them, Phantom Knight is better.
 
-Recaster (RoE)
+Recaster (RoE) footnote:[Ninja Note: This class is awesome. If you're a changeling wizard, *take* it. Get Heal as a fifth-level spell from the Adept list, for example. Plus altering your spells on the fly--basically a free Sculpt Spell feat, among other goodies. One of the few concrete counterexamples to the "don't lose caster levels" rule.]
+
 This one’s good for those changeling wizards out there. You give up one caster level in exchange for access to spells from other class lists, bonus Sudden Metamagic feats and the ability to alter your spells on the fly–taking away components, changing areas, and such. If you’re playing a changeling wizard, there is no reason not to take this.
 
-* -Ninja Note: This class is awesome. If you're a changeling wizard, *take* it. Get Heal as a fifth-level spell from the Adept list, for example. Plus altering your spells on the fly--basically a free Sculpt Spell feat, among other goodies. One of the few concrete counterexamples to the "don't lose caster levels" rule.
 
 Renegade Mastermaker
 This PrC turns you into a warforged, leaving two caster levels by the wayside. While it’s the closest you’ll be getting to Edward Elric in D&D, it isn’t too useful for a wizard–far too many of the abilities are useful only to characters planning on going into melee, like the battlefist and damage reduction. If you want to play a warforged wizard, just play a warforged wizard–not this.
 
-Sharn Skymage (S:CoT)
-This 5-level PrC will cost you three caster levels. In exchange, you become better at flying with magic. Useless, useless, useless.
+Sharn Skymage (S:CoT) footnote:[Ninja Note: Sucks. So. HARD.]
 
-* -Ninja Note: Sucks. So. HARD.
+This 5-level PrC will cost you three caster levels. In exchange, you become better at flying with magic. Useless, useless, useless.
 
 Silver Pyromancer (FN)
 This PrC advances your caster level at every level but 1st, but you have to take a level of cleric to qualify. In exchange, you get various enhancements to your fire-based spells. Remember what TLN said about damage spells? Leave this one by the wayside.
@@ -897,7 +897,6 @@ This PrC advances your caster level at every level but 1st, but you have to take
 Spellcarved Soldier
 Ugh. While this warforged gish PrC requires you be able to cast spells, it gives no caster level advancement. Instead, it gives you a bevy of runes, which tend to have more use for a melee combatant than a caster. This isn’t for the party’s prime arcanist, though a fighter willing to take a level of artificer or warmage might get some benefit from it–but not much.
 
-Windwright Captain (ExH)
+Windwright Captain (ExH) footnote:[Ninja Note: of course, Batman could be a pimp if he wanted to. This prestige class is much better for, say, Bards than for wizards.]
 This 5-level PrC gives you only half caster level advancement, which will put you a spell level behind other casters. However, what it lacks up in power, it makes up in coolness. You get your very own frickin’ airship, which you can control via telepathy. Essentially, you stop being Batman, in exchange for becoming the Uberpimp, the Pimp of Pimps.
 
-* -Ninja Note: of course, Batman could be a pimp if he wanted to. This prestige class is much better for, say, Bards than for wizards.
