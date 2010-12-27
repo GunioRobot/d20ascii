@@ -15,7 +15,8 @@
     Gather Information: Cha
     Handle Animal: Cha
     Intimidate: Cha
-    Knowledge: all skills taken individually) (Int
+    Knowledge:
+      all skills taken individually: Int
     Listen: Wis
     Perform: Cha
     Ride: Dex

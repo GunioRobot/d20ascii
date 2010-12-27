@@ -11,7 +11,8 @@
     Craft: Int
     Handle Animal: Cha
     Heal: Wis
-    Knowledge: all skills taken individually) (Int
+    Knowledge:
+      all skills taken individually: Int
     Profession: Wis
     Spellcraft: Int
     Survival: Wis

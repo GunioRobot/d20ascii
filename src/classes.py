@@ -61,8 +61,13 @@ for i in classes:
   skillsout=""
 #  print str.join(", ",skills)
   for j in skills:
+#    print j
     if (i["Class Skills"][j]):
-      skillsout=skillsout + j + " ("+i["Class Skills"][j]+"), "
+      if (j!="Knowledge"):
+        skillsout=skillsout + j + " ("+i["Class Skills"][j]+"), "
+      else:
+        for k in i["Class Skills"]["Knowledge"]:
+          skillsout=skillsout + "Knowledge (" + k + "): (Int), "
     else:
       skillsout=skillsout + j + ", "
   skillsout=skillsout.rstrip(", ")

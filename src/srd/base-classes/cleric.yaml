@@ -11,10 +11,11 @@
     Craft: Int
     Diplomacy: Cha
     Heal: Wis
-    Knowledge (Arcana): Int
-    Knowledge (History): Int
-    Knowledge (Religion): Int
-    Knowledge (The Planes): Int
+    Knowledge:
+      Arcana: Int
+      History: Int
+      Religion: Int
+      The Planes: Int
     Profession: Wis
     Spellcraft: Int
 
