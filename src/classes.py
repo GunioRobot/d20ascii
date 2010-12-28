@@ -138,3 +138,5 @@ for i in classes:
     underline("^","Ex-"+i["Name"]+"s")
     print i["Ex"]["Description"]
     print
+  if (i.has_key("Animal Companion")):
+    print i["Animal Companion"]

@@ -1,0 +1,16 @@
+- Name: Expert
+  Saves:
+    Fortitude: Poor
+    Reflex: Poor
+    Will: Good
+  Base Attack Bonus: Medium
+  Skill Points Per Level: 6
+  Hit Die: d6
+  Class Skills:
+    The expert can choose any ten skills to be class skills.: 0
+  Class Features:
+    Weapon and Armor Proficiency:
+      Level: 0
+      Description:
+        The expert is proficient in the use of all simple weapons and with
+        light armor but not shields.
