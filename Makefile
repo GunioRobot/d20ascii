@@ -53,10 +53,13 @@ out/index.html: out/srd.xml
 	xmlto -o out/index.html html-nochunks out/srd.xml
 
 out/beingbatman.html:	out/beingbatman.xml
+	mkdir -p out
 	xmlto -o out html-nochunks out/beingbatman.xml
 
 out/beingbatman.pdf:	out/beingbatman.xml
+	mkdir -p out
 	dblatex -o out/beingbatman.pdf -t pdf out/beingbatman.xml
 
 out/beingbatman.xml:	src/handbooks/beingbatman.asciidoc
+	mkdir -p out
 	asciidoc -d book -b docbook -o out/beingbatman.xml src/handbooks/beingbatman.asciidoc
