@@ -34,8 +34,11 @@ A Small character generally moves about two-thirds as fast as a Medium character
 
 A Small character must use smaller weapons than a Medium character.
 
+Races with Level Adjustment 0
+-----------------------------
+
 Humans
-------
+~~~~~~
 indexterm:[Humans]
 
 * *Medium:* As Medium creatures, humans have no special bonuses or penalties due to their size. 
@@ -51,7 +54,7 @@ indexterm:[Humans]
 * *Favored Class:* Any. When determining whether a multiclass human takes an experience point penalty, his or her highest-level class does not count.
 
 Dromites
---------
+~~~~~~~~
 
 indexterm:[Dromites]
 
@@ -82,7 +85,7 @@ indexterm:[Dromites]
 * *Level Adjustment:* +1.
 
 Duergar
--------
+~~~~~~~
 
 indexterm:[Duergar]
 
@@ -123,7 +126,7 @@ A gray dwarf who merely comes within 10 feet of unusual stonework can make a Sea
 * *Level Adjustment:* +1.
 
 Dwarves
--------
+~~~~~~~
 indexterm:[Dwarves]
 
 * +2 Constitution, –2 Charisma.
@@ -157,7 +160,7 @@ indexterm:[Dwarves]
 * *Favored Class:* Fighter. A multiclass dwarf's fighter class does not count when determining whether he takes an experience point penalty for multiclassing
 
 Elans
------
+~~~~~
 
 indexterm:[Elans]
 
@@ -186,7 +189,7 @@ indexterm:[Elans]
 * *Level Adjustment:* +0.
 
 Elves
------
+~~~~~
 indexterm:[Elves]
 
 * +2 Dexterity, –2 Constitution.
@@ -208,7 +211,7 @@ indexterm:[Elves]
 * *Favored Class:* Wizard. A multiclass elf 's wizard class does not count when determining whether she takes an experience point penalty for multiclassing.
 
 Gnomes
-------
+~~~~~~
 indexterm:[Gnomes]
 
 * +2 Constitution, –2 Strength.
@@ -240,7 +243,7 @@ indexterm:[Gnomes]
 * *Favored Class:* Bard. A multiclass gnome's bard class does not count when determining whether he takes an experience point penalty.
 
 Half-Elves
-----------
+~~~~~~~~~~
 indexterm:[Half-Elves]
 
 * *Medium:* As Medium creatures, half-elves have no special bonuses or penalties due to their size.
@@ -262,7 +265,7 @@ indexterm:[Half-Elves]
 * *Favored Class:* Any. When determining whether a multiclass half-elf takes an experience point penalty, her highest-level class does not count.
 
 Half-Giants
------------
+~~~~~~~~~~~
 
 indexterm:[Half-Giants]
 
@@ -295,7 +298,7 @@ A half-giant is also considered to be one size larger when determining whether a
 * *Level Adjustment:* +1.
 
 Half-Orcs
----------
+~~~~~~~~~
 indexterm:[Half-Orcs]
 
 * +2 Strength, –2 Intelligence, –2 Charisma.
@@ -314,7 +317,7 @@ A half-orc's starting Intelligence score is always at least 3. If this adjustmen
 * *Favored Class:* Barbarian. A multiclass half-orc's barbarian class does not count when determining whether he takes an experience point penalty.
 
 Halflings
----------
+~~~~~~~~~
 indexterm:[Halflings]
 
 * +2 Dexterity, –2 Strength.
@@ -338,7 +341,7 @@ indexterm:[Halflings]
 * *Favored Class:* Rogue. A multiclass halfling's rogue class does not count when determining whether she takes an experience point penalty for multiclassing.
 
 Maenads
--------
+~~~~~~~
 
 indexterm:[Maenads]
 
@@ -359,7 +362,7 @@ indexterm:[Maenads]
 * *Level Adjustment:* +0
 
 Xephs
------
+~~~~~
 
 indexterm:[Xephs]
 

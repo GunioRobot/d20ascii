@@ -123,7 +123,23 @@ for i in classes:
   print "|====="
   print  
 
-  underline('^',"Class Features")
+  if (i.has_key('Spells Known')):
+    print ".Spells Known"
+    print '[options="header"]';
+    print "|=====";
+    print "| Level ",
+    for k in range(0,maxspelllevel+1):
+      print "| ",k," ",
+    print
+    for j in range(1,21):
+      print "| ",j,
+      for k in range(0,maxspelllevel+1):
+        if (i["Spells Known"][j].has_key(k)):
+          print "| ", i["Spells Known"][j][k]," ",
+        else:
+          print "| -  ",
+    print
+    print "|=====";
 
   for k in range(0,21):
     for j in i["Class Features"]:
