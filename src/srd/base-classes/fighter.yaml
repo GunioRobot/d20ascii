@@ -1,0 +1,82 @@
+- Name: Fighter
+  Alignment: Any.
+  Saves:
+    Fortitude: Good
+    Reflex: Poor
+    Will: Poor
+  Base Attack Bonus: Good
+  Hit Die: d10
+  Class Skills:
+    Climb: Str
+    Craft: Int
+    Handle Animal: Cha
+    Intimidate: Cha
+    Jump: Str
+    Ride: Dex
+    Swim: Str
+  Skill Points Per Level: 2
+
+  Class Features:
+    Weapon and Armor Proficiency:
+      Level: 0
+      Description:
+        A fighter is proficient with all simple and martial weapons and with
+        all armor (heavy, medium, and light) and shields (including tower
+        shields).
+
+    Bonus Feats:
+      Level: 1
+      Short: Bonus Feat
+      Description: >
+        At 1st level, a fighter gets a bonus combat-oriented feat in
+        addition to the feat that any 1st-level character gets and the bonus
+        feat granted to a human character.  The fighter gains an additional
+        bonus feat at 2nd level and every two fighter levels thereafter
+        (4th, 6th, 8th, 10th, 12th, 14th, 16th, 18th, and 20th).  These
+        bonus feats must be drawn from the feats noted as fighter bonus
+        feats.  A fighter must still meet all prerequisites for a bonus
+        feat, including ability score and base attack bonus minimums.
+
+        These bonus feats are in addition to the feat that a character of
+        any class gets from advancing levels.  A fighter is not limited to
+        the list of fighter bonus feats when choosing these feats.
+
+    Bonus Feats 2:
+      Level: 2
+      Short: Bonus Feat
+
+    Bonus Feats 4:
+      Level: 4
+      Short: Bonus Feat
+
+    Bonus Feats 6:
+      Level: 6
+      Short: Bonus Feat
+
+    Bonus Feats 8:
+      Level: 8
+      Short: Bonus Feat
+
+    Bonus Feats 10:
+      Level: 10
+      Short: Bonus Feat
+
+    Bonus Feats 12:
+      Level: 12
+      Short: Bonus Feat
+
+    Bonus Feats 14:
+      Level: 14
+      Short: Bonus Feat
+
+    Bonus Feats 16:
+      Level: 16
+      Short: Bonus Feat
+
+    Bonus Feats 18:
+      Level: 18
+      Short: Bonus Feat
+
+    Bonus Feats 20:
+      Level: 20
+      Short: Bonus Feat
