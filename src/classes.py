@@ -141,6 +141,7 @@ for i in classes:
     print
     print "|=====";
 
+  underline("^","Class Features")
   for k in range(0,21):
     for j in i["Class Features"]:
       if (i["Class Features"][j]["Level"]==k):
