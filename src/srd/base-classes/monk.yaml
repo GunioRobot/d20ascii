@@ -1,0 +1,632 @@
+- Name: Monk
+  Saves:
+    Fortitude: Good
+    Reflex: Good
+    Will: Good
+  Base Attack Bonus: Medium
+  Skill Points Per Level: 4
+  Alignment: Any lawful.
+  Hit Die: d6
+  Class Skills:
+    Balance: Dex
+    Climb: Str
+    Concentration: Con
+    Craft: Int
+    Diplomacy: Cha
+    Escape Artist: Dex
+    Hide: Dex
+    Jump: Str
+    Knowledge:
+      Arcana: Int
+      Religion: Int
+    Listen: Wis
+    Move Silently: Dex
+    Perform: Cha
+    Profession: Wis
+    Sense Motive: Wis
+    Spot: Wis
+    Swim: Str
+    Tumble: Dex
+  Class Features:
+    Weapon and Armor Proficiency:
+      Level: 0
+      Description: >
+        Monks are proficient with club, crossbow (light or heavy), dagger,
+        handaxe, javelin, kama, nunchaku, quarterstaff, sai, shuriken,
+        siangham, and sling.
+
+        Monks are not proficient with any armor or shields
+    
+        When wearing armor, using a shield, or carrying a medium or heavy
+        load, a monk loses her AC bonus, as well as her fast movement and
+        flurry of blows abilities.
+
+    AC Bonus:
+      Level: 0
+      Description: >
+        When unarmored and unencumbered, the monk adds her Wisdom bonus (if
+        any) to her AC. In addition, a monk gains a +1 bonus to AC at 5th
+        level. This bonus increases by 1 for every five monk levels
+        thereafter (+2 at 10th, +3 at 15th, and +4 at 20th level).
+        
+        These bonuses to AC apply even against touch attacks or when the
+        monk is flat-footed. She loses these bonuses when she is immobilized
+        or helpless, when she wears any armor, when she carries a shield, or
+        when she carries a medium or heavy load.
+        
+    Flurry of Blows:
+      Level: 1
+      Short: Flurry of Blows
+      Description: >
+        When unarmored, a monk may strike with a flurry of blows at the
+        expense of accuracy. When doing so, she may make one extra attack in
+        a round at her highest base attack bonus, but this attack takes a -2
+        penalty, as does each other attack made that round. The resulting
+        modified base attack bonuses are shown in the Flurry of Blows Attack
+        Bonus column on Table: The Monk. This penalty applies for 1 round,
+        so it also affects attacks of opportunity the monk might make before
+        her next action. When a monk reaches 5th level, the penalty lessens
+        to -1, and at 9th level it disappears. A monk must use a full attack
+        action to strike with a flurry of blows.
+        
+        When using flurry of blows, a monk may attack only with unarmed
+        strikes or with special monk weapons (kama, nunchaku, quarterstaff,
+        sai, shuriken, and siangham). She may attack with unarmed strikes
+        and special monk weapons interchangeably as desired. When using
+        weapons as part of a flurry of blows, a monk applies her Strength
+        bonus (not Str bonus x 1 1/2 or x 1/2) to her damage rolls for all
+        successful attacks, whether she wields a weapon in one or both
+        hands. The monk can't use any weapon other than a special monk
+        weapon as part of a flurry of blows.
+        
+        In the case of the quarterstaff, each end counts as a separate
+        weapon for the purpose of using the flurry of blows ability. Even
+        though the quarterstaff requires two hands to use, a monk may still
+        intersperse unarmed strikes with quarterstaff strikes, assuming that
+        she has enough attacks in her flurry of blows routine to do so.
+        
+    Greater Flurry:
+      Level: 11
+      Short: Greater Flurry   
+      Description:
+        When a monk reaches 11th level, her flurry of blows ability
+        improves. In addition to the standard single extra attack she gets
+        from flurry of blows, she gets a second extra attack at her full
+        base attack bonus.
+
+    Unarmed Strike:
+      Short: Unarmed Strike
+      Level: 1
+      Description: >
+        At 1st level, a monk gains Improved Unarmed Strike as a bonus feat.
+        A monk's attacks may be with either fist interchangeably or even
+        from elbows, knees, and feet. This means that a monk may even make
+        unarmed strikes with her hands full. There is no such thing as an
+        off-hand attack for a monk striking unarmed. A monk may thus apply
+        her full Strength bonus on damage rolls for all her unarmed strikes.
+        
+        Usually a monk's unarmed strikes deal lethal damage, but she can
+        choose to deal nonlethal damage instead with no penalty on her
+        attack roll. She has the same choice to deal lethal or nonlethal
+        damage while grappling.
+        
+        A monk's unarmed strike is treated both as a manufactured weapon and
+        a natural weapon for the purpose of spells and effects that enhance
+        or improve either manufactured weapons or natural weapons.
+        
+        A monk also deals more damage with her unarmed strikes than a normal
+        person would, as shown on Table: The Monk. The unarmed damage on
+        Table: The Monk is for Medium monks. A Small monk deals less damage
+        than the amount given there with her unarmed attacks, while a Large
+        monk deals more damage; see Table: Small or Large Monk Unarmed
+        Damage.
+        
+    Bonus Feat:
+      Level: 1
+      Short: Bonus Feat
+      Description: >
+        At 1st level, a monk may select either Improved Grapple or Stunning
+        Fist as a bonus feat. At 2nd level, she may select either Combat
+        Reflexes or Deflect Arrows as a bonus feat. At 6th level, she may
+        select either Improved Disarm or Improved Trip as a bonus feat. A
+        monk need not have any of the prerequisites normally required for
+        these feats to select them.
+
+    Bonus Feat 2:
+      Level: 2
+      Short: Bonus Feat
+
+    Bonus Feat 6:
+      Level: 6
+      Short: Bonus Feat
+        
+    Evasion (Ex):
+      Short: Evasion
+      Level: 2
+      Description: >
+        At 2nd level or higher if a monk makes a successful Reflex saving
+        throw against an attack that normally deals half damage on a
+        successful save, she instead takes no damage. Evasion can be used
+        only if a monk is wearing light armor or no armor. A helpless monk
+        does not gain the benefit of evasion.
+        
+    Fast Movement (Ex):
+      Short: Fast Movement
+      Level: 3
+      Description: >
+        At 3rd level, a monk gains an enhancement bonus to her speed, as
+        shown on Table: The Monk. A monk in armor or carrying a medium or
+        heavy load loses this extra speed.
+        
+    Still Mind (Ex):
+      Short: Still Mind
+      Level: 3
+      Description: >
+        A monk of 3rd level or higher gains a +2 bonus on saving throws
+        against spells and effects from the school of enchantment.
+        
+    Ki Strike (Su):
+      Short: Ki Strike (magic)
+      Level: 4
+      Description:
+        At 4th level, a monk's unarmed attacks are empowered with ki. Her
+        unarmed attacks are treated as magic weapons for the purpose of
+        dealing damage to creatures with damage reduction. Ki strike
+        improves with the character's monk level. At 10th level, her unarmed
+        attacks are also treated as lawful weapons for the purpose of
+        dealing damage to creatures with damage reduction. At 16th level,
+        her unarmed attacks are treated as adamantine weapons for the
+        purpose of dealing damage to creatures with damage reduction and
+        bypassing hardness.
+        
+    Ki Strike 10:
+      Short: Ki Strike (lawful)
+      Level: 10
+
+    Ki Strike 16:
+      Short: Ki Strike (adamantine)
+      Level: 16
+
+    Slow Fall (Ex):
+      Level: 4
+      Short: Slow Fall 20 ft.
+      Description: >
+        At 4th level or higher, a monk within arm's reach of a wall can use
+        it to slow her descent. When first using this ability, she takes
+        damage as if the fall were 20 feet shorter than it actually is. The
+        monk's ability to slow her fall (that is, to reduce the effective
+        distance of the fall when next to a wall) improves with her monk
+        level until at 20th level she can use a nearby wall to slow her
+        descent and fall any distance without harm.
+        
+    Slow Fall 30:
+      Level: 6
+      Short: Slow Fall 30 ft.
+
+    Slow Fall 40:
+      Level: 8
+      Short: Slow Fall 40 ft.
+
+    Slow Fall 50:
+      Level: 10
+      Short: Slow Fall 50 ft.
+
+    Slow Fall 60:
+      Level: 12
+      Short: Slow Fall 60 ft.
+
+    Slow Fall 70:
+      Level: 14
+      Short: Slow Fall 70 ft.
+
+    Slow Fall 80:
+      Level: 16
+      Short: Slow Fall 80 ft.
+
+    Slow Fall 90:
+      Level: 18
+      Short: Slow Fall 90 ft.
+
+    Slow Fall 100:
+      Level: 20
+      Short: Slow Fall any distance
+
+    Purity of Body (Ex):
+      Level: 5
+      Short: Purity of Body
+      Description:
+        At 5th level, a monk gains immunity to all diseases except for
+        supernatural and magical diseases.
+        
+    Wholeness of Body (Su):
+      Level: 7
+      Short: Wholeness of Body
+      Description: >
+        At 7th level or higher, a monk can heal her own wounds. She can heal
+        a number of hit points of damage equal to twice her current monk
+        level each day, and she can spread this healing out among several
+        uses.
+        
+    Improved Evasion (Ex):
+      Short: Improved Evasion
+      Level: 9
+      Description: >
+        At 9th level, a monk's evasion ability improves. She still takes no
+        damage on a successful Reflex saving throw against attacks, but
+        henceforth she takes only half damage on a failed save. A helpless
+        monk does not gain the benefit of improved evasion.
+        
+    Diamond Body (Su):
+      Level: 11
+      Short: Diamond Body
+      Description: >
+        At 11th level, a monk gains immunity to poisons of all kinds.
+        
+    Abundant Step (Su):
+      Short: Abundant Step
+      Level: 12
+      Description: >
+        At 12th level or higher, a monk can slip magically between spaces,
+        as if using the spell dimension door, once per day. Her caster level
+        for this effect is one-half her monk level (rounded down).
+        
+    Diamond Soul (Ex):
+      Level: 13
+      Short: Diamond Soul
+      Description: >
+        At 13th level, a monk gains spell resistance equal to her current
+        monk level + 10. In order to affect the monk with a spell, a
+        spellcaster must get a result on a caster level check (1d20 + caster
+        level) that equals or exceeds the monk's spell resistance.
+        
+    Quivering Palm (Su):
+      Level: 15
+      Short: Quivering Palm
+      Description: >
+        Starting at 15th level, a monk can set up vibrations within the body
+        of another creature that can thereafter be fatal if the monk so
+        desires. She can use this quivering palm attack once a week, and she
+        must announce her intent before making her attack roll. Constructs,
+        oozes, plants, undead, incorporeal creatures, and creatures immune
+        to critical hits cannot be affected. Otherwise, if the monk strikes
+        successfully and the target takes damage from the blow, the
+        quivering palm attack succeeds. Thereafter the monk can try to slay
+        the victim at any later time, as long as the attempt is made within
+        a number of days equal to her monk level. To make such an attempt,
+        the monk merely wills the target to die (a free action), and unless
+        the target makes a Fortitude saving throw (DC 10 + 1/2 the monk's
+        level + the monk's Wis modifier), it dies. If the saving throw is
+        successful, the target is no longer in danger from that particular
+        quivering palm attack, but it may still be affected by another one
+        at a later time.
+        
+    Timeless Body (Ex):
+      Level: 17
+      Short: Timeless Body
+      Description: >
+        Upon attaining 17th level, a monk no longer takes penalties to her
+        ability scores for aging and cannot be magically aged. Any such
+        penalties that she has already taken, however, remain in place.
+        Bonuses still accrue, and the monk still dies of old age when her
+        time is up.
+        
+    Tongue of the Sun and Moon (Ex):
+      Level: 17
+      Short: Tongue of the Sun and Moon
+      Description: >
+        A monk of 17th level or higher can speak with any living creature.
+        
+    Empty Body (Su):
+      Level: 19
+      Short: Empty Body
+      Description: >
+        At 19th level, a monk gains the ability to assume an ethereal state
+        for 1 round per monk level per day, as though using the spell
+        etherealness. She may go ethereal on a number of different occasions
+        during any single day, as long as the total number of rounds spent
+        in an ethereal state does not exceed her monk level.
+        
+    Perfect Self:
+      Level: 20
+      Short: Perfect Self
+      Description: >
+        At 20th level, a monk becomes a magical creature. She is forevermore
+        treated as an outsider rather than as a humanoid (or whatever the
+        monk's creature type was) for the purpose of spells and magical
+        effects. Additionally, the monk gains damage reduction 10/magic,
+        which allows her to ignore the first 10 points of damage from any
+        attack made by a nonmagical weapon or by any natural attack made by
+        a creature that doesn't have similar damage reduction. Unlike other
+        outsiders, the monk can still be brought back from the dead as if
+        she were a member of her previous creature type.
+        
+  Flurry of Blows:
+    1: -2/-2
+    2: -1/-1
+    3: 0/0
+    4: +1/+1
+    5: +2/+2
+    6: +3/+3
+    7: +4/+4
+    8: +5/+5/+0
+    9: +6/+6/+1
+    10: +7/+7/+2
+    11: +8/+8/+8/+3
+    12: +9/+9/+9/+4
+    13: +9/+9/+9/+4
+    14: +10/+10/+10/+5
+    15: +11/+11/+11/+6/+1
+    16: +12/+12/+12/+7/+2
+    17: +12/+12/+12/+7/+2
+    18: +13/+13/+13/+8/+3
+    19: +14/+14/+14/+9/+4
+    20: +15/+15/+15/+10/+5
+  Unarmed Damage:
+    1: 1d6
+    2: 1d6
+    3: 1d6
+    4: 1d8
+    5: 1d8
+    6: 1d8
+    7: 1d8
+    8: 1d10
+    9: 1d10
+    10: 1d10
+    11: 1d10
+    12: 2d6
+    13: 2d6
+    14: 2d6
+    15: 2d6
+    16: 2d8
+    17: 2d8
+    18: 2d8
+    19: 2d8
+    20: 2d10
+  AC Bonus:
+    1: +0
+    2: +0
+    3: +0
+    4: +0
+    5: +1
+    6: +1
+    7: +1
+    8: +1
+    9: +1
+    10: +2
+    11: +2
+    12: +2
+    13: +2
+    14: +2
+    15: +3
+    16: +3
+    17: +3
+    18: +3
+    19: +3
+    20: +4
+  Unarmored Speed Bonus:
+    1: +0 ft.
+    2: +0 ft.
+    3: +10 ft.
+    4: +10 ft.
+    5: +10 ft.
+    6: +20 ft.
+    7: +20 ft.
+    8: +20 ft.
+    9: +30 ft.
+    10: +30 ft.
+    11: +30 ft.
+    12: +40 ft.
+    13: +40 ft.
+    14: +40 ft.
+    15: +50 ft.
+    16: +50 ft.
+    17: +50 ft.
+    18: +60 ft.
+    19: +60 ft.
+    20: +60 ft.
+
+  Ex:
+    Name: Ex-Monks
+    Description:
+      A monk who becomes nonlawful cannot gain new levels as a monk but
+      retains all monk abilities.
+        
+      Like a member of any other class, a monk may be a multiclass
+      character, but multiclass monks face a special restriction.  A monk
+      who gains a new class or (if already multiclass) raises another class
+      by a level may never again raise her monk level, though she retains
+      all her monk abilities.
+
+  Variants:
+    Fighting Styles: |
+      Monk Variant: Fighting Styles
+      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+      _Source: Unearthed Arcana_
+
+      In literature and lore, the combat styles and aptitudes of a monk
+      depend greatly on where (or by whom) she was trained. The standard
+      monk, however, presents only a relatively limited variety of options
+      to personalize your monk.
+      
+      A 1st-level monk (regardless of character level) may select one of the
+      fighting styles described below. By selecting one of these fighting
+      styles, she dictates which bonus feats she gains at 1st, 2nd, and 6th
+      level (when a standard monk normally gains one of two bonus feats). In
+      addition, at 1st level she gets a +2 bonus on checks involving a skill
+      of her selection (in exchange for the freedom of choice she gives up
+      by preselecting her bonus feats). Finally, she gains a bonus ability
+      at 6th level if she has met the listed prerequisites by that time. If
+      the character hasn't yet met the prerequisites, she doesn't gain the
+      bonus ability, even if she meets the prerequisites at some later time.
+      
+      These fighting styles serve a variety of purposes in a campaign. Each
+      one might symbolize a different monastery, creating a rivalry
+      (friendly or unfriendly) between their students. Perhaps a specific
+      master teaches each style only to a few select students, meaning that
+      a monk must prove herself worthy before pursuing the training. Or
+      maybe each monk simply chooses her own way in life, styling herself
+      after great martial artists of the past.
+      
+      A monk can abandon her fighting style by selecting a different bonus
+      feat at 2nd or 6th level; however, if she does so, she loses the bonus
+      on skill checks gained at 1st level and never gains the bonus ability
+      of the fighting style (even if she meets the prerequisites).
+      
+      Cobra Strike
+      ^^^^^^^^^^^^
+      Monks of the Cobra Strike School specialize in agility and defense. By
+      making herself hard to pin down, the Cobra Strike monk forces the
+      enemy to fight on her terms.
+      
+      *1st-Level Skill Bonus:* Escape Artist.
+
+      *1st-Level Feat:* Dodge
+
+      *2nd-Level Feat:* Mobility.
+
+      *6th-Level Feat:* Spring Attack.
+
+      *6th-Level Bonus Ability:* The dodge bonus to Armor Class granted by
+      your Dodge feat increases to +2.
+
+      *Prerequisites:* Balance 4 ranks, Escape Artist 9 ranks.
+
+      Denying Stance
+      ^^^^^^^^^^^^^^
+      The Denying Stance monk seeks to neutralize the opponent's maneuvers,
+      thwarting him at every turn until he becomes so frustrated that he
+      makes a crucial error.
+      
+      *1st-Level Skill Bonus:* Tumble.
+
+      *1st-Level Feat:* Improved Grapple.
+
+      *2nd-Level Feat:* Combat Reflexes.
+
+      *6th-Level Feat:* Improved Disarm.
+
+      *6th-Level Bonus Ability:* When fighting defensively or using the
+      Combat Expertise feat, you gain a +2 bonus on grapple checks and
+      disarm attempts.
+
+      *Prerequisites:* Tumble 9 ranks, Combat Expertise.
+
+      Hand and Foot
+      ^^^^^^^^^^^^^
+      Students of the Hand and Foot style learn to use their appendages for
+      both offense and defense.
+
+      *1st-Level Skill Bonus:* Balance.
+
+      *1st-Level Feat:* Stunning Fist.
+
+      *2nd-Level Feat:* Deflect Arrows.
+
+      *6th-Level Feat:* Improved Trip.
+
+      *6th-Level Bonus Ability:* You gain a +2 bonus on attacks of
+      opportunity made against an opponent attempting to bull rush or trip
+      you, and a +4 bonus on Dexterity or Strength checks to avoid being
+      tripped or bull rushed.
+
+      *Prerequisites:* Balance 9 ranks, Tumble 4 ranks.
+
+      Invisible Eye
+      ^^^^^^^^^^^^^
+      Monks of the Invisible Eye rely on their senses, particularly hearing,
+      to aid them in combat.
+
+      *1st-Level Skill Bonus:* Listen.
+
+      *1st-Level Feat:* Combat Reflexes.
+
+      *2nd-Level Feat:* Lightning Reflexes.
+
+      *6th-Level Feat:* Blind-Fight.
+
+      *6th-Level Bonus Ability:* When unarmed and fighting defensively,
+      using Combat Expertise, or using the total defense action, increase
+      the dodge bonus to Armor Class that you gain from using that tactic
+      by 1.
+
+      *Prerequisites:* Listen 9 ranks, Agile.
+
+      Overwhelming Attack
+      ^^^^^^^^^^^^^^^^^^^
+      A monk trained in the Overwhelming Attack style always presses the
+      advantage, preferring a showy display of all-out offense to any form
+      of defense.
+
+      *1st-Level skill Bonus:* Intimidate.
+
+      *1st-Level Feat:* Power Attack.
+
+      *2nd-Level Feat:* Improved Bull Rush.
+
+      *6th-Level Feat:* Improved Overrun.
+
+      *6th-Level Bonus Ability:* If you have used Intimidate to demoralize
+      your opponent at any time within the previous 10 rounds, you gain a +4
+      bonus on Strength checks made to bull rush or overrun that opponent.
+
+      *Prerequisites:* Intimidate 4 ranks, Perform (dance) 4 ranks.
+
+      Passive Way
+      ^^^^^^^^^^^
+      The Passive Way focuses on making your opponent overreach himself or
+      underestimate your skill.
+      
+      *1st-Level Skill Bonus:* Bluff.
+
+      *1st-Level Feat:* Combat Expertise.
+
+      *2nd-Level Feat:* Improved Trip.
+
+      *6th-Level Feat:* Improved Feint.
+
+      *6th-Level Bonus Ability:* You gain a +4 bonus on Strength checks made
+      to trip an opponent who is denied his Dexterity bonus to Armor Class.
+
+      *Prerequisites:* Bluff 4 ranks, Sense Motive 4 ranks, Skill Focus
+      (Bluff).
+
+      Sleeping Tiger
+      ^^^^^^^^^^^^^^
+      The Sleeping Tiger style mixes smooth motions with powerful strikes.
+      It favors a quick, first strike approach, preferably from a position
+      of ambush.
+
+      *1st-Level Skill Bonus:* Hide.
+
+      *1st-Level Feat:* Weapon Finesse.
+
+      *2nd-Level Feat:* Improved Initiative.
+
+      *6th-Level Feat:* Improved Sunder.
+
+      *6th-Level Bonus Ability:* Once per round, when an opponent would be
+      denied his Dexterity bonus to Armor Class, the monk deals an extra
+      1d6 points of damage with a melee attack made with a light weapon. 
+      Any creature immune to sneak attacks is immune to this ability.
+
+      *Prerequisites:* Hide 9 ranks, Power Attack.
+
+      Undying Way
+      ^^^^^^^^^^^
+      Monks of the Undying Way believe in patience above all else. They work
+      to outlast their opponents by means of superior endurance.
+
+      *1st-Level Skill Bonus:* Concentration.
+
+      *1st-Level Feat:* Toughness.
+
+      *2nd-Level Feat:* Endurance.
+
+      *6th-Level Feat:* Diehard.
+
+      *6th-Level Bonus Ability:* When fighting defensively, using Combat
+      Expertise, or using the total defense action, the monk gains damage
+      reduction 2/-.
+
+      *Prerequisites:* Concentration 9 ranks.
+

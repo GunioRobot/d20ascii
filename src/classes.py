@@ -100,6 +100,14 @@ for i in classes:
   if (maxspelllevel>-1):
     for j in range(0,maxspelllevel+1):
       print " | "+str(j),
+  if (i.has_key('Flurry of Blows')):
+    print " | ", "Flurry of Blows",
+  if (i.has_key('Unarmed Damage')):
+    print " | ", "Unarmed Damage",
+  if (i.has_key('AC Bonus')):
+    print " | ", "AC Bonus",
+  if (i.has_key('Unarmored Speed Bonus')):
+    print " | ", "Unarmored Speed Bonus",
 
   print
   
@@ -118,6 +126,14 @@ for i in classes:
           print i["Spells Per Day"][j][k],
         else:
           print " | - ",
+    if (i.has_key('Flurry of Blows')):
+      print " | ", i["Flurry of Blows"][j],
+    if (i.has_key('Unarmed Damage')):
+      print " | ", i["Unarmed Damage"][j],
+    if (i.has_key('AC Bonus')):
+      print " | ", i["AC Bonus"][j],
+    if (i.has_key('Unarmored Speed Bonus')):
+      print " | ", i["Unarmored Speed Bonus"][j],
     print  
     
   print "|====="
