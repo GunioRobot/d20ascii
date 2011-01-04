@@ -339,8 +339,8 @@
       see below).  The cloistered cleric gains skill points per level equal
       to 6 + Int modifier (and has this number x4 at 1st level).
       
-      Class Features:
-      ^^^^^^^^^^^^^^^
+      Class Features
+      ^^^^^^^^^^^^^^
       The cloistered cleric has all the standard cleric class features,
       except as noted below.
       
@@ -371,3 +371,19 @@
       3rd-illusory script, secret page, tongues (reduced from 4th level);
       4th-detect scrying; 6th-analyze dweomer; 7th-sequester; 9th-vision.
 
+    Smite Cleric: |
+      Cleric Variant: Smite Cleric
+      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+      _Source: Unearthed Arcana_
+      
+      Some clerics prefer to be champions of good (or evil), standing at the
+      forefront of the battle against the enemy.
+      
+      *Gain:*
+      Smite evil, if the cleric would normally channel positive energy, or
+      smite good, if the cleric would normally channel negative energy (as
+      paladin); aura of courage (as paladin).
+      
+      *Lose:*
+      Turn undead.
+      
