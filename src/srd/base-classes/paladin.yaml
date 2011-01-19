@@ -1,4 +1,5 @@
 - Name: Paladin
+  Table Format: cols="1,3,1,1,1,10,1,1,1,1"
   Saves:
     Fortitude: Good
     Reflex: Poor
@@ -132,11 +133,11 @@
       Short: Smite Evil 3/day
 
     Smite Evil 15:
-      Level: 10
+      Level: 15
       Short: Smite Evil 4/day
 
     Smite Evil 20:
-      Level: 10
+      Level: 20
       Short: Smite Evil 5/day
 
     Divine Grace (Su):

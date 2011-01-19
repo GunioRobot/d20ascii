@@ -37,9 +37,10 @@ endif::disabled[]
 
 include::legal.asciidoc[]
 
+ifdef::disabled[]
 Handbooks
 =========
 
 include::../handbooks/beingbatman.asciidoc[]
-
+endif::disabled[]
 [index]
