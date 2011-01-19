@@ -91,14 +91,21 @@ for i in classes:
 
 # Determine Max Spell Level
   maxspelllevel=-1
+  minspelllevel=10
   if (i.has_key('Spells Per Day')):
+#    print "I",i
     for j in i["Spells Per Day"]:
-      for k in i["Spells Per Day"][j]:
-        if (k>maxspelllevel):
-          maxspelllevel=k
+#      print "J",j
+      if (i["Spells Per Day"][j]):
+        for k in i["Spells Per Day"][j]:
+#          print "K",k
+          if (k<minspelllevel):
+            minspelllevel=k
+          if (k>maxspelllevel):
+            maxspelllevel=k
   print "| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special ",
   if (maxspelllevel>-1):
-    for j in range(0,maxspelllevel+1):
+    for j in range(minspelllevel,maxspelllevel+1):
       print " | "+str(j),
   if (i.has_key('Flurry of Blows')):
     print " | ", "Flurry of Blows",
@@ -120,10 +127,13 @@ for i in classes:
 
     print "| " + str(j) + " | +" + str(bab(j,i["Base Attack Bonus"])) + " | +" + str(saves(j,i["Saves"]["Fortitude"])) + " | +" + str(saves(j,i["Saves"]["Reflex"])) + " | +" + str(saves(j,i["Saves"]["Will"])) + " | " + features.rstrip(", "),
     if (i.has_key('Spells Per Day')):
-      for k in range(0,maxspelllevel+1):
-        if (i["Spells Per Day"][j].has_key(k)):
-          print " | ",
-          print i["Spells Per Day"][j][k],
+      for k in range(minspelllevel,maxspelllevel+1):
+        if (i["Spells Per Day"][j]):
+          if (i["Spells Per Day"][j].has_key(k)):
+            print " | ",
+            print i["Spells Per Day"][j][k],
+          else:
+            print " | - ",
         else:
           print " | - ",
     if (i.has_key('Flurry of Blows')):
@@ -144,12 +154,12 @@ for i in classes:
     print '[options="header"]';
     print "|=====";
     print "| Level ",
-    for k in range(0,maxspelllevel+1):
+    for k in range(minspelllevel,maxspelllevel+1):
       print "| ",k," ",
     print
     for j in range(1,21):
       print "| ",j,
-      for k in range(0,maxspelllevel+1):
+      for k in range(minspelllevel,maxspelllevel+1):
         if (i["Spells Known"][j].has_key(k)):
           print "| ", i["Spells Known"][j][k]," ",
         else:
