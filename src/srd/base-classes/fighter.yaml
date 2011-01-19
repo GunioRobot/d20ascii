@@ -80,3 +80,54 @@
     Bonus Feats 20:
       Level: 20
       Short: Bonus Feat
+  Variants:
+    Thug: |
+      Fighter Variant: Thug
+      ~~~~~~~~~~~~~~~~~~~~~
+      _Source: Unearthed Arcana_
+
+      The thug is a street fighter, a survivor who learns to mix brute force
+      with a bit of craftiness.  He has most of the fighter's strengths,
+      along with some additional skills to help keep him alive on the mean
+      streets.  Despite the name, not all thugs are mere hooligans-many are
+      crafty veterans who use their knowledge of the streets to gain an
+      advantage against their opponents.
+      
+      Most thugs are nonlawful, though sometimes gangs of thugs with a
+      lawful streak band together.
+      
+      *Class Skills:*
+      Add the following skills to the fighter's class skill list: Bluff,
+      Gather Information, Knowledge (local), and Sleight of Hand.  The thug
+      gains skill points per level equal to 4 + Int modifier (and has this
+      number x4 at 1st level).
+      
+      Class Features
+      ^^^^^^^^^^^^^^
+      The thug has all the standard fighter class features, except as noted
+      below.
+      
+      *Weapon and Armor Proficiency:*
+      Thugs are proficient with all simple and martial weapons and with
+      light armor.
+      
+      *Bonus Feats:*
+      A thug doesn't gain the normal fighter bonus feat at 1st level. Also,
+      add Urban Tracking to the list of fighter bonus feats available to the
+      thug.
+    
+    Sneak Attack Fighter: |
+      Fighter Variant: Sneak Attack Fighter
+      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+      _Source: Unearthed Arcana_
+      
+      Some fighters prefer stealth and cunning over martial skill. This
+      variant can also be combined with the thug variant.
+      
+      *Gain:*
+      Sneak attack (as rogue).
+      
+      *Lose:*
+      Bonus feats.
+
+
