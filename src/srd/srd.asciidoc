@@ -7,6 +7,7 @@ include::races.asciidoc[]
 
 include::../../gen/srd/base-classes.asciidoc[]
 
+ifdef::disabled[]
 include::skills.asciidoc[]
 
 include::feats.asciidoc[]
@@ -32,6 +33,7 @@ include::powers.asciidoc[]
 include::epicspells.asciidoc[]
 
 include::monsters.asciidoc[]
+endif::disabled[]
 
 include::legal.asciidoc[]
 
