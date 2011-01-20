@@ -1,5 +1,4 @@
 all: clearmess srd-all handbooks
-	python src/couch.py
 
 srd-all: srd-epub srd-html srd-pdf srd-html-nochunks
 
