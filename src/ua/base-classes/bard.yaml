@@ -1,0 +1,154 @@
+- Name: Bard
+  Variants:
+    Bardic Sage: |
+      Bard Variant: Bardic Sage
+      ~~~~~~~~~~~~~~~~~~~~~~~~~
+      _Source: Unearthed Arcana_
+      
+      The bardic sage focuses his efforts on learning, research, and the
+      power of knowledge.
+      
+      Alignment
+      ^^^^^^^^^
+      The bardic sage must be neutral good, neutral, or neutral evil. The
+      true pursuit of knowledge cares little for ethical extremes.  A bardic
+      sage who becomes chaotic or lawful cannot progress in levels as a
+      bardic sage, though he retains all his bardic sage abilities.
+      
+      Base Save Bonuses
+      ^^^^^^^^^^^^^^^^^
+      The bardic sage has good will saves, but has poor Fortitude and Reflex
+      saves.
+      
+      Class Features
+      ^^^^^^^^^^^^^^
+      The bardic sage has all the standard bard class features, except as
+      noted below.
+      
+      *Spellcasting:*
+      A bardic sage learns and casts spells as a normal bard, with a few
+      exceptions.  In addition to the normal number of spells known, a
+      bardic sage knows one divination spell of each spell level he is
+      capable of casting.  For example, a 1st-level bardic sage knows four
+      0-level bard spells plus one 0-level bard spell of the divination
+      school (such as detect magic, know direction, or read magic.  The
+      bardic sage's number of spells per day does not change.
+      
+      To learn or cast a spell, a bardic sage must have an Intelligence
+      score (not Charisma score) equal to at least 10 + the spell level. 
+      All other spellcasting factors, including bonus spells and save DCs,
+      are still determined using the bardic sage's Charisma score.  Add the
+      following spells to the bardic sage's class spell list: 1st-detect
+      chaos/evil/good/law; 2nd-zone of truth; 3rd-arcane sight; 4th-analyze
+      dweomer (lowered from 6th), sending; 5th-contact other plane, greater
+      scrying (lowered from 6th); 6th-true seeing, vision.
+      
+      *Bardic Knowledge:*
+      A bardic sage gains a +2 bonus on all bardic knowledge checks.
+      
+      *Bardic Music:*
+      A bardic sage's powers of inspiration are not as persistent as those
+      of a traditional bard.  His ability to inspire courage, inspire
+      greatness, or inspire heroics lasts only 3 rounds after the ally can
+      no longer hear the bardic sage sing, rather than the normal 5 rounds.
+
+    Divine Bard: |    
+      Bard Variant: Divine Bard
+      ~~~~~~~~~~~~~~~~~~~~~~~~~
+      _Source: Unearthed Arcana_
+
+      Not all bards are arcanists; some derive their special powers from a
+      divine tradition.  In many primitive cultures, the divine bard takes
+      the place of the cleric or the adept as the guide of the people's
+      religious beliefs.
+      
+      Class Features
+      ^^^^^^^^^^^^^^
+      The divine bard has all the standard bard class features, except as
+      noted below.
+      
+      *Spellcasting:*
+      A divine bard learns and casts spells as a normal bard, with some
+      minor exceptions.  A divine bard's spells are divine spells, not
+      arcane spells.
+      
+      To learn or cast a spell, a divine bard must have a Wisdom score (not
+      Charisma score) equal to at least 10 + the spell level.  All other
+      Spellcasting factors, including bonus spells and save DCs, are still
+      determined using the divine bard's Charisma score.
+      
+      Like druids, paladins, and rangers, divine bards need not designate a
+      specific deity as the source of their spells.  However, a divine bard
+      can't cast spells of an alignment that doesn't match his.  Thus,
+      divine bards cannot cast lawful spells (since bards can't be lawful). 
+      Neutral divine bards can't cast any spells associated with an
+      alignment (and are thus relatively rare).
+      
+      Add the following spells to the divine bard's class spell list:
+      0-create water, cure minor wounds; 1st-detect evil/good/law,
+      protection from evil/good/law; 2nd-consecrate, desecrate, gentle
+      repose; 3rd-magic circle against evil/good/law, prayer; 4th-remove
+      disease, speak with dead, sending; 5th-divination, restoration;
+      6th-commune, hallow, unhallow, raise dead.
+      
+    Savage Bard: |
+      Bard Variant: Savage Bard
+      ~~~~~~~~~~~~~~~~~~~~~~~~~
+      _Source: Unearthed Arcana_
+
+      The savage bard is a warrior at heart, though his arcane powers strike
+      fear into the enemies of his tribe.  Savage bards often multi-class as
+      barbarians to improve their combat prowess.
+      
+      *Alignment:*
+      A savage bard must be chaotic in alignment. A savage bard who becomes
+      nonchaotic cannot progress in levels as a bard, though he retains all
+      his bard abilities.
+      
+      *Base Save Bonuses:*
+      A savage bard has good Fortitude and Will saves, but has poor Reflex
+      saves.
+      
+      *Class Skills:*
+      A savage bard loses Decipher Script and Speak Language as class
+      skills.  He adds Survival to his list of class skills.
+      
+      Class Features
+      ^^^^^^^^^^^^^^
+      The savage bard has all the standard bard class features, except as
+      noted below.
+      
+      *Illiteracy:*
+      A savage bard is illiterate, just as a barbarian is. An illiterate
+      savage bard cannot use or scribe scrolls.
+      
+      *Spellcasting:*
+      Remove the following spells from the savage bard's class spell list:
+      calm emotions, comprehend languages, detect secret doors, erase,
+      prestidigitation, read magic, sepia snake sigil, summon monster (I
+      through VI).
+      
+      Add the following spells to the savage bard's class spell list:
+      1st-calm animals, detect snares and pits, endure elements, summon
+      nature's ally I; 2nd-bull's strength, pass without trace, summon
+      nature's ally II; 3rd-snare, summon nature's ally III; 4th-insect
+      plague, summon nature's ally IV; 5th-commune with nature, summon
+      nature's ally V; 6th-creeping doom, reincarnate, summon nature's ally
+      VI.
+    Nature Bard: |
+      Bard Variant: Nature Bard
+      ~~~~~~~~~~~~~~~~~~~~~~~~~
+      _Source: Unearthed Arcana_
+      
+      A rare bard might display a special link to nature and the mysterious
+      world of the fey.  Such characters tend to be more aloof and less
+      inspiring than standard bards.
+      
+      *Gain:*
+      Animal companion (as druid), nature sense (as druid), resist nature's
+      lure (as druid), wild empathy (as druid).
+      
+      *Lose:* Bardic knowledge, inspire courage, inspire competence, inspire
+      greatness, inspire heroics.
+      
+

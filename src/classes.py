@@ -17,7 +17,20 @@ classfilesout = proc.communicate()[0]
 
 
 classes=yaml.load(classfilesout)
+proc2 = subprocess.Popen('cat src/*/base-classes/*.yaml',
+                       shell=True,
+                       stdout=subprocess.PIPE,
+                       )
+classfilesout2 = proc2.communicate()[0]
+#print '\tstdout:', repr(stdout_value)
+
+classes2=yaml.load(classfilesout2)
 # print yaml.dump(classes)
+
+for i in classes:
+  for j in classes2:
+    if (i["Name"]==j["Name"]):
+        i.update(j)
 
 def saves(level, quality):
   if (quality == "Poor"):

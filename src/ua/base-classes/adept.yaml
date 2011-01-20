@@ -1,0 +1,160 @@
+- Name: Adept
+  Saves:
+    Fortitude: Poor
+    Reflex: Poor
+    Will: Good
+  Base Attack Bonus: Poor
+  Skill Points Per Level: 2
+  Hit Die: d6
+  Class Skills:
+    Concentration: Con
+    Craft: Int
+    Handle Animal: Cha
+    Heal: Wis
+    Knowledge:
+      all skills taken individually: Int
+    Profession: Wis
+    Spellcraft: Int
+    Survival: Wis
+  Class Features:
+    Weapon and Armor Proficiency:
+      Level: 0
+      Description: >
+        Adepts are skilled with all simple weapons. Adepts are not
+        proficient with any type of armor nor with shields.
+    Spells:
+      Level: 1
+      Description: >
+        An adept casts divine spells which are drawn from the adept spell
+        list.  Like a cleric, an adept must choose and prepare her spells in
+        advance.  Unlike a cleric, an adept cannot spontaneously cast cure
+        or inflict spells.
+
+        To prepare or cast a spell, an adept must have a Wisdom score equal
+        to at least 10 + the spell level.  The Difficulty Class for a saving
+        throw against an adept's spell is 10 + the spell level + the adept's
+        Wisdom modifier.
+
+        Adepts, unlike wizards, do not acquire their spells from books or
+        scrolls, nor do they prepare them through study.  Instead, they
+        meditate or pray for their spells, receiving them as divine
+        inspiration or through their own strength of faith.  Each adept must
+        choose a time each day at which she must spend an hour in quiet
+        contemplation or supplication to regain her daily allotment of
+        spells.  Time spent resting has no effect on whether an adept can
+        prepare spells.
+
+        Like other spellcasters, an adept can cast only a certain number of
+        spells of each spell level per day.  Her base daily spell allotment
+        is given on Table: The Adept.  In addition, she receives bonus
+        spells per day if she has a high Wisdom score.
+
+    Summon Familiar:
+      Level: 2
+      Short: Summon Familiar
+      Description: At 2nd level, an adept can call a familiar, just as a sorcerer or wizard can.
+  Spells Per Day:
+    1:
+      0: 3
+      1: 1
+    2:
+      0: 3
+      1: 1
+    3:
+      0: 3
+      1: 2
+    4:
+      0: 3
+      1: 2
+      2: 0
+    5:
+      0: 3
+      1: 2
+      2: 1
+    6:
+      0: 3
+      1: 2
+      2: 1
+    7:
+      0: 3
+      1: 3
+      2: 2
+    8:
+      0: 3
+      1: 3
+      2: 2
+      3: 0
+    9:
+      0: 3
+      1: 3
+      2: 2
+      3: 1
+    10:
+      0: 3
+      1: 3
+      2: 2
+      3: 1
+    11:
+      0: 3
+      1: 3
+      2: 2
+      3: 2
+    12:
+      0: 3
+      1: 3
+      2: 3
+      3: 2
+      4: 0
+    13:
+      0: 3
+      1: 3
+      2: 3
+      3: 2
+      4: 1
+    14:
+      0: 3
+      1: 3
+      2: 3
+      3: 2
+      4: 1
+    15:
+      0: 3
+      1: 3
+      2: 3
+      3: 3
+      4: 2
+    16:
+      0: 3
+      1: 3
+      2: 3
+      3: 3
+      4: 2
+      5: 0
+    17:
+      0: 3
+      1: 3
+      2: 3
+      3: 3
+      4: 2
+      5: 1
+    18:
+      0: 3
+      1: 3
+      2: 3
+      3: 3
+      4: 2
+      5: 1
+    19:
+      0: 3
+      1: 3
+      2: 3
+      3: 3
+      4: 3
+      5: 2
+    20:
+      0: 3
+      1: 3
+      2: 3
+      3: 3
+      4: 3
+      5: 2

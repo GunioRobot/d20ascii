@@ -1,0 +1,77 @@
+- Name: Cleric
+  Variants:
+    Cloistered Cleric: |
+      Cleric Variant: Cloistered Cleric
+      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+      _Source: Unearthed Arcana_
+      
+      The cloistered cleric spends more time than other clerics in study and
+      prayer and less in martial training.  He gives up some of the cleric's
+      combat prowess in exchange for greater skill access and a wider range
+      of spells devoted to knowledge (and the protection of knowledge).
+      
+      Most cloistered clerics are nonchaotic, since they believe that a
+      disciplined lifestyle lends itself better to learning.
+      
+      *Hit Die:*
+      The cloistered cleric uses a d6 for his Hit Die (and has hit points at
+      1st level equal to 6 + Con modifier).
+      
+      *Base Attack Bonus:*
+      The cloistered cleric's lack of martial training means that he uses
+      the poor base attack bonus.
+      
+      *Class Skills:*
+      The cloistered cleric's class skill list includes Decipher Script,
+      Speak Language, and all Knowledge skills (from the Knowledge domain,
+      see below).  The cloistered cleric gains skill points per level equal
+      to 6 + Int modifier (and has this number x4 at 1st level).
+      
+      Class Features
+      ^^^^^^^^^^^^^^
+      The cloistered cleric has all the standard cleric class features,
+      except as noted below.
+      
+      *Weapon and Armor Proficiency:*
+      Cloistered clerics are proficient with simple weapons and with light
+      armor.
+      
+      *Lore (Ex):*
+      Thanks to long hours of study, a cloistered cleric has a wide range of
+      stray knowledge.  This ability is identical to the bard's bardic
+      knowledge class feature, using the cloistered cleric's class level in
+      place of the bard level.
+      
+      *Deity, Domains, and Domain Spells:*
+      Most cloistered clerics worship deities associated with knowledge and
+      learning.
+      
+      In addition to any domains selected from his deity's list, a
+      cloistered cleric automatically gains the Knowledge domain as a bonus
+      domain (even if the Knowledge domain is not normally available to
+      clerics of that deity).  He gains the Knowledge domain granted power
+      and may select his bonus domain spell from the Knowledge domain or
+      from one of his two regular domains.
+      
+      *Spellcasting:*
+      Add the following spells to the cloistered cleric's class spell list:
+      0-message; 1st-erase, identify, unseen servant; 2nd-fox's cunning;
+      3rd-illusory script, secret page, tongues (reduced from 4th level);
+      4th-detect scrying; 6th-analyze dweomer; 7th-sequester; 9th-vision.
+
+    Smite Cleric: |
+      Cleric Variant: Smite Cleric
+      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+      _Source: Unearthed Arcana_
+      
+      Some clerics prefer to be champions of good (or evil), standing at the
+      forefront of the battle against the enemy.
+      
+      *Gain:*
+      Smite evil, if the cleric would normally channel positive energy, or
+      smite good, if the cleric would normally channel negative energy (as
+      paladin); aura of courage (as paladin).
+      
+      *Lose:*
+      Turn undead.
+      

@@ -1,0 +1,105 @@
+- Name: Barbarian
+  Variants:
+    Totem Barbarian: |
+      Barbarian Variant: Totem Barbarian
+      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+      _Source: Unearthed Arcana_
+
+      In a barbarian-heavy campaign, you can increase the variation between barbarian characters if each barbarian tribe dedicates itself to a different totem creature, such as the bear or the jaguar. The choice of a totem must be taken at 1st level, and cannot be changed later except under extreme circumstances (such as the barbarian being adopted by another tribe).
+      
+      If you use this variant, the barbarian loses one or more of the following standard class features: fast movement, uncanny dodge, trap sense, and improved uncanny dodge. In place of these abilities, the barbarian gains class features as determined by his totem. All totems do not necessarily grant abilities at the same levels, nor do they all grant the same number of abilities. These class features are extraordinary abilities unless otherwise indicated.
+      
+      The list of totems discussed here is by no means exhaustive. If you prefer to use other totems, you can either substitute the totem name for that of a similar creature (such as changing the Lion Totem to the Tiger Totem) or create a new set of totem abilities, using the information here as a guide.
+      
+      Ape Totem Class Features
+      ^^^^^^^^^^^^^^^^^^^^^^^^
+      A barbarian dedicated to the ape totem does not gain the standard fast movement, uncanny dodge, trap sense, and improved uncanny dodge barbarian class features, and instead gains the following abilities.
+      
+      * At 1st level, an ape-totem barbarian gains a climb speed equal to one-half his base land speed (round down to the nearest 5-foot interval). For instance, a human, elf, half-elf, or half-orc ape-totem barbarian has a climb speed of 15 feet, while a dwarf, gnome, or halfling ape-totem barbarian has a climb speed of 10 feet.
+      * At 2nd level, an ape-totem barbarian gains a +2 bonus on Intimidate checks.
+      * A 3rd level ape-totem barbarian gains Power Attack as a bonus feat.
+      * At 5th level, an ape-totem barbarian's climb speed equals his base land speed.
+      
+      Bear Totem Class Features
+      ^^^^^^^^^^^^^^^^^^^^^^^^^
+      A barbarian dedicated to the bear totem does not gain the standard fast movement, uncanny dodge, trap sense, and improved uncanny dodge barbarian class features, and instead gains the following abilities.
+      
+      * A 1st-level bear-totem barbarian gains Toughness as a bonus feat.
+      * At 2nd level, a bear-totem barbarian gains Improved Grapple as a bonus feat, even if he doesn't meet the normal prerequisites.
+      * A 3rd-level bear-totem barbarian gains Great Fortitude as a bonus feat.
+      * Beginning at 5th level, a bear-totem barbarian gains a +4 bonus on grapple checks when raging.
+      
+      Boar Totem Class Features
+      ^^^^^^^^^^^^^^^^^^^^^^^^^
+      A barbarian dedicated to the boar totem does not gain the standard fast movement, uncanny dodge, trap sense, and improved uncanny dodge barbarian class features, and instead gains the following abilities.
+      
+      * When raging, a 1st-level boar-totem barbarian is treated as having the Diehard feat, even if he doesn't meet the normal prerequisites.
+      * At 3rd level and higher, a boar-totem barbarian's rage lasts for 2 rounds longer than normal.
+      * Beginning at 7th level, a boar-totem barbarian's damage reduction is 1 point higher than the normal value. Thus, at 7th level, a boar-totem barbarian's damage reduction is 2/-, and it rises by 1 point every three levels thereafter.
+      
+      Dragon Totem Class Features
+      ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+      A barbarian dedicated to the dragon totem does not gain the standard fast movement, uncanny dodge, trap sense, and improved uncanny dodge barbarian class features, and instead gains the following abilities.
+      
+      * A 1st-level dragon-totem barbarian gains Blind-Fight as a bonus feat.
+      * At 2nd level, a dragon-totem barbarian gains a +2 bonus on saves against paralysis and sleep effects.
+      * At 5th level, a dragon-totem barbarian gains the frightful presence ability. The save DC is equal to 10 + 1/2 barbarian level + barbarian's Cha modifier.
+      
+      Eagle Totem Class Features
+      ^^^^^^^^^^^^^^^^^^^^^^^^^^
+      A barbarian dedicated to the eagle totem does not gain the standard fast movement and trap sense barbarian class features, and instead gains the following abilities.
+      
+      * At 1st level, an eagle-totem barbarian's keen vision grants him a +2 bonus on Spot checks.
+      * An eagle-totem barbarian gains Lightning Reflexes as a bonus feat at 3rd level.
+      
+      Horse Totem Class Features
+      ^^^^^^^^^^^^^^^^^^^^^^^^^^
+      A barbarian dedicated to the horse totem does not gain the standard uncanny dodge, trap sense, and improved uncanny dodge barbarian class features, and instead gains the following abilities.
+      
+      * At 2nd level, a horse-totem barbarian gains Run as a bonus feat.
+      * A 3rd-level horse-totem barbarian gains a +2 bonus on Handle Animal checks made with regard to horses and a +2 bonus on Ride checks made to ride a horse.
+      * At 5th level, a horse-totem barbarian gains Endurance as a bonus feat.
+      
+      Jaguar Totem Class Features
+      ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+      A barbarian dedicated to the jaguar totem represents the "standard" barbarian and gains the standard barbarian class features.
+      
+      Lion Totem Class Features
+      ^^^^^^^^^^^^^^^^^^^^^^^^^
+      A barbarian dedicated to the lion totem does not gain the standard fast movement, uncanny dodge, and improved uncanny dodge barbarian class features, and instead gains the following abilities.
+      
+      * At 1st level, a lion-totem barbarian gains Run as a bonus feat.
+      * A 2nd-level lion-totem barbarian gains a +2 bonus on Hide checks.
+      * A 5th-level lion-totem barbarian gains a +2 bonus on damage rolls whenever he charges.
+      
+      Serpent Totem Class Features
+      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+      A barbarian dedicated to the serpent totem does not gain the standard fast movement, uncanny dodge, trap sense, and improved uncanny dodge barbarian class features, and instead gains the following abilities.
+      
+      * At 1st level, a serpent-totem barbarian gains a +2 bonus on Fortitude saves against poison.
+      * A 2nd-level serpent-totem barbarian gains a +2 bonus on Move Silently checks.
+      * At 3rd level, a serpent-totem barbarian gains Improved Grapple as a bonus feat, even if he doesn't meet the normal prerequisites.
+      * A serpent-totem barbarian gains Improved Initiative as a bonus feat at 5th level.
+      
+      Wolf Totem Class Features
+      ^^^^^^^^^^^^^^^^^^^^^^^^^
+      A barbarian dedicated to the wolf totem does not gain the standard uncanny dodge, trap sense, and improved uncanny dodge barbarian class features, and instead gains the following abilities.
+      
+      * A 2nd-level wolf-totem barbarian gains Improved Trip as a bonus feat, even if he doesn't meet the normal prerequisites.
+      * A 5th-level wolf-totem barbarian gains Track as a bonus feat.
+
+    Favored Enemy Barbarian: |
+      Barbarian Variant: Favored Enemy Barbarian
+      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+      _Source: Unearthed Arcana_
+
+      A barbarian who prefers crafty hunting over pure ferocity might choose
+      to exchange his rage ability for certain ranger class features.
+      
+      *Gain:* 
+      Favored enemy (as ranger); archery combat style, improved archery
+      combat style, and archery combat style mastery (as ranger).
+      
+      *Lose:*
+      Rage, greater rage, indomitable will, tireless rage, mighty rage.
+      

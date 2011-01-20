@@ -1,0 +1,30 @@
+Urban Tracking [General]
+Community Size	DC	Checks Required
+Thorp, hamlet, or village	5	1d3
+Small or large town	10	1d4+1
+Small or large city	15	2d4
+Metropolis	20	2d4+2
+Conditions	DC Modifier
+Every three creatures in the group being sought	-1
+Every 24 hours party has been missing/sought	+1
+Tracked party "lies low"	+5
+Tracked party matches community's
+primary racial demographic	+2
+Tracked party does not match community's
+primary, or secondary racial demographic	-2
+You can track down the location of missing persons or wanted individuals within communities.
+
+Benefit
+To find the trail of an individual or to follow it for 1 hour requires a Gather Information check. You must make another Gather Information check every hour of the search, as well as each time the trail becomes difficult to follow, such as when it moves to a different area of town.
+
+The DC of the check, and the number of checks required to track down your quarry, depends on the community size and the conditions:
+
+If you fail a Gather Information check, you can retry after 1 hour of questioning. The game master should roll the number of checks required secretly, so that the player doesn't know exactly how long the task will require.
+
+Normal
+A character without this feat can use Gather Information to find out information about a particular individual, but each check takes 1d4+1 hours and doesn't allow effective trailing.
+
+Special
+A character with 5 ranks in Knowledge (local) gains a +2 bonus on the Gather Information check to use this feat.
+
+You can cut the time between Gather Information checks in half (to 30 minutes per check rather than 1 hour), but you take a -5 penalty on the check.

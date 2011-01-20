@@ -1,0 +1,68 @@
+- Name: Ranger
+  Variants:
+    Planar Ranger: |
+      Ranger Variant: Planar Ranger
+      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+      _Source: Unearthed Arcana_
+
+      The planar ranger roams the multiverse instead of the wilderness, learning the secrets of the planes.
+
+      *Class Skills:*
+      Eliminate Knowledge (nature) and Knowledge (dungeoneering) from the ranger's class skill list.
+
+      Add Knowledge (the planes) and Speak Language (Abyssal, Aquan, Auran, Celestial, Ignan, Infernal, Terran only) to the class skill list.
+
+      *Class Features:*
+      The planar ranger has all the standard ranger class features, except as noted below.
+
+      *Wild Empathy:*
+      A planar ranger takes no penalty on wild empathy checks made to influence magical beasts with the celestial or fiendish templates. However, he takes a -4 penalty when using this ability against animals.
+
+      *Animal Companion:*
+      A nonevil planar ranger may have a celestial version of a normal animal as his animal companion. A nongood ranger may have a fiendish version of a normal animal as his animal companion.
+
+      *Spellcasting:*
+       A planar ranger's spellcasting ability is largely unchanged from that of the standard ranger, with one exception: Any ranger spell that normally affects animals also affects celestial or fiendish versions of animals when cast by a planar ranger.
+
+    Urban Ranger: |
+      Ranger Variant: Urban Ranger
+      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+      _Source: Unearthed Arcana_
+
+      The urban ranger stalks the treacherous streets of the city, relying on his knowledge of alleyways and underworld contacts to keep him alive.
+
+      *Class Skills:*
+      Eliminate Knowledge (nature), Knowledge (dungeoneering), and Survival from the ranger's class skill list. Add Gather Information, Knowledge (local), and Sense Motive to the class skill list.
+
+      *Class Features:*
+      The urban ranger has all the standard ranger class features, except as noted below.
+
+      *Animal Companion:*
+      An urban ranger cannot have an animal larger than Medium as his animal companion.
+
+      *Urban Tracking:*
+      An urban ranger does not gain the Track feat at 1st level. Instead, he gains the Urban Tracking feat (see below), which allows him to use Gather Information to track down a missing person, suspect, or other individual within a community.
+
+      *Wild Empathy:*
+      An urban ranger adds only one-half his class level to wild empathy checks, reflecting his limited connection with the natural world.
+
+      *Favored Enemy:*
+      At the game master's discretion, an urban ranger may select an organization instead of a creature type as his favored enemy. For example, a character might select a particular thieves' guild, merchant house, or even the city guard. The favored enemy bonuses would apply to all members of the chosen organization, regardless of their creature type or subtype.
+
+      *Spellcasting:*
+      The urban ranger's spell list is different from the standard ranger list. The following spells are eliminated from the urban ranger's spell list: animal messenger, charm animal, detect animals or plants, speak with animals, bear's endurance, hold animal, snare, speak with plants, command plants, diminish plants, plant growth, reduce animal, tree shape, water walk, commune with nature, and tree stride.
+
+      In exchange, the urban ranger adds the following spells to his class spell list: 1st-comprehend languages, detect chaos/good/evil/law, detect secret doors, message; 2nd—detect thoughts, eagle's splendor, knock, locate object; 3rd—discern lies, invisibility, speak with dead, tongues; 4th—dimensional anchor, locate creature, mage's faithful hound, true seeing.
+
+      *Woodland Stride:*
+      An urban ranger does not gain this ability.
+
+      *Swift Tracker (Ex):*
+      Beginning at 8th level, am urban ranger may make a Gather Information check for his Urban Tracking feat every half hour without taking the normal -5 penalty.
+
+      *Camouflage:*
+      An urban ranger does not gain this ability.
+
+      *Hide in Plain Sight (Ex):*
+      An urban ranger can use this ability in any area, whether natural terrain or not.
+

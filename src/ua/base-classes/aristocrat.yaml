@@ -1,0 +1,33 @@
+- Name: Aristocrat
+  Saves:
+    Fortitude: Poor
+    Reflex: Poor
+    Will: Good
+  Base Attack Bonus: Medium
+  Skill Points Per Level: 4
+  Hit Die: d8
+  Class Skills:
+    Appraise: Int
+    Bluff: Cha
+    Diplomacy: Cha
+    Disguise: Cha
+    Forgery: Int
+    Gather Information: Cha
+    Handle Animal: Cha
+    Intimidate: Cha
+    Knowledge:
+      all skills taken individually: Int
+    Listen: Wis
+    Perform: Cha
+    Ride: Dex
+    Sense Motive: Wis
+    Speak Language: ~
+    Spot: Wis
+    Swim: Str
+    Survival: Wis
+  Class Features:
+    Weapon and Armor Proficiency:
+      Level: 0
+      Description: >
+        The aristocrat is proficient in the use of all simple and martial
+        weapons and with all types of armor and shields.
