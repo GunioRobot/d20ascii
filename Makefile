@@ -36,7 +36,7 @@ out/srd.epub: out/srd.xml
 	mkdir -p out
 	dbtoepub -o out/srd.epub out/srd.xml
 
-out/srd.xml: src/srd/*.asciidoc gen/srd/base-classes.asciidoc Makefile src/handbooks/*asciidoc
+out/srd.xml: src/srd/*.asciidoc gen/srd/base-classes.asciidoc Makefile src/handbooks/*asciidoc src/classes.py
 	mkdir -p out
 	asciidoc -a idprefix= -d book -b docbook -o out/srd.xml src/srd/srd.asciidoc
 
