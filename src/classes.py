@@ -172,6 +172,7 @@ for i in classes:
     for j in i["Class Features"]:
       if (i["Class Features"][j]["Level"]==k):
         if (i["Class Features"][j].has_key("Description")):
+          print "indexterm:["+j+"]"
           print "*" + j + ":* " + i["Class Features"][j]["Description"].replace("\n","\n\n")
           print
         #["Description"]
