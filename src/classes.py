@@ -8,7 +8,7 @@ import os
 #(classfilesout,classfilesin)=subprocess.Popen3('cat srd/base-classes/*.yaml')
 
 #print '\nread:'
-proc = subprocess.Popen('cat src/*/base-classes/*.yaml',
+proc = subprocess.Popen('cat src/srd/base-classes/*.yaml',
                        shell=True,
                        stdout=subprocess.PIPE,
                        )
@@ -17,7 +17,7 @@ classfilesout = proc.communicate()[0]
 
 
 classes=yaml.load(classfilesout)
-proc2 = subprocess.Popen('cat src/*/base-classes/*.yaml',
+proc2 = subprocess.Popen('cat src/ua/base-classes/*.yaml',
                        shell=True,
                        stdout=subprocess.PIPE,
                        )
@@ -30,8 +30,13 @@ classes2=yaml.load(classfilesout2)
 for i in classes:
   for j in classes2:
     if (i["Name"]==j["Name"]):
-        i.update(j)
-
+      for k in j:
+        print k
+#        print i[k]
+        print j[k]
+        print
+        i[k]=j[k]
+        
 def saves(level, quality):
   if (quality == "Poor"):
     return int(level*1/3)
