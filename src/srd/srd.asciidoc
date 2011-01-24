@@ -7,9 +7,9 @@ include::races.asciidoc[]
 
 include::../../gen/srd/base-classes.asciidoc[]
 
-ifdef::disabled[]
 include::skills.asciidoc[]
 
+ifdef::disabled[]
 include::feats.asciidoc[]
 
 include::description.asciidoc[]
