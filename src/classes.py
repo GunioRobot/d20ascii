@@ -31,10 +31,6 @@ for i in classes:
   for j in classes2:
     if (i["Name"]==j["Name"]):
       for k in j:
-        print k
-#        print i[k]
-        print j[k]
-        print
         i[k]=j[k]
         
 def saves(level, quality):
