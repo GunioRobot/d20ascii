@@ -184,6 +184,8 @@ for i in classes:
     print
   if (i.has_key("Animal Companion")):
     print i["Animal Companion"]
+  if (i.has_key("Familiar")):
+    print i["Familiar"]
   if (i.has_key("Variants")):
     for j in i["Variants"]:
       print i["Variants"][j]
