@@ -146,9 +146,9 @@ x4
 x4
 
 Table: Carrying Loads
- 
- 
- 
+
+
+
 –—— Speed —–—
 Load
 Max Dex
@@ -211,8 +211,8 @@ Run (x4): Moving four times speed is a running pace for a character in light, me
 TACTICAL MOVEMENT
 Use tactical movement for combat. Characters generally don’t walk during combat—they hustle or run. A character who moves his or her speed and takes some action is hustling for about half the round and doing something else the other half.
 
-Hampered Movement: Difficult terrain, obstacles, or poor visibility can hamper movement. When movement is hampered, each square moved into usually counts as two squares, effectively reducing the distance that a character can cover in a move. 
-If more than one condition applies, multiply together all additional costs that apply. (This is a specific exception to the normal rule for doubling) 
+Hampered Movement: Difficult terrain, obstacles, or poor visibility can hamper movement. When movement is hampered, each square moved into usually counts as two squares, effectively reducing the distance that a character can cover in a move.
+If more than one condition applies, multiply together all additional costs that apply. (This is a specific exception to the normal rule for doubling)
 In some situations, your movement may be so hampered that you don’t have sufficient speed even to move 5 feet (1 square). In such a case, you may use a full-round action to move 5 feet (1 square) in any direction, even diagonally. Even though this looks like a 5-foot step, it’s not, and thus it provokes attacks of opportunity normally. (You can’t take advantage of this rule to move through impassable terrain or to move when all movement is prohibited to you.)
 You can’t run or charge through any square that would hamper your movement.
 
@@ -350,7 +350,7 @@ Impassable
 1 May require a skill check
 
 Table: Terrain and Overland Movement
-Terrain 
+Terrain
 Highway
 Road or Trail
 Trackless
@@ -476,12 +476,12 @@ MOVING IN THREE DIMENSIONS
 Tactical Aerial Movement
 Once movement becomes three-dimensional and involves turning in midair and maintaining a minimum velocity to stay aloft, it gets more complicated. Most flying creatures have to slow down at least a little to make a turn, and many are limited to fairly wide turns and must maintain a minimum forward speed. Each flying creature has a maneuverability, as shown on Table: Maneuverability. The entries on the table are defined below.
 Minimum Forward Speed: If a flying creature fails to maintain its minimum forward speed, it must land at the end of its movement. If it is too high above the ground to land, it falls straight down, descending 150 feet in the first round of falling. If this distance brings it to the ground, it takes falling damage. If the fall doesn’t bring the creature to the ground, it must spend its next turn recovering from the stall. It must succeed on a DC 20 Reflex save to recover. Otherwise it falls another 300 feet. If it hits the ground, it takes falling damage. Otherwise, it has another chance to recover on its next turn.
-Hover: The ability to stay in one place while airborne. 
+Hover: The ability to stay in one place while airborne.
 Move Backward: The ability to move backward without turning around.
 Reverse: A creature with good maneuverability uses up 5 feet of its speed to start flying backward.
 Turn: How much the creature can turn after covering the stated distance.
 Turn in Place: A creature with good or average maneuverability can use some of its speed to turn in place.
-Maximum Turn: How much the creature can turn in any one space. 
+Maximum Turn: How much the creature can turn in any one space.
 Up Angle: The angle at which the creature can climb.
 Up Speed: How fast the creature can climb.
 Down Angle: The angle at which the creature can descend.
@@ -489,9 +489,9 @@ Down Speed: A flying creature can fly down at twice its normal flying speed.
 Between Down and Up: An average, poor, or clumsy flier must fly level for a minimum distance after descending and before climbing. Any flier can begin descending after a climb without an intervening distance of level flight.
 
 Table: Maneuverability
- 
+
 Maneuverability
- 
+
 Perfect
 Good
 Average
@@ -571,8 +571,8 @@ Between down and up
 20 ft.
 
 EVASION AND PURSUIT
-In round-by-round movement, simply counting off squares, it’s impossible for a slow character to get away from a determined fast character without mitigating circumstances. Likewise, it’s no problem for a fast character to get away from a slower one. 
-When the speeds of the two concerned characters are equal, there’s a simple way to resolve a chase: If one creature is pursuing another, both are moving at the same speed, and the chase continues for at least a few rounds, have them make opposed Dexterity checks to see who is the faster over those rounds. If the creature being chased wins, it escapes. If the pursuer wins, it catches the fleeing creature. 
+In round-by-round movement, simply counting off squares, it’s impossible for a slow character to get away from a determined fast character without mitigating circumstances. Likewise, it’s no problem for a fast character to get away from a slower one.
+When the speeds of the two concerned characters are equal, there’s a simple way to resolve a chase: If one creature is pursuing another, both are moving at the same speed, and the chase continues for at least a few rounds, have them make opposed Dexterity checks to see who is the faster over those rounds. If the creature being chased wins, it escapes. If the pursuer wins, it catches the fleeing creature.
 Sometimes a chase occurs overland and could last all day, with the two sides only occasionally getting glimpses of each other at a distance. In the case of a long chase, an opposed Constitution check made by all parties determines which can keep pace the longest. If the creature being chased rolls the highest, it gets away. If not, the chaser runs down its prey, outlasting it with stamina.
 
 MOVING AROUND IN SQUARES
@@ -890,7 +890,7 @@ Sometimes, masonry walls—stones piled on top of each other (usually but not al
 
 Table: Walls
 Wall Type
-Typical Thickness 
+Typical Thickness
 Break DC
 Hardness
 Hit Points1
@@ -956,11 +956,11 @@ Magically treated2
 Masonry Walls: The most common kind of dungeon wall, masonry walls are usually at least 1 foot thick. Often these ancient walls sport cracks and crevices, and sometimes dangerous slimes or small monsters live in these areas and wait for prey. Masonry walls stop all but the loudest noises. It takes a DC 20 Climb check to travel along a masonry wall.
 Superior Masonry Walls: Sometimes masonry walls are better built (smoother, with tighter-fitting stones and less cracking), and occasionally these superior walls are covered with plaster or stucco. Covered walls often bear paintings, carved reliefs, or other decoration. Superior masonry walls are no more difficult to destroy than regular masonry walls but are more difficult to climb (DC 25).
 Hewn Stone Walls: Such walls usually result when a chamber or passage is tunneled out from solid rock. The rough surface of a hewn wall frequently provides minuscule ledges where fungus grows and fissures where vermin, bats, and subterranean snakes live. When such a wall has an “other side” (it separates two chambers in the dungeon), the wall is usually at least 3 feet thick; anything thinner risks collapsing from the weight of all the stone overhead. It takes a DC 25 Climb check to climb a hewn stone wall.
-Unworked Stone Walls: These surfaces are uneven and rarely flat. They are smooth to the touch but filled with tiny holes, hidden alcoves, and ledges at various heights. They’re also usually wet or at least damp, since it’s water that most frequently creates natural caves. When such a wall has an “other side,” the wall is usually at least 5 feet thick. It takes a DC 15 Climb check to move along an unworked stone wall. 
+Unworked Stone Walls: These surfaces are uneven and rarely flat. They are smooth to the touch but filled with tiny holes, hidden alcoves, and ledges at various heights. They’re also usually wet or at least damp, since it’s water that most frequently creates natural caves. When such a wall has an “other side,” the wall is usually at least 5 feet thick. It takes a DC 15 Climb check to move along an unworked stone wall.
 
 SPECIAL WALLS
 Reinforced Walls: These are masonry walls with iron bars on one or both sides of the wall, or placed within the wall to strengthen it. The hardness of a reinforced wall remains the same, but its hit points are doubled and the Strength check DC to break through it is increased by 10.
-Iron Walls: These walls are placed within dungeons around important places such as vaults. 
+Iron Walls: These walls are placed within dungeons around important places such as vaults.
 Paper Walls: Paper walls are the opposite of iron walls, placed as screens to block line of sight but nothing more.
 Wooden Walls: Wooden walls often exist as recent additions to older dungeons, used to create animal pens, storage bins, or just to make a number of smaller rooms out of a larger one.
 Magically Treated Walls: These walls are stronger than average, with a greater hardness, more hit points, and a higher break DC. Magic can usually double the hardness and hit points and can add up to 20 to the break DC. A magically treated wall also gains a saving throw against spells that could affect it, with the save bonus equaling 2 + one-half the caster level of the magic reinforcing the wall. Creating a magic wall requires the Craft Wondrous Item feat and the expenditure of 1,500 gp for each 10 foot-by-10-foot wall section.
@@ -973,28 +973,28 @@ Uneven Flagstone: Over time, some floors can become so uneven that a DC 10 Balan
 Hewn Stone Floors: Rough and uneven, hewn floors are usually covered with loose stones, gravel, dirt, or other debris. A DC 10 Balance check is required to run or charge across such a floor. Failure means the character can still act, but can’t run or charge in this round.
 Light Rubble: Small chunks of debris litter the ground. Light rubble adds 2 to the DC of Balance and Tumble checks.
 Dense Rubble: The ground is covered with debris of all sizes. It costs 2 squares of movement to enter a square with dense rubble. Dense rubble adds 5 to the DC of Balance and Tumble checks, and it adds 2 to the DC of Move Silently checks.
-Smooth Stone Floors: Finished and sometimes even polished, smooth floors are found only in dungeons with capable and careful builders. 
+Smooth Stone Floors: Finished and sometimes even polished, smooth floors are found only in dungeons with capable and careful builders.
 Natural Stone Floors: The floor of a natural cave is as uneven as the walls. Caves rarely have flat surfaces of any great size. Rather, their floors have many levels. Some adjacent floor surfaces might vary in elevation by only a foot, so that moving from one to the other is no more difficult than negotiating a stair step, but in other places the floor might suddenly drop off or rise up several feet or more, requiring Climb checks to get from one surface to the other. Unless a path has been worn and well marked in the floor of a natural cave, it takes 2 squares of movement to enter a square with a natural stone floor, and the DC of Balance and Tumble checks increases by 5. Running and charging are impossible, except along paths.
 
 SPECIAL FLOORS
-Slippery: Water, ice, slime, or blood can make any of the dungeon floors described in this section more treacherous. Slippery floors increase the DC of Balance and Tumble checks by 5. 
+Slippery: Water, ice, slime, or blood can make any of the dungeon floors described in this section more treacherous. Slippery floors increase the DC of Balance and Tumble checks by 5.
 Grate: A grate often covers a pit or an area lower than the main floor. Grates are usually made from iron, but large ones can also be made from iron-bound timbers. Many grates have hinges to allow access to what lies below (such grates can be locked like any door), while others are permanent and designed not to move. A typical 1-inch-thick iron grate has 25 hit points, hardness 10, and a DC of 27 for Strength checks to break through it or tear it loose.
 Ledge: Ledges allow creatures to walk above some lower area. They often circle around pits, run along underground streams, form balconies around large rooms, or provide a place for archers to stand while firing upon enemies below. Narrow ledges (12 inches wide or less) require those moving along them to make Balance checks. Failure results in the moving character
 falling off the ledge. Ledges sometimes have railings. In such a case, characters gain a +5 circumstance bonus on Balance checks to move along the ledge. A character who is next to a railing gains a +2 circumstance bonus on his or her opposed Strength check to avoid being bull rushed off the edge.
 Ledges can also have low walls 2 to 3 feet high along their edges. Such walls provide cover against attackers within 30 feet on the other side of the wall, as long as the target is closer to the low wall than the attacker is.
 Transparent Floor: Transparent floors, made of reinforced glass or magic materials (even a wall of force), allow a dangerous setting to be viewed safely from above. Transparent floors are sometimes placed over lava pools, arenas, monster dens, and torture chambers. They can be used by defenders to watch key areas for intruders.
 Sliding Floors: A sliding floor is a type of trapdoor, designed to be moved and thus reveal something that lies beneath it. A typical sliding floor moves so slowly that anyone standing on one can avoid falling into the gap it creates, assuming there’s somewhere else to go. If such a floor slides quickly enough that there’s a chance of a character falling into whatever lies beneath—a spiked pit, a vat of burning oil, or a pool filled with sharks—then it’s a trap.
-Trap Floors: Some floors are designed to become suddenly dangerous. With the application of just the right amount of weight, or the pull of a lever somewhere nearby, spikes protrude from the floor, gouts of steam or flame shoot up from hidden holes, or the entire floor tilts. These strange floors are sometimes found in an arena, designed to make combats more exciting and deadly. Construct these floors as you would any other trap. 
+Trap Floors: Some floors are designed to become suddenly dangerous. With the application of just the right amount of weight, or the pull of a lever somewhere nearby, spikes protrude from the floor, gouts of steam or flame shoot up from hidden holes, or the entire floor tilts. These strange floors are sometimes found in an arena, designed to make combats more exciting and deadly. Construct these floors as you would any other trap.
 
 DOORS
-Doors in dungeons are much more than mere entrances and exits. Often they can be encounters all by themselves. 
+Doors in dungeons are much more than mere entrances and exits. Often they can be encounters all by themselves.
 Dungeon doors come in three basic types: wooden, stone, and iron.
 
 Table: Doors
- 
- 
- 
- 
+
+
+
+
 Break DC
 Door Type
 Typical Thickness
@@ -1065,25 +1065,25 @@ Locks, Bars, and Seals: Dungeon doors may be locked, trapped, reinforced, barred
 Attempts to literally chop a door down with a slashing or bludgeoning weapon use the hardness and hit points given in Table: Doors. Often the easiest way to overcome a recalcitrant door is not by demolishing it but by breaking its lock, bar, or hinges. When assigning a DC to an attempt to knock a door down, use the following as guidelines:
 DC 10 or Lower: a door just about anyone can break open.
 DC 11–15: a door that a strong person could break with one try and an average person might be able to
-break with one try. 
+break with one try.
 DC 16–20: a door that almost anyone could break, given time.
 DC 21–25: a door that only a strong or very strong person has a hope of breaking, probably not on the first try.
 DC 26 or Higher: a door that only an exceptionally strong person has a hope of breaking.
-For specific examples in applying these guidelines, see Table: Random Door Types. 
+For specific examples in applying these guidelines, see Table: Random Door Types.
 Locks: Dungeon doors are often locked, and thus the Open Lock skill comes in very handy. Locks are usually built into the door, either on the edge opposite the hinges or right in the middle of the door. Builtin locks either control an iron bar that juts out of the door and into the wall of its frame, or else a sliding iron bar or heavy wooden bar that rests behind the entire door. By contrast, padlocks are not built-in but usually run through two rings, one on the door and the other on the wall. More complex locks, such as combination locks and puzzle locks, are usually built into the door itself. Because such keyless locks are larger and more complex, they are typically only found in sturdy doors (strong wooden, stone, or iron doors).
 The Open Lock DC to pick a lock often falls into the range of 20 to 30, although locks with lower or higher DCs can exist. A door can have more than one lock, each of which must be unlocked separately. Locks are often trapped, usually with poison needles that extend out to prick a rogue’s finger.
-Breaking a lock is sometimes quicker than breaking the whole door. If a PC wants to whack at a lock with a weapon, treat the typical lock as having hardness 15 and 30 hit points. A lock can only be broken if it can be attacked separately from the door, which means that a built-in lock is immune to this sort of treatment. In an occupied dungeon, every locked door should have a key somewhere. 
+Breaking a lock is sometimes quicker than breaking the whole door. If a PC wants to whack at a lock with a weapon, treat the typical lock as having hardness 15 and 30 hit points. A lock can only be broken if it can be attacked separately from the door, which means that a built-in lock is immune to this sort of treatment. In an occupied dungeon, every locked door should have a key somewhere.
 A special door (see below for examples) might have a lock with no key, instead requiring that the right combination of nearby levers must be manipulated or the right symbols must be pressed on a keypad in the correct sequence to open the door.
 Stuck Doors: Dungeons are often damp, and sometimes doors get stuck, particularly wooden doors. Assume that about 10% of wooden doors and 5% of nonwooden doors are stuck. These numbers can be doubled (to 20% and 10%, respectively) for long-abandoned or neglected dungeons.
 Barred Doors: When characters try to bash down a barred door, it’s the quality of the bar that matters, not the material the door is made of. It takes a DC 25 Strength check to break through a door with a wooden bar, and a DC 30 Strength check if the bar is made of iron. Characters can attack the door and destroy it instead, leaving the bar hanging in the now-open doorway.
 Magic Seals: In addition to magic traps spells such as arcane lock can discourage passage through a door. A door with an arcane lock spell on it is considered locked even if it doesn’t have a physical lock. It takes a knock spell, a dispel magic spell, or a successful Strength check  to get through such a door.
 Hinges: Most doors have hinges. Obviously, sliding doors do not. (They usually have tracks or grooves instead, allowing them to slide easily to one side.)
 Standard Hinges: These hinges are metal, joining one edge of the door to the doorframe or wall. Remember that the door swings open toward the side with the hinges. (So, if the hinges are on the PCs’ side, the door opens toward them; otherwise it opens away from them.) Adventurers can take the hinges apart one at a time with successful Disable Device checks (assuming the hinges are on their side of the door, of course). Such a task has a DC of 20 because most hinges are rusted or stuck. Breaking a hinge is difficult. Most have hardness 10 and 30 hit points. The break DC for a hinge is the same as for breaking down the door.
-Nested Hinges: These hinges are much more complex than ordinary hinges, and are found only in areas of excellent construction. These hinges are built into the wall and allow the door to swing open in either direction. PCs can’t get at the hinges to fool with them unless they break through the doorframe or wall. Nested hinges are typically found on stone doors but sometimes on wooden or iron doors as well. 
+Nested Hinges: These hinges are much more complex than ordinary hinges, and are found only in areas of excellent construction. These hinges are built into the wall and allow the door to swing open in either direction. PCs can’t get at the hinges to fool with them unless they break through the doorframe or wall. Nested hinges are typically found on stone doors but sometimes on wooden or iron doors as well.
 Pivots: Pivots aren’t really hinges at all, but simple knobs jutting from the top and bottom of the door that fit into holes in the doorframe, allowing the door to spin. The advantages of pivots is that they can’t be dismantled like hinges and they’re simple to make. The disadvantage is that since the door pivots on its center of gravity (typically in the middle), nothing larger than half the door’s width can fit through. Doors with pivots are usually stone and are often quite wide to overcome this disadvantage. Another solution is to place the pivot toward one side and have the door be thicker at that end and thinner toward the other end so that it opens more like a normal door. Secret doors in walls often turn on pivots, since the lack of hinges makes it easier to hide the door’s presence. Pivots also allow objects such as bookcases to be used as secret doors.
 Secret Doors: Disguised as a bare patch of wall (or floor, or ceiling), a bookcase, a fireplace, or a fountain, a secret door leads to a secret passage or room. Someone examining the area finds a secret door, if one exists, on a successful Search check (DC 20 for a typical secret door to DC 30 for a well-hidden secret door). Elves have a chance to detect a secret door just by casually looking at an area.
 Many secret doors require a special method of opening, such as a hidden button or pressure plate. Secret doors can open like normal doors, or they may pivot, slide, sink, rise, or even lower like a drawbridge to permit access. Builders might put a secret door down low near the floor or high up in a wall, making it difficult to find or reach. Wizards and sorcerers have a spell, phase door, that allows them to create a magic secret door that only they can use.
-Magic Doors: Enchanted by the original builders, a door might speak to explorers, warning them away. It might be protected from harm, increasing its hardness or giving it more hit points as well as an improved saving throw bonus against disintegrate and other similar spells. A magic door might not lead into the space revealed beyond, but instead it might be a portal to a faraway place or even another plane of existence. Other magic doors might require passwords or special keys to open them. 
+Magic Doors: Enchanted by the original builders, a door might speak to explorers, warning them away. It might be protected from harm, increasing its hardness or giving it more hit points as well as an improved saving throw bonus against disintegrate and other similar spells. A magic door might not lead into the space revealed beyond, but instead it might be a portal to a faraway place or even another plane of existence. Other magic doors might require passwords or special keys to open them.
 Portcullises: These special doors consist of iron or thick, ironbound, wooden shafts that descend from a recess in the ceiling above an archway. Sometimes a portcullis has crossbars that create a grid, sometimes not. Typically raised by means of a winch or a capstan, a portcullis can be dropped quickly, and the shafts end in spikes to discourage anyone from standing underneath (or from attempting to dive under it as it drops). Once it is dropped, a portcullis locks, unless it is so large that no normal person could lift it anyway. In any event, lifting a typical portcullis requires a DC 25 Strength check.
 
 WALLS, DOORS, AND DETECT SPELLS
@@ -1092,8 +1092,8 @@ Stone walls, iron walls, and iron doors are usually thick enough to block most d
 ROOMS
 Rooms in dungeons vary in shape and size. Although many are simple in construction and appearance, particularly interesting rooms have multiple levels joined by stairs, ramps, or ladders, as well as statuary, altars, pits, chasms, bridges, and more.
 Underground chambers are prone to collapse, so many rooms— particularly large ones—have arched ceilings or pillars to support the weight of the rock overhead.
-Common dungeon rooms fall into the following broad categories. 
-Guard Post: Intelligent, social denizens of the dungeon will generally have a series of adjacent rooms they consider “theirs,” and they’ll guard the entrances to that common area. 
+Common dungeon rooms fall into the following broad categories.
+Guard Post: Intelligent, social denizens of the dungeon will generally have a series of adjacent rooms they consider “theirs,” and they’ll guard the entrances to that common area.
 Living Quarters: All but the most nomadic creatures have a lair where they can rest, eat, and store their treasure. Living quarters commonly include beds (if the creature sleeps), possessions (both valuable and mundane), and some sort of food preparation area. Noncombatant creatures such as juveniles and the elderly are often found here.
 Work Area: Most intelligent creatures do more than just guard, eat, and sleep, and many devote rooms to magic laboratories, workshops for weapons and armor, or studios for more esoteric tasks.
 Shrine: Any creature that is particularly religious may have some place dedicated to worship, and others may venerate something of great historical or personal value. Depending on the creature’s resources and piety, a shrine can be humble or extensive. A shrine is where PCs will likely encounter NPC clerics, and it’s common for wounded monsters to flee to a shrine friendly to them when they seek healing.
@@ -1119,33 +1119,33 @@ Rope Bridge: Constructed of wooden planks suspended from ropes, a rope bridge is
 Drawbridge: Some bridges have mechanisms that allow them to be extended or retracted from the gap they cross. Typically,  the winch mechanism exists on only one side of the bridge. It takes a move action to lower a drawbridge, but the bridge doesn’t come down until the beginning of the lowering character’s next turn. It takes a full-round action to raise a drawbridge; the drawbridge is up at the end of the action. Particularly long or wide drawbridges may take more time to raise and lower, and some may require Strength checks to rotate the winch.
 Railings and Low Walls: Some bridges have railings or low walls along the sides. If a bridge does, the railing or low walls affect Balance checks and bull rush attempts as described for ledges (see Special Floors). Low walls likewise provide cover to bridge occupants.
 Chutes and Chimneys: Stairs aren’t the only way to move up and down in a dungeon. Sometimes a vertical shaft connects levels of a dungeon or links a dungeon with the surface. Chutes are usually traps that dump characters into a lower area—often a place featuring some dangerous situation with which they must contend.
-Pillar: A common sight in any dungeon, pillars and columns give support to ceilings. The larger the room, the more likely it has pillars. As a rule of thumb, the deeper in the dungeon a room is, the thicker the pillars need to be to support the overhead weight. Pillars tend to be polished and often have carvings, paintings, or inscriptions upon them. 
+Pillar: A common sight in any dungeon, pillars and columns give support to ceilings. The larger the room, the more likely it has pillars. As a rule of thumb, the deeper in the dungeon a room is, the thicker the pillars need to be to support the overhead weight. Pillars tend to be polished and often have carvings, paintings, or inscriptions upon them.
 Slender Pillar: These pillars are only a foot or two across, so they don’t occupy a whole square. A creature standing in the same square as a slender pillar gains a +2 cover bonus to Armor Class and a +1 cover bonus on Reflex saves (these bonuses don’t stack with cover bonuses from other sources). The presence of a slender pillar does not otherwise affect a creature’s fighting space, because it’s assumed that the creature is using the pillar to its advantage when it can. A typical slender pillar has AC 4, hardness 8, and 250 hit points.
-Wide Pillar: These pillars take up an entire square and provide cover to anyone behind them. They have AC 3, hardness 8, and 900 hit points. A DC 20 Climb check is sufficient to climb most pillars; the DC increases to 25 for polished or unusually slick ones. 
+Wide Pillar: These pillars take up an entire square and provide cover to anyone behind them. They have AC 3, hardness 8, and 900 hit points. A DC 20 Climb check is sufficient to climb most pillars; the DC increases to 25 for polished or unusually slick ones.
 Stalagmite/Stalactite: These tapering natural rock columns extend from the floor (stalagmite) or the ceiling (stalactite). Stalagmites and stalactites function as slender pillars.
-Statue: Most statues function as wide pillars, taking up a square and providing cover. Some statues are smaller and act as slender pillars. A DC 15 Climb check allows a character to climb a statue. 
+Statue: Most statues function as wide pillars, taking up a square and providing cover. Some statues are smaller and act as slender pillars. A DC 15 Climb check allows a character to climb a statue.
 Tapestry: Elaborately embroidered patterns or scenes on cloth, tapestries hang from the walls of well-appointed dungeon rooms or corridors. Crafty builders take advantage of tapestries to place alcoves, concealed doors, or secret switches behind them.
 Tapestries provide total concealment (50% miss chance) to characters behind them if they’re hanging from the ceiling, or concealment (20% miss chance) if they’re flush with the wall. Climbing a big tapestry isn’t particularly difficult, requiring a DC 15 Climb check (or DC 10 if a wall is within reach).
 Pedestal: Anything important on display in a dungeon, from a fabulous treasure to a coffin, tends to rest atop a pedestal or a dais. Raising the object off the floor focuses attention on it (and, in practical terms, keeps it safe from any water or other substance that might seep onto the floor). A pedestal is often trapped to protect whatever sits atop it. It can conceal a secret trapdoor beneath itself or provide a way to reach a door in the ceiling above itself.
 Only the largest pedestals take up an entire square; most provide no cover.
 Pool: Pools of water collect naturally in low spots in dungeons (a dry dungeon is rare). Pools can also be wells or natural underground springs, or they can be intentionally created basins, cisterns, and fountains. In any event, water is fairly common in dungeons, harboring sightless fish and sometimes aquatic monsters. Pools provide water for dungeon denizens, and thus are as important an area for a predator to control as a watering hole aboveground in the wild.
 Shallow Pool: If a square contains a shallow pool, it has roughly 1 foot of standing water. It costs 2 squares of movement to move into a square with a shallow pool, and the DC of Tumble checks in such squares increases by 2.
-Deep Pool: These squares have at least 4 feet of standing water. It costs Medium or larger creatures 4 squares of movement to move into a square with a deep pool, or characters can swim if they wish. Small or smaller creatures must swim to move through a square containing a deep pool. Tumbling is impossible in a deep pool. The water in a deep pool provides cover for Medium or larger creatures. Smaller creatures gain improved cover (+8 bonus to AC, +4 bonus on Reflex saves). Medium or larger creatures can crouch as a move action to gain this improved cover. Creatures with this improved cover take a –10 penalty on attacks against creatures that aren’t also underwater. 
+Deep Pool: These squares have at least 4 feet of standing water. It costs Medium or larger creatures 4 squares of movement to move into a square with a deep pool, or characters can swim if they wish. Small or smaller creatures must swim to move through a square containing a deep pool. Tumbling is impossible in a deep pool. The water in a deep pool provides cover for Medium or larger creatures. Smaller creatures gain improved cover (+8 bonus to AC, +4 bonus on Reflex saves). Medium or larger creatures can crouch as a move action to gain this improved cover. Creatures with this improved cover take a –10 penalty on attacks against creatures that aren’t also underwater.
 Deep pool squares are usually clustered together and surrounded by a ring of shallow pool squares. Both shallow pools and deep pools impose a –2 circumstance penalty on Move Silently checks.
 Special Pools: Through accident or design, a pool can become magically enhanced. Rarely, a pool or a fountain may be found that has the ability to bestow beneficial magic on those who drink from it. However, magic pools are just as likely to curse the drinker. Typically, water from a magic pool loses its potency if removed from the pool for more than an hour or so.
 Some pools have fountains. Occasionally these are merely decorative, but they often serve as the focus of a trap or the source of a pool’s magic.
 Most pools are made of water, but anything’s possible in a dungeon. Pools can hold unsavory substances such as blood, poison, oil, or magma. And even if a pool holds water, it can be holy water, saltwater, or water tainted with disease.
-Elevator: In place of or in addition to stairs, an elevator (essentially an oversized dumbwaiter) can take inhabitants from one dungeon level to the next. Such an elevator may be mechanical (using gears, pulleys, and winches) or magical (such as a levitate spell cast on a movable flat surface). A mechanical elevator might be as small as a platform that holds one character at a time, or as large as an entire room that raises and lowers. A clever builder might design an elevator room that moves up or down without the occupants’ knowledge to catch them in a trap, or one that appears to have moved when it actually remained still. 
+Elevator: In place of or in addition to stairs, an elevator (essentially an oversized dumbwaiter) can take inhabitants from one dungeon level to the next. Such an elevator may be mechanical (using gears, pulleys, and winches) or magical (such as a levitate spell cast on a movable flat surface). A mechanical elevator might be as small as a platform that holds one character at a time, or as large as an entire room that raises and lowers. A clever builder might design an elevator room that moves up or down without the occupants’ knowledge to catch them in a trap, or one that appears to have moved when it actually remained still.
 A typical elevator ascends or descends 10 feet per round at the beginning of the operator’s turn (or on initiative count 0 if it functions without regard to whether creatures are on it. Elevators can be enclosed, can have railings or low walls, or may simply be treacherous floating platforms.
 Ladders: Whether free-standing or rungs set into a wall, a ladder requires a DC 0 Climb check to ascend or descend.
 Shifting Stone or Wall: These features can cut off access to a passage or room, trapping adventurers in a dead end or preventing escape out of the dungeon. Shifting walls can force explorers to go down a dangerous path or prevent them from entering a special area. Not all shifting walls need be traps. For example, stones controlled by pressure plates, counterweights, or a secret lever can shift out of a wall to become a staircase leading to a hidden upper room or secret ledge.
 Shifting stones and walls are generally constructed as traps with triggers and Search and Disable Device DCs. However they don’t have Challenge Ratings because they’re inconveniences, not deadly in and of themselves.
 Teleporters: Sometimes useful, sometimes devious, places in a dungeon rigged with a teleportation effect (such as a teleportation circle) transport characters to some other location in the dungeon or someplace far away. They can be traps, teleporting the unwary into dangerous situations, or they can be an easy mode of transport for those who built or live in the dungeon, good for bypassing barriers and traps or simply to get around more quickly. Devious dungeon designers might place a teleporter in a room that transports characters to another seemingly identical room so that they don’t even know they’ve been teleported. A detect magic spell will provide a clue to the presence of a teleporter, but direct experimentation or other research is the only way to discover where the teleporter leads.
-Altars: Temples—particularly to dark gods—often exist underground. Usually taking the form of a stone block, an altar is the main fixture and central focus of such a temple. Sometimes all the other trappings of the temple are long gone, lost to theft, age, and decay, but the altar survives. Some altars have traps or powerful magic within them. Most take up one or two squares on the grid and provide cover to creatures behind them. 
+Altars: Temples—particularly to dark gods—often exist underground. Usually taking the form of a stone block, an altar is the main fixture and central focus of such a temple. Sometimes all the other trappings of the temple are long gone, lost to theft, age, and decay, but the altar survives. Some altars have traps or powerful magic within them. Most take up one or two squares on the grid and provide cover to creatures behind them.
 
 CAVE-INS AND COLLAPSES (CR 8)
-Cave-ins and collapsing tunnels are extremely dangerous. Not only do dungeon explorers face the danger of being crushed by tons of falling rock, even if they survive they may be buried beneath a pile of rubble or cut off from the only known exit. A cave-in buries anyone in the middle of the collapsing area, and then sliding debris damages anyone in the periphery of the collapse. A typical corridor subject to a cave-in might have a bury zone with a 15-foot radius and a 10-foot-radius slide zone extending beyond the bury zone. A weakened ceiling can be spotted with a DC 20 Knowledge (architecture and engineering) or DC 20 Craft (stonemasonry) check. Remember that Craft checks can be made untrained as Intelligence checks. A dwarf can make such a check if he simply passes within 10 feet of a weakened ceiling. 
-A weakened ceiling may collapse when subjected to a major impact or concussion. A character can cause a cave-in by destroying half the pillars holding the ceiling up. 
+Cave-ins and collapsing tunnels are extremely dangerous. Not only do dungeon explorers face the danger of being crushed by tons of falling rock, even if they survive they may be buried beneath a pile of rubble or cut off from the only known exit. A cave-in buries anyone in the middle of the collapsing area, and then sliding debris damages anyone in the periphery of the collapse. A typical corridor subject to a cave-in might have a bury zone with a 15-foot radius and a 10-foot-radius slide zone extending beyond the bury zone. A weakened ceiling can be spotted with a DC 20 Knowledge (architecture and engineering) or DC 20 Craft (stonemasonry) check. Remember that Craft checks can be made untrained as Intelligence checks. A dwarf can make such a check if he simply passes within 10 feet of a weakened ceiling.
+A weakened ceiling may collapse when subjected to a major impact or concussion. A character can cause a cave-in by destroying half the pillars holding the ceiling up.
 Characters in the bury zone of a cave-in take 8d6 points of damage, or half that amount if they make a DC 15 Reflex save. They are subsequently buried. Characters in the slide zone take 3d6 points of damage, or no damage at all if they make a DC 15 Reflex save. Characters in the slide zone who fail their saves are buried.
 Characters take 1d6 points of nonlethal damage per minute while buried. If such a character falls unconscious, he must make a DC 15 Constitution check. If it fails, he takes 1d6 points of lethal damage each minute thereafter until freed or dead.
 Characters who aren’t buried can dig out their friends. In 1 minute, using only her hands, a character can clear rocks and debris equal to five times her heavy load limit. The amount of loose stone that fills a 5-foot-by-5-foot area weighs one ton (2,000 pounds). Armed with an appropriate tool, such as a pick, crowbar, or shovel, a digger can clear loose stone twice as quickly as by hand. You may allow a buried character to free himself with a DC 25 Strength check.
@@ -1163,13 +1163,13 @@ Phosphorescent Fungus (No CR): This strange underground fungus grows in clumps t
 WILDERNESS
 
 GETTING LOST
-There are many ways to get lost in the wilderness. Following an obvious road, trail, or feature such as a stream or shoreline prevents any possibility of becoming lost, but travelers striking off cross-country may become disoriented—especially in conditions of poor visibility or in difficult terrain. 
+There are many ways to get lost in the wilderness. Following an obvious road, trail, or feature such as a stream or shoreline prevents any possibility of becoming lost, but travelers striking off cross-country may become disoriented—especially in conditions of poor visibility or in difficult terrain.
 Poor Visibility: Any time characters cannot see at least 60 feet in the prevailing conditions of visibility, they may become lost. Characters traveling through fog, snow, or a downpour might easily lose the ability to see any landmarks not in their immediate vicinity. Similarly, characters traveling at night may be at risk, too, depending on the quality of their light sources, the amount of moonlight, and whether they have darkvision or lowlight vision.
 Difficult Terrain: Any character in forest, moor, hill, or mountain terrain may become lost if he or she moves away from a trail, road, stream, or other obvious path or track. Forests are especially dangerous because they obscure far-off landmarks and make it hard to see the sun or stars.
 Chance to Get Lost: If conditions exist that make getting lost a possibility, the character leading the way must succeed on a Survival check or become lost. The difficulty of this check varies based on the terrain, the visibility conditions, and whether or not the character has a map of the area being traveled through. Refer to the table below and use the highest DC that applies.
- 
+
 Survival DC
- 
+
 Survival DC
 Moor or hill, map
 6
@@ -1189,16 +1189,16 @@ Effects of Being Lost: If a party becomes lost, it is no longer certain of movin
 Recognizing that You’re Lost: Once per hour of random travel, each character in the party may attempt a Survival check (DC 20, –1 per hour of random travel) to recognize that they are no longer certain of their direction of travel. Some circumstances may make it obvious that the characters are lost.
 Setting a New Course: A lost party is also uncertain of determining in which direction it should travel in order to reach a desired objective. Determining the correct direction of travel once a party has become lost requires a Survival check (DC 15, +2 per hour of random travel). If a character fails this check, he chooses a random direction as the “correct” direction for resuming travel.
 Once the characters are traveling along their new course, correct or incorrect, they may get lost again. If the conditions still make it possible for travelers to become lost, check once per hour of travel as described in Chance to Get Lost, above, to see if the party maintains its new course or begins to move at random again.
-Conflicting Directions: It’s possible that several characters may attempt to determine the right direction to proceed after becoming lost. Make a Survival check for each character in secret, then tell the players whose characters succeeded the correct direction in which to travel, and tell the players whose characters failed a random direction they think is right. 
+Conflicting Directions: It’s possible that several characters may attempt to determine the right direction to proceed after becoming lost. Make a Survival check for each character in secret, then tell the players whose characters succeeded the correct direction in which to travel, and tell the players whose characters failed a random direction they think is right.
 Regaining Your Bearings: There are several ways to become un-lost. First, if the characters successfully set a new course and follow it to the destination they’re trying to reach, they’re not lost anymore. Second, the characters through random movement might run into an unmistakable landmark. Third, if conditions suddenly improve—the fog lifts or the sun comes up—lost characters may attempt to set a new course, as described above, with a +4 bonus on the Survival check. Finally, magic may make their course clear.
 
 FOREST TERRAIN
-Forest terrain can be divided into three categories: sparse, medium, and dense. An immense forest could have all three categories within its borders, with more sparse terrain at the outer edge of the forest and dense forest at its heart. 
+Forest terrain can be divided into three categories: sparse, medium, and dense. An immense forest could have all three categories within its borders, with more sparse terrain at the outer edge of the forest and dense forest at its heart.
 The table below describes in general terms how likely it is that a given square has a terrain element in it.
 Forest Terrain Features
- 
+
 ———— Category of Forest ————
- 
+
 Sparse
 Medium
 Dense
@@ -1224,14 +1224,14 @@ Forest Canopy: It’s common for elves and other forest dwellers to live on rais
 Other Forest Terrain Elements: Fallen logs generally stand about 3 feet high and provide cover just as low walls do. They cost 5 feet of movement to cross. Forest streams are generally 5 to 10 feet wide and no more than 5 feet deep. Pathways wind through most forests, allowing normal movement and providing neither cover nor concealment. These paths are less common in dense forests, but even unexplored forests will have occasional game trails.
 Stealth and Detection in a Forest: In a sparse forest, the maximum distance at which a Spot check for detecting the nearby presence of others can succeed is 3d6×10 feet. In a medium forest, this distance is 2d8×10 feet, and in a dense forest it is 2d6×10 feet.
 Because any square with undergrowth provides concealment, it’s usually easy for a creature to use the Hide skill in the forest. Logs and massive trees provide cover, which also makes hiding possible.
-The background noise in the forest makes Listen checks more difficult, increasing the DC of the check by 2 per 10 feet, not 1 (but note that Move Silently is also more difficult in undergrowth). 
+The background noise in the forest makes Listen checks more difficult, increasing the DC of the check by 2 per 10 feet, not 1 (but note that Move Silently is also more difficult in undergrowth).
 
 Forest Fires (CR 6)
 Most campfire sparks ignite nothing, but if conditions are dry, winds are strong, or the forest floor is dried out and flammable, a forest fire can result. Lightning strikes often set trees afire and start forest fires in this way. Whatever the cause of the fire, travelers can get caught in the conflagration.
 A forest fire can be spotted from as far away as 2d6×100 feet by a character who makes a Spot check, treating the fire as a Colossal creature (reducing the DC by 16). If all characters fail their Spot checks, the fire moves closer to them. They automatically see it when it closes to half the original distance.
 Characters who are blinded or otherwise unable to make Spot checks can feel the heat of the fire (and thus automatically “spot” it) when it is 100 feet away.
 The leading edge of a fire (the downwind side) can advance faster than a human can run (assume 120 feet per round for winds of moderate strength). Once a particular portion of the forest is ablaze, it remains so for 2d4×10 minutes before dying to a smoking smolder. Characters overtaken by a forest fire may find the leading edge of the fire advancing away from them faster than they can keep up, trapping them deeper and deeper in its grasp.
-Within the bounds of a forest fire, a character faces three dangers: heat damage, catching on fire, and smoke inhalation. 
+Within the bounds of a forest fire, a character faces three dangers: heat damage, catching on fire, and smoke inhalation.
 Heat Damage: Getting caught within a forest fire is even worse than being exposed to extreme heat (see Heat Dangers). Breathing the air causes a character to take 1d6 points of damage per round (no save). In addition, a character must make a Fortitude save every 5 rounds (DC 15, +1 per previous check) or take 1d4 points of nonlethal damage. A character who holds his breath can avoid the lethal damage, but not the nonlethal damage. Those wearing heavy clothing or any sort of armor take a –4 penalty on their saving throws. In addition, those wearing metal armor or coming into contact with very hot metal are affected as if by a heat metal spell.
 Catching on Fire: Characters engulfed in a forest fire are at risk of catching on fire when the leading edge of the fire overtakes them, and are then at risk once per minute thereafter (see Catching on Fire).
 Smoke Inhalation: Forest fires naturally produce a great deal of smoke. A character who breathes heavy smoke must make a Fortitude save each round (DC 15, +1 per previous check) or spend that round choking and coughing. A character who chokes for 2 consecutive rounds takes 1d6 points of nonlethal damage. Also, smoke obscures vision, providing concealment to characters within it.
@@ -1240,9 +1240,9 @@ MARSH TERRAIN
 Two categories of marsh exist: relatively dry moors and watery swamps. Both are often bordered by lakes (described in Aquatic Terrain, below), which effectively are a third category of terrain found in marshes.
 The table below describes terrain features found in marshes.
 Marsh Terrain Features
- 
+
 — Marsh Category —
- 
+
 Moor
 Swamp
 Shallow bog
@@ -1257,12 +1257,12 @@ Light undergrowth
 Heavy undergrowth
 10%
 20%
-Bogs: If a square is part of a shallow bog, it has deep mud or standing water of about 1 foot in depth. It costs 2 squares of movement to move into a square with a shallow bog, and the DC of Tumble checks in such a square increases by 2. 
+Bogs: If a square is part of a shallow bog, it has deep mud or standing water of about 1 foot in depth. It costs 2 squares of movement to move into a square with a shallow bog, and the DC of Tumble checks in such a square increases by 2.
 A square that is part of a deep bog has roughly 4 feet of standing water. It costs Medium or larger creatures 4 squares of movement to move into a square with a deep bog, or characters can swim if they wish. Small or smaller creatures must swim to move through a deep bog. Tumbling is impossible in a deep bog.
 The water in a deep bog provides cover for Medium or larger creatures. Smaller creatures gain improved cover (+8 bonus to AC, +4 bonus on Reflex saves). Medium or larger creatures can crouch as a move action to gain this improved cover. Creatures with this improved cover take a –10 penalty on attacks against creatures that aren’t underwater.
 Deep bog squares are usually clustered together and surrounded by an irregular ring of shallow bog squares.
 Both shallow and deep bogs increase the DC of Move Silently checks by 2.
-Undergrowth: The bushes, rushes, and other tall grasses in marshes function as undergrowth does in a forest (see above). A square that is part of a bog does not also have undergrowth. 
+Undergrowth: The bushes, rushes, and other tall grasses in marshes function as undergrowth does in a forest (see above). A square that is part of a bog does not also have undergrowth.
 Quicksand: Patches of quicksand present a deceptively solid appearance (appearing as undergrowth or open land) that may trap careless characters. A character approaching a patch of quicksand at a normal pace is entitled to a DC 8 Survival check to spot the danger before stepping in, but charging or running characters don’t have a chance to detect a hidden bog before blundering in. A typical patch of quicksand is 20 feet in diameter; the momentum of a charging or running character carries him or her 1d2×5 feet into the quicksand.
 Effects of Quicksand: Characters in quicksand must make a DC 10 Swim check every round to simply tread water in place, or a DC 15 Swim check to move 5 feet in whatever direction is desired. If a trapped character fails this check by 5 or more, he sinks below the surface and begins to drown whenever he can no longer hold his breath (see the Swim skill description).
 Characters below the surface of a bog may swim back to the surface with a successful Swim check (DC 15, +1 per consecutive round of being under the surface).
@@ -1276,9 +1276,9 @@ A marsh imposes no penalties on Listen checks, and using the Move Silently skill
 HILLS TERRAIN
 A hill can exist in most other types of terrain, but hills can also dominate the landscape. Hills terrain is divided into two categories: gentle hills and rugged hills. Hills terrain often serves as a transition zone between rugged terrain such as mountains and flat terrain such as plains.
 Hills Terrain Features
- 
+
 ——Hills Category——
- 
+
 Gentle Hill
 Rugged Hill
 Gradual slope
@@ -1295,20 +1295,20 @@ Light undergrowth
 15%
 Gradual Slope: This incline isn’t steep enough to affect movement, but characters gain a +1 bonus on melee attacks against foes downhill from them.
 Steep Slope: Characters moving uphill (to an adjacent square of higher elevation) must spend 2 squares of movement to enter each square of steep slope. Characters running or charging downhill (moving to an adjacent square of lower elevation) must succeed on a DC 10 Balance check upon entering the first steep slope square. Mounted characters make a DC 10 Ride check instead. Characters who fail this check stumble and must end their movement 1d2×5 feet later. Characters who fail by 5 or more fall prone in the square where they end their movement. A steep slope increases the DC of Tumble checks by 2.
-Cliff: A cliff typically requires a DC 15 Climb check to scale and is 1d4×10 feet tall, although the needs of your map may mandate a taller cliff. A cliff isn’t perfectly vertical, taking up 5-foot squares if it’s less than 30 feet tall and 10-foot squares if it’s 30 feet or taller. 
-Light Undergrowth: Sagebrush and other scrubby bushes grow on hills, athough they rarely cover the landscape as they do in forests and marshes. Light undergrowth provides concealment and increases the DC of Tumble and Move Silently checks by 2. 
+Cliff: A cliff typically requires a DC 15 Climb check to scale and is 1d4×10 feet tall, although the needs of your map may mandate a taller cliff. A cliff isn’t perfectly vertical, taking up 5-foot squares if it’s less than 30 feet tall and 10-foot squares if it’s 30 feet or taller.
+Light Undergrowth: Sagebrush and other scrubby bushes grow on hills, athough they rarely cover the landscape as they do in forests and marshes. Light undergrowth provides concealment and increases the DC of Tumble and Move Silently checks by 2.
 Other Hills Terrain Elements: Trees aren’t out of place in hills terrain, and valleys often have active streams (5 to 10 feet wide and no more than 5 feet deep) or dry streambeds (treat as a trench 5 to 10 feet across) in them. If you add a stream or streambed, remember that water always flows downhill.
 Stealth and Detection in Hills: In gentle hills, the maximum distance at which a Spot check for detecting the nearby presence of others can succeed is 2d10×10 feet. In rugged hills, this distance is 2d6×10 feet.
 Hiding in hills terrain can be difficult if there isn’t undergrowth around. A hilltop or ridge provides enough cover to hide from anyone below the hilltop or ridge.
-Hills don’t affect Listen or Move Silently checks. 
+Hills don’t affect Listen or Move Silently checks.
 
 MOUNTAIN TERRAIN
 The three mountain terrain categories are alpine meadows, rugged mountains, and forbidding mountains. As characters ascend into a mountainous area, they’re likely to face each terrain category in turn, beginning with alpine meadows, extending through rugged mountains, and reaching forbidding mountains near the summit.
-Mountains have an important terrain element, the rock wall, that is marked on the border between squares rather than taking up squares itself. 
+Mountains have an important terrain element, the rock wall, that is marked on the border between squares rather than taking up squares itself.
 Mountain Terrain Features
- 
+
 ———— Mountain Category ————
- 
+
 Alpine Meadow
 Rugged
 Forbidding
@@ -1346,35 +1346,35 @@ Chasm: Usually formed by natural geological processes, chasms function like pits
 Light Undergrowth: This functions as described in Forest Terrain,
 above.
 Scree: A field of shifting gravel, scree doesn’t affect speed, but it can be treacherous on a slope. The DC of Balance and Tumble checks increases by 2 if there’s scree on a gradual slope and by 5 if there’s scree on a steep slope. The DC of Move silently checks increases by 2 if the scree is on a slope of any kind.
-Dense Rubble: The ground is covered with rocks of all sizes. It costs 2 squares of movement to enter a square with dense rubble. The DC of Balance and Tumble checks on dense rubble increases by 5, and the DC of Move Silently checks increases by +2. 
+Dense Rubble: The ground is covered with rocks of all sizes. It costs 2 squares of movement to enter a square with dense rubble. The DC of Balance and Tumble checks on dense rubble increases by 5, and the DC of Move Silently checks increases by +2.
 Rock Wall: A vertical plane of stone, rock walls require DC 25 Climb checks to ascend. A typical rock wall is 2d4×10 feet tall in rugged mountains and 2d8×10 feet tall in forbidding mountains. Rock walls are drawn on the edges of squares, not in the squares themselves.
-Cave Entrance: Found in cliff and steep slope squares and next to rock walls, cave entrances are typically between 5 and 20 feet wide and 5 feet deep. Beyond the entrance, a cave could be anything from a simple chamber to the entrance to an elaborate dungeon. Caves used as monster lairs typically have 1d3 rooms that are 1d4×10 feet across. 
+Cave Entrance: Found in cliff and steep slope squares and next to rock walls, cave entrances are typically between 5 and 20 feet wide and 5 feet deep. Beyond the entrance, a cave could be anything from a simple chamber to the entrance to an elaborate dungeon. Caves used as monster lairs typically have 1d3 rooms that are 1d4×10 feet across.
 Other Mountain Terrain Features: Most alpine meadows begin above the tree line, so trees and other forest elements are rare in the mountains. Mountain terrain can include active streams (5 to 10 feet wide and no more than 5 feet deep) and dry streambeds (treat as a trench 5 to 10 feet across). Particularly high-altitude areas tend to be colder than the lowland areas that surround them, so they may be covered in ice sheets (described below).
 Stealth and Detection in Mountains: As a guideline, the maximum distance in mountain terrain at which a Spot check for detecting the nearby presence of others can succeed is 4d10×10 feet. Certain peaks and ridgelines afford much better vantage points, of course, and twisting valleys and canyons have much shorter spotting distances. Because there’s little vegetation to obstruct line of sight, the specifics on your map are your best guide for the range at which an encounter could begin. As in hills terrain, a ridge or peak provides enough cover to hide from anyone below the high point.
 It’s easier to hear faraway sounds in the mountains. The DC of Listen checks increases by 1 per 20 feet between listener and source, not per 10 feet.
 Avalanches (CR 7)
 The combination of high peaks and heavy snowfalls means that avalanches are a deadly peril in many mountainous areas. While avalanches of snow and ice are common, it’s also possible to have an avalanche of rock and soil.
-An avalanche can be spotted from as far away as 1d10×500 feet downslope by a character who makes a DC 20 Spot check, treating the avalanche as a Colossal creature. If all characters fail their Spot checks to determine the encounter distance, the avalanche moves closer to them, and they automatically become aware of it when it closes to half the original distance. It’s possible to hear an avalanche coming even if you can’t see it. Under optimum conditions (no other loud noises occurring), a character who makes a DC 15 Listen check can hear the avalanche or landslide when it is 1d6×500 feet away. This check might have a DC of 20, 25, or higher in conditions where hearing is difficult (such as in the middle of a thunderstorm). 
-A landslide or avalanche consists of two distinct areas: the bury zone (in the direct path of the falling debris) and the slide zone (the area the debris spreads out to encompass). Characters in the bury zone always take damage from the avalanche; characters in the slide zone may be able to get out of the way. Characters in the bury zone take 8d6 points of damage, or half that amount if they make a DC 15 Reflex save. They are subsequently buried (see below). Characters in the slide zone take 3d6 points of damage, or no damage if they make a DC 15 Reflex save. Those who fail their saves are buried. 
+An avalanche can be spotted from as far away as 1d10×500 feet downslope by a character who makes a DC 20 Spot check, treating the avalanche as a Colossal creature. If all characters fail their Spot checks to determine the encounter distance, the avalanche moves closer to them, and they automatically become aware of it when it closes to half the original distance. It’s possible to hear an avalanche coming even if you can’t see it. Under optimum conditions (no other loud noises occurring), a character who makes a DC 15 Listen check can hear the avalanche or landslide when it is 1d6×500 feet away. This check might have a DC of 20, 25, or higher in conditions where hearing is difficult (such as in the middle of a thunderstorm).
+A landslide or avalanche consists of two distinct areas: the bury zone (in the direct path of the falling debris) and the slide zone (the area the debris spreads out to encompass). Characters in the bury zone always take damage from the avalanche; characters in the slide zone may be able to get out of the way. Characters in the bury zone take 8d6 points of damage, or half that amount if they make a DC 15 Reflex save. They are subsequently buried (see below). Characters in the slide zone take 3d6 points of damage, or no damage if they make a DC 15 Reflex save. Those who fail their saves are buried.
 Buried characters take 1d6 points of nonlethal damage per minute. If a buried character falls unconscious, he or she must make a DC 15 Constitution check or take 1d6 points of lethal damage each minute thereafter until freed or dead.
 The typical avalanche has a width of 1d6×100 feet, from one edge of the slide zone to the opposite edge. The bury zone in the center of the avalanche is half as wide as the avalanche’s full width.
 To determine the precise location of characters in the path of an avalanche, roll 1d6×20; the result is the number of feet from the center of the path taken by the bury zone to the center of the party’s location. Avalanches of snow and ice advance at a speed of 500 feet per round, and rock avalanches travel at a speed of 250 feet per round.
 Mountain Travel
 High altitude can be extremely fatiguing—or sometimes deadly—to creatures that aren’t used to it. Cold becomes extreme, and the lack of oxygen in the air can wear down even the most hardy of warriors.
 Acclimated Characters: Creatures accustomed to high altitude generally fare better than lowlanders. Any creature with an Environment entry that includes mountains is considered native to the area, and acclimated to the high altitude. Characters can also acclimate themselves by living at high altitude for a month. Characters who spend more than two months away from the mountains must reacclimate themselves when they return. Undead, constructs, and other creatures that do not breathe are immune to altitude effects.
-Altitude Zones: In general, mountains present three possible altitude bands: low pass, low peak/high pass, and high peak. 
+Altitude Zones: In general, mountains present three possible altitude bands: low pass, low peak/high pass, and high peak.
 Low Pass (lower than 5,000 feet): Most travel in low mountains takes place in low passes, a zone consisting largely of alpine meadows and forests. Travelers may find the going difficult (which is reflected in the movement modifiers for traveling through mountains), but the altitude itself has no game effect.
-Low Peak or High Pass (5,000 to 15,000 feet): Ascending to the highest slopes of low mountains, or most normal travel through high mountains, falls into this category. All nonacclimated creatures labor to breathe in the thin air at this altitude. Characters must succeed on a Fortitude save each hour (DC 15, +1 per previous check) or be fatigued. The fatigue ends when the character descends to an altitude with more air. Acclimated characters do not have to attempt the Fortitude save. 
-High Peak (more than 15,000 feet): The highest mountains exceed 20,000 feet in height. At these elevations, creatures are subject to both high altitude fatigue (as described above) and altitude sickness, whether or not they’re acclimated to high altitudes. Altitude sickness represents long-term oxygen deprivation, and it affects mental and physical ability scores. After each 6-hour period a character spends at an altitude of over 15,000 feet, he must succeed on a Fortitude save (DC 15, +1 per previous check) or take 1 point of damage to all ability scores. Creatures acclimated to high altitude receive a +4 competence bonus on their saving throws to resist high altitude effects and altitude sickness, but eventually even seasoned mountaineers must abandon these dangerous elevations. 
+Low Peak or High Pass (5,000 to 15,000 feet): Ascending to the highest slopes of low mountains, or most normal travel through high mountains, falls into this category. All nonacclimated creatures labor to breathe in the thin air at this altitude. Characters must succeed on a Fortitude save each hour (DC 15, +1 per previous check) or be fatigued. The fatigue ends when the character descends to an altitude with more air. Acclimated characters do not have to attempt the Fortitude save.
+High Peak (more than 15,000 feet): The highest mountains exceed 20,000 feet in height. At these elevations, creatures are subject to both high altitude fatigue (as described above) and altitude sickness, whether or not they’re acclimated to high altitudes. Altitude sickness represents long-term oxygen deprivation, and it affects mental and physical ability scores. After each 6-hour period a character spends at an altitude of over 15,000 feet, he must succeed on a Fortitude save (DC 15, +1 per previous check) or take 1 point of damage to all ability scores. Creatures acclimated to high altitude receive a +4 competence bonus on their saving throws to resist high altitude effects and altitude sickness, but eventually even seasoned mountaineers must abandon these dangerous elevations.
 
 DESERT TERRAIN
 Desert terrain exists in warm, temperate, and cold climates, but all deserts share one common trait: little rain. The three categories of desert terrain are tundra (cold deserts), rocky desert (often temperate), and sandy desert (often warm).
 Tundra differs from the other desert categories in two important ways. Because snow and ice cover much of the landscape, it’s easy to find water. And during the height of summer, the permafrost thaws to a depth of a foot or so, turning the landscape into a vast field of mud. The muddy tundra affects movement and skill use as the shallow bogs described in marsh terrain, although there’s little standing water.
 The table above describes terrain elements found in each of the three desert categories. The terrain elements on this table are mutually exclusive; for instance, a square of tundra may contain either light undergrowth or an ice sheet, but not both.
 Desert Terrain Features
- 
+
 ——— Desert Category ———
- 
+
 Tundra
 Rocky
 Sandy
@@ -1399,24 +1399,24 @@ Sand dunes
 —
 50%
 Light Undergrowth: Consisting of scrubby, hardy bushes and cacti, light undergrowth functions as described for other terrain types.
-Ice Sheet: The ground is covered with slippery ice. It costs 2 squares of movement to enter a square covered by an ice sheet, and the DC of Balance and Tumble checks there increases by 5. A DC 10 Balance check is required to run or charge across an ice sheet. 
-Light Rubble: Small rocks are strewn across the ground, making nimble movement more difficult more difficult. The DC of Balance and Tumble checks increases by 2. 
+Ice Sheet: The ground is covered with slippery ice. It costs 2 squares of movement to enter a square covered by an ice sheet, and the DC of Balance and Tumble checks there increases by 5. A DC 10 Balance check is required to run or charge across an ice sheet.
+Light Rubble: Small rocks are strewn across the ground, making nimble movement more difficult more difficult. The DC of Balance and Tumble checks increases by 2.
 Dense Rubble: This terrain feature consists of more and larger stones. It costs 2 squares of movement to enter a square with dense rubble. The DC of Balance and Tumble checks increases by 5, and the DC of Move Silently checks increases by 2.
 Sand Dunes: Created by the action of wind on sand, sand dunes function as hills that move. If the wind is strong and consistent, a sand dune can move several hundred feet in a week’s time. Sand dunes can cover hundreds of squares. They always have a gentle slope pointing in the direction of the prevailing wind and a steep slope on the leeward side.
 Other Desert Terrain Features: Tundra is sometimes bordered by forests, and the occasional tree isn’t out of place in the cold wastes. Rocky deserts have towers and mesas consisting of flat ground surrounded on all sides by cliffs and steep slopes (described in Mountain Terrain, above). Sandy deserts sometimes have quicksand; this functions as described in Marsh Terrain, above, although desert quicksand is a waterless mixture of fine sand and dust. All desert terrain is crisscrossed with dry streambeds (treat as trenches 5 to 15 feet wide) that fill with water on the rare occasions when rain falls.
-Stealth and Detection in the Desert: In general, the maximum distance in desert terrain at which a Spot check for detecting the nearby presence of others can succeed is 6d6×20 feet; beyond this distance, elevation changes and heat distortion in warm deserts makes spotting impossible. The presence of dunes in sandy deserts limits spotting distance to 6d6×10 feet. 
+Stealth and Detection in the Desert: In general, the maximum distance in desert terrain at which a Spot check for detecting the nearby presence of others can succeed is 6d6×20 feet; beyond this distance, elevation changes and heat distortion in warm deserts makes spotting impossible. The presence of dunes in sandy deserts limits spotting distance to 6d6×10 feet.
 The desert imposes neither bonuses nor penalties on Listen or Spot checks. The scarcity of undergrowth or other elements that offer concealment or cover makes hiding more difficult.
 Sandstorms
-A sandstorm reduces visibility to 1d10×5 feet and provides a –4 penalty on Listen, Search, and Spot checks. A sandstorm deals 1d3 points of nonlethal damage per hour to any creatures caught in the open, and leaves a thin coating of sand in its wake. Driving sand creeps in through all but the most secure seals and seams, to chafe skin and contaminate carried gear. 
+A sandstorm reduces visibility to 1d10×5 feet and provides a –4 penalty on Listen, Search, and Spot checks. A sandstorm deals 1d3 points of nonlethal damage per hour to any creatures caught in the open, and leaves a thin coating of sand in its wake. Driving sand creeps in through all but the most secure seals and seams, to chafe skin and contaminate carried gear.
 
 PLAINS TERRAIN
 Plains come in three categories: farms, grasslands, and battlefields. Farms are common in settled areas, of course, while grasslands represent untamed plains. The battlefields where large armies clash are temporary places, usually reclaimed by natural vegetation or the farmer’s plow. Battlefields represent a third terrain category because adventurers tend to spend a lot of time there, not because they’re particularly prevalent.
 The table below shows the proportions of terrain elements in the different categories of plains. On a farm, light undergrowth represents most mature grain crops, so farms growing vegetable crops will have less light undergrowth, as will all farms during the time between harvest and a few months after planting.
 The terrain elements in the table below are mutually exclusive.
 Plains Terrain Features
- 
+
 ——— Plains Category ———
- 
+
 Farm
 Grassland
 Battlefield
@@ -1443,7 +1443,7 @@ Berm
 Undergrowth: Whether they’re crops or natural vegetation, the tall grasses of the plains function like light undergrowth in a forest. Particularly thick bushes form patches of heavy undergrowth that dot the landscape in grasslands.
 Light Rubble: On the battlefield, light rubble usually represents something that was destroyed: the ruins of a building or the scattered remnants of a stone wall, for example. It functions as described in the desert terrain section above.
 Trench: Often dug before a battle to protect soldiers, a trench functions as a low wall, except that it provides no cover against adjacent foes. It costs 2 squares of movement to leave a trench, but it costs nothing extra to enter one. Creatures outside a trench who make a melee attack against a creature inside the trench gain a +1 bonus on melee attacks because they have higher ground. In farm terrain, trenches are generally irrigation ditches.
-Berm: A common defensive structure, a berm is a low, earthen wall that slows movement and provides a measure of cover. Put a berm on the map by drawing two adjacent rows of steep slope (described in Hills Terrain, above), with the edges of the berm on the downhill side. Thus, a character crossing a two-square berm will travel uphill for 1 square, then downhill for 1 square. Two square berms provide cover as low walls for anyone standing behind them. Larger berms provide the low wall benefit for anyone standing 1 square downhill from the top of the berm. 
+Berm: A common defensive structure, a berm is a low, earthen wall that slows movement and provides a measure of cover. Put a berm on the map by drawing two adjacent rows of steep slope (described in Hills Terrain, above), with the edges of the berm on the downhill side. Thus, a character crossing a two-square berm will travel uphill for 1 square, then downhill for 1 square. Two square berms provide cover as low walls for anyone standing behind them. Larger berms provide the low wall benefit for anyone standing 1 square downhill from the top of the berm.
 Fences: Wooden fences are generally used to contain livestock or impede oncoming soldiers. It costs an extra square of movement to cross a wooden fence. A stone fence provides a measure of cover as well, functioning as low walls. Mounted characters can cross a fence without slowing their movement if they succeed on a DC 15 Ride check. If the check fails, the steed crosses the fence, but the rider falls out of the saddle.
 Other Plains Terrain Features: Occasional trees dot the landscape in many plains, although on battlefields they’re often felled to provide raw material for siege engines (described in Urban Features). Hedgerows (described in Marsh Terrain) are found in plains as well. Streams, generally 5 to 20 feet wide and 5 to 10 feet deep, are commonplace.
 Stealth and Detection in Plains: In plains terrain, the maximum distance at which a Spot check for detecting the nearby presence of others can succeed is 6d6×40 feet, although the specifics of your map may restrict line of sight. Plains terrain provides no bonuses or penalties on Listen and Spot checks. Cover and concealment are not uncommon, so a good place of refuge is often nearby, if not right at hand.
@@ -1451,18 +1451,18 @@ Stealth and Detection in Plains: In plains terrain, the maximum distance at whic
 AQUATIC TERRAIN
 Aquatic terrain is the least hospitable to most PCs, because they can’t breathe there. Aquatic terrain doesn’t offer the variety that land terrain does. The ocean floor holds many marvels, including undersea analogues of any of the terrain elements described earlier in this section. But if characters find themselves in the water because they were bull rushed off the deck of a pirate ship, the tall kelp beds hundreds of feet below them don’t matter. Accordingly, these rules simply divide aquatic terrain into two categories: flowing water (such as streams and rivers) and nonflowing water (such as lakes and oceans).
 Flowing Water: Large, placid rivers move at only a few miles per hour, so they function as still water for most purposes. But some rivers and streams are swifter; anything floating in them moves downstream at a speed of 10 to 40 feet per round. The fastest rapids send swimmers bobbing downstream at 60 to 90 feet per round. Fast rivers are always at least rough water (Swim DC 15), and whitewater rapids are stormy water (Swim DC 20). If a character is in moving water, move her downstream the indicated distance at the end of her turn. A character trying to maintain her position relative to the riverbank can spend some or all of her turn swimming upstream.
-Swept Away: Characters swept away by a river moving 60 feet per round or faster must make DC 20 Swim checks every round to avoid going under. If a character gets a check result of 5 or more over the minimum necessary, he arrests his motion by catching a rock, tree limb, or bottom snag—he is no longer being carried along by the flow of the water. Escaping the rapids by reaching the bank requires three DC 20 Swim checks in a row. Characters arrested by a rock, limb, or snag can’t escape under their own power unless they strike out into the water and attempt to swim their way clear. Other characters can rescue them as if they were trapped in quicksand (described in Marsh Terrain, above). 
+Swept Away: Characters swept away by a river moving 60 feet per round or faster must make DC 20 Swim checks every round to avoid going under. If a character gets a check result of 5 or more over the minimum necessary, he arrests his motion by catching a rock, tree limb, or bottom snag—he is no longer being carried along by the flow of the water. Escaping the rapids by reaching the bank requires three DC 20 Swim checks in a row. Characters arrested by a rock, limb, or snag can’t escape under their own power unless they strike out into the water and attempt to swim their way clear. Other characters can rescue them as if they were trapped in quicksand (described in Marsh Terrain, above).
 Nonflowing Water: Lakes and oceans simply require a swim speed or successful Swim checks to move through (DC 10 in calm water, DC 15 in rough water, DC 20 in stormy water). Characters need a way to breathe if they’re underwater; failing that, they risk drowning. When underwater, characters can move in any direction as if they were flying with perfect maneuverability.
 Stealth and Detection Underwater: How far you can see underwater depends on the water’s clarity. As a guideline, creatures can see 4d8×10 feet if the water is clear, and 1d8×10 feet if it’s murky. Moving water is always murky, unless it’s in a particularly large, slow-moving river.
 It’s hard to find cover or concealment to hide underwater (except along the seafloor). Listen and Move Silently checks function normally underwater.
 Invisibility: An invisible creature displaces water and leaves a visible, body-shaped “bubble” where the water was displaced. The creature still has concealment (20% miss chance), but not total concealment (50% miss chance).
 Underwater Combat
-Land-based creatures can have considerable difficulty when fighting in water. Water affects a creature’s Armor Class, attack rolls, damage, and movement. In some cases a creature’s opponents may get a bonus on attacks. The effects are summarized in the accompanying table. They apply whenever a character is swimming, walking in chestdeep water, or walking along the bottom. 
-Ranged Attacks Underwater: Thrown weapons are ineffective underwater, even when launched from land. Attacks with other ranged weapons take a –2 penalty on attack rolls for every 5 feet of water they pass through, in addition to the normal penalties for range. 
+Land-based creatures can have considerable difficulty when fighting in water. Water affects a creature’s Armor Class, attack rolls, damage, and movement. In some cases a creature’s opponents may get a bonus on attacks. The effects are summarized in the accompanying table. They apply whenever a character is swimming, walking in chestdeep water, or walking along the bottom.
+Ranged Attacks Underwater: Thrown weapons are ineffective underwater, even when launched from land. Attacks with other ranged weapons take a –2 penalty on attack rolls for every 5 feet of water they pass through, in addition to the normal penalties for range.
 Attacks from Land: Characters swimming, floating, or treading water on the surface, or wading in water at least chest deep, have improved cover (+8 bonus to AC, +4 bonus on Reflex saves) from opponents on land. Landbound opponents who have freedom of movement effects ignore this cover when making melee attacks against targets in the water. A completely submerged creature has total cover against opponents on land unless those opponents have freedom of movement effects. Magical effects are unaffected except for those that require attack rolls (which are treated like any other effects) and fire effects.
 Fire: Nonmagical fire (including alchemist’s fire) does not burn underwater. Spells or spell-like effects with the fire descriptor are ineffective underwater unless the caster makes a Spellcraft check (DC 20 + spell level). If the check succeeds, the spell creates a bubble of steam instead of its usual fiery effect, but otherwise the spell works as described. A supernatural fire effect is ineffective underwater unless its description states otherwise. The surface of a body of water blocks line of effect for any fire spell. If the caster has made a Spellcraft check to make the fire spell usable underwater, the surface still blocks the spell’s line of effect.
 Table: Combat Adjustments Underwater
- 
+
 ————— Attack/Damage —————
 
 
@@ -1498,8 +1498,8 @@ normal
 Yes
 1 A creature without a freedom of movement effects or a swim speed makes grapple checks underwater at a –2 penalty, but deals damage normally when grappling.
 2 A successful Swim check lets a creature move one-quarter its speed as a move action or one-half its speed as a full-round action.
-3 Creatures have firm footing when walking along the bottom, braced against a ship’s hull, or the like. A creature can only walk along the bottom if it wears or carries enough gear to weigh itself down—at least 16 pounds for Medium creatures, twice that for each size category larger than Medium, and half that for each size category smaller than Medium. 
-4 Creatures flailing about in the water (usually because they failed their Swim checks) have a hard time fighting effectively. An off-balance creature loses its Dexterity bonus to Armor Class, and opponents gain a +2 bonus on attacks against it. 
+3 Creatures have firm footing when walking along the bottom, braced against a ship’s hull, or the like. A creature can only walk along the bottom if it wears or carries enough gear to weigh itself down—at least 16 pounds for Medium creatures, twice that for each size category larger than Medium, and half that for each size category smaller than Medium.
+4 Creatures flailing about in the water (usually because they failed their Swim checks) have a hard time fighting effectively. An off-balance creature loses its Dexterity bonus to Armor Class, and opponents gain a +2 bonus on attacks against it.
 Floods
 In many wilderness areas, river floods are a common occurrence.
 In spring, an enormous snowmelt can engorge the streams and rivers it feeds. Other catastrophic events such as massive rainstorms or the destruction of a dam can create floods as well.
@@ -1522,7 +1522,7 @@ A typical large city wall is 10 feet thick and 30 feet high, with crenellations 
 A typical metropolis wall is 15 feet thick and 40 feet tall. It has crenellations on both sides and often has a tunnel and small rooms running through its interior. Metropolis walls have AC 3, hardness 8, and 1,170 hp per 10- foot section.
 Unlike smaller cities, metropolises often have interior walls as well as surrounding walls—either old walls that the city has outgrown, or walls dividing individual districts from each other. Sometimes these walls are as large and thick as the outer walls, but more often they have the characteristics of a large city’s or small city’s walls.
 Watch Towers: Some city walls are adorned with watch towers set at irregular intervals. Few cities have enough guards to keep someone constantly stationed at every tower, unless the city is expecting attack from outside. The towers provide a superior view of the surrounding countryside as well as a point of defense against invaders.
-Watch towers are typically 10 feet higher than the wall they adjoin, and their diameter is 5 times the thickness of the wall. Arrow slits line the outer sides of the upper stories of a tower, and the top is crenellated like the surrounding walls are. In a small tower (25 feet in diameter adjoining a 5-foot-thick wall), a simple ladder typically connect the tower’s stories and the roof. In a larger tower, stairs serve that purpose. 
+Watch towers are typically 10 feet higher than the wall they adjoin, and their diameter is 5 times the thickness of the wall. Arrow slits line the outer sides of the upper stories of a tower, and the top is crenellated like the surrounding walls are. In a small tower (25 feet in diameter adjoining a 5-foot-thick wall), a simple ladder typically connect the tower’s stories and the roof. In a larger tower, stairs serve that purpose.
 Heavy wooden doors, reinforced with iron and bearing good locks (Open Lock DC 30), block entry to a tower, unless the tower is in regular use. As a rule, the captain of the guard keeps the key to the tower secured on her person, and a second copy is in the city’s inner fortress or barracks.
 Gates: A typical city gate is a gatehouse with two portcullises and murder holes above the space between them. In towns and some small cities, the primary entry is through iron double doors set into the city wall.
 Gates are usually open during the day and locked or barred at night. Usually, one gate lets in travelers after sunset and is staffed by guards who will open it for someone who seems honest, presents proper papers, or offers a large enough bribe (depending on the city and the guards).
@@ -1535,8 +1535,8 @@ The majority of a city guard force is made up of warriors, mostly 1st level. Off
 Siege Engines
 Siege engines are large weapons, temporary structures, or pieces of equipment traditionally used in besieging a castle or fortress.
 Table: Siege Engines
-Item 
-Cost 
+Item
+Cost
 Damage
 Critical
 Range Increment
@@ -1547,26 +1547,26 @@ Catapult, heavy
 —
 200 ft. (100 ft. minimum)
 4
-Catapult, light 
-550 gp 
+Catapult, light
+550 gp
 4d6
 —
 150 ft. (100 ft. minimum)
 2
-Ballista 
-500 gp 
+Ballista
+500 gp
 3d8
 19–20
 120 ft.
 1
-Ram 
-1,000 gp 
+Ram
+1,000 gp
 3d6*
 —
 —
 10
-Siege tower 
-2,000 gp 
+Siege tower
+2,000 gp
 —
 —
 —
@@ -1574,11 +1574,11 @@ Siege tower
 * See description for special rules.
 
 Catapult Attack Modifiers
-Condition 
+Condition
 Modifier
 No line of sight to target square
 –6
-Successive shots (crew can see where most recent misses landed) 
+Successive shots (crew can see where most recent misses landed)
 Cumulative +2 per previous miss (maximum +10)
 Successive shots (crew can’t see where most recent misses landed, but observer is providing feedback)
 Cumulative +1 per previous miss (maximum +5)
@@ -1610,7 +1610,7 @@ Sewers: To get into the sewers, most characters open a grate (a full-round actio
 
 City Buildings
 Most city buildings fall into three categories. The majority of buildings in the city are two to five stories high, built side by side to form long rows separated by secondary or main streets. These row houses usually have businesses on the ground floor, with offices or apartments above.
-Inns, successful businesses, and large warehouses—as well as millers, tanners, and other businesses that require extra space— are generally large, free-standing buildings with up to five stories. 
+Inns, successful businesses, and large warehouses—as well as millers, tanners, and other businesses that require extra space— are generally large, free-standing buildings with up to five stories.
 Finally, small residences, shops, warehouses, or storage sheds are simple, one-story wooden buildings, especially if they’re in poorer neighborhoods.
 Most city buildings are made of a combination of stone or clay brick (on the lower one or two stories) and timbers (for the upper stories, interior walls, and floors). Roofs are a mixture of boards, thatch, and slates, sealed with pitch. A typical lower-story wall is 1 foot thick, with AC 3, hardness 8, 90 hp, and a Climb DC of 25. Upper-story walls are 6 inches thick, with AC 3, hardness 5, 60 hp, and a Climb DC of 21. Exterior doors on most buildings are good wooden doors that are usually kept locked, except on public buildings such as shops and taverns.
 
@@ -1659,12 +1659,12 @@ Downpour: Treat as rain (see Precipitation, below), but conceals as fog. Can cre
 Heat Wave: Raises temperature by +10° F.
 Hot: Between 85° and 110° Fahrenheit during the day, 10 to 20 degrees colder at night.
 Moderate: Between 40° and 60° Fahrenheit during the day, 10 to 20 degrees colder at night.
-Powerful Storm (Windstorm/Blizzard/Hurricane/Tornado): Wind speeds are over 50 mph (see Table: Wind Effects). In addition, blizzards are accompanied by heavy snow (1d3 feet), and hurricanes are accompanied by downpours (see above). Windstorms last for 1d6 hours. Blizzards last for 1d3 days. Hurricanes can last for up to a week, but their major impact on characters will come in a 24-to-48-hour period when the center of the storm moves through their area. Tornadoes are very short-lived (1d6×10 minutes), typically forming as part of a thunderstorm system. 
+Powerful Storm (Windstorm/Blizzard/Hurricane/Tornado): Wind speeds are over 50 mph (see Table: Wind Effects). In addition, blizzards are accompanied by heavy snow (1d3 feet), and hurricanes are accompanied by downpours (see above). Windstorms last for 1d6 hours. Blizzards last for 1d3 days. Hurricanes can last for up to a week, but their major impact on characters will come in a 24-to-48-hour period when the center of the storm moves through their area. Tornadoes are very short-lived (1d6×10 minutes), typically forming as part of a thunderstorm system.
 Precipitation: Roll d% to determine whether the precipitation is fog (01–30), rain/snow (31–90), or sleet/hail (91–00). Snow and sleet occur only when the temperature is 30° Fahrenheit or below. Most precipitation lasts for 2d4 hours. By contrast, hail lasts for only 1d20 minutes but usually accompanies 1d4 hours of rain.
-Storm (Duststorm/Snowstorm/Thunderstorm): Wind speeds are severe (30 to 50 mph) and visibility is cut by three-quarters. Storms last for 2d4–1 hours. See Storms, below, for more details. 
+Storm (Duststorm/Snowstorm/Thunderstorm): Wind speeds are severe (30 to 50 mph) and visibility is cut by three-quarters. Storms last for 2d4–1 hours. See Storms, below, for more details.
 Warm: Between 60° and 85° Fahrenheit during the day, 10 to 20 degrees colder at night.
 Windy: Wind speeds are moderate to strong (10 to 30 mph); see Table: Wind Effects on the following page.
-Table: Random Weather	
+Table: Random Weather
 d%
 Weather
 Cold Climate
@@ -1702,13 +1702,13 @@ Bad weather frequently slows or halts travel and makes it virtually impossible t
 Most precipitation is rain, but in cold conditions it can manifest as snow, sleet, or hail. Precipitation of any kind followed by a cold snap in which the temperature dips from above freezing to 30° F or below may produce ice. Rain: Rain reduces visibility ranges by half, resulting in a –4 penalty on Spot and Search checks. It has the same effect on flames, ranged weapon attacks, and Listen checks as severe wind.
 Snow: Falling snow has the same effects on visibility, ranged weapon attacks, and skill checks as rain, and it costs 2 squares of movement to enter a snow-covered square. A day of snowfall leaves 1d6 inches of snow on the ground.
 Heavy Snow: Heavy snow has the same effects as normal snowfall, but also restricts visibility as fog does (see Fog, below). A day of heavy snow leaves 1d4 feet of snow on the ground, and it costs 4 squares of movement to enter a square covered with heavy snow. Heavy snow accompanied by strong or severe winds may result in snowdrifts 1d4×5 feet deep, especially in and around objects big enough to deflect the wind—a cabin or a large tent, for instance. There is a 10% chance that a heavy snowfall is accompanied by lightning (see Thunderstorm, below). Snow has the same effect on flames as moderate wind.
-Sleet: Essentially frozen rain, sleet has the same effect as rain while falling (except that its chance to extinguish protected flames is 75%) and the same effect as snow once on the ground. 
+Sleet: Essentially frozen rain, sleet has the same effect as rain while falling (except that its chance to extinguish protected flames is 75%) and the same effect as snow once on the ground.
 Hail: Hail does not reduce visibility, but the sound of falling hail makes Listen checks more difficult (–4 penalty). Sometimes (5% chance) hail can become large enough to deal 1 point of lethal damage (per storm) to anything in the open. Once on the ground, hail has the same effect on movement as snow.
 Storms
-The combined effects of precipitation (or dust) and wind that accompany all storms reduce visibility ranges by three quarters, imposing a –8 penalty on Spot, Search, and Listen checks. Storms make ranged weapon attacks impossible, except for those using siege weapons, which have a –4 penalty on attack rolls. They automatically extinguish candles, torches, and similar unprotected flames. They cause protected flames, such as those of lanterns, to dance wildly and have a 50% chance to extinguish these lights. See Table: Wind Effects for possible consequences to creatures caught outside without shelter during such a storm. Storms are divided into the following three types. 
+The combined effects of precipitation (or dust) and wind that accompany all storms reduce visibility ranges by three quarters, imposing a –8 penalty on Spot, Search, and Listen checks. Storms make ranged weapon attacks impossible, except for those using siege weapons, which have a –4 penalty on attack rolls. They automatically extinguish candles, torches, and similar unprotected flames. They cause protected flames, such as those of lanterns, to dance wildly and have a 50% chance to extinguish these lights. See Table: Wind Effects for possible consequences to creatures caught outside without shelter during such a storm. Storms are divided into the following three types.
 Duststorm (CR 3): These desert storms differ from other storms in that they have no precipitation. Instead, a duststorm blows fine grains of sand that obscure vision, smother unprotected flames, and can even choke protected flames (50% chance). Most duststorms are accompanied by severe winds and leave behind a deposit of 1d6 inches of sand. However, there is a 10% chance for a greater duststorm to be accompanied by windstorm-magnitude winds (see Table: Wind Effects). These greater duststorms deal 1d3 points of nonlethal damage each round to anyone caught out in the open without shelter and also pose a choking hazard (see Drowning—except that a character with a scarf or similar protection across her mouth and nose does not begin to choke until after a number of rounds equal to 10 × her Constitution score). Greater duststorms leave 2d3–1 feet of fine sand in their wake.
-Snowstorm: In addition to the wind and precipitation common to other storms, snowstorms leave 1d6 inches of snow on the ground afterward. 
-Thunderstorm: In addition to wind and precipitation (usually rain, but sometimes also hail), thunderstorms are accompanied by lightning that can pose a hazard to characters without proper shelter (especially those in metal armor). As a rule of thumb, assume one bolt per minute for a 1-hour period at the center of the storm. Each bolt causes electricity damage equal to 1d10 eight-sided dice. One in ten thunderstorms is accompanied by a tornado (see below). 
+Snowstorm: In addition to the wind and precipitation common to other storms, snowstorms leave 1d6 inches of snow on the ground afterward.
+Thunderstorm: In addition to wind and precipitation (usually rain, but sometimes also hail), thunderstorms are accompanied by lightning that can pose a hazard to characters without proper shelter (especially those in metal armor). As a rule of thumb, assume one bolt per minute for a 1-hour period at the center of the storm. Each bolt causes electricity damage equal to 1d10 eight-sided dice. One in ten thunderstorms is accompanied by a tornado (see below).
 Powerful Storms: Very high winds and torrential precipitation reduce visibility to zero, making Spot, Search, and Listen checks and all ranged weapon attacks impossible. Unprotected flames are automatically extinguished, and protected flames have a 75% chance of being doused. Creatures caught in the area must make a DC 20 Fortitude save or face the effects based on the size of the creature (see Table: Wind Effects). Powerful storms are divided into the
 following four types.
 Windstorm: While accompanied by little or no precipitation, windstorms can cause considerable damage simply through the force of their wind.
@@ -1723,7 +1723,7 @@ Light Wind: A gentle breeze, having little or no game effect.
 Moderate Wind: A steady wind with a 50% chance of extinguishing small, unprotected flames, such as candles.
 Strong Wind: Gusts that automatically extinguish unprotected flames (candles, torches, and the like). Such gusts impose a –2 penalty on ranged attack rolls and on Listen checks.
 Severe Wind: In addition to automatically extinguishing any unprotected flames, winds of this magnitude cause protected flames (such as those of lanterns) to dance wildly and have a 50% chance of extinguishing these lights. Ranged weapon attacks and Listen checks are at a –4 penalty. This is the velocity of wind produced by a gust of wind spell.
-Windstorm: Powerful enough to bring down branches if not whole trees, windstorms automatically extinguish unprotected flames and have a 75% chance of blowing out protected flames, such as those of lanterns. Ranged weapon attacks are impossible, and even siege weapons have a –4 penalty on attack rolls. Listen checks are at a –8 penalty due to the howling of the wind. 
+Windstorm: Powerful enough to bring down branches if not whole trees, windstorms automatically extinguish unprotected flames and have a 75% chance of blowing out protected flames, such as those of lanterns. Ranged weapon attacks are impossible, and even siege weapons have a –4 penalty on attack rolls. Listen checks are at a –8 penalty due to the howling of the wind.
 Hurricane-Force Wind: All flames are extinguished. Ranged attacks are impossible (except with siege weapons, which have a –8 penalty on attack rolls). Listen checks are impossible: All characters can hear is the roaring of the wind. Hurricane-force winds often fell trees.
 Tornado (CR 10): All flames are extinguished. All ranged attacks are impossible (even with siege weapons), as are Listen checks. Instead of being blown away (see Table: Wind Effects), characters in close proximity to a tornado who fail their Fortitude saves are sucked toward the tornado. Those who come in contact with the actual funnel cloud are picked up and whirled around for 1d10 rounds, taking 6d6 points of damage per round, before being violently expelled (falling damage may apply). While a tornado’s rotational speed can be as great as 300 mph, the funnel itself moves forward at an average of 30 mph (roughly 250 feet per round). A tornado uproots trees, destroys buildings, and causes other similar forms of major destruction.
 
@@ -1731,7 +1731,7 @@ Table: Wind Effects
 Wind Force
 Wind Speed
 Ranged Attacks Normal/Siege Weapons1
-Creature Size2 
+Creature Size2
 Wind Effect on Creatures
 Fort Save DC
 Light
@@ -1890,7 +1890,7 @@ Falling Damage: The basic rule is simple: 1d6 points of damage per 10 feet falle
 If a character deliberately jumps instead of merely slipping or falling, the damage is the same but the first 1d6 is nonlethal damage. A DC 15 Jump check or DC 15 Tumble check allows the character to avoid any damage from the first 10 feet fallen and converts any damage from the second 10 feet to nonlethal damage. Thus, a character who slips from a ledge 30 feet up takes 3d6 damage. If the same character deliberately jumped, he takes 1d6 points of nonlethal damage and 2d6 points of lethal damage. And if the character leaps down with a successful Jump or Tumble check, he takes only 1d6 points of nonlethal damage and 1d6 points of lethal damage from the plunge.
 Falls onto yielding surfaces (soft ground, mud) also convert the first 1d6 of damage to nonlethal damage. This reduction is cumulative with reduced damage due to deliberate jumps and the Jump skill.
 Falling into Water: Falls into water are handled somewhat differently. If the water is at least 10 feet deep, the first 20 feet of falling do no damage. The next 20 feet do nonlethal damage (1d3 per 10-foot increment). Beyond that, falling damage is lethal damage (1d6 per additional 10-foot increment).
-Characters who deliberately dive into water take no damage on a successful DC 15 Swim check or DC 15 Tumble check, so long as the water is at least 10 feet deep for every 30 feet fallen. However, the DC of the check increases by 5 for every 50 feet of the dive. 
+Characters who deliberately dive into water take no damage on a successful DC 15 Swim check or DC 15 Tumble check, so long as the water is at least 10 feet deep for every 30 feet fallen. However, the DC of the check increases by 5 for every 50 feet of the dive.
 
 FALLING OBJECTS
 Just as characters take damage when they fall more than 10 feet, so too do they take damage when they are hit by falling objects.
@@ -1947,14 +1947,14 @@ SUFFOCATION
 A character who has no air to breathe can hold her breath for 2 rounds per point of Constitution. After this period of time, the character must make a DC 10 Constitution check in order to continue holding her breath. The save must be repeated each round, with the DC increasing by +1 for each previous success.
 When the character fails one of these Constitution checks, she begins to suffocate. In the first round, she falls unconscious (0 hit points). In the following round, she drops to –1 hit points and is dying. In the third round, she suffocates.
 Slow Suffocation: A Medium character can breathe easily for 6 hours in a sealed chamber measuring 10 feet on a side. After that time, the character takes 1d6 points of nonlethal damage every 15 minutes. Each additional Medium character or significant fire source (a torch, for example) proportionally reduces the time the air will last.
-Small characters consume half as much air as Medium characters. A larger volume of air, of course, lasts for a longer time. 
+Small characters consume half as much air as Medium characters. A larger volume of air, of course, lasts for a longer time.
 
 WATER DANGERS
 Any character can wade in relatively calm water that isn’t over his head, no check required. Similarly, swimming in calm water only requires skill checks with a DC of 10. Trained swimmers can just take 10. (Remember, however, that armor or heavy gear makes any attempt at swimming much more difficult. See the Swim skill description.)
 By contrast, fast-moving water is much more dangerous. On a successful DC 15 Swim check or a DC 15 Strength check, it deals 1d3 points of nonlethal damage per round (1d6 points of lethal damage if flowing over rocks and cascades). On a failed check, the character must make another check that round to avoid going under.
 Very deep water is not only generally pitch black, posing a navigational hazard, but worse, it deals water pressure damage of 1d6 points per minute for every 100 feet the character is below the surface. A successful Fortitude save (DC 15, +1 for each previous check) means the diver takes no damage in that minute. Very cold water deals 1d6 points of nonlethal damage from hypothermia per minute of exposure.
 Drowning
-Any character can hold her breath for a number of rounds equal to twice her Constitution score. After this period of time, the character must make a DC 10 Constitution check every round in order to continue holding her breath. Each round, the DC increases by 1. 
+Any character can hold her breath for a number of rounds equal to twice her Constitution score. After this period of time, the character must make a DC 10 Constitution check every round in order to continue holding her breath. Each round, the DC increases by 1.
 When the character finally fails her Constitution check, she begins to drown. In the first round, she falls unconscious (0 hp). In the following round, she drops to –1 hit points and is dying. In the third round, she drowns.
 It is possible to drown in substances other than water, such as sand, quicksand, fine dust, and silos full of grain.
 
@@ -2017,22 +2017,22 @@ Treasure per Encounter
 20
 80,000 gp
 
-On average, the PCs should earn one treasure suitable to their level for each encounter they overcome. 
+On average, the PCs should earn one treasure suitable to their level for each encounter they overcome.
 
 Table: Average Treasure Results
-Type 
+Type
 Average Result
-Gem 
+Gem
 275 gp
-Art object 
+Art object
 1,100 gp
-Mundane item 
+Mundane item
 350 gp
-Minor magic item 
+Minor magic item
 1,000 gp
-Medium magic item 
+Medium magic item
 10,000 gp
-Major magic item 
+Major magic item
 40,000 gp
 
 Table: Treasure
@@ -2858,7 +2858,7 @@ Magnifying glass (100 gp)
 89–95
 Musical instrument, masterwork (100 gp)
 96–100
-Thieves’ tools, masterwork (50 gp) 
+Thieves’ tools, masterwork (50 gp)
 
 Traps
 -----
@@ -2903,15 +2903,15 @@ One preselected location
 true seeing
 Line of sight (up to 120 ft.)
 +30
-If you want the trap to “see” in the dark, you must either choose the true seeing option or add darkvision to the trap as well. (Darkvision limits the trap’s sight range in the dark to 60 feet.) If invisibility, disguises, or illusions can fool the spell being used, they can fool the visual trigger as well. 
+If you want the trap to “see” in the dark, you must either choose the true seeing option or add darkvision to the trap as well. (Darkvision limits the trap’s sight range in the dark to 60 feet.) If invisibility, disguises, or illusions can fool the spell being used, they can fool the visual trigger as well.
 Touch: A touch trigger, which springs the trap when touched, is one of the simplest kinds of trigger to construct. This trigger may be physically attached to the part of the mechanism that deals the damage or it may not. You can make a magic touch trigger by adding alarm to the trap and reducing the area of the effect to cover only the trigger spot.
 Timed: This trigger periodically springs the trap after a certain duration has passed.
 Spell: All spell traps have this kind of trigger. The appropriate spell descriptions explain the trigger conditions for traps that contain spell triggers.
 
 Reset
 A reset element is the set of conditions under which a trap becomes ready to trigger again.
-No Reset: Short of completely rebuilding the trap, there’s no way to trigger it more than once. Spell traps have no reset element. 
-Repair: To get the trap functioning again, you must repair it. 
+No Reset: Short of completely rebuilding the trap, there’s no way to trigger it more than once. Spell traps have no reset element.
+Repair: To get the trap functioning again, you must repair it.
 Manual: Resetting the trap requires someone to move the parts back into place. This is the kind of reset element most mechanical traps have.
 Automatic: The trap resets itself, either immediately or after a timed interval.
 
@@ -2921,13 +2921,13 @@ Resetting a trap usually takes only a minute or so. For a trap with a more diffi
 
 Bypass (Optional Element)
 If the builder of a trap wants to be able to move past the trap after it is created or placed, it’s a good idea to build in a bypass mechanism —something that temporarily disarms the trap. Bypass elements are typically used only with mechanical traps; spell traps usually have built-in allowances for the caster to bypass them.
-Lock: A lock bypass requires a DC 30 Open Lock check to open. 
+Lock: A lock bypass requires a DC 30 Open Lock check to open.
 Hidden Switch: A hidden switch requires a DC 25 Search check to locate.
 Hidden Lock: A hidden lock combines the features above, requiring a DC 25 Search check to locate and a DC 30 Open Lock check to open.
 
 Search and Disable Device DCs
 The builder sets the Search and Disable Device DCs for a mechanical trap. For a magic trap, the values depend on the highest-level spell used.
-Mechanical Trap: The base DC for both Search and Disable Device checks is 20. Raising or lowering either of these DCs affects the base cost (Table: Cost Modifiers for Mechanical Traps) and possibly the CR (Table: CR Modifiers for Mechanical Traps). 
+Mechanical Trap: The base DC for both Search and Disable Device checks is 20. Raising or lowering either of these DCs affects the base cost (Table: Cost Modifiers for Mechanical Traps) and possibly the CR (Table: CR Modifiers for Mechanical Traps).
 Magic Trap: The DC for both Search and Disable Device checks is equal to 25 + the spell level of the highest-level spell used. Only characters with the trap sense class feature can attempt a Search check or a Disable Device check involving a magic trap. These DCs do not affect the trap’s cost or CR.
 
 Attack Bonus/Saving Throw DC
@@ -2937,18 +2937,18 @@ Pits in dungeons come in three basic varieties: uncovered, covered, and chasms. 
 Uncovered pits serve mainly to discourage intruders from going a certain way, although they cause much grief to characters who stumble into them in the dark, and they can greatly complicate a melee taking place nearby.
 Covered pits are much more dangerous. They can be detected with a DC 20 Search check, but only if the character is taking the time to carefully examine the area before walking across it. A character who fails to detect a covered pit is still entitled to a DC 20 Reflex save to avoid falling into it. However, if she was running or moving recklessly at the time, she gets no saving throw and falls automatically.
 Trap coverings can be as simple as piled refuse (straw, leaves, sticks, garbage), a large rug, or an actual trapdoor concealed to appear as a normal part of the floor. Such a trapdoor usually swings open when enough weight (usually about 50 to 80 pounds) is placed upon it. Devious trap builders sometimes design trapdoors so that they spring back shut after they open. The trapdoor might lock once it’s back in place, leaving the stranded character well and truly trapped. Opening such a trapdoor is just as difficult as opening a regular door (assuming the trapped character can reach it), and a DC 13 Strength check is needed to keep a spring-loaded door open.
-Pit traps often have something nastier than just a hard floor at the bottom. A trap designer may put spikes, monsters, or a pool of acid, lava, or even water at the bottom. Spikes at the bottom of a pit deal damage as daggers with a +10 attack bonus and a +1 bonus on damage for every 10 feet of the fall (to a maximum bonus on damage of +5). If the pit has multiple spikes, a falling victim is attacked by 1d4 of them. This damage is in addition to any damage from the fall itself. 
-Monsters sometimes live in pits. Any monster that can fit into the pit might have been placed there by the dungeon’s designer, or might simply have fallen in and not been able to climb back out. 
+Pit traps often have something nastier than just a hard floor at the bottom. A trap designer may put spikes, monsters, or a pool of acid, lava, or even water at the bottom. Spikes at the bottom of a pit deal damage as daggers with a +10 attack bonus and a +1 bonus on damage for every 10 feet of the fall (to a maximum bonus on damage of +5). If the pit has multiple spikes, a falling victim is attacked by 1d4 of them. This damage is in addition to any damage from the fall itself.
+Monsters sometimes live in pits. Any monster that can fit into the pit might have been placed there by the dungeon’s designer, or might simply have fallen in and not been able to climb back out.
 A secondary trap, mechanical or magical, at the bottom of a pit can be particularly deadly. Activated by a falling victim, the secondary trap attacks the already injured character when she’s least ready for it.
 Ranged Attack Traps: These traps fling darts, arrows, spears, or the like at whoever activated the trap. The builder sets the attack bonus. A ranged attack trap can be configured to simulate the effect of a composite bow with a high strength rating which provides the trap with a bonus on damage equal to its strength rating.
 Melee Attack Traps: These traps feature such obstacles as sharp blades that emerge from walls and stone blocks that fall from ceilings. Once again, the builder sets the attack bonus.
 
 Damage/Effect
 The effect of a trap is what happens to those who spring it. Usually this takes the form of either damage or a spell effect, but some traps have special effects.
-Pits: Falling into a pit deals 1d6 points of damage per 10 feet of depth. 
+Pits: Falling into a pit deals 1d6 points of damage per 10 feet of depth.
 Ranged Attack Traps: These traps deal whatever damage their ammunition normally would. If a trap is constructed with a high strength rating, it has a corresponding bonus on damage.
-Melee Attack Traps: These traps deal the same damage as the melee weapons they “wield.” In the case of a falling stone block, you can assign any amount of bludgeoning damage you like, but remember that whoever resets the trap has to lift that stone back into place. 
-A melee attack trap can be constructed with a built-in bonus on damage rolls, just as if the trap itself had a high Strength score. 
+Melee Attack Traps: These traps deal the same damage as the melee weapons they “wield.” In the case of a falling stone block, you can assign any amount of bludgeoning damage you like, but remember that whoever resets the trap has to lift that stone back into place.
+A melee attack trap can be constructed with a built-in bonus on damage rolls, just as if the trap itself had a high Strength score.
 Spell Traps: Spell traps produce the spell’s effect. Like all spells, a spell trap that allows a saving throw has a save DC of 10 + spell level + caster’s relevant ability modifier.
 Magic Device Traps: These traps produce the effects of any spells included in their construction, as described in the appropriate entries. If the spell in a magic device trap allows a saving throw, its save DC is 10 + spell level x 1.5. Some spells make attack rolls instead.
 Special: Some traps have miscellaneous features that produce special effects, such as drowning for a water trap or ability damage for poison. Saving throws and damage depend on the poison or are set by the builder, as appropriate.
@@ -2957,13 +2957,13 @@ Miscellaneous Trap Features
 Some traps include optional features that can make them considerably more deadly. The most common such features are discussed below.
 Alchemical Item: Mechanical traps may incorporate alchemical devices or other special substances or items, such as tanglefoot bags, alchemist’s fire, thunderstones, and the like. Some such items mimic spell effects. If the item mimics a spell effect, it increases the CR as shown on Table: CR Modifiers for Mechanical Traps.
 Gas: With a gas trap, the danger is in the inhaled poison it delivers. Traps employing gas usually have the never miss and onset delay features (see below).
-Liquid: Any trap that involves a danger of drowning is in this category. Traps employing liquid usually have the never miss and onset delay features (see below). 
+Liquid: Any trap that involves a danger of drowning is in this category. Traps employing liquid usually have the never miss and onset delay features (see below).
 Multiple Target: Traps with this feature can affect more than one character.
-Never Miss: When the entire dungeon wall moves to crush you, your quick reflexes won’t help, since the wall can’t possibly miss. A trap with this feature has neither an attack bonus nor a saving throw to avoid, but it does have an onset delay (see below). Most traps involving liquid or gas are of the never miss variety. 
+Never Miss: When the entire dungeon wall moves to crush you, your quick reflexes won’t help, since the wall can’t possibly miss. A trap with this feature has neither an attack bonus nor a saving throw to avoid, but it does have an onset delay (see below). Most traps involving liquid or gas are of the never miss variety.
 Onset Delay: An onset delay is the amount of time between when the trap is sprung and when it deals damage. A never miss trap always has an onset delay.
-Poison: Traps that employ poison are deadlier than their nonpoisonous counterparts, so they have correspondingly higher CRs. To determine the CR modifier for a given poison, consult Table: CR Modifiers for Mechanical Traps. Only injury, contact, and inhaled poisons are suitable for traps; ingested types are not. Some traps simply deal the poison’s damage. Others deal damage with ranged or melee attacks as well. 
+Poison: Traps that employ poison are deadlier than their nonpoisonous counterparts, so they have correspondingly higher CRs. To determine the CR modifier for a given poison, consult Table: CR Modifiers for Mechanical Traps. Only injury, contact, and inhaled poisons are suitable for traps; ingested types are not. Some traps simply deal the poison’s damage. Others deal damage with ranged or melee attacks as well.
 Pit Spikes: Treat spikes at the bottom of a pit as daggers, each with a +10 attack bonus. The damage bonus for each spike is +1 per 10 feet of pit depth (to a maximum of +5). Each character who falls into the pit is attacked by 1d4 spikes. Pit spikes do not add to the average damage of the trap (see Average Damage, below).
-Pit Bottom: If something other than spikes waits at the bottom of a pit, it’s best to treat that as a separate trap (see Multiple Traps, below) with a location trigger that activates on any significant impact, such as a falling character. 
+Pit Bottom: If something other than spikes waits at the bottom of a pit, it’s best to treat that as a separate trap (see Multiple Traps, below) with a location trigger that activates on any significant impact, such as a falling character.
 Touch Attack: This feature applies to any trap that needs only a successful touch attack (melee or ranged) to hit.
 
 SAMPLE TRAPS
@@ -3003,7 +3003,7 @@ Camouflaged Pit Trap: CR 3; mechanical; location trigger; manual reset; DC 20 Re
 Ceiling Pendulum: CR 3; mechanical; timed trigger; automatic reset; Atk +15 melee (1d12+8/x3, greataxe); Search DC 15; Disable Device DC 27. Market Price: 14,100 gp.
 Fire Trap: CR 3; spell; spell trigger; no reset; spell effect (fire trap, 3rd-level druid, 1d4+3 fire, DC 13 Reflex save half damage); Search DC 27; Disable Device DC 27. Cost: 85 gp to hire NPC spellcaster.
 Extended Bane Trap: CR 3; magic device; proximity trigger (detect good); automatic reset; spell effect (extended bane, 3rd-level cleric, DC 13 Will save negates); Search DC 27; Disable Device DC 27. Cost: 3,500 gp, 280 XP.
-Ghoul Touch Trap: CR 3; magic device; touch trigger; automatic reset; spell effect (ghoul touch, 3rd-level wizard, DC 13 Fortitude save negates); Search DC 27; Disable Device DC 27. Cost: 3,000 gp, 240 XP. 
+Ghoul Touch Trap: CR 3; magic device; touch trigger; automatic reset; spell effect (ghoul touch, 3rd-level wizard, DC 13 Fortitude save negates); Search DC 27; Disable Device DC 27. Cost: 3,000 gp, 240 XP.
 Hail of Needles: CR 3; mechanical; location trigger; manual reset; Atk +20 ranged (2d4); Search DC 22; Disable Device DC 22. Market Price: 5,400 gp.
 Acid Arrow Trap: CR 3; magic device; proximity trigger (alarm); automatic reset; Atk +2 ranged touch; spell effect (acid arrow, 3rd-level wizard, 2d4 acid/round for 2 rounds); Search DC 27; Disable Device DC 27. Cost: 3,000 gp, 240 XP.
 Pit Trap: CR 3; mechanical, location trigger; manual reset; DC 20 Reflex save avoids; 60 ft. deep (6d6, fall); Search DC 20; Disable Device DC 20. Market Price: 3,000 gp.
@@ -3013,14 +3013,14 @@ Stone Blocks from Ceiling: CR 3; mechanical; location trigger; repair reset; Atk
 
 CR 4 Traps
 Bestow Curse Trap: CR 4; magic device; touch trigger (detect chaos); automatic reset; spell effect (bestow curse, 5th-level cleric, DC 14 Will save negates); Search DC 28; Disable Device DC 28. Cost: 8,000 gp, 640 XP.
-Camouflaged Pit Trap: CR 4; mechanical; location trigger; manual reset; DC 20 Reflex save avoids; 40 ft. deep (4d6, fall); multiple targets (first target in each of two adjacent 5-ft. squares); Search DC 25; Disable Device DC 17. Market Price: 6,800 gp. 
+Camouflaged Pit Trap: CR 4; mechanical; location trigger; manual reset; DC 20 Reflex save avoids; 40 ft. deep (4d6, fall); multiple targets (first target in each of two adjacent 5-ft. squares); Search DC 25; Disable Device DC 17. Market Price: 6,800 gp.
 Collapsing Column: CR 4; mechanical; touch trigger (attached); no reset; Atk +15 melee (6d6, stone blocks); Search DC 20; Disable Device DC 24. Market Price: 8,800 gp.
 Glyph of Warding (Blast): CR 4; spell; spell trigger; no reset; spell effect (glyph of warding [blast], 5th-level cleric, 2d8 acid, DC 14 Reflex save half damage); multiple targets (all targets within 5 ft.); Search DC 28; Disable Device DC 28. Cost: 350 gp to hire NPC spellcaster.
 Lightning Bolt Trap: CR 4; magic device; proximity trigger (alarm); automatic reset; spell effect (lightning bolt, 5th-level wizard, 5d6 electricity, DC 14 Reflex save half damage); Search DC 28; Disable Device DC 28. Cost: 7,500 gp, 600 XP.
 Pit Trap: CR 4; mechanical, location trigger; manual reset; DC 20 Reflex save avoids; 80 ft. deep (8d6, fall); Search DC 20; Disable Device DC 20. Market Price: 4,000 gp.
 Poisoned Dart Trap: CR 4; mechanical; location trigger; manual reset; Atk +15 ranged (1d4+4 plus poison, dart); multiple targets (1 dart per target in a 10-ft.-by-10-ft. area); poison (Small monstrous centipede poison, DC 10 Fortitude save resists, 1d2 Dex/1d2 Dex); Search DC 21; Disable Device DC 22. Market Price: 12,090 gp.
 Sepia Snake Sigil Trap: CR 4; spell; spell trigger; no reset; spell effect (sepia snake sigil, 5th-level wizard, DC 14 Reflex save negates); Search DC 28; Disable Device DC 28. Cost: 650 gp to hire NPC spellcaster.
-Spiked Pit Trap: CR 4; mechanical; location trigger; automatic reset; DC 20 Reflex save avoids; 60 ft. deep (6d6, fall); pit spikes (Atk +10 melee, 1d4 spikes per target for 1d4+5 each); Search DC 20; Disable Device DC 20. Market Price: 4,000 gp. 
+Spiked Pit Trap: CR 4; mechanical; location trigger; automatic reset; DC 20 Reflex save avoids; 60 ft. deep (6d6, fall); pit spikes (Atk +10 melee, 1d4 spikes per target for 1d4+5 each); Search DC 20; Disable Device DC 20. Market Price: 4,000 gp.
 Wall Scythe Trap: CR 4; mechanical; location trigger; automatic reset; Atk +20 melee (2d4+8/x4, scythe); Search DC 21; Disable Device DC 18. Market Price: 17,200 gp.
 Water-Filled Room Trap: CR 4; mechanical; location trigger; automatic reset; multiple targets (all targets in a 10-ft.-by-10-ft. room); never miss; onset delay (5 rounds); liquid; Search DC 17; Disable Device DC 23. Market Price: 11,200 gp.
 Wide-Mouth Spiked Pit Trap: CR 4; mechanical; location trigger; manual reset; DC 20 Reflex save avoids; 20 ft. deep (2d6, fall); multiple targets (first target in each of two adjacent 5-ft. squares); pit spikes (Atk +10 melee, 1d4 spikes per target for 1d4+2 each); Search DC 18; Disable Device DC 25. Market Price: 7,200 gp.
@@ -3038,10 +3038,10 @@ Phantasmal Killer Trap: CR 5; magic device; proximity trigger (alarm covering th
 Pit Trap: CR 5; mechanical, location trigger; manual reset; DC 20 Reflex save avoids; 100 ft. deep (10d6, fall); Search DC 20; Disable Device DC 20. Market Price: 5,000 gp.
 Poison Wall Spikes: CR 5; mechanical; location trigger; manual reset; Atk +16 melee (1d8+4 plus poison, spike); multiple targets (closest target in each of two adjacent 5-ft. squares); poison (Medium monstrous spider venom, DC 12 Fortitude save resists, 1d4 Str/1d4 Str); Search DC 17; Disable Device DC 21. Market Price: 12,650 gp.
 Spiked Pit Trap: CR 5; mechanical; location trigger; manual reset; DC 25 Reflex save avoids; 40 ft. deep (4d6, fall); multiple targets (first target in each of two adjacent 5-ft. squares); pit spikes (Atk +10 melee, 1d4 spikes per target for 1d4+4 each); Search DC 21; Disable Device DC 20. Market Price: 13,500 gp.
-Spiked Pit Trap (80 Ft. Deep): CR 5; mechanical; location trigger, manual reset; DC 20 Reflex save avoids; 80 ft. deep (8d6, fall), pit spikes (Atk +10 melee, 1d4 spikes for 1d4+5 each); Search DC 20; Disable Device DC 20. Market Price: 5,000 gp. 
+Spiked Pit Trap (80 Ft. Deep): CR 5; mechanical; location trigger, manual reset; DC 20 Reflex save avoids; 80 ft. deep (8d6, fall), pit spikes (Atk +10 melee, 1d4 spikes for 1d4+5 each); Search DC 20; Disable Device DC 20. Market Price: 5,000 gp.
 Ungol Dust Vapor Trap: CR 5; mechanical; location trigger; manual reset; gas; multiple targets (all targets in a 10-ft.-by-10-ft. room); never miss; onset delay (2 rounds); poison (ungol dust, DC 15 Fortitude save resists, 1 Cha/1d6 Cha plus 1 Cha drain); Search DC 20; Disable Device DC 16. Market Price: 9,000 gp.
 
-CR 6 Traps 
+CR 6 Traps
 Built-to-Collapse Wall: CR 6; mechanical; proximity trigger; no reset; Atk +20 melee (8d6, stone blocks); multiple targets (all targets in a 10-ft.-by-10-ft. area); Search DC 14; Disable Device DC 16. Market Price: 15,000 gp.
 Compacting Room: CR 6; mechanical; timed trigger; automatic reset; hidden switch bypass (Search DC 25); walls move together (12d6, crush); multiple targets (all targets in a 10-ft.-by- 10-ft. room); never miss; onset delay (4 rounds); Search DC 20; Disable Device DC 22. Market Price: 25,200 gp.
 Flame Strike Trap: CR 6; magic device; proximity trigger (detect magic); automatic reset; spell effect (flame strike, 9th-level cleric, 9d6 fire, DC 17 Reflex save half damage); Search DC 30; Disable Device DC 30. Cost: 22,750 gp, 1,820 XP.
@@ -3052,19 +3052,19 @@ Spiked Blocks from Ceiling: CR 6; mechanical; location trigger; repair reset; At
 Spiked Pit Trap (100 Ft. Deep): CR 6; mechanical; location trigger, manual reset; DC 20 Reflex save avoids; 100 ft. deep (10d6, fall); pit spikes (Atk +10 melee, 1d4 spikes per target for 1d4+5 each); Search DC 20; Disable Device DC 20. Market Price: 6,000 gp.
 Whirling Poison Blades: CR 6; mechanical; timed trigger; automatic reset; hidden lock bypass (Search DC 25, Open Lock DC 30); Atk +10 melee (1d4+4/19–20 plus poison, dagger); poison (purple worm poison, DC 24 Fortitude save resists, 1d6 Str/2d6 Str); multiple targets (one target in each of three preselected 5-ft. squares); Search DC 20; Disable Device DC 20. Market Price: 30,200 gp.
 Wide-Mouth Pit Trap: CR 6; mechanical; location trigger, manual reset; DC 25 Reflex save avoids; 40 ft. deep (4d6, fall); multiple targets (all targets within a 10-ft.-by-10-ft. area); Search DC 26; Disable Device DC 25. Market Price: 28,200 gp.
-Wyvern Arrow Trap: CR 6; mechanical; proximity trigger; manual reset; Atk +14 ranged (1d8 plus poison, arrow); poison (wyvern poison, DC 17 Fortitude save resists, 2d6 Con/2d6 Con); Search DC 20; Disable Device DC 16. Market Price: 17,400 gp. 
+Wyvern Arrow Trap: CR 6; mechanical; proximity trigger; manual reset; Atk +14 ranged (1d8 plus poison, arrow); poison (wyvern poison, DC 17 Fortitude save resists, 2d6 Con/2d6 Con); Search DC 20; Disable Device DC 16. Market Price: 17,400 gp.
 
 CR 7 Traps
 Acid Fog Trap: CR 7; magic device; proximity trigger (alarm); automatic reset; spell effect (acid fog, 11th-level wizard, 2d6/round acid for 11 rounds); Search DC 31; Disable Device DC 31. Cost: 33,000 gp, 2,640 XP.
 Blade Barrier Trap: CR 7; magic device; proximity trigger (alarm); automatic reset; spell effect (blade barrier, 11th-level cleric, 11d6 slashing, DC 19 Reflex save half damage); Search DC 31; Disable Device DC 31. Cost: 33,000 gp, 2,640 XP.
 Burnt Othur Vapor Trap: CR 7; mechanical; location trigger; repair reset; gas; multiple targets (all targets in a 10-ft.-by-10-ft. room); never miss; onset delay (3 rounds); poison (burnt othur fumes, DC 18 Fortitude save resists, 1 Con drain/3d6 Con); Search DC 21; Disable Device DC 21. Market Price: 17,500 gp.
-Chain Lightning Trap: CR 7; magic device; proximity trigger (alarm); automatic reset; spell effect (chain lightning, 11th-level wizard, 11d6 electricity to target nearest center of trigger area plus 5d6 electricity to each of up to eleven secondary targets, DC 19 Reflex save half damage); Search DC 31; Disable Device DC 31. Cost: 33,000 gp, 2,640 XP. 
+Chain Lightning Trap: CR 7; magic device; proximity trigger (alarm); automatic reset; spell effect (chain lightning, 11th-level wizard, 11d6 electricity to target nearest center of trigger area plus 5d6 electricity to each of up to eleven secondary targets, DC 19 Reflex save half damage); Search DC 31; Disable Device DC 31. Cost: 33,000 gp, 2,640 XP.
 Black Tentacles Trap: CR 7; magic device; proximity trigger (alarm); no reset; spell effect (black tentacles, 7th-level wizard, 1d4+7 tentacles, Atk +7 melee [1d6+4, tentacle]); multiple targets (up to six tentacles per target in each of two adjacent 5-ft. squares); Search DC 29; Disable Device DC 29. Cost: 1,400 gp, 112 XP.
 Fusillade of Greenblood Oil Darts: CR 7; mechanical; location trigger; manual reset; Atk +18 ranged (1d4+1 plus poison, dart); poison (greenblood oil, DC 13 Fortitude save resists, 1 Con/ 1d2 Con); multiple targets (1d8 darts per target in a 10-ft.-by-10-ft. area); Search DC 25; Disable Device DC 25. Market Price: 33,000 gp.
 Lock Covered in Dragon Bile: CR 7; mechanical; touch trigger (attached); no reset; poison (dragon bile, DC 26 Fortitude save resists, 3d6 Str/0); Search DC 27; Disable Device DC 16. Market Price: 11,300 gp.
 Summon Monster VI Trap: CR 7; magic device; proximity trigger (alarm); no reset; spell effect (summon monster VI, 11th-level wizard), Search DC 31; Disable Device DC 31. Cost: 3,300 gp, 264 XP.
-Water-Filled Room: CR 7; mechanical; location trigger; manual reset; multiple targets (all targets in a 10-ft.-by-10-ft. room); never miss; onset delay (3 rounds); water; Search DC 20; Disable Device DC 25. Market Price: 21,000 gp. 
-Well-Camouflaged Pit Trap: CR 7; mechanical; location trigger; repair reset; DC 25 Reflex save avoids; 70 ft. deep (7d6, fall); multiple targets (first target in each of two adjacent 5-ft. squares); Search DC 27; Disable Device DC 18. Market Price: 24,500 gp. 
+Water-Filled Room: CR 7; mechanical; location trigger; manual reset; multiple targets (all targets in a 10-ft.-by-10-ft. room); never miss; onset delay (3 rounds); water; Search DC 20; Disable Device DC 25. Market Price: 21,000 gp.
+Well-Camouflaged Pit Trap: CR 7; mechanical; location trigger; repair reset; DC 25 Reflex save avoids; 70 ft. deep (7d6, fall); multiple targets (first target in each of two adjacent 5-ft. squares); Search DC 27; Disable Device DC 18. Market Price: 24,500 gp.
 
 CR 8 Traps
 Deathblade Wall Scythe: CR 8; mechanical; touch trigger; manual reset; Atk +16 melee (2d4+8 plus poison, scythe); poison (deathblade, DC 20 Fortitude save resists, 1d6 Con/2d6 Con); Search DC 24; Disable Device DC 19. Market Price: 31,400 gp.
@@ -3079,18 +3079,18 @@ Well-Camouflaged Pit Trap: CR 8; mechanical; location trigger; repair reset; DC 
 Word of Chaos Trap: CR 8; magic device; proximity trigger (detect law); automatic reset; spell effect (word of chaos, 13th-level cleric); Search DC 32; Disable Device DC 32. Cost: 46,000 gp, 3,680 XP.
 
 CR 9 Traps
-Drawer Handle Smeared with Contact Poison: CR 9; mechanical; touch trigger (attached); manual reset; poison (black lotus extract, DC 20 Fortitude save resists, 3d6 Con/3d6 Con); Search DC 18; Disable Device DC 26. Market Price: 21,600 gp. 
-Dropping Ceiling: CR 9; mechanical; location trigger; repair reset; ceiling moves down (12d6, crush); multiple targets (all targets in a 10-ft.-by-10-ft. room); never miss; onset delay (1 round); Search DC 20; Disable Device DC 16. Market Price: 12,600 gp. 
-Incendiary Cloud Trap: CR 9; magic device; proximity trigger (alarm); automatic reset; spell effect (incendiary cloud, 15th-level wizard, 4d6/round for 15 rounds, DC 22 Reflex save half damage); Search DC 33; Disable Device DC 33. Cost: 60,000 gp, 4,800 XP. 
-Wide-Mouth Pit Trap: CR 9; mechanical; location trigger; manual reset; DC 25 Reflex save avoids; 100 ft. deep (10d6, fall); multiple targets (all targets within a 10-ft.-by-10-ft. area); Search DC 25; Disable Device DC 25. Market Price: 40,500 gp. 
+Drawer Handle Smeared with Contact Poison: CR 9; mechanical; touch trigger (attached); manual reset; poison (black lotus extract, DC 20 Fortitude save resists, 3d6 Con/3d6 Con); Search DC 18; Disable Device DC 26. Market Price: 21,600 gp.
+Dropping Ceiling: CR 9; mechanical; location trigger; repair reset; ceiling moves down (12d6, crush); multiple targets (all targets in a 10-ft.-by-10-ft. room); never miss; onset delay (1 round); Search DC 20; Disable Device DC 16. Market Price: 12,600 gp.
+Incendiary Cloud Trap: CR 9; magic device; proximity trigger (alarm); automatic reset; spell effect (incendiary cloud, 15th-level wizard, 4d6/round for 15 rounds, DC 22 Reflex save half damage); Search DC 33; Disable Device DC 33. Cost: 60,000 gp, 4,800 XP.
+Wide-Mouth Pit Trap: CR 9; mechanical; location trigger; manual reset; DC 25 Reflex save avoids; 100 ft. deep (10d6, fall); multiple targets (all targets within a 10-ft.-by-10-ft. area); Search DC 25; Disable Device DC 25. Market Price: 40,500 gp.
 Wide-Mouth Spiked Pit with Poisoned Spikes: CR 9; mechanical; location trigger; manual reset; hidden lock bypass  (Search DC 25, Open Lock DC 30); DC 20 Reflex save avoids; 70 ft. deep (7d6, fall); multiple targets (all targets within a 10-ft.-by-10-ft. area); pit spikes (Atk +10 melee, 1d4 spikes per target for 1d4+5 plus poison each); poison (giant wasp poison, DC 14 Fortitude save resists, 1d6 Dex/1d6 Dex); Search DC 20; Disable Device DC 20. Market Price: 11,910 gp.
 
 CR 10 Traps
 Crushing Room: CR 10; mechanical; location trigger; automatic reset; walls move together (16d6, crush); multiple targets (all targets in a 10-ft.-by-10-ft. room); never miss; onset delay (2 rounds); Search DC 22; Disable Device DC 20. Market Price: 29,000 gp.
-Crushing Wall Trap: CR 10; mechanical; location trigger; automatic reset; no attack roll required (18d6, crush); Search DC 20; Disable Device DC 25. Market Price: 25,000 gp. 
+Crushing Wall Trap: CR 10; mechanical; location trigger; automatic reset; no attack roll required (18d6, crush); Search DC 20; Disable Device DC 25. Market Price: 25,000 gp.
 Energy Drain Trap: CR 10; magic device; visual trigger (true seeing); automatic reset; Atk +8 ranged touch; spell effect (energy drain, 17th-level wizard, 2d4 negative levels for 24 hours, DC 23 Fortitude save negates); Search DC 34; Disable Device DC 34. Cost: 124,000 gp, 7,920 XP.
 Forcecage and Summon Monster VII trap: CR 10; magic device; proximity trigger (alarm); automatic reset; multiple traps (one forcecage trap and one summon monster VII trap that summons a hamatula); spell effect (forcecage, 13th-level wizard), spell effect (summon monster VII, 13th-level wizard, hamatula); Search DC 32; Disable Device DC 32. Cost: 241,000 gp, 7,280 XP. Note: This trap is really one CR 8 trap that creates a forcecage and a second CR 8 trap that summons a hamatula in the same area. If both succeed, the hamatula appears inside the forcecage. These effects are independent of each other.
-Poisoned Spiked Pit Trap: CR 10; mechanical; location trigger; manual reset; hidden lock bypass (Search DC 25, Open Lock DC 30); DC 20 Reflex save avoids; 50 ft. deep (5d6, fall); multiple targets (first target in each of two adjacent 5-ft. squares); pit spikes (Atk +10 melee, 1d4 spikes per target for 1d4+5 plus poison each); poison (purple worm poison, DC 24 Fortitude save resists, 1d6 Str/2d6 Str); Search DC 16; Disable Device DC 25. Market Price: 19,700 gp. 
+Poisoned Spiked Pit Trap: CR 10; mechanical; location trigger; manual reset; hidden lock bypass (Search DC 25, Open Lock DC 30); DC 20 Reflex save avoids; 50 ft. deep (5d6, fall); multiple targets (first target in each of two adjacent 5-ft. squares); pit spikes (Atk +10 melee, 1d4 spikes per target for 1d4+5 plus poison each); poison (purple worm poison, DC 24 Fortitude save resists, 1d6 Str/2d6 Str); Search DC 16; Disable Device DC 25. Market Price: 19,700 gp.
 Wail of the Banshee Trap: CR 10; magic device; proximity trigger (alarm); automatic reset; spell effect (wail of the banshee, 17th-level wizard, DC 23 Fortitude save negates); multiple targets (up to 17 creatures); Search DC 34; Disable Device DC 34. Cost: 76,500 gp, 6,120 XP.
 
 DESIGNING A TRAP
@@ -3218,12 +3218,12 @@ Pit spikes
 +1
 Touch attack
 +1
-* Rounded to the nearest multiple of 7 (round up for an average that lies exactly between two numbers). 
+* Rounded to the nearest multiple of 7 (round up for an average that lies exactly between two numbers).
 
 Table: CR Modifiers for Magic Traps
 Feature
 CR Modifier
-Highest-level spell 
+Highest-level spell
 + Spell level OR +1 per 7 points of average damage per round*
 *See the note following Table: CR Modifiers for Mechanical Traps.
 
@@ -3370,7 +3370,7 @@ Planes
 PLANES
 
 WHAT IS A PLANE?
-The planes of existence are different realities with interwoven connections. Except for rare linking points, each plane is effectively its own universe with its own natural laws. 
+The planes of existence are different realities with interwoven connections. Except for rare linking points, each plane is effectively its own universe with its own natural laws.
 The planes break down into a number of general types: the Material Plane, the Transitive Planes, the Inner Planes, the Outer Planes, and the demiplanes.
 Material Plane: The Material Plane tends to be the most Earthlike of all planes and operates under the same set of natural laws that our own real world does. This is the default plane for most adventures.
 Transitive Planes: These three planes have one important common characteristic: Each is used to get from one place to another. The Astral Plane is a conduit to all other planes, while the Ethereal Plane and the Plane of Shadow both serve as means of transportation within the Material Plane they’re connected to. These planes have the strongest regular interaction with the Material Plane and are often accessed by using various spells. They have native inhabitants as well.
@@ -3407,9 +3407,9 @@ It takes a DC 16 Wisdom check to set a new direction of gravity as a free action
 Time: The rate of time’s passage can vary on different planes, though it remains constant within any particular plane. Time is always subjective for the viewer. The same subjectivity applies to various planes. Travelers may discover that they’ll pick up or lose time while moving among the planes, but from their point of view, time always passes naturally.
 Normal Time: This trait describes the way time passes on the Material Plane. One hour on a plane with normal time equals one hour on the Material Plane. Unless otherwise noted in a description, every plane has the normal time trait.
 Timeless: On planes with this trait, time still passes, but the effects of time are diminished. How the timeless trait can affect certain activities or conditions such as hunger, thirst, aging, the effects of poison, and healing varies from plane to plane.
-The danger of a timeless plane is that once one leaves such a plane for one where time flows normally, conditions such as hunger and aging do occur retroactively. 
+The danger of a timeless plane is that once one leaves such a plane for one where time flows normally, conditions such as hunger and aging do occur retroactively.
 Flowing Time: On some planes, time can flow faster or slower. One may travel to another plane, spend a year there, then return to the Material Plane to find that only six seconds have elapsed. Everything on the plane returned to is only a few seconds older. But for that traveler and the items, spells, and effects working on him, that year away was entirely real.
-When designating how time works on planes with flowing time, put the Material Plane’s flow of time first, followed by the same flow in the other plane. 
+When designating how time works on planes with flowing time, put the Material Plane’s flow of time first, followed by the same flow in the other plane.
 Erratic Time: Some planes have time that slows down and speeds up, so an individual may lose or gain time as he moves between the two planes. The following is provided as an example.
 d%
 Time on Material Plane
@@ -3435,14 +3435,14 @@ If a plane is timeless with respect to magic, any spell cast with a noninstantan
 Shape and Size: Planes come in a variety of sizes and shapes. Most planes are infinite, or at least so large that they may as well be infinite.
 Infinite: Planes with this trait go on forever, though they may have finite components within them. Or they may consist of ongoing expanses in two directions, like a map that stretches out infinitely.
 Finite Shape: A plane with this trait has defined edges or borders. These borders may adjoin other planes or hard, finite borders such as the edge of the world or a great wall. Demiplanes are often finite.
-Self-Contained Shape: On planes with this trait, the borders wrap in on themselves, depositing the traveler on the other side of the map. A spherical plane is an example of a self-contained, finite plane, but there can be cubes, toruses, and flat planes with magical edges that teleport the traveler to an opposite edge when he crosses them. 
+Self-Contained Shape: On planes with this trait, the borders wrap in on themselves, depositing the traveler on the other side of the map. A spherical plane is an example of a self-contained, finite plane, but there can be cubes, toruses, and flat planes with magical edges that teleport the traveler to an opposite edge when he crosses them.
 Some demiplanes are self-contained.
 
 Morphic Traits: This trait measures how easily the basic nature of a plane can be changed. Some planes are responsive to sentient thought, while others can be manipulated only by extremely powerful creatures. And some planes respond to physical or magical efforts.
-Alterable Morphic: On a plane with this trait, objects remain where they are (and what they are) unless affected by physical force or magic. You can change the immediate environment as a result of tangible effort. 
-Highly Morphic: On a plane with this trait, features of the plane change so frequently that it’s difficult to keep a particular area stable. Such planes may react dramatically to specific spells, sentient thought, or the force of will. Others change for no reason. 
+Alterable Morphic: On a plane with this trait, objects remain where they are (and what they are) unless affected by physical force or magic. You can change the immediate environment as a result of tangible effort.
+Highly Morphic: On a plane with this trait, features of the plane change so frequently that it’s difficult to keep a particular area stable. Such planes may react dramatically to specific spells, sentient thought, or the force of will. Others change for no reason.
 Magically Morphic: Specific spells can alter the basic material of a plane with this trait.
-Divinely Morphic: Specific unique beings (deities or similar great powers) have the ability to alter objects, creatures, and the landscape on planes with this trait. Ordinary characters find these planes similar to alterable planes in that they may be affected by spells and physical effort. But the deities may cause these areas to change instantly and dramatically, creating great kingdoms for themselves. 
+Divinely Morphic: Specific unique beings (deities or similar great powers) have the ability to alter objects, creatures, and the landscape on planes with this trait. Ordinary characters find these planes similar to alterable planes in that they may be affected by spells and physical effort. But the deities may cause these areas to change instantly and dramatically, creating great kingdoms for themselves.
 Static: These planes are unchanging. Visitors cannot affect living residents of the plane, nor objects that the denizens possess. Any spells that would affect those on the plane have no effect unless the plane’s static trait is somehow removed or suppressed. Spells cast before entering a plane with the static trait remain in effect, however.
 Even moving an unattended object within a static plane requires a DC 16 Strength check. Particularly heavy objects may be impossible to move.
 Sentient: These planes are ones that respond to a single thought— that of the plane itself. Travelers would find the plane’s landscape changing as a result of what the plane thought of the travelers, either becoming more or less hospitable depending on its reaction.
@@ -3492,13 +3492,13 @@ The spell fails, but the target or targets of the spell are pelted with a rain o
 28–31
 The spell affects a random target or area. Randomly choose a different target from among those in range of the spell or center the spell at a random place within range of the spell. To generate direction randomly, roll 1d8 and count clockwise around the compass, starting with south. To generate range randomly, roll 3d6. Multiply the result by 5 feet for close range spells, 20 feet for medium range spells, or 80 feet for long range spells.
 32–35
-The spell functions normally, but any material components are not consumed. The spell is not expended from the caster’s mind (a spell slot or prepared spell can be used again). An item does not lose charges, and the effect does not count against an item’s or spell-like ability’s use limit. 
+The spell functions normally, but any material components are not consumed. The spell is not expended from the caster’s mind (a spell slot or prepared spell can be used again). An item does not lose charges, and the effect does not count against an item’s or spell-like ability’s use limit.
 36–39
 The spell does not function. Instead, everyone (friend or foe) within 30 feet of the caster receives the effect of a heal spell.
 40–43
 The spell does not function. Instead, a deeper darkness and a silence effect cover a 30-foot radius around the caster for 2d4 rounds.
 44–47
-The spell does not function. Instead, a reverse gravity effect covers a 30-foot radius around the caster for 1 round. 
+The spell does not function. Instead, a reverse gravity effect covers a 30-foot radius around the caster for 1 round.
 48–51
 The spell functions, but shimmering colors swirl around the caster for 1d4 rounds. Treat this a glitterdust effect with a save DC of 10 + the level of the spell that generated this result.
 52–59
@@ -3508,7 +3508,7 @@ Nothing happens. The spell does not function. Any material components are not co
 72–98
 The spell functions normally.
 99–100
-The spell functions strongly. Saving throws against the spell incur a –2 penalty. The spell has the maximum possible effect, as if it were cast with the Maximize Spell feat. If the spell is already maximized with the feat, there is no further effect. 
+The spell functions strongly. Saving throws against the spell incur a –2 penalty. The spell has the maximum possible effect, as if it were cast with the Maximize Spell feat. If the spell is already maximized with the feat, there is no further effect.
 
 Impeded Magic: Particular spells and spell-like abilities are more difficult to cast on planes with this trait, often because the nature of the plane interferes with the spell.
 To cast an impeded spell, the caster must make a Spellcraft check (DC 20 + the level of the spell). If the check fails, the spell does not function but is still lost as a prepared spell or spell slot. If the check succeeds, the spell functions normally.
@@ -3522,7 +3522,7 @@ Dead Magic: These planes have no magic at all. A plane with the dead magic trait
 HOW PLANES INTERACT
 Separate Planes: Two planes that are separate do not overlap or directly connect to each other. They are like planets in different orbits. The only way to get from one separate plane to the other is to go through a third plane.
 Coterminous Planes: Planes that touch at specific points are coterminous. Where they touch, a connection exists, and travelers can leave one reality behind and enter the other.
-Coexistent Planes: If a link between two planes can be created at any point, the two planes are coexistent. These planes overlap each other completely. A coexistent plane can be reached from anywhere on the plane it overlaps. When moving on a coexistent plane, it is often possible to see into or interact with the plane it coexists with. 
+Coexistent Planes: If a link between two planes can be created at any point, the two planes are coexistent. These planes overlap each other completely. A coexistent plane can be reached from anywhere on the plane it overlaps. When moving on a coexistent plane, it is often possible to see into or interact with the plane it coexists with.
 
 Layered Planes
 Infinities may be broken into smaller infinities, and planes into smaller, related planes. These layers are effectively separate planes of existence, and each layer can have its own planar traits. Layers are connected to each other through a variety of planar gates, natural vortices, paths, and shifting borders.
@@ -3538,17 +3538,17 @@ The Material Plane has the following traits:
 • Alterable morphic.
 • No Elemental or Energy Traits (specific locations may have these traits, however)
 • Mildly neutral-aligned.
-• Normal magic. 
+• Normal magic.
 
 THE ETHEREAL PLANE
 The Ethereal Plane is coexistent with the Material Plane and often other planes as well. The Material Plane itself is visible from the Ethereal Plane, but it appears muted and indistinct, its colors blurring into each other and its edges turning fuzzy.
-While it is possible to see into the Material Plane from the Ethereal Plane, the Ethereal Plane is usually invisible to those on the Material Plane. Normally, creatures on the Ethereal Plane cannot attack creatures on the Material Plane, and vice versa. A traveler on the Ethereal Plane is invisible, incorporeal, and utterly silent to someone on the Material Plane. 
-The Ethereal Plane is mostly empty of structures and impediments. However, the plane has its own inhabitants. Some of these are other ethereal travelers, but the ghosts found here pose a particular peril to those who walk the fog. 
+While it is possible to see into the Material Plane from the Ethereal Plane, the Ethereal Plane is usually invisible to those on the Material Plane. Normally, creatures on the Ethereal Plane cannot attack creatures on the Material Plane, and vice versa. A traveler on the Ethereal Plane is invisible, incorporeal, and utterly silent to someone on the Material Plane.
+The Ethereal Plane is mostly empty of structures and impediments. However, the plane has its own inhabitants. Some of these are other ethereal travelers, but the ghosts found here pose a particular peril to those who walk the fog.
 It has the following traits.
 • No gravity.
 • Alterable morphic. The plane contains little to alter, however.
 • Mildly neutral-aligned.
-• Normal magic. Spells function normally on the Ethereal Plane, though they do not cross into the Material Plane. 
+• Normal magic. Spells function normally on the Ethereal Plane, though they do not cross into the Material Plane.
 The only exceptions are spells and spell-like abilities that have the force descriptor and abjuration spells that affect ethereal beings. Spellcasters on the Material Plane must have some way to detect foes on the Ethereal Plane before targeting them with force-based spells, of course. While it’s possible to hit ethereal enemies with a force spell cast on the Material Plane, the reverse isn’t possible. No magical attacks cross from the Ethereal Plane to the Material Plane, including force attacks.
 
 PLANE OF SHADOW
@@ -3568,7 +3568,7 @@ Despite the dark nature of the Plane of Shadow, spells that produce, use, or man
 THE ASTRAL PLANE
 The Astral Plane is the space between the planes. When a character moves through an interplanar portal or projects her spirit to a different plane of existence, she travels through the Astral Plane. Even spells that allow instantaneous movement across a plane briefly touch the Astral Plane.
 The Astral Plane is a great, endless sphere of clear silvery sky, both above and below. Occasional bits of solid matter can be found here, but most of the Astral Plane is an endless, open domain.
-Both planar travelers and refugees from other planes call the Astral Plane home. 
+Both planar travelers and refugees from other planes call the Astral Plane home.
 The Astral Plane has the following traits.
 • Subjective directional gravity.
 • Timeless. Age, hunger, thirst, poison, and natural healing don’t function in the Astral Plane, though they resume functioning when the traveler leaves the Astral Plane.
@@ -3586,18 +3586,18 @@ The Elemental Plane of Air has the following traits.
 
 ELEMENTAL PLANE OF EARTH
 The Elemental Plane of Earth is a solid place made of rock, soil, and stone. An unwary and unprepared traveler may find himself entombed within this vast solidity of material and have his life crushed into nothingness, his powdered remains a warning to any foolish enough to follow.
-Despite its solid, unyielding nature, the Elemental Plane of Earth is varied in its consistency, ranging from relatively soft soil to veins of heavier and more valuable metal. 
+Despite its solid, unyielding nature, the Elemental Plane of Earth is varied in its consistency, ranging from relatively soft soil to veins of heavier and more valuable metal.
 The Elemental Plane of Earth has the following traits.
 • Earth-dominant.
 • Enhanced magic. Spells and spell-like abilities that use, manipulate, or create earth or stone (including those of the Earth domain) are both empowered and extended (as if the Empower Spell and Extend Spell metamagic feats had been used on them, but the spells don’t require higher-level slots). Spells and spell-like abilities that are already empowered or extended are unaffected by this benefit.
 • Impeded magic. Spells and spell-like abilities that use or create air (including spells of the Air domain and spells that summon air elementals or outsiders with the air subtype) are impeded.
 
 ELEMENTAL PLANE OF FIRE
-Everything is alight on the Elemental Plane of Fire. The ground is nothing more than great, evershifting plates of compressed flame. The air ripples with the heat of continual firestorms, and the most common liquid is magma, not water. The oceans are made of liquid flame, and the mountains ooze with molten lava. Fire survives here without need for fuel or air, but flammables brought onto the plane are consumed readily. 
+Everything is alight on the Elemental Plane of Fire. The ground is nothing more than great, evershifting plates of compressed flame. The air ripples with the heat of continual firestorms, and the most common liquid is magma, not water. The oceans are made of liquid flame, and the mountains ooze with molten lava. Fire survives here without need for fuel or air, but flammables brought onto the plane are consumed readily.
 The Elemental Plane of Fire has the following traits.
 • Fire-dominant.
 • Enhanced magic. Spells and spell-like abilities with the fire descriptor are both maximized and enlarged (as if the Maximize Spell and Enlarge Spell had been used on them, but the spells don’t require higher-level slots). Spells and spell-like abilities that are already maximized or enlarged are unaffected by this benefit.
-• Impeded magic. Spells and spell-like abilities that use or create water (including spells of the Water domain and spells that summon water elementals or outsiders with the water subtype) are impeded. 
+• Impeded magic. Spells and spell-like abilities that use or create water (including spells of the Water domain and spells that summon water elementals or outsiders with the water subtype) are impeded.
 
 ELEMENTAL PLANE OF WATER
 The Elemental Plane of Water is a sea without a floor or a surface, an entirely fluid environment lit by a diffuse glow. It is one of the more hospitable of the Inner Planes once a traveler gets past the problem of breathing the local medium.
@@ -3606,15 +3606,15 @@ The Elemental Plane of Water has the following traits.
 • Subjective directional gravity. The gravity here works similar to that of the Elemental Plane of Air. But sinking or rising on the Elemental Plane of Water is slower (and less dangerous) than on the Elemental Plane of Air.
 • Water-dominant.
 • Enhanced magic. Spells and spell-like abilities that use or create water are both extended and enlarged (as if the Extend Spell and Enlarge Spell metamagic feats had been used on them, but the spells don’t require higher-level slots). Spells and spell-like abilities that are already extended or enlarged are unaffected by this benefit.
-• Impeded magic. Spells and spell-like abilities with the fire descriptor (including spells of the Fire domain) are impeded. 
+• Impeded magic. Spells and spell-like abilities with the fire descriptor (including spells of the Fire domain) are impeded.
 
 NEGATIVE ENERGY PLANE
-To an observer, there’s little to see on the Negative Energy Plane. It is a dark, empty place, an eternal pit where a traveler can fall until the plane itself steals away all light and life. The Negative Energy Plane is the most hostile of the Inner Planes, and the most uncaring and intolerant of life. Only creatures immune to its life-draining energies can survive there. 
+To an observer, there’s little to see on the Negative Energy Plane. It is a dark, empty place, an eternal pit where a traveler can fall until the plane itself steals away all light and life. The Negative Energy Plane is the most hostile of the Inner Planes, and the most uncaring and intolerant of life. Only creatures immune to its life-draining energies can survive there.
 The Negative Energy Plane has the following traits.
 • Subjective directional gravity.
 • Major negative-dominant. Some areas within the plane have only the minor negative-dominant trait, and these islands tend to be inhabited.
-• Enhanced magic. Spells and spell-like abilities that use negative energy are maximized (as if the Maximize Spell metamagic feat had been used on them, but the spells don’t require higher-level slots). Spells and spell-like abilities that are already maximized are unaffected by this benefit. Class abilities that use negative energy, such as rebuking and controlling undead, gain a +10 bonus on the roll to determine Hit Dice affected. 
-• Impeded magic. Spells and spell-like abilities that use positive energy, including cure spells, are impeded. Characters on this plane take a –10 penalty on Fortitude saving throws made to remove negative levels bestowed by an energy drain attack. 
+• Enhanced magic. Spells and spell-like abilities that use negative energy are maximized (as if the Maximize Spell metamagic feat had been used on them, but the spells don’t require higher-level slots). Spells and spell-like abilities that are already maximized are unaffected by this benefit. Class abilities that use negative energy, such as rebuking and controlling undead, gain a +10 bonus on the roll to determine Hit Dice affected.
+• Impeded magic. Spells and spell-like abilities that use positive energy, including cure spells, are impeded. Characters on this plane take a –10 penalty on Fortitude saving throws made to remove negative levels bestowed by an energy drain attack.
 Random Encounters: Because the Negative Energy Plane is virtually devoid of creatures, random encounters on the plane are exceedingly rare.
 
 POSITIVE ENERGY PLANE
@@ -3729,32 +3729,32 @@ Wall of stone
 8
 15hp/in.
 22
-*Per 10-ft.-by-10-ft. section. 
+*Per 10-ft.-by-10-ft. section.
 
 
 
 
 
-**These modifiers can be applied to any of the other categories and types. 
+**These modifiers can be applied to any of the other categories and types.
 †Or 50, whichever is greater.
 
 
 
 
 
- 
+
 Doors
 
 
 
 
-Break DC 
+Break DC
 Door Type
 Typical Thickness
 Hardness
 Hit Points
 Stuck
-Locked 
+Locked
 Simple wooden
 1 in.
 5
@@ -3802,106 +3802,106 @@ Force
 n/a
 n/a
 n/a
-n/a 
+n/a
 Portcullis, wodden
 3 in.
 5
 30 hp
 25*
-25* 
+25*
 Portcullis, iron
 2 in.
 10
 60 hp
 25*
-25* 
+25*
 Portcullis, mithral
 2 in.
 15
 60 hp
 30*
-30* 
+30*
 Portcullis, adamatine
 2 in.
 20
 80 hp
 40*
-40* 
+40*
 Portcullis, force
 1 in.
 10
 n/a
 n/a
-50* 
-*DC to lift. Use appropriate door figure for breaking. 
+50*
+*DC to lift. Use appropriate door figure for breaking.
 
 
 
 
 Obstacles and Hazards
 Obstacle/Hazard
-Effect 
+Effect
 Acid tank
-1d6 damage per round, or 10d6 per round for total immersion; plus poison fumes. 
+1d6 damage per round, or 10d6 per round for total immersion; plus poison fumes.
 Antimagic field
-Negates all spells or magical effects. 
+Negates all spells or magical effects.
 Dimensional anchor trap
-Blocks bodily extradimensional travel. 
+Blocks bodily extradimensional travel.
 Hurricane-force winds
-Ranged attacks impossible, flight virtually impossible. 
+Ranged attacks impossible, flight virtually impossible.
 Lava pit
 2d6 damage per round, or 20d6 per round for total immersion; plus continuing damage.
 Permanent prismatic sphere
-Requires seven different spells to bypass. 
+Requires seven different spells to bypass.
 Permanent solid fog
-Move at one-tenth normal speed, –2 penalty on attack and damage (good when coupled with incorporeal monsters). 
+Move at one-tenth normal speed, –2 penalty on attack and damage (good when coupled with incorporeal monsters).
 Permanent wall of force
 Blocks most spells and ethereal travel, can’t be dispelled.
 Three-dimensional dungeons
-Levitation/flying required to move between areas. 
+Levitation/flying required to move between areas.
 Unconnected rooms
-Teleportation required to move between areas. 
+Teleportation required to move between areas.
 Variable gravity
-As reverse gravity, but direction random each round. 
+As reverse gravity, but direction random each round.
 
 Slimes, Molds, and Fungi
 For purposes of spells and other special effects, all slimes, molds, and fungi are treated as plants. Like traps, dangerous slimes and molds have Challenge Ratings, and characters earn experience points for encountering them.
 
 Flux Slime (CR 21):
-Flux slime appears as a clear, viscous liquid that seeps from some unseen origin point. This origin point is extradimensional, so the slime may even appear in midair. As the slime flows, it settles and fills the area around the origin point. 
-Flux slime seems to be an inert substance, devoid of sentience. It is not caustic or toxic, but it radiates an antimagic field within a radius of 10 feet. This antimagic field has a caster level of 21. Any quantity of slime that is removed from the main mass yellows and hardens in a matter of minutes, turning into a flaky material that will not adhere to anything. 
-In reality, flux slime is a growth with a ravenous appetite for magical forces. It is a natural draining phenomenon: Magical energy drains through the origin point in one direction in exchange for the residue on the far side. The antimagic field a flux slime generates is actually the byproduct of the consumption of magical energy. 
-In addition to the antimagic field’s effects, magic items that come into contact with flux slime permanently lose their magical abilities; creatures with spell-like or super-natural abilities that come into contact with it take 2d6 points of temporary Constitution damage per round while it devours flesh; creatures without such abilities are immune to this effect. 
-On the first round of contact, the slime can be scraped off a creature, but after that it must be frozen, burned, or cut away (dealing damage to the victim as well). Extreme cold, heat, or sunlight destroys a patch of flux slime. 
+Flux slime appears as a clear, viscous liquid that seeps from some unseen origin point. This origin point is extradimensional, so the slime may even appear in midair. As the slime flows, it settles and fills the area around the origin point.
+Flux slime seems to be an inert substance, devoid of sentience. It is not caustic or toxic, but it radiates an antimagic field within a radius of 10 feet. This antimagic field has a caster level of 21. Any quantity of slime that is removed from the main mass yellows and hardens in a matter of minutes, turning into a flaky material that will not adhere to anything.
+In reality, flux slime is a growth with a ravenous appetite for magical forces. It is a natural draining phenomenon: Magical energy drains through the origin point in one direction in exchange for the residue on the far side. The antimagic field a flux slime generates is actually the byproduct of the consumption of magical energy.
+In addition to the antimagic field’s effects, magic items that come into contact with flux slime permanently lose their magical abilities; creatures with spell-like or super-natural abilities that come into contact with it take 2d6 points of temporary Constitution damage per round while it devours flesh; creatures without such abilities are immune to this effect.
+On the first round of contact, the slime can be scraped off a creature, but after that it must be frozen, burned, or cut away (dealing damage to the victim as well). Extreme cold, heat, or sunlight destroys a patch of flux slime.
 When destroyed, a patch of slime releases the byproducts of its magical digestion in a dangerous burst that radiates out 50 feet. All creatures caught in this burst are subject to some random and permanent transmutation effect, as generated on the table below. Each burst generates one of these effects. Creatures may resist this effect with a Fortitude saving throw (DC 29).
 d%
-Result 
+Result
 01–10
-Blindness (as blindness/deafness spell) 
+Blindness (as blindness/deafness spell)
 11–16
 Cursed (as bestow curse spell; –4 enhancement penalty on attack rolls, saving throws, ability checks, and skill checks)
 17–26
-Deafness (as blindness/deafness spell) 
+Deafness (as blindness/deafness spell)
 27–32
-Disintegrate (subject is destroyed by a disintegrate spell) 
+Disintegrate (subject is destroyed by a disintegrate spell)
 33–40
-Etherealness (as etherealness spell) 
+Etherealness (as etherealness spell)
 41–48
-Gaseous (as gaseous form spell) 
+Gaseous (as gaseous form spell)
 49–54
-Iron body (as iron body spell) 
+Iron body (as iron body spell)
 55–60
-Petrification (as flesh to stone spell) 
+Petrification (as flesh to stone spell)
 61–68
-Plane shift (subject instantly transports to a random plane) 
+Plane shift (subject instantly transports to a random plane)
 69–74
-Polymorph (as polymorph other spell; choose form randomly) 
+Polymorph (as polymorph other spell; choose form randomly)
 75–80
-Reverse gravity (flux slime becomes the center of a reverse gravity spell). 
+Reverse gravity (flux slime becomes the center of a reverse gravity spell).
 81–88
 Teleport (each subject teleports to a different,  random location)
 89–94
-Temporal stasis (as temporal stasis spell) 
+Temporal stasis (as temporal stasis spell)
 95–00
 Reverse aging (subject gets younger each year, disappearing at moment of “birth”)
 After the burst, the extradimensional origin point is sealed.

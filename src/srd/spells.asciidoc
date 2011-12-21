@@ -1674,7 +1674,7 @@ This spell turns the bones or bodies of dead creatures into undead skeletons or 
 The undead can follow you, or they can remain in an area and attack any creature (or just a specific kind of creature) entering the place. They remain animated until they are destroyed. (A destroyed skeleton or zombie can’t be animated again.)
 Regardless of the type of undead you create with this spell, you can’t create more HD of undead than twice your caster level with a single casting of animate dead. (The desecrate spell doubles this limit)
 The undead you create remain under your control indefinitely. No matter how many times you use this spell, however, you can control only 4 HD worth of undead creatures per caster level. If you exceed this number, all the newly created creatures fall under your control, and any excess undead from previous castings become uncontrolled. (You choose which creatures are released.) If you are a cleric, any undead you might command by virtue of your power to command or rebuke undead do not count toward the limit.
-Skeletons: A skeleton can be created only from a mostly intact corpse or skeleton. The corpse must have bones. If a skeleton is made from a corpse, the flesh falls off the bones. 
+Skeletons: A skeleton can be created only from a mostly intact corpse or skeleton. The corpse must have bones. If a skeleton is made from a corpse, the flesh falls off the bones.
 Zombies: A zombie can be created only from a mostly intact corpse. The corpse must be that of a creature with a true anatomy.
 Material Component: You must place a black onyx gem worth at least 25 gp per Hit Die of the undead into the mouth or eye socket of each corpse you intend to animate. The magic of the spell turns these gems into worthless, burned-out shells.
 
@@ -1754,7 +1754,7 @@ An invisible barrier surrounds you and moves with you. The space within this bar
 An antimagic field suppresses any spell or magical effect used within, brought into, or cast into the area, but does not dispel it. Time spent within an antimagic field counts against the suppressed spell’s duration.
 Summoned creatures of any type and incorporeal undead wink out if they enter an antimagic field. They reappear in the same spot once the field goes away. Time spent winked out counts normally against the duration of the conjuration that is maintaining the creature. If you cast antimagic field in an area occupied by a summoned creature that has spell resistance, you must make a caster level check (1d20 + caster level) against the creature’s spell resistance to make it wink out. (The effects of instantaneous conjurations are not affected by an antimagic field because the conjuration itself is no longer in effect, only its result.)
 A normal creature can enter the area, as can normal missiles. Furthermore, while a magic sword does not function magically within the area, it is still a sword (and a masterwork sword at that). The spell has no effect on golems and other constructs that are imbued with magic during their creation process and are thereafter self-supporting (unless they have been summoned, in which case they are treated like any other summoned creatures). Elementals, corporeal undead, and outsiders are likewise unaffected unless summoned. These creatures’ spell-like or supernatural abilities, however, may be temporarily nullified by the field. Dispel magic does not remove the field.
-Two or more antimagic fields sharing any of the same space have no effect on each other. Certain spells, such as wall of force, prismatic sphere, and prismatic wall, remain unaffected by antimagic field (see the individual spell descriptions). Artifacts and deities are unaffected by mortal magic such as this. 
+Two or more antimagic fields sharing any of the same space have no effect on each other. Certain spells, such as wall of force, prismatic sphere, and prismatic wall, remain unaffected by antimagic field (see the individual spell descriptions). Artifacts and deities are unaffected by mortal magic such as this.
 Should a creature be larger than the area enclosed by the barrier, any part of it that lies outside the barrier is unaffected by the field.
 Arcane Material Component: A pinch of powdered iron or iron filings.
 
@@ -1962,7 +1962,7 @@ Duration: Instantaneous
 Saving Throw: Will negates
 Spell Resistance: Yes
 A banishment spell is a more powerful version of the dismissal spell. It enables you to force extraplanar creatures out of your home plane. As many as 2 Hit Dice of creatures per caster level can be banished.
-You can improve the spell’s chance of success by presenting at least one object or substance that the target hates, fears, or otherwise opposes. For each such object or substance, you gain a +1 bonus on your caster level check to overcome the target’s spell resistance (if any), the saving throw DC increases by 2. 
+You can improve the spell’s chance of success by presenting at least one object or substance that the target hates, fears, or otherwise opposes. For each such object or substance, you gain a +1 bonus on your caster level check to overcome the target’s spell resistance (if any), the saving throw DC increases by 2.
 Certain rare items might work twice as well as a normal item for the purpose of the bonuses (each providing a +2 bonus on the caster level check against spell resistance and increasing the save DC by 4).
 Arcane Focus: Any item that is distasteful to the subject (optional, see above).
 
@@ -2211,8 +2211,8 @@ Duration: Instantaneous
 Saving Throw: See text
 Spell Resistance: No
 This spell frees victims from enchantments, transmutations, and curses. Break enchantment can reverse even an instantaneous effect. For each such effect, you make a caster level check (1d20 + caster level, maximum +15) against a DC of 11 + caster level of the effect. Success means that the creature is free of the spell, curse, or effect. For a cursed magic item, the DC is 25.
-If the spell is one that cannot be dispelled by dispel magic, break enchantment works only if that spell is 5th level or lower. 
-If the effect comes from some permanent magic item break enchantment does not remove the curse from the item, but it does frees the victim from the item’s effects. 
+If the spell is one that cannot be dispelled by dispel magic, break enchantment works only if that spell is 5th level or lower.
+If the effect comes from some permanent magic item break enchantment does not remove the curse from the item, but it does frees the victim from the item’s effects.
 
 Bull’s Strength
 Transmutation
@@ -3395,7 +3395,7 @@ Original Strength
 Duration of Lingering Aura
 Faint
 1d6 rounds
-Moderate 
+Moderate
 1d6 minutes
 Strong
 1d6x10 minutes
@@ -3430,7 +3430,7 @@ You detect magical auras. The amount of information revealed depends on how long
 3rd Round: The strength and location of each aura. If the items or creatures bearing the auras are in line of sight, you can make Spellcraft skill checks to determine the school of magic involved in each. (Make one check per aura; DC 15 + spell level, or 15 + half caster level for a nonspell effect.)
 Magical areas, multiple types of magic, or strong local magical emanations may distort or conceal weaker auras.
 Aura Strength: An aura’s power depends on a spell’s functioning spell level or an item’s caster level. If an aura falls into more than one category, detect magic indicates the stronger of the two.
- 
+
 ————————— Aura Power —————————
 Spell or Object
 Faint
@@ -3700,7 +3700,7 @@ Range: Personal
 Target: You
 Duration: 10 min./level (D)
 You make yourself—including clothing, armor, weapons, and equipment—look different. You can seem 1 foot shorter or taller, thin, fat, or in between. You cannot change your body type. Otherwise, the extent of the apparent change is up to you. You could add or obscure a minor feature or look like an entirely different person.
-The spell does not provide the abilities or mannerisms of the chosen form, nor does it alter the perceived tactile (touch) or audible (sound) properties of you or your equipment. 
+The spell does not provide the abilities or mannerisms of the chosen form, nor does it alter the perceived tactile (touch) or audible (sound) properties of you or your equipment.
 If you use this spell to create a disguise, you get a +10 bonus on the Disguise check.
 A creature that interacts with the glamer gets a Will save to recognize it as an illusion.
 
@@ -3773,7 +3773,7 @@ Duration: Instantaneous
 Saving Throw: None
 Spell Resistance: No
 You can use dispel magic to end ongoing spells that have been cast on a creature or object, to temporarily suppress the magical abilities of a magic item, to end ongoing spells (or at least their effects) within an area, or to counter another spellcaster’s spell. A dispelled spell ends as if its duration had expired. Some spells, as detailed in their descriptions, can’t be defeated by dispel magic. Dispel magic can dispel (but not counter) spell-like effects just as it does spells.
-Note: The effect of a spell with an instantaneous duration can’t be dispelled, because the magical effect is already over before the dispel magic can take effect. 
+Note: The effect of a spell with an instantaneous duration can’t be dispelled, because the magical effect is already over before the dispel magic can take effect.
 You choose to use dispel magic in one of three ways: a targeted dispel, an area dispel, or a counterspell:
 Targeted Dispel: One object, creature, or spell is the target of the dispel magic spell. You make a dispel check (1d20 + your caster level, maximum +10) against the spell or against each ongoing spell currently in effect on the object or creature. The DC for this dispel check is 11 + the spell’s caster level. If you succeed on a particular check, that spell is dispelled; if you fail, that spell remains in effect.
 If you target an object or creature that is the effect of an ongoing spell (such as a monster summoned by monster summoning), you make a dispel check to end the spell that conjured the object or creature.
@@ -3838,7 +3838,7 @@ Components: V, S, M
 Casting Time: 10 minutes
 Range: Personal
 Target: You
-Duration: Instantaneous 
+Duration: Instantaneous
 Similar to augury but more powerful, a divination spell can provide you with a useful piece of advice in reply to a question concerning a specific goal, event, or activity that is to occur within one week. The advice can be as simple as a short phrase, or it might take the form of a cryptic rhyme or omen. If your party doesn’t act on the information, the conditions may change so that the information is no longer useful. The base chance for a correct divination is 70% + 1% per caster level, to a maximum of 90%. If the dice roll fails, you know the spell failed, unless specific magic yielding false information is at work.
 As with augury, multiple divinations about the same topic by the same caster use the same dice result as the first divination spell and yield the same answer each time.
 Material Component: Incense and a sacrificial offering appropriate to your religion, together worth at least 25 gp.
@@ -4107,7 +4107,7 @@ Duration: 1 round/level (D)
 You become ethereal, along with your equipment. For the duration of the spell, you are in a place called the Ethereal Plane, which overlaps the normal, physical, Material Plane. When the spell expires, you return to material existence.
 An ethereal creature is invisible, insubstantial, and capable of moving in any direction, even up or down, albeit at half normal speed. As an insubstantial creature, you can move through solid objects, including living creatures. An ethereal creature can see and hear on the Material Plane, but everything looks gray and ephemeral. Sight and hearing onto the Material Plane are limited to 60 feet.
 Force effects and abjurations affect an ethereal creature normally. Their effects extend onto the Ethereal Plane from the Material Plane, but not vice versa. An ethereal creature can’t attack material creatures, and spells you cast while ethereal affect only other ethereal things. Certain material creatures or objects have attacks or effects that work on the Ethereal Plane.
-Treat other ethereal creatures and ethereal objects as if they were material. 
+Treat other ethereal creatures and ethereal objects as if they were material.
 If you end the spell and become material while inside a material object (such as a solid wall), you are shunted off to the nearest open space and take 1d6 points of damage per 5 feet that you so travel.
 
 Etherealness
@@ -4792,7 +4792,7 @@ Duration: 1 round/level (D)
 Saving Throw: None
 Spell Resistance: No
 An immobile, faintly shimmering magical sphere surrounds you and excludes all spell effects of 3rd level or lower. The area or effect of any such spells does not include the area of the lesser globe of invulnerability. Such spells fail to affect any target located within the globe. Excluded effects include spell-like abilities and spells or spell-like effects from items. However, any type of spell can be cast through or out of the magical globe. Spells of 4th level and higher are not affected by the globe, nor are spells already in effect when the globe is cast. The globe can be brought down by a targeted dispel magic spell, but not by an area dispel magic. You can leave and return to the globe without penalty.
-Note that spell effects are not disrupted unless their effects enter the globe, and even then they are merely suppressed, not dispelled. 
+Note that spell effects are not disrupted unless their effects enter the globe, and even then they are merely suppressed, not dispelled.
 If a given spell has more than one level depending on which character class is casting it, use the level appropriate to the caster to determine whether lesser globe of invulnerability stops it.
 Material Component: A glass or crystal bead that shatters at the expiration of the spell.
 
@@ -5719,7 +5719,7 @@ Target: One door, box, or chest with an area of up to 10 sq. ft./level
 Duration: Instantaneous; see text
 Saving Throw: None
 Spell Resistance: No
-The knock spell opens stuck, barred, locked, held, or arcane locked doors. It opens secret doors, as well as locked or trick-opening boxes or chests. It also loosens welds, shackles, or chains (provided they serve to hold closures shut). If used to open a arcane locked door, the spell does not remove the arcane lock but simply suspends its functioning for 10 minutes. In all other cases, the door does not relock itself or become stuck again on its own. Knock does not raise barred gates or similar impediments (such as a portcullis), nor does it affect ropes, vines, and the like. The effect is limited by the area. Each spell can undo as many as two means of preventing egress. 
+The knock spell opens stuck, barred, locked, held, or arcane locked doors. It opens secret doors, as well as locked or trick-opening boxes or chests. It also loosens welds, shackles, or chains (provided they serve to hold closures shut). If used to open a arcane locked door, the spell does not remove the arcane lock but simply suspends its functioning for 10 minutes. In all other cases, the door does not relock itself or become stuck again on its own. Knock does not raise barred gates or similar impediments (such as a portcullis), nor does it affect ropes, vines, and the like. The effect is limited by the area. Each spell can undo as many as two means of preventing egress.
 
 Know Direction
 Divination
@@ -5820,7 +5820,7 @@ Duration: One day/level (D)
 Saving Throw: None
 Spell Resistance: No
 This spell turns an oak tree into a protector or guardian. The spell can be cast on only a single tree at a time; while liveoak is in effect, you can’t cast it again on another tree. The tree on which the spell is cast must be within 10 feet of your dwelling place, within a place sacred to you, or within 300 feet of something that you wish to guard or protect.
-Liveoak must be cast on a healthy, Huge oak. A triggering phrase of up to one word per caster level is placed on the targeted oak. The liveoak spell triggers the tree into animating as a treant. 
+Liveoak must be cast on a healthy, Huge oak. A triggering phrase of up to one word per caster level is placed on the targeted oak. The liveoak spell triggers the tree into animating as a treant.
 If liveoak is dispelled, the tree takes root immediately, wherever it happens to be. If released by you, the tree tries to return to its original location before taking root.
 
 Locate Creature
@@ -5998,7 +5998,7 @@ to 5 lb./level
 Duration: One day/level (D)
 Saving Throw: None; see text
 Spell Resistance: No
-You alter an item’s aura so that it registers to detect spells (and spells with similar capabilities) as though it were nonmagical, or a magic item of a kind you specify, or the subject of a spell you specify. 
+You alter an item’s aura so that it registers to detect spells (and spells with similar capabilities) as though it were nonmagical, or a magic item of a kind you specify, or the subject of a spell you specify.
 If the object bearing magic aura has identify cast on it or is similarly examined, the examiner recognizes that the aura is false and detects the object’s actual qualities if he succeeds on a Will save. Otherwise, he believes the aura and no amount of testing reveals what the true magic is.
 If the targeted item’s own aura is exceptionally powerful (if it is an artifact, for instance), magic aura doesn’t work.
 Note: A magic weapon, shield, or suit of armor must be a masterwork item, so a sword of average make, for example, looks suspicious if it has a magical aura.
@@ -6071,7 +6071,7 @@ Duration: 1 hour/level or until you return to your body
 Saving Throw: Will negates; see text
 Spell Resistance: Yes
 By casting magic jar, you place your soul in a gem or large crystal (known as the magic jar), leaving your body lifeless. Then you can attempt to take control of a nearby body, forcing its soul into the magic jar. You may move back to the jar (thereby returning the trapped soul to its body) and attempt to possess another body. The spell ends when you send your soul back to your own body, leaving the receptacle empty.
-To cast the spell, the magic jar must be within spell range and you must know where it is, though you do not need line of sight or line of effect to it. When you transfer your soul upon casting, your body is, as near as anyone can tell, dead. 
+To cast the spell, the magic jar must be within spell range and you must know where it is, though you do not need line of sight or line of effect to it. When you transfer your soul upon casting, your body is, as near as anyone can tell, dead.
 While in the magic jar, you can sense and attack any life force within 10 feet per caster level (and on the same plane of existence). You do need line of effect from the jar to the creatures. You cannot determine the exact creature types or positions of these creatures. In a group of life forces, you can sense a difference of 4 or more Hit Dice between one creature and another and can determine whether a life force is powered by positive or negative energy. (Undead creatures are powered by negative energy. Only sentient undead creatures have, or are, souls.)
 You could choose to take over either a stronger or a weaker creature, but which particular stronger or weaker creature you attempt to possess is determined randomly.
 Attempting to possess a body is a full-round action. It is blocked by protection from evil or a similar ward. You possess the body and force the creature’s soul into the magic jar unless the subject succeeds on a Will save. Failure to take over the host leaves your life force in the magic jar, and the target automatically succeeds on further saving throws if you attempt to possess its body again.
@@ -6188,7 +6188,7 @@ Major Image
 Illusion (Figment)
 Level: Brd 3, Sor/Wiz 3
 Duration: Concentration + 3 rounds
-This spell functions like silent image, except that sound, smell, and thermal illusions are included in the spell effect. While concentrating, you can move the image within the range. 
+This spell functions like silent image, except that sound, smell, and thermal illusions are included in the spell effect. While concentrating, you can move the image within the range.
 The image disappears when struck by an opponent unless you cause the illusion to react appropriately.
 
 Make Whole
@@ -6341,7 +6341,7 @@ Saving Throw: See text
 Spell Resistance: Yes
 You don’t so much cast a miracle as request one. You state what you would like to have happen and request that your deity (or the power you pray to for spells) intercede.
 A miracle can do any of the following things.
-• Duplicate any cleric spell of 8th level or lower (including spells to which you have access because of your domains). 
+• Duplicate any cleric spell of 8th level or lower (including spells to which you have access because of your domains).
 • Duplicate any other spell of 7th level or lower.
 • Undo the harmful effects of certain spells, such as feeblemind or insanity.
 • Have any effect whose power level is in line with the above effects.
@@ -6433,7 +6433,7 @@ You reach into the subject’s mind and modify as many as 5 minutes of its memor
 • Change the details of an event the subject actually experienced.
 • Implant a memory of an event the subject never experienced.
 Casting the spell takes 1 round. If the subject fails to save, you proceed with the spell by spending as much as 5 minutes (a period of time equal to the amount of memory time you want to modify) visualizing the memory you wish to modify in the subject. If your concentration is disturbed before the visualization is complete, or if the subject is ever beyond the spell’s range during this time, the spell is lost.
-A modified memory does not necessarily affect the subject’s actions, particularly if it contradicts the creature’s natural inclinations. An illogical modified memory is dismissed by the creature as a bad dream or a memory muddied by too much wine. 
+A modified memory does not necessarily affect the subject’s actions, particularly if it contradicts the creature’s natural inclinations. An illogical modified memory is dismissed by the creature as a bad dream or a memory muddied by too much wine.
 
 Moment of Prescience
 Divination
@@ -6810,7 +6810,7 @@ Persistent Image
 Illusion (Figment)
 Level: Brd 5, Sor/Wiz 5
 Duration: 1 min./level (D)
-This spell functions like silent image, except that the figment includes visual, auditory, olfactory, and thermal components, and the figment follows a script determined by you. The figment follows that script without your having to concentrate on it. The illusion can include intelligible speech if you wish. 
+This spell functions like silent image, except that the figment includes visual, auditory, olfactory, and thermal components, and the figment follows a script determined by you. The figment follows that script without your having to concentrate on it. The illusion can include intelligible speech if you wish.
 Material Component: A bit of fleece and several grains of sand.
 
 Phantasmal Killer
@@ -6838,7 +6838,7 @@ Saving Throw: None
 Spell Resistance: No
 You conjure a Large, quasi-real, horselike creature. The steed can be ridden only by you or by the one person for whom you specifically created the mount. A phantom steed has a black head and body, gray mane and tail, and smoke-colored, insubstantial hooves that make no sound. It has what seems to be a saddle, bit, and bridle. It does not fight, but animals shun it and refuse to attack it.
 The mount has an AC of 18 (–1 size, +4 natural armor, +5 Dex) and 7 hit points +1 hit point per caster level. If it loses all its hit points, the phantom steed disappears. A phantom steed has a speed of 20 feet per caster level, to a maximum of 240 feet. It can bear its rider’s weight plus up to 10 pounds per caster level.
-These mounts gain certain powers according to caster level. A mount’s abilities include those of mounts of lower caster levels. 
+These mounts gain certain powers according to caster level. A mount’s abilities include those of mounts of lower caster levels.
 8th Level: The mount can ride over sandy, muddy, or even swampy ground without difficulty or decrease in speed.
 10th Level: The mount can use water walk at will (as the spell, no action required to activate this ability).
 12th Level: The mount can use air walk at will (as the spell, no action required to activate this ability) for up to 1 round at a time, after which it falls to the ground.
@@ -6901,7 +6901,7 @@ By casting this spell, you request your deity to send you an elemental or outsid
 You may ask the creature to perform one task in exchange for a payment from you. Tasks might range from the simple to the complex. You must be able to communicate with the creature called in order to bargain for its services.
 The creature called requires a payment for its services. This payment can take a variety of forms, from donating gold or magic items to an allied temple, to a gift given directly to the creature, to some other action on your part that matches the creature’s alignment and goals. Regardless, this payment must be made before the creature agrees to perform any services. The bargaining takes at least 1 round, so any actions by the creature begin in the round after it arrives.
 A task taking up to 1 minute per caster level requires a payment of 100 gp per HD of the creature called. For a task taking up to 1 hour per caster level, the creature requires a payment of 500 gp per HD. A long-term task, one requiring up to one day per caster level, requires a payment of 1,000 gp per HD.
-A nonhazardous task requires only half the indicated payment, while an especially hazardous task might require a greater gift. Few if any creatures will accept a task that seems suicidal (remember, a called creature actually dies when it is killed, unlike a summoned creature). However, if the task is strongly aligned with the creature’s ethos, it may halve or even waive the payment. 
+A nonhazardous task requires only half the indicated payment, while an especially hazardous task might require a greater gift. Few if any creatures will accept a task that seems suicidal (remember, a called creature actually dies when it is killed, unlike a summoned creature). However, if the task is strongly aligned with the creature’s ethos, it may halve or even waive the payment.
 At the end of its task, or when the duration bargained for expires, the creature returns to its home plane (after reporting back to you, if appropriate and possible).
 Note: When you use a calling spell that calls an air, chaotic, earth, evil, fire, good, lawful, or water creature, it is a spell of that type.
 XP Cost: 100 XP.
@@ -6935,7 +6935,7 @@ To create the trap, you must use a magic circle spell, focused inward. The kind 
 The target creature is allowed a Will saving throw. If the saving throw succeeds, the creature resists the spell. If the saving throw fails, the creature is immediately drawn to the trap (spell resistance does not keep it from being called). The creature can escape from the trap with by successfully pitting its spell resistance against your caster level check, by dimensional travel, or with a successful Charisma check (DC 15 + 1/2 your caster level + your Cha modifier). It can try each method once per day. If it breaks loose, it can flee or attack you. A dimensional anchor cast on the creature prevents its escape via dimensional travel. You can also employ a calling diagram (see magic circle against evil) to make the trap more secure.
 If the creature does not break free of the trap, you can keep it bound for as long as you dare. You can attempt to compel the creature to perform a service by describing the service and perhaps offering some sort of reward. You make a Charisma check opposed by the creature’s Charisma check. The check is assigned a bonus of +0 to +6 based on the nature of the service and the reward. If the creature wins the opposed check, it refuses service. New offers, bribes, and the like can be made or the old ones reoffered every 24 hours. This process can be repeated until the creature promises to serve, until it breaks free, or until you decide to get rid of it by means of some other spell. Impossible demands or unreasonable commands are never agreed to. If you roll a 1 on the Charisma check, the creature breaks free of the binding and can escape or attack you.
 Once the requested service is completed, the creature need only so inform you to be instantly sent back whence it came. The creature might later seek revenge. If you assign some open-ended task that the creature cannot complete though its own actions the spell remains in effect for a maximum of one day per caster level, and the creature gains an immediate chance to break free. Note that a clever recipient can subvert some instructions.
-When you use a calling spell to call an air, chaotic, earth, evil, fire, good, lawful, or water creature, it is a spell of that type. 
+When you use a calling spell to call an air, chaotic, earth, evil, fire, good, lawful, or water creature, it is a spell of that type.
 
 Plane Shift
 Conjuration (Teleportation)
@@ -6949,7 +6949,7 @@ Saving Throw: Will negates
 Spell Resistance: Yes
 You move yourself or some other creature to another plane of existence or alternate dimension. If several willing persons link hands in a circle, as many as eight can be affected by the plane shift at the same time. Precise accuracy as to a particular arrival location on the intended plane is nigh impossible. From the Material Plane, you can reach any other plane, though you appear 5 to 500 miles (5d%) from your intended destination.
 Note: Plane shift transports creatures instantaneously and then ends. The creatures need to find other means if they are to travel back.
-Focus: A small, forked metal rod. The size and metal type dictates to which plane of existence or alternate dimension the spell sends the affected creatures. 
+Focus: A small, forked metal rod. The size and metal type dictates to which plane of existence or alternate dimension the spell sends the affected creatures.
 
 Plant Growth
 Transmutation
@@ -7148,7 +7148,7 @@ Level: Protection 9, Sor/Wiz 9, Sun 9
 Components: V
 Range: 10 ft.
 Effect: 10-ft.-radius sphere centered on you
-This spell functions like prismatic wall, except you conjure up an immobile, opaque globe of shimmering, multicolored light that surrounds you and protects you from all forms of attack. The sphere flashes in all colors of the visible spectrum. 
+This spell functions like prismatic wall, except you conjure up an immobile, opaque globe of shimmering, multicolored light that surrounds you and protects you from all forms of attack. The sphere flashes in all colors of the visible spectrum.
 The sphere’s blindness effect on creatures with less than 8 HD lasts 2d4x10 minutes.
 You can pass into and out of the prismatic sphere and remain near it without harm. However, when you’re inside it, the sphere blocks any attempt to project something through the sphere (including spells). Other creatures that attempt to attack you or pass through suffer the effects of each color, one at a time.
 Typically, only the upper hemisphere of the globe will exist, since you are at the center of the sphere, so the lower half is usually excluded by the floor surface you are standing on.
@@ -7373,7 +7373,7 @@ Spell Resistance: No
 You create a number of semitangible, visible magical orbs (called “eyes”) equal to 1d4 + your caster level. These eyes move out, scout around, and return as you direct them when casting the spell. Each eye can see 120 feet (normal vision only) in all directions.
 While the individual eyes are quite fragile, they’re small and difficult to spot. Each eye is a Fine construct, about the size of a small apple, that has 1 hit point, AC 18 (+8 bonus for its size), flies at a speed of 30 feet with perfect maneuverability, and has a +16 Hide modifier. It has a Spot modifier equal to your caster level (maximum +15) and is subject to illusions, darkness, fog, and any other factors that would affect your ability to receive visual information about your surroundings. An eye traveling through darkness must find its way by touch.
 When you create the eyes, you specify instructions you want them to follow in a command of no more than twenty-five words. Any knowledge you possess is known by the eyes as well.
-In order to report their findings, the eyes must return to your hand. Each replays in your mind all it has seen during its existence. It takes an eye 1 round to replay 1 hour of recorded images. After relaying its findings, an eye disappears. 
+In order to report their findings, the eyes must return to your hand. Each replays in your mind all it has seen during its existence. It takes an eye 1 round to replay 1 hour of recorded images. After relaying its findings, an eye disappears.
 If an eye ever gets more than 1 mile away from you, it instantly ceases to exist. However, your link with the eye is such that you won’t know if the eye was destroyed because it wandered out of range or because of some other event.
 The eyes exist for up to 1 hour per caster level or until they return to you. Dispel magic can destroy eyes. Roll separately for each eye caught in an area dispel. Of course, if an eye is sent into darkness, it could hit a wall or similar obstacle and destroy itself.
 Material Component: A handful of crystal marbles.
@@ -7682,7 +7682,7 @@ Other
 ?
 ?
 ?
-The reincarnated creature gains all abilities associated with its new form, including forms of movement and speeds, natural armor, natural attacks, extraordinary abilities, and the like, but it doesn’t automatically speak the language of the new form. 
+The reincarnated creature gains all abilities associated with its new form, including forms of movement and speeds, natural armor, natural attacks, extraordinary abilities, and the like, but it doesn’t automatically speak the language of the new form.
 A wish or a miracle spell can restore a reincarnated character to his or her original form.
 Material Component: Rare oils and unguents worth a total of least 1,000 gp, spread over the remains.
 
@@ -7853,7 +7853,7 @@ Conjuration (Healing)
 Level: Clr 4, Pal 4
 Components: V, S, M
 This spell functions like lesser restoration, except that it also dispels negative levels and restores one experience level to a creature who has had a level drained. The drained level is restored only if the time since the creature lost the level is equal to or less than one day per caster level. A character who has a level restored by restoration has exactly the minimum number of experience points necessary to restore him or her to his or her previous level.
-Restoration cures all temporary ability damage, and it restores all points permanently drained from a single ability score (your choice if more than one is drained). It also eliminates any fatigue or exhaustion suffered by the target. 
+Restoration cures all temporary ability damage, and it restores all points permanently drained from a single ability score (your choice if more than one is drained). It also eliminates any fatigue or exhaustion suffered by the target.
 Restoration does not restore levels or Constitution points lost due to death.
 Material Component: Diamond dust worth 100 gp that is sprinkled over the target.
 
@@ -7941,7 +7941,7 @@ Duration: See text
 Saving Throw: None
 Spell Resistance: No
 Any iron or iron alloy item you touch becomes instantaneously rusted, pitted, and worthless, effectively destroyed. If the item is so large that it cannot fit within a 3-foot radius a 3-foot-radius volume of the metal is rusted and destroyed. Magic items made of metal are immune to this spell.
-You may employ rusting grasp in combat with a successful melee touch attack. Rusting grasp used in this way instantaneously destroys 1d6 points of Armor Class gained from metal armor (to the maximum amount of protection the armor offered) through corrosion. 
+You may employ rusting grasp in combat with a successful melee touch attack. Rusting grasp used in this way instantaneously destroys 1d6 points of Armor Class gained from metal armor (to the maximum amount of protection the armor offered) through corrosion.
 Weapons in use by an opponent targeted by the spell are more difficult to grasp. You must succeed on a melee touch attack against the weapon. A metal weapon that is hit is destroyed.
 Note: Striking at an opponent’s weapon provokes an attack of opportunity. Also, you must touch the weapon and not the other way around.
 Against a ferrous creature, rusting grasp instantaneously deals 3d6 points of damage +1 per caster level (maximum +15) per successful attack. The spell lasts for 1 round per level, and you can make one melee touch attack per round.
@@ -7983,8 +7983,8 @@ Saving Throw: None
 Spell Resistance: Yes
 A twisting pattern of discordant, coruscating colors weaves through the air, affecting creatures within it. The spell affects a total number of Hit Dice of creatures equal to your caster level (maximum 20). Creatures with the fewest HD are affected first; and, among creatures with equal HD, those who are closest to the spell’s point of origin are affected first. Hit Dice that are not sufficient to affect a creature are wasted. The spell affects each subject according to its Hit Dice.
 6 or less: Unconscious for 1d4 rounds, then stunned for 1d4 rounds, and then confused for 1d4 rounds. (Treat an unconscious result as stunned for nonliving creatures.)
-7 to 12: Stunned for 1d4 rounds, then confused for 1d4 rounds. 
-13 or more: Confused for 1d4 rounds. 
+7 to 12: Stunned for 1d4 rounds, then confused for 1d4 rounds.
+13 or more: Confused for 1d4 rounds.
 Sightless creatures are not affected by scintillating pattern.
 Material Component: A small crystal prism.
 
@@ -8012,7 +8012,7 @@ Duration: 24 hours
 Saving Throw: None or Will disbelief (if interacted with); see text
 Spell Resistance: No
 This spell combines several elements to create a powerful protection from scrying and direct observation. When casting the spell, you dictate what will and will not be observed in the spell’s area. The illusion created must be stated in general terms. Once the conditions are set, they cannot be changed.
-Attempts to scry the area automatically detect the image stated by you with no save allowed. Sight and sound are appropriate to the illusion created. 
+Attempts to scry the area automatically detect the image stated by you with no save allowed. Sight and sound are appropriate to the illusion created.
 Direct observation may allow a save (as per a normal illusion), if there is cause to disbelieve what is seen. Even entering the area does not cancel the illusion or necessarily allow a save, assuming that hidden beings take care to stay out of the way of those affected by the illusion.
 
 Scrying
@@ -8051,7 +8051,7 @@ If the save succeeds, you can’t attempt to scry on that subject again for at l
 Arcane Material Component: The eye of a hawk, an eagle, or a roc, plus nitric acid, copper, and zinc.
 Wizard, Sorcerer, or Bard Focus: A mirror of finely wrought and highly polished silver costing not less than 1,000 gp. The mirror must be at least 2 feet by 4 feet.
 Cleric Focus: A holy water font costing not less than 100 gp.
-Druid Focus: A natural pool of water. 
+Druid Focus: A natural pool of water.
 
 Scrying, Greater
 Divination (Scrying)
@@ -8282,7 +8282,7 @@ Effect: Three or more shambling mounds, no two of which can be more than 30 ft. 
 Duration: Seven days or seven months (D); see text
 Saving Throw: None
 Spell Resistance: No
-The shambler spell creates 1d4+2 shambling mounds with 11 HD each. The creatures willingly aid you in combat or battle, perform a specific mission, or serve as bodyguards. The creatures remain with you for seven days unless you dismiss them. If the shamblers are created only for guard duty, however, the duration of the spell is seven months. In this case, the shamblers can only be ordered to guard a specific site or location. Shamblers summoned to guard duty cannot move outside the spell’s range, which is measured from the point where each first appeared. 
+The shambler spell creates 1d4+2 shambling mounds with 11 HD each. The creatures willingly aid you in combat or battle, perform a specific mission, or serve as bodyguards. The creatures remain with you for seven days unless you dismiss them. If the shamblers are created only for guard duty, however, the duration of the spell is seven months. In this case, the shamblers can only be ordered to guard a specific site or location. Shamblers summoned to guard duty cannot move outside the spell’s range, which is measured from the point where each first appeared.
 The shamblers have resistance to fire as normal shambling mounds do only if the terrain is rainy, marshy, or damp.
 
 Shapechange
@@ -8600,7 +8600,7 @@ Area: 10-ft.-radius spread
 Duration: Instantaneous
 Saving Throw: Fortitude partial
 Spell Resistance: Yes
-You blast an area with a tremendous cacophony. Every creature in the area takes 1d8 points of sonic damage and must succeed on a Fortitude save to avoid being stunned for 1 round. 
+You blast an area with a tremendous cacophony. Every creature in the area takes 1d8 points of sonic damage and must succeed on a Fortitude save to avoid being stunned for 1 round.
 Creatures that cannot hear are not stunned but are still damaged.
 Arcane Focus: A musical instrument.
 
@@ -8625,7 +8625,7 @@ Duration: 1 min./level
 Saving Throw: Will negates; see text
 Spell Resistance: No
 You grant the semblance of life and intellect to a corpse, allowing it to answer several questions that you put to it. You may ask one question per two caster levels. Unasked questions are wasted if the duration expires. The corpse’s knowledge is limited to what the creature knew during life, including the languages it spoke (if any). Answers are usually brief, cryptic, or repetitive. If the creature’s alignment was different from yours, the corpse gets a Will save to resist the spell as if it were alive.
-If the corpse has been subject to speak with dead within the past week, the new spell fails. You can cast this spell on a corpse that has been deceased for any amount of time, but the body must be mostly intact to be able to respond. A damaged corpse may be able to give partial answers or partially correct answers, but it must at least have a mouth in order to speak at all. 
+If the corpse has been subject to speak with dead within the past week, the new spell fails. You can cast this spell on a corpse that has been deceased for any amount of time, but the body must be mostly intact to be able to respond. A damaged corpse may be able to give partial answers or partially correct answers, but it must at least have a mouth in order to speak at all.
 This spell does not let you actually speak to the person (whose soul has departed). It instead draws on the imprinted knowledge stored in the corpse. The partially animated body retains the imprint of the soul that once inhabited it, and thus it can speak with all the knowledge that the creature had while alive. The corpse, however, cannot learn new information.
 Indeed, it can’t even remember being questioned.
 This spell does not affect a corpse that has been turned into an undead creature.
@@ -8665,7 +8665,7 @@ Duration: 10 min./level
 Saving Throw: Will negates (harmless)
 Spell Resistance: Yes (harmless)
 The warded creature is immune to the effects of one specified spell for every four levels you have. The spells must be of 4th level or lower. The warded creature effectively has unbeatable spell resistance regarding the specified spell or spells. Naturally, that immunity doesn’t protect a creature from spells for which spell resistance doesn’t apply. Spell immunity protects against spells, spell-like effects of magic items, and innate spell-like abilities of creatures. It does not protect against supernatural or extraordinary abilities, such as breath weapons or gaze attacks.
-Only a particular spell can be protected against, not a certain domain or school of spells or a group of spells that are similar in effect. 
+Only a particular spell can be protected against, not a certain domain or school of spells or a group of spells that are similar in effect.
 A creature can have only one spell immunity or greater spell immunity spell in effect on it at a time.
 
 Spell Immunity, Greater
@@ -8707,7 +8707,7 @@ Casting Time: 1 standard action
 Range: Personal
 Target: You
 Duration: Until expended or 10 min./level
-Spells and spell-like effects targeted on you are turned back upon the original caster. The abjuration turns only spells that have you as a target. Effect and area spells are not affected. Spell turning also fails to stop touch range spells. 
+Spells and spell-like effects targeted on you are turned back upon the original caster. The abjuration turns only spells that have you as a target. Effect and area spells are not affected. Spell turning also fails to stop touch range spells.
 From seven to ten (1d4+6) spell levels are affected by the turning. The exact number is rolled secretly.
 When you are targeted by a spell of higher level than the amount of spell turning you have left, that spell is partially turned. The subtract the amount of spell turning left from the spell level of the incoming spell, then divide the result by the spell level of the incoming spell to see what fraction of the effect gets through. For damaging spells, you and the caster each take a fraction of the damage. For nondamaging spells, each of you has a proportional chance to be affected.
 If you and a spellcasting attacker are both warded by spell turning effects in operation, a resonating field is created.
@@ -8788,7 +8788,7 @@ The weapon that you get is often a force replica of your deity’s own personal 
 Chaos: Battleaxe
 Evil: Light flail
 Good: Warhammer
-Law: Longsword, 
+Law: Longsword,
 
 Statue
 Transmutation
@@ -8910,7 +8910,7 @@ Target: One living creature
 Duration: 1 hour/level or until completed
 Saving Throw: Will negates
 Spell Resistance: Yes
-You influence the actions of the target creature by suggesting a course of activity (limited to a sentence or two). The suggestion must be worded in such a manner as to make the activity sound reasonable. Asking the creature to do some obviously harmful act automatically negates the effect of the spell. 
+You influence the actions of the target creature by suggesting a course of activity (limited to a sentence or two). The suggestion must be worded in such a manner as to make the activity sound reasonable. Asking the creature to do some obviously harmful act automatically negates the effect of the spell.
 The suggested course of activity can continue for the entire duration. If the suggested activity can be completed in a shorter time, the spell ends when the subject finishes what it was asked to do. You can instead specify conditions that will trigger a special activity during the duration. If the condition is not met before the spell duration expires, the activity is not performed.
 A very reasonable suggestion causes the save to be made with a penalty (such as –1 or –2).
 Material Component: A snake’s tongue and either a bit of honeycomb or a drop of sweet oil.
@@ -9284,7 +9284,7 @@ Conjuration (Summoning) [see text]
 Level: Drd 3, Rgr 3
 Effect: One or more creatures, no two of which can be more than 30 ft. apart
 This spell functions like summon nature’s ally I, except that you can summon one 3rd-level creature, 1d3 2nd-level creatures of the same kind, or 1d4+1 1st-level creatures of the same kind.
-When you use a summoning spell to summon an air, chaotic, earth, evil, fire, good, lawful, or water creature, it is a spell of that type. 
+When you use a summoning spell to summon an air, chaotic, earth, evil, fire, good, lawful, or water creature, it is a spell of that type.
 Summon Nature’s Ally IV
 Conjuration (Summoning) [see text]
 Level: Animal 4, Drd 4, Rgr 4
@@ -9487,7 +9487,7 @@ This spell allows you to scribe a potent rune of power upon a surface. When trig
 Until it is triggered, the symbol of death is inactive (though visible and legible at a distance of 60 feet). To be effective, a symbol of death must always be placed in plain sight and in a prominent location. Covering or hiding the rune renders the symbol of death ineffective, unless a creature removes the covering, in which case the symbol of death works normally.
 As a default, a symbol of death is triggered whenever a creature does one or more of the following, as you select: looks at the rune; reads the rune; touches the rune; passes over the rune; or passes through a portal bearing the rune. Regardless of the trigger method or methods chosen, a creature more than 60 feet from a symbol of death can’t trigger it (even if it meets one or more of the triggering conditions, such as reading the rune). Once the spell is cast, a symbol of death’s triggering conditions cannot be changed.
 In this case, “reading” the rune means any attempt to study it, identify it, or fathom its meaning. Throwing a cover over a symbol of death to render it inoperative triggers it if the symbol reacts to touch. You can’t use a symbol of death offensively; for instance, a touch-triggered symbol of death remains untriggered if an item bearing the symbol of death is used to touch a creature. Likewise, a symbol of death cannot be placed on a weapon and set to activate when the weapon strikes a foe.
-You can also set special triggering limitations of your own. These can be as simple or elaborate as you desire. Special conditions for triggering a symbol of death can be based on a creature’s name, identity, or alignment, but otherwise must be based on observable actions or qualities. Intangibles such as level, class, Hit Dice, and hit points don’t qualify. 
+You can also set special triggering limitations of your own. These can be as simple or elaborate as you desire. Special conditions for triggering a symbol of death can be based on a creature’s name, identity, or alignment, but otherwise must be based on observable actions or qualities. Intangibles such as level, class, Hit Dice, and hit points don’t qualify.
 When scribing a symbol of death, you can specify a password or phrase that prevents a creature using it from triggering the effect. Anyone using the password remains immune to that particular rune’s effects so long as the creature remains within 60 feet of the rune. If the creature leaves the radius and returns later, it must use the password again.
 You also can attune any number of creatures to the symbol of death, but doing this can extend the casting time. Attuning one or two creatures takes negligible time, and attuning a small group (as many as ten creatures) extends the casting time to 1 hour. Attuning a large group (as many as twenty-five creatures) takes 24 hours. Attuning larger groups takes proportionately longer. Any creature attuned to a symbol of death cannot trigger it and is immune to its effects, even if within its radius when triggered. You are automatically considered attuned to your own symbols of death, and thus always ignore the effects and cannot inadvertently trigger them.
 Read magic allows you to identify a symbol of death with a DC 19 Spellcraft check. Of course, if the symbol of death is set to be triggered by reading it, this will trigger the symbol.
@@ -9647,7 +9647,7 @@ Spell Resistance: No and Yes (object)
 This spell instantly transports you to a designated destination, which may be as distant as 100 miles per caster level. Interplanar travel is not possible. You can bring along objects as long as their weight doesn’t exceed your maximum load. You may also bring one additional willing Medium or smaller creature (carrying gear or objects up to its maximum load) or its equivalent (see below) per three caster levels. A Large creature counts as two Medium creatures, a Huge creature counts as two Large creatures, and so forth. All creatures to be transported must be in contact with one another, and at least one of those creatures must be in contact with you. As with all spells where the range is personal and the target is you, you need not make a saving throw, nor is spell resistance applicable to you. Only objects held or in use (attended) by another person receive saving throws and spell resistance.
 You must have some clear idea of the location and layout of the destination. The clearer your mental image, the more likely the teleportation works. Areas of strong physical or magical energy may make teleportation more hazardous or even impossible.
 To see how well the teleportation works, roll d% and consult the Teleport table. Refer to the following information for definitions of the terms on the table.
-Familiarity: “Very familiar” is a place where you have been very often and where you feel at home. “Studied carefully” is a place you know well, either because you can currently see it, you’ve been there often, or you have used other means (such as scrying) to study the place for at least one hour. “Seen casually” is a place that you have seen more than once but with which you are not very familiar. “Viewed once” is a place that you have seen once, possibly using magic. 
+Familiarity: “Very familiar” is a place where you have been very often and where you feel at home. “Studied carefully” is a place you know well, either because you can currently see it, you’ve been there often, or you have used other means (such as scrying) to study the place for at least one hour. “Seen casually” is a place that you have seen more than once but with which you are not very familiar. “Viewed once” is a place that you have seen once, possibly using magic.
 “False destination” is a place that does not truly exist or if you are teleporting to an otherwise familiar location that no longer exists as such or has been so completely altered as to no longer be familiar to you. When traveling to a false destination, roll 1d20+80 to obtain results on the table, rather than rolling d%, since there is no real destination for you to hope to arrive at or even be off target from.
 On Target: You appear where you want to be.
 Off Target: You appear safely a random distance away from the destination in a random direction. Distance off target is 1d10x1d10% of the distance that was to be traveled. The direction off target is determined randomly
@@ -10223,7 +10223,7 @@ Spell Resistance: Yes (object)
 You cause wood to bend and warp, permanently destroying its straightness, form, and strength. A warped door springs open (or becomes stuck, requiring a Strength check to open, at your option). A boat or ship springs a leak. Warped ranged weapons are useless. A warped melee weapon causes a –4 penalty on attack rolls.
 You may warp one Small or smaller object or its equivalent per caster level. A Medium object counts as two Small objects, a Large object as four, a Huge object as eight, a Gargantuan object as sixteen, and a Colossal object as thirty-two.
 Alternatively, you can unwarp wood (effectively warping it back to normal) with this spell, straightening wood that has been warped by this spell or by other means. Make whole, on the other hand, does no good in repairing a warped item.
-You can combine multiple consecutive warp wood spells to warp (or unwarp) an object that is too large for you to warp with a single spell. 
+You can combine multiple consecutive warp wood spells to warp (or unwarp) an object that is too large for you to warp with a single spell.
 Until the object is completely warped, it suffers no ill effects.
 
 Water Breathing
@@ -10354,7 +10354,7 @@ Duration: 1 round/level
 Saving Throw: None; see text
 Spell Resistance: Yes
 An invisible vertical curtain of wind appears. It is 2 feet thick and of considerable strength. It is a roaring blast sufficient to blow away any bird smaller than an eagle, or tear papers and similar materials from unsuspecting hands. (A Reflex save allows a creature to maintain its grasp on an object.) Tiny and Small flying creatures cannot pass through the barrier. Loose materials and cloth garments fly upward when caught in a wind wall. Arrows and bolts are deflected upward and miss, while any other normal ranged weapon passing through the wall has a 30% miss chance. (A giant-thrown boulder, a siege engine projectile, and other massive ranged weapons are not affected.) Gases, most gaseous breath weapons, and creatures in gaseous form cannot pass through the wall (although it is no barrier to incorporeal creatures).
-While the wall must be vertical, you can shape it in any continuous path along the ground that you like. It is possible to create cylindrical or square wind walls to enclose specific points. 
+While the wall must be vertical, you can shape it in any continuous path along the ground that you like. It is possible to create cylindrical or square wind walls to enclose specific points.
 Arcane Material Component: A tiny fan and a feather of exotic origin.
 
 Wish
@@ -10373,7 +10373,7 @@ A wish can produce any one of the following effects.
 • Duplicate any wizard or sorcerer spell of 8th level or lower, provided the spell is not of a school prohibited to you.
 • Duplicate any other spell of 6th level or lower, provided the spell is not of a school prohibited to you.
 • Duplicate any wizard or sorcerer spell of 7th level or lower even if it’s of a prohibited school.
-• Duplicate any other spell of 5th level or lower even if it’s of a prohibited school. 
+• Duplicate any other spell of 5th level or lower even if it’s of a prohibited school.
 • Undo the harmful effects of many other spells, such as geas/quest or insanity.
 • Create a nonmagical item of up to 25,000 gp in value.
 • Create a magic item, or add to the powers of an existing magic item.
@@ -10517,7 +10517,7 @@ Dweomer of Transference: Convert spellcasting into psionic power points.
 Psychic Turmoil: Invisible field leeches psionic power points away.
 
 6th-Level Sorcerer/Wizard Spells
-Mental PinnacleM: You gain the mental powers of a psion. 
+Mental PinnacleM: You gain the mental powers of a psion.
 Probe Thoughts: Read subject’s memories, one question/ round.
 
 7th-Level Sorcerer/Wizard Spell
@@ -10755,7 +10755,7 @@ Liberation Domain Spells
 
 MADNESS DOMAIN
 Granted Power: The character gains an Insanity score equal to half his or her class level. For spellcasting (determining bonus spells and DCs), the character uses his or her Wisdom score plus his or her Insanity score in place of Wisdom alone.
-For all other purposes, such as skills and saves, use Wisdom minus Insanity in place of Wisdom. 
+For all other purposes, such as skills and saves, use Wisdom minus Insanity in place of Wisdom.
 Once per day, the character can see and act with the clarity of true madness. Use the character’s Insanity score as a positive rather than a negative modifier on a single roll involving Wisdom. Choose to use this power before the roll is made.
 Madness Domain Spells
 1 Random action
@@ -10946,7 +10946,7 @@ Duration: Permanent
 Saving Throw: None
 Spell Resistance: Yes (object)
 This spell increases the hardness of materials.  For every two caster levels, increase by 1 the hardness of the material targeted by the spell. This hardness increase improves only the material’s resistance to damage. Nothing else is modified by the improvement.
-The hardening spell does not in any way affect resistance to other forms of transformation. 
+The hardening spell does not in any way affect resistance to other forms of transformation.
 This spell affects up to 10 cubic feet per level of the spellcaster.
 If cast upon a metal or mineral, the volume is reduced to 1 cubic foot per level.
 

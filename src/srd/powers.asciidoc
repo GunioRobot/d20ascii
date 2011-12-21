@@ -38,8 +38,8 @@ Ecto ProtectionA: An astral construct gains bonus against dismiss ectoplasm.
 EmpathyA: You know the subject’s surface emotions.
 Empty MindA: You gain +2 on Will saves until your next action.
 Energy RayA: Deal 1d6 energy (cold, electricity, fire, or sonic) damage.
-Entangling Ectoplasm: You entangle a foe in sticky goo. 
-Far HandA: Move small objects at a limited distance. 
+Entangling Ectoplasm: You entangle a foe in sticky goo.
+Far HandA: Move small objects at a limited distance.
 FloatA: You buoy yourself in water or other liquid.
 Force ScreenA: Invisible disc provides +4 shield bonus to AC.
 Grease, Psionic: Makes 10-ft. square or one object slippery.
@@ -97,7 +97,7 @@ Dismiss Ectoplasm: Dissipates ectoplasmic targets and effects.
 Dispel PsionicsA: Cancels psionic powers and effects.
 Energy BoltA: Deal 5d6 energy damage in 120-ft. line.
 Energy BurstA: Deal 5d6 energy damage in 40-ft. burst.
-Energy RetortA: Ectoburst of energy automatically targets your attacker for 4d6 damage once each round. 
+Energy RetortA: Ectoburst of energy automatically targets your attacker for 4d6 damage once each round.
 Energy Wall: Create wall of your chosen energy type.
 Eradicate InvisibilityA: Negate invisibility in 50-ft. burst.
 Keen Edge, Psionic: Doubles normal weapon’s threat range.
@@ -193,10 +193,10 @@ EGOIST (PSYCHOMETABOLISM) DISCIPLINE POWERS
 Chameleon: Gain +10 enhancement bonus on Hide checks.
 Empathic TransferA: Transfer another’s wounds to yourself.
 3	Ectoplasmic Form: You gain benefits of being insubstantial and can fly slowly.
-Hustle: Instantly gain a move action. 
+Hustle: Instantly gain a move action.
 4	Metamorphosis: Assume shape of creature or object.
 Psychic Vampire: Touch attack drains 2 power points/level from foe.
-5	Psionic RevivifyA X. Return the dead to life before the psyche leaves the corpse. 
+5	Psionic RevivifyA X. Return the dead to life before the psyche leaves the corpse.
 Psychofeedback: Boost Strength, Dexterity, or Constitution at the expense of one or more other scores.
 Restore Extremity: Return a lost digit, limb, or other appendage to subject.
 6	Restoration, Psionic: Restores level and ability score drains.
@@ -246,7 +246,7 @@ Precognition: Gain +2 insight bonus to one roll.
 Object ReadingA: Learn details about an object’s previous owner.
 Sensitivity to Psychic Impressions: You can find out about an area’s past.
 3	Escape Detection: You become difficult to detect with clairsentience powers.
-Fate LinkA: You link the fates of two targets. 
+Fate LinkA: You link the fates of two targets.
 4	Anchored NavigationA: Establish a mishap-free teleport beacon.
 Remote ViewingX: See, hear, and potentially interact with subjects at a distance.
 5	Clairtangent HandA: Emulate far hand at a distance.
@@ -296,13 +296,13 @@ Mind Probe: You discover the subject’s secret thoughts.
 Psychic ChirurgeryX: You repair psychic damage or impart knowledge of new powers.
 
 PSYCHIC WARRIOR POWERS
-1ST-LEVEL PSYCHIC WARRIOR POWERS 
+1ST-LEVEL PSYCHIC WARRIOR POWERS
 Astral Traveler: Enable yourself or another to join an astral caravan-enabled trip.
 BiofeedbackA: Gain DR 2/–.
 Bite of the Wolf: Gain bite attack for 1d8 damage.
 Burst: Gain +10ft. to speed this round.
 Call WeaponryA: Create temporary weapon.
-CatfallA: Instantly save yourself from a fall. 
+CatfallA: Instantly save yourself from a fall.
 Chameleon: Gain +10 enhancement bonus on Hide checks.
 Claws of the BeastA: Your hands become deadly claws.
 CompressionA: You grow smaller.
@@ -331,7 +331,7 @@ StompA: Subjects fall prone and take 1d4 nonlethal damage.
 Synesthete: You receive one kind of sense when another sense is stimulated.
 Thicken SkinA: Gain +1 enhancement bonus to your AC for 10 min./level.
 VigorA: Gain 5 temporary hit points.
-2ND-LEVEL PSYCHIC WARRIOR POWERS 
+2ND-LEVEL PSYCHIC WARRIOR POWERS
 Animal AffinityA: Gain +4 enhancement to one ability.
 Body AdjustmentA: Heal 1d12 damage.
 Body Equilibrium: You can walk on nonsolid surfaces.
@@ -355,8 +355,8 @@ Strength of My EnemyA: Siphon away your enemy’s strength and grow stronger.
 Sustenance: You can go without food and water for one day.
 Thought ShieldA: Gain PR 13 against mind-affecting powers.
 Wall Walker: Grants ability to walk on walls and ceilings.
-3RD-LEVEL PSYCHIC WARRIOR POWERS 
-Claws of the Vampire: Heal half of your claw’s base damage. 
+3RD-LEVEL PSYCHIC WARRIOR POWERS
+Claws of the Vampire: Heal half of your claw’s base damage.
 Concealing Amorpha, Greater: Quasi-real membrane grants you total concealment.
 Danger Sense: Gain +4 bonus against traps.
 Dimension SlideA: Teleports you very short distance.
@@ -370,21 +370,21 @@ Exhalation of the Black DragonA: Your acid breath deals 3d6 damage to a close ta
 Graft Weapon: Your hand is replaced seamlessly by your weapon.
 Keen Edge, Psionic: Doubles normal weapon’s threat range.
 Mental BarrierA: Gain +4 deflection bonus to AC until your next action.
-Ubiquitous Vision: You have all-around vision. 
+Ubiquitous Vision: You have all-around vision.
 Vampiric Blade: You heal half of your base weapon damage.
-4TH-LEVEL PSYCHIC WARRIOR POWERS 
+4TH-LEVEL PSYCHIC WARRIOR POWERS
 Claw of Energy: Your claws deal additional energy damage.
-Dimension Door, Psionic: Teleports you short distance. 
+Dimension Door, Psionic: Teleports you short distance.
 Energy AdaptationA: Your body converts energy to harmless light.
 Freedom of Movement, Psionic: You cannot be held or otherwise rendered immobile.
 Immovability: You are almost impossible to move and gain DR 15/–.
 Inertial Barrier: Gain DR 5/–.
-Psychic Vampire. Touch attack drains 2 power points/level from foe. 
+Psychic Vampire. Touch attack drains 2 power points/level from foe.
 Steadfast Perception: Gain immunity to illusory effects, +6 bonus on Spot and Search checks.
 Truevenom: Your natural weapons are covered in horrible poison.
-Truevenom Weapon: Your weapon is horribly poisonous. 
+Truevenom Weapon: Your weapon is horribly poisonous.
 Weapon of Energy: Weapon deals additional energy damage.
-5TH-LEVEL PSYCHIC WARRIOR POWERS 
+5TH-LEVEL PSYCHIC WARRIOR POWERS
 Adapt Body: Your body automatically adapts to hostile environments.
 CatapsiA: Psychic static inhibits power manifestation.
 MetaconcertA: Mental concert of two or more increases the total power of the participants.
@@ -513,7 +513,7 @@ Connection
 Check Modifier
 Likeness or picture of destination
 +2
-Object from destination 
+Object from destination
 +4
 Planar Cartographer’s map of destination
 +10
@@ -658,7 +658,7 @@ Duration: Instantaneous
 Saving Throw: Will negates
 Power Resistance: Yes
 Power Points: 11
-As the banishment spell, except as noted here. 
+As the banishment spell, except as noted here.
 Psions gain no benefit from presenting objects or substances that the target hates, fears, or otherwise opposes.
 Augment: For every 2 additional power points you spend, this power’s save DC increases by 1 and your manifester level increases by 1 for the purpose of overcoming power resistance.
 
@@ -679,7 +679,7 @@ Bend reality lets you create nearly any type of effect. For example, bend realit
 • Duplicate any psion power of 5th level or lower, even if it’s of a prohibited discipline.
 • Duplicate any other power (but not a spell) of 4th level or lower, even if it’s of a prohibited discipline.
 • Undo the harmful effects of many powers, such as psionic dominate, geas/quest, or insanity.
-• Produce any other effect whose power level is in line with the above effects, such as a single creature automatically hitting on its next attack or taking a –8 penalty on its next saving throw. 
+• Produce any other effect whose power level is in line with the above effects, such as a single creature automatically hitting on its next attack or taking a –8 penalty on its next saving throw.
 A duplicated power allows saving throws and power resistance as normal (but the save DC is for a 8th-level power).
 When bend reality duplicates a power that has an XP cost, you must pay that cost or 300 XP, whichever is more. When bend reality duplicates a spell with a material component, you must pay additional XP equal to the value of the material component divided by 5.
 XP Cost: 300 XP or more (see above).
@@ -1038,7 +1038,7 @@ Range: Personal
 Target: You
 Duration: 1 round/level (D)
 Power Points: 1
-This power causes instant diminution, halving your height, length, and width and dividing your weight by 8. This decrease changes your size category to the next smaller one. You gain a +2 size bonus to Dexterity, a –2 size penalty to Strength (to a minimum effective Strength score of 1), a +1 size bonus on attack rolls, and a +1 size bonus to Armor Class due to your reduced size. If your new size is Tiny, you have a space of 2 1/2 feet and a natural reach of 0 feet (meaning that you must enter an opponent’s square to attack). If your new size is Diminutive, you have a space of 1 foot and a natural reach of 0 feet. This power doesn’t change your speed. 
+This power causes instant diminution, halving your height, length, and width and dividing your weight by 8. This decrease changes your size category to the next smaller one. You gain a +2 size bonus to Dexterity, a –2 size penalty to Strength (to a minimum effective Strength score of 1), a +1 size bonus on attack rolls, and a +1 size bonus to Armor Class due to your reduced size. If your new size is Tiny, you have a space of 2 1/2 feet and a natural reach of 0 feet (meaning that you must enter an opponent’s square to attack). If your new size is Diminutive, you have a space of 1 foot and a natural reach of 0 feet. This power doesn’t change your speed.
 All your equipment, worn or carried, is similarly reduced by the power. Melee and projectile weapons deal less damage. Other psionic or magical properties are not affected by this power. Any affected item that leaves your possession (including a projectile or thrown weapon) instantly returns to its normal size. This means that thrown weapons deal their normal damage (projectiles deal damage based on the size of the weapon that fired them). Multiple effects that reduce size do not stack, which means (among other things) that you can’t use a second manifestation of this power to further reduce yourself.
 Augment: You can augment this power in one or more of the following ways.
 1. If you spend 6 additional power points, this power decreases your size by two size categories. You gain a +4 size bonus to Dexterity, a –4 size penalty to Strength (to a minimum effective Strength score of 1), a +2 size bonus on attack rolls, and a +2 size bonus to Armor Class due to your reduced size.
@@ -1152,14 +1152,14 @@ Saving Throw: See text
 Power Resistance: No
 Power Points: 1
 You pyrokinetically control the intensity or movements of one fire source. A nonmagical fire source can be controlled if it is equal to or smaller than the maximum size of fire you can control according to your manifester level, as noted on the accompanying table. You can freely switch control between fire sources, or change the nature of your control, while you maintain concentration, but only one specified change (keeping a fire burning, animating it, or altering its size) can be made to one fire source in a round. When your control over a fire source lapses, that fire immediately returns to its original state (or goes out if it has no fuel or has been moved away from its original location). With this power, you can artificially keep a fire burning that would normally expire for lack of fuel; even dousing a controlled flame with water does not put it out (though completely submerging the flame would). Normally, a creature at risk of catching on fire can avoid this fate by making a DC 15 Reflex saving throw, with success indicating that the fire has gone out. If the fire is one that has been kept burning by the use of control flames, then the DC of the Reflex save needed to put out the flames increases to 25.
-This power also enables you to make a fire move as if it were a living creature. You can animate only a naturally burning fire; if you attempt to animate one that has been increased or decreased in size by your augmentation of this power, the fire immediately returns to its original size. An animated fire moves at a speed of 30 feet. A fire that moves away from its fuel or its original location dies as soon as your control over it lapses. 
+This power also enables you to make a fire move as if it were a living creature. You can animate only a naturally burning fire; if you attempt to animate one that has been increased or decreased in size by your augmentation of this power, the fire immediately returns to its original size. An animated fire moves at a speed of 30 feet. A fire that moves away from its fuel or its original location dies as soon as your control over it lapses.
 An animated fire can enter any square, even if a creature already occupies it. If an animated fire enters a square occupied by a creature, that creature can make a Reflex save to get out of the way (DC 11 + the number of dice of damage the fire does + your Int modifier if you are a psion or your Cha modifier if you are a wilder). A successful Reflex save moves the creature to the nearest unoccupied square. The flames deal the indicated damage to any creature that is either on fire or surrounded by the flames (in the fire’s space); see the accompanying table).
 At the start of your turn, the animated fire deals damage to any creature in its space, and the creature catches on fire unless it makes a Reflex save (DC as noted above). A victim on fire takes 1d6 points of damage each round. Additional rounds in the same space as the animated fire occupies mean additional chances of ignition. The damage from multiple normal fires stacks, but the victim gets a saving throw each round to negate each fire. It is possible to switch control from the animated fire (causing it to disappear) to intensify f lames that are already burning (thus denying the foe Ref lex saves after the first).
 
 Control Flames
-Manifester Level 
-Fire Size 
-Example 
+Manifester Level
+Fire Size
+Example
 Maximum Damage per Round
 Space
 1st–2nd
@@ -1527,19 +1527,19 @@ Aura Strength: A psionic aura’s strength depends on a functioning power’s le
 Detect Psionics
 
 —————— Aura Strength ——————
-Power or Item 
+Power or Item
 Faint
 Moderate
 Strong
 Overwhelming
-Functioning power 
+Functioning power
 (power level)
 3rd or lower
 4th–6th
 7th–9th
 10th+
 (deity-level)
-Psionic item 
+Psionic item
 (manifester level)
 5th or lower
 6th–11th
@@ -1602,7 +1602,7 @@ Saving Throw: None and Will negates (object)
 Power Resistance: No and Yes (object)
 Power Points: 7
 As the dimension door spell, except as noted here.
-Augment: If you spend 6 additional power points, you can manifest this power as a move action. 
+Augment: If you spend 6 additional power points, you can manifest this power as a move action.
 
 Dimension Slide
 Psychoportation (Teleportation)
@@ -1630,7 +1630,7 @@ Power Resistance: Yes (harmless, object)
 Power Points: 3
 You instantly swap positions between your current position and that of a designated ally in range. Alternatively, you can swap the positions of any two allies in range. This power affects creatures of Large or smaller size. You can bring along objects, but not other creatures.
 Special: A psychic warrior can manifest this power to swap positions with an ally, but not to swap the positions of two allies.
-Augment: For every 2 additional power points you spend, this power can affect a target one size category larger. 
+Augment: For every 2 additional power points you spend, this power can affect a target one size category larger.
 
 Dimensional Anchor, Psionic
 Psychoportation
@@ -1656,7 +1656,7 @@ Duration: 1 min./level (D)
 Saving Throw: Will negates
 Power Resistance: Yes
 Power Points: 1
-You broadcast a mental compulsion that convinces one or more creatures of 4 Hit Dice or less that they are disabled (see page 307 of the Player’s Handbook). Creatures with the fewest HD are affected first. Among creatures with equal Hit Dice, those who are closest to the power’s point of origin are affected first. Hit Dice that are not sufficient to affect a creature are wasted. Creatures that are rendered helpless or are destroyed when they reach 0 hit points cannot be affected. 
+You broadcast a mental compulsion that convinces one or more creatures of 4 Hit Dice or less that they are disabled (see page 307 of the Player’s Handbook). Creatures with the fewest HD are affected first. Among creatures with equal Hit Dice, those who are closest to the power’s point of origin are affected first. Hit Dice that are not sufficient to affect a creature are wasted. Creatures that are rendered helpless or are destroyed when they reach 0 hit points cannot be affected.
 Creatures affected by this power believe that they have somehow been brought to the brink of unconsciousness and must act accordingly. While it’s possible for an important nonplayer character to attempt some sort of “heroic” action, common NPCs and creatures under the effect of this power typically cower or retreat.
 Any creature that attempts to take a standard action immediately breaks the compulsion and can act normally. A creature that attempts to heal itself or that receives healing is likewise freed of the compulsion, and if it is not actually wounded, the healing is wasted. A creature that takes damage is also instantly freed of the compulsion (although the damage still counts against its actual current hit points).
 Augment: For every 2 additional power points you spend, this power’s range increases by 5 feet and its save DC increases by 1.
@@ -1675,9 +1675,9 @@ Power Resistance: Yes
 Power Points: 11
 A thin, green ray springs from your pointing finger. You must make a successful ranged touch attack to hit. Any creature struck by the ray takes 22d6 points of damage. Any creature reduced to 0 or fewer hit points by this power is entirely disintegrated, leaving behind only a trace of fine dust. A disintegrated creature’s equipment is unaffected.
 When used against an object, the ray simply disintegrates as much as one 10-foot cube of nonliving matter. Thus, the power disintegrates only part of any very large object or structure targeted. The ray affects even objects constructed entirely of force, but not psionic effects such as a null psionics field.
-A creature or object that makes a successful Fortitude save is partially affected, taking only 5d6 points of damage. If this damage reduces the creature or object to 0 or fewer hit points, it is entirely disintegrated. 
+A creature or object that makes a successful Fortitude save is partially affected, taking only 5d6 points of damage. If this damage reduces the creature or object to 0 or fewer hit points, it is entirely disintegrated.
 Only the first creature or object struck can be affected; that is, the ray affects only one target per manifestation.
-Augment: For every additional power point you spend, the damage this power deals to a subject that fails its saving throw increases by 2d6 points. Augmenting this power does not change the amount of damage the target takes if it succeeds on its saving throw. 
+Augment: For every additional power point you spend, the damage this power deals to a subject that fails its saving throw increases by 2d6 points. Augmenting this power does not change the amount of damage the target takes if it succeeds on its saving throw.
 
 Dismissal, Psionic
 Psychoportation
@@ -1741,7 +1741,7 @@ Manifesting Time: 1 standard action
 Range: Personal or close (25 ft. + 5 ft./2 levels); see text
 Target: You or one willing creature or one object (object weighing up to 100 lb./level); see text
 Duration: 1 hour/level (D)
-Saving Throw: None 
+Saving Throw: None
 Power Resistance: Yes (harmless, object)
 Power Points: 11
 You create a psychokinetic shield around the subject that improves the chance that any powers affecting the subject will resist a dispel psionics power (or a dispel magic spell) or a negation effect that targets a specific power (such as shatter mind blank). When dispelling buffer is manifested on a creature or object, add +5 to the DC of the dispel check for each ongoing effect that is subject to being dispelled.
@@ -1760,7 +1760,7 @@ Saving Throw: None
 Power Resistance: Yes (object)
 Power Points: 1
 Your mere touch can disperse the surface material of a foe or object, sending a tiny portion of it far away. This effect is disruptive; thus, your successful melee touch attack deals 1d6 points of damage.
-Augment: For every additional power point you spend, this power’s damage increases by 1d6 points. 
+Augment: For every additional power point you spend, this power’s damage increases by 1d6 points.
 
 Dissolving Touch
 Psychometabolism [Acid]
@@ -1827,7 +1827,7 @@ Range: Personal
 Target: You
 Duration: Instantaneous
 Power Points: 7
-As the divination spell, except as noted here. 
+As the divination spell, except as noted here.
 
 Dominate, Psionic
 Telepathy (Compulsion) [Mind-Affecting]
@@ -2088,10 +2088,10 @@ Power Points: 7
 Upon manifesting this power, you choose cold, electricity, fire, or sonic. You create an explosion of energy of the chosen type that deals 7d6 points of damage to every creature or object within the area. The explosion creates almost no pressure.
 Cold: A ball of this energy type deals +1 point of damage per die. The saving throw to reduce damage from a cold ball is a Fortitude save instead of a Reflex save.
 Electricity: Manifesting a ball of this energy type provides a +2 bonus to the save DC and a +2 bonus on manifester level checks for the purpose of overcoming power resistance.
-Fire: A ball of this energy type deals +1 point of damage per die. 
+Fire: A ball of this energy type deals +1 point of damage per die.
 Sonic: A ball of this energy type deals –1 point of damage per die and ignores an object’s hardness.
-This power’s subtype is the same as the type of energy you manifest. 
-Augment: For every additional power point you spend, this power’s damage increases by one die (d6). For each extra two dice of damage, this power’s save DC increases by 1. 
+This power’s subtype is the same as the type of energy you manifest.
+Augment: For every additional power point you spend, this power’s damage increases by one die (d6). For each extra two dice of damage, this power’s save DC increases by 1.
 
 Energy Bolt
 Psychokinesis [see text]
@@ -2109,7 +2109,7 @@ Cold: A bolt of this energy type deals +1 point of damage per die. The saving th
 Electricity: Manifesting a bolt of this energy type provides a +2 bonus to the save DC and a +2 bonus on manifester level checks for the purpose of overcoming power resistance.
 Fire: A bolt of this energy type deals +1 point of damage per die.
 Sonic: A bolt of this energy type deals –1 point of damage per die and ignores an object’s hardness.
-This power’s subtype is the same as the type of energy you manifest. 
+This power’s subtype is the same as the type of energy you manifest.
 Augment: For every additional power point you spend, this power’s damage increases by one die (d6). For each extra two dice of damage, this power’s save DC increases by 1.
 
 Energy Burst
@@ -2126,7 +2126,7 @@ Power Points: 5
 Upon manifesting this power, you choose cold, electricity, fire, or sonic. You create an explosion of unstable ectoplasmic energy of the chosen type that deals 5d6 points of damage to every creature or object within the area. The explosion creates almost no pressure. Since this power extends outward from you, you are not affected by the damage.
 Cold: A burst of this energy type deals +1 point of damage per die. The saving throw to reduce damage from a cold burst is a Fortitude save instead of a Reflex save.
 Electricity: Manifesting a burst of this energy type provides a +2 bonus to the save DC and a +2 bonus on manifester level checks for the purpose of overcoming power resistance.
-Fire: A burst of this energy type deals +1 point of damage per die. 
+Fire: A burst of this energy type deals +1 point of damage per die.
 Sonic: A burst of this energy type deals –1 point of damage per die and ignores an object’s hardness.
 This power’s subtype is the same as the type of energy you manifest.
 Augment: For every additional power point you spend, this power’s damage increases by one die (d6). For each extra two dice of damage, this power’s save DC increases by 1.
@@ -2241,7 +2241,7 @@ Cold: A ray of this energy type deals +1 point of damage per die.
 Electricity: Manifesting a ray of this energy type provides a +3 bonus on your attack roll if the target is wearing metal armor and a +2 bonus on manifester level checks for the purpose of overcoming power resistance.
 Fire: A ray of this energy type deals +1 point of damage per die.
 Sonic: A ray of this energy type deals –1 point of damage per die and ignores an object’s hardness.
-This power’s subtype is the same as the type of energy you manifest. 
+This power’s subtype is the same as the type of energy you manifest.
 Augment: For every additional power point you spend, this power’s damage increases by one die (d6).
 
 Energy Retort
@@ -2259,7 +2259,7 @@ Upon manifesting this power, you choose cold, electricity, fire, or sonic. You w
 Cold: A field of this energy type deals +1 point of damage per die. The saving throw to reduce damage from a cold retort is a Fortitude save instead of a Reflex save.
 Electricity: Manifesting a field of this energy type provides a +2 bonus to the save DC and a +2 bonus on manifester level checks for the purpose of overcoming power resistance.
 Fire: A field of this energy type deals +1 point of damage per die.
-Sonic: A field of this energy type deals –1 point of damage per die and ignores an object’s hardness. 
+Sonic: A field of this energy type deals –1 point of damage per die and ignores an object’s hardness.
 This power’s subtype is the same as the type of energy you manifest.
 Augment: For every additional power point you spend, this power’s duration increases by 1 minute.
 
@@ -2523,7 +2523,7 @@ You can use another’s psionic or metapsionic feats for yourself. You make a me
 While the power lasts, you are treated as if you possessed the stolen feats, despite the fact that you have more feats than normally allowed. During this same period, the target can make no use of the stolen feats. When the power’s duration expires, you lose access to the feats, and the target gains immediate use of them. This transfer occurs regardless of the distance between you and the target.
 If the duration of feat leech is extended by the use of a metapsionic feat, the target gains a Will saving throw every 10 minutes beyond the normal duration. If this save succeeds, the power’s duration ends. If the target is killed before the duration expires, you immediately lose the benefit of the stolen feats.
 You cannot steal a feat for which you do not meet the prerequisites, if any. However, you can use a stolen feat as the prerequisite for another stolen feat.
-Augment: For every 2 additional power points you spend, this power’s save DC increases by 1. 
+Augment: For every 2 additional power points you spend, this power’s save DC increases by 1.
 
 Fiery Discorporation
 Psychokinesis [Fire]
@@ -2547,7 +2547,7 @@ Range: Personal
 Effect: Duplicate of yourself
 Duration: 1 round/level (D)
 Power Points: 13
-You can divide yourself, creating a duplicate that comes into existence 5 feet away. Your duplicate thinks and acts exactly as you do and follows your orders, although it will not do anything you wouldn’t do yourself. Your duplicate has all your abilities but none of your psionic or magical equipment (it does possess a duplicate of all your mundane equipment, clothing, armor, and implements, as well as mundane versions of any psionic or magical equipment you have). You and your duplicate evenly split your power points, your remaining usages of pertinent special abilities for the day, and so on. You retain your psionic focus, if you maintain such when this power is manifested. Treat your duplicate as yourself with two negative levels for the purpose of determining the powers to which the duplicate has access (while the duration of this power lasts, those negative levels cannot be removed by any means). Your duplicate has all other physical traits you had at the time you manifest this power. Powers, spells, or other effects affecting you when you manifest this power do not transfer to your duplicate. 
+You can divide yourself, creating a duplicate that comes into existence 5 feet away. Your duplicate thinks and acts exactly as you do and follows your orders, although it will not do anything you wouldn’t do yourself. Your duplicate has all your abilities but none of your psionic or magical equipment (it does possess a duplicate of all your mundane equipment, clothing, armor, and implements, as well as mundane versions of any psionic or magical equipment you have). You and your duplicate evenly split your power points, your remaining usages of pertinent special abilities for the day, and so on. You retain your psionic focus, if you maintain such when this power is manifested. Treat your duplicate as yourself with two negative levels for the purpose of determining the powers to which the duplicate has access (while the duration of this power lasts, those negative levels cannot be removed by any means). Your duplicate has all other physical traits you had at the time you manifest this power. Powers, spells, or other effects affecting you when you manifest this power do not transfer to your duplicate.
 When the duration expires or when you dismiss the power, you and your duplicate rejoin, no matter how far from each other you are. You gain back any power points the duplicate has not spent. At the time of rejoining, you take half of the damage your duplicate has taken since this power was manifested. This damage could potentially leave you with negative hit points, but it can’t reduce your hit points to less than –9.
 If your duplicate dies before the duration expires, no rejoining occurs, and you gain one negative level. If you die, your duplicate remains in existence, and is for all intents you, but with two negative levels. (Once the duration expires, one of the negative levels immediately converts to one lost level; the other negative level can be removed by standard means.)
 You can have only one fissioned duplicate in existence at one time; your duplicate cannot use this power. You cannot use fusion or metaconcert with a duplicate, or share any other power or effect that pools abilities (the sum of you and you is still just you). Similarly, attempting to use powers such as claws of the vampire or vampiric blade to hurt your duplicate only damages your duplicate; these powers do not heal you. Empathic transfer and similar powers are likewise ineffective (transferring wounds to yourself isn’t a good healing strategy).
@@ -2601,7 +2601,7 @@ You gain the frightful presence extraordinary ability, which takes effect automa
 Your horrific form grants you a natural armor bonus of +5, damage reduction 5/–, and a +4 bonus to your Strength score. In addition, you gain +10 feet to your land speed as well as a +10 bonus on Climb and Jump checks.
 A nest of violently flailing black tentacles sprout from your hair and back. You can make up to four additional attacks with these tentacles in addition to your regular melee attacks in each round that you take a full attack action. You can make tentacle attacks within the space you normally threaten. If you make your tentacle attacks in addition to you regular melee attacks, each tentacle attacks at your highest base attack bonus with a –5 penalty. If you forgo all your other attacks, making only tentacle attacks, you make your tentacle attacks at your highest base attack bonus with no penalty. These tentacles deal 2d8 points of damage plus one-half your Strength bonus on each successful strike.
 This power functions only while you inhabit your base form (for instance, you can’t be metamorphed or polymorphed into another form, though you can use breath of the black dragon, claws of the beast, and bite of the wolf in conjunction with this power for your regular attacks), and while your mind resides within your own body.
-Augment: For every additional power point you spend, this power’s duration increases by 2 rounds. 
+Augment: For every additional power point you spend, this power’s duration increases by 2 rounds.
 
 Freedom of Movement, Psionic
 Psychoportation
@@ -2684,7 +2684,7 @@ Metacreativity (Creation)
 Level: Psion/wilder 1
 Display: Visual and olfactory
 Manifesting Time: 1 standard action
-Range: Close (25 ft. + 5 ft./2 levels) 
+Range: Close (25 ft. + 5 ft./2 levels)
 Target or Area: One object or a 10-ft. square
 Duration: 1 round/level (D)
 Saving Throw: See spell text
@@ -2798,7 +2798,7 @@ Duration: Instantaneous
 Saving Throw: None
 Power Resistance: No
 Power Points: 3
-As the identify spell, except as noted here. 
+As the identify spell, except as noted here.
 This power is used to identify the abilities of psionic items.
 
 Immovability
@@ -2919,7 +2919,7 @@ Duration: Instantaneous
 Saving Throw: Will negates
 Power Resistance: Yes
 Power Points: 13
-As the confusion spell, except as noted here. 
+As the confusion spell, except as noted here.
 Creatures affected by this power are permanently confused and constantly behave randomly. Roll on the following table at the beginning the subject’s turn each round to see what the subject does in that round.
 d%
 Behavior
@@ -2961,7 +2961,7 @@ Range: Personal
 Target: You
 Duration: 1 min./level (D)
 Power Points: 15
-As the iron body spell, except as noted here. 
+As the iron body spell, except as noted here.
 
 Keen Edge, Psionic
 Metacreativity
@@ -3273,7 +3273,7 @@ Duration: Instantaneous; see text
 Saving Throw: Will negates
 Power Resistance: Yes
 Power Points: 15, XP
-You impress the totality of your psyche into a subject’s subconscious. If successfully implanted, the seed of your mind “germinates” over the period of one week. During this time, the subject begins to unconsciously take on your mannerisms. 
+You impress the totality of your psyche into a subject’s subconscious. If successfully implanted, the seed of your mind “germinates” over the period of one week. During this time, the subject begins to unconsciously take on your mannerisms.
 When integration is complete (after one week), the subject becomes you in mind as you were when you manifested the power, but the subject’s level is eight lower than your own. (In effect, the subject has received eight negative levels—but these are negative levels that can’t be removed.) The subject does not have any of your physical ability scores or equipment, but does have the Intelligence, Wisdom, and Charisma scores you had when you were eight levels lower. The subject also knows the powers you knew when you were eight levels lower.
 While the subject is initially your mental duplicate, the two personalities diverge over time. Although the subject starts off with memories of your experiences, it possesses its original “soul” and physical body and is free to develop its own personality based on its own new experiences. Thus, the subject is not your slave or servant, but instead a nonplayer character in its own right that shares your earlier memories.
 Protection from evil or a similar spell or power can prevent you from implanting mind seed, or prevent a seed from germinating while the protective power lasts. Otherwise, a germinating seed can be removed (prior to germination) only by psychic chirurgery, reality revision, or similarly high-level effects. Manifesting mind seed again during the germination period also cleanses the subject’s mind.
@@ -3559,7 +3559,7 @@ Saving Throw: Will negates
 Power Resistance: Yes
 Power Points: 7
 You attempt to briefly partition the mind of your foe, calving off a minor personality that is antagonistic to the main personality. The parasitic personality functions with complete autonomy from the main personality. It does not control the body physically, but it can take one standard action each round that is purely mental, such as manifesting a power, in the same turn that the subject takes its normal actions.
-The parasitic personality manifests powers using the subject’s power point reserve and known powers, but can only manifest powers three or more levels lower than the highest level of power the subject can normally manifest. 
+The parasitic personality manifests powers using the subject’s power point reserve and known powers, but can only manifest powers three or more levels lower than the highest level of power the subject can normally manifest.
 The parasitic personality actively attempts to manifest powers that negatively impact the subject, using the highest-level powers possible (so as to deplete the subject’s power point reserve), and the most deadly to the subject. You do not have control over what the parasitic personality does, though it always works against the interest of the subject.
 Both minds communicate with each other telepathically. If a creature is targeted by a compulsion or charm effect while under the effect of this power, it can make a second saving throw if the first one fails. If both saving throws fail, then this power ends and the creature is affected by the charm or compulsion effect.
 The parasitic personality does not gain any advantages if the main personality is subjected to a haste or schism effect.
@@ -3599,7 +3599,7 @@ Duration: Concentration, up to 1 round/level; see text
 Saving Throw: Will negates
 Power Resistance: Yes
 Power Points: 7
-Your brow erupts with an arc of crackling dark energy that connects with your foe, draining it of 1d6 power points and adding 1 of those points to your reserve (unless that gain would cause you to exceed your maximum). 
+Your brow erupts with an arc of crackling dark energy that connects with your foe, draining it of 1d6 power points and adding 1 of those points to your reserve (unless that gain would cause you to exceed your maximum).
 The drain continues in each round you maintain concentration while the subject of the drain remains in range. If the subject is drained to 0 power points, this power ends.
 Concentrating to maintain power leech is a full-round action (you can take no other actions aside from a 5-foot step) instead of a standard action.
 
@@ -3614,7 +3614,7 @@ Duration: 1 min./level
 Saving Throw: Will negates (harmless)
 Power Resistance: Yes (harmless)
 Power Points: 9
-The creature gains power resistance equal to 12 + your manifester level. 
+The creature gains power resistance equal to 12 + your manifester level.
 
 Precognition
 Clairsentience
@@ -3625,7 +3625,7 @@ Range: Personal
 Target: You
 Duration: 10 min./level
 Power Points: 1
-Precognition allows your mind to glimpse fragments of potential future events—what you see will probably happen if no one takes action to change it. However, your vision is incomplete, and it makes no real sense until the actual events you glimpsed begin to unfold. That’s when everything begins to come together, and you can act, if you act swiftly, on the information you previously received when you manifested this power. 
+Precognition allows your mind to glimpse fragments of potential future events—what you see will probably happen if no one takes action to change it. However, your vision is incomplete, and it makes no real sense until the actual events you glimpsed begin to unfold. That’s when everything begins to come together, and you can act, if you act swiftly, on the information you previously received when you manifested this power.
 In practice, manifesting this power grants you a “precognitive edge.” Normally, you can have only a single precognitive edge at one time. You must use your edge within a period of no more than 10 minutes per level, at which time your preknowledge fades and you lose your edge.
 You can use your precognitive edge in a variety of ways. Essentially, the edge translates into a +2 insight bonus that you can apply at any time to either an attack roll, a damage roll, a saving throw, or a skill check. You can elect to apply the bonus to the roll after you determine that your unmodified roll is lower than desired.
 
@@ -3653,7 +3653,7 @@ Range: Personal
 Target: You
 Duration: 1 hour/level
 Power Points: 11
-As precognition, except as noted here. 
+As precognition, except as noted here.
 You gain a +4 insight bonus instead of a +2 bonus.
 
 Precognition, Offensive
@@ -3681,7 +3681,7 @@ Duration: 1 min./level (D)
 Power Points: 1
 Your awareness extends a fraction of a second into the future, allowing you to better aim blows against your opponent. You gain a +2 insight bonus on your damage rolls.
 Augment: You can augment this power in one or both of the following ways.
-1. For every 3 additional power points you spend, the insight bonus gained on your attack rolls increases by 1. 
+1. For every 3 additional power points you spend, the insight bonus gained on your attack rolls increases by 1.
 2. If you spend 6 additional power points, you can manifest this power as a swift action.
 
 Prevenom
@@ -3781,7 +3781,7 @@ Saving Throw: None
 Power Resistance: Yes (harmless)
 Power Points: 9, XP
 Psionic revivify lets a manifester reconnect a corpse’s psyche with its body, restoring life to a recently deceased creature. The power must be manifested within 1 round of the victim’s death. Before the psyche of the deceased has completely left the body, this power halts its journey while repairing somewhat the damage to the body.
-This power functions like the raisedead spell, except that the affected creature receives no level loss, no Constitution loss, and no loss of powers. 
+This power functions like the raisedead spell, except that the affected creature receives no level loss, no Constitution loss, and no loss of powers.
 The creature has –1 hit points (but is stable) after being restored to life.
 XP Cost: 200 XP.
 Augment: For every 100 additional experience points that both you and the subject pay, the manifestation of this power can be delayed by 1 additional round.
@@ -3830,7 +3830,7 @@ Saving Throw: Will partial; see text
 Power Resistance: Yes
 Power Points: 9
 Your will abruptly and brutally crushes the mental essence of any one creature, debilitating its acumen. The target must make a Will save with a +4 bonus or collapse unconscious and dying at –1 hit points. If the target succeeds on the save, it takes 3d6 points of damage.
-Augment: For every 2 additional power points you spend, this power’s damage increases by 1d6 points. 
+Augment: For every 2 additional power points you spend, this power’s damage increases by 1d6 points.
 
 Psychic Reformation
 Telepathy [Mind-Affecting]
@@ -3923,7 +3923,7 @@ As bend reality, but with more farreaching effects. A reality revision can produ
 • Create a nonpsionic item of up to 25,000 gp in value.
 • Create a psionic item, or add to the powers of an existing psionic item (see XP cost below).
 • Grant a creature a +1 inherent bonus to an ability score. Two to five reality revisions manifested in immediate succession can grant a creature a +2 to +5 inherent bonus to an ability score. Inherent bonuses are instantaneous, so they cannot be negated or dispelled. An inherent bonus cannot exceed +5 for a single ability score. Inherent bonuses to a particular ability score do not stack; only the best one applies.
-• Remove injuries and afflictions. A single reality revision can aid one creature per manifester level, and all subjects are cured of the same kind of affliction. 
+• Remove injuries and afflictions. A single reality revision can aid one creature per manifester level, and all subjects are cured of the same kind of affliction.
 Reality revision can not restore the experience point loss from manifesting a power or casting a spell, or the level or  Constitution loss from being returned to life by those effects that reduce level or Constitution.
 • Revive the dead. Reality revision can bring a dead creature back to life by duplicating a resurrection spell. This power can revive a dead creature whose body has been destroyed, but the task takes two manifestations of reality revision, one to recreate the body and another to infuse the body with life again. Reality revision cannot prevent a character who is brought back to life from losing a level.
 • Transport travelers. This power can lift one creature per manifester level from anywhere on any plane and place those creatures anywhere else on any plane regardless of local conditions. An unwilling target gets a Will save to negate the effect, and power resistance (if any) applies.
@@ -4139,7 +4139,7 @@ Duration: One day/level (D)
 Saving Throw: None or Will negates (object)
 Power Resistance: No or Yes (object)
 Power Points: 13, XP
-As the sequester spell, except as noted here. 
+As the sequester spell, except as noted here.
 XP Cost: 75 XP.
 
 Shadow Body
@@ -4651,7 +4651,7 @@ Range: Personal
 Target: You
 Duration: 1 min./level
 Power Points: 9
-As the true seeing power, except as noted here. 
+As the true seeing power, except as noted here.
 
 Truevenom
 Psychometabolism
@@ -4696,7 +4696,7 @@ Saving Throw: Will half
 Power Resistance: Yes
 Power Points: 13
 You “grumble” psychically (which both psionic and nonpsionic creatures can detect), then release a horrid shriek from your subconscious that disrupts the brains of all enemies in the power’s area, dealing 13d6 points of damage to each enemy.
-Augment: For every additional power point you spend, this power’s damage increases by 1d6 points. 
+Augment: For every additional power point you spend, this power’s damage increases by 1d6 points.
 
 Vampiric Blade
 Psychometabolism
@@ -4747,7 +4747,7 @@ Target: You
 Duration: 1 min./level
 Power Points: 3
 You can walk on vertical surfaces or even traverse ceilings (you need not make Climb checks to traverse these surfaces). Because of the need to keep at least one foot in contact with the wall or ceiling at all times, you cannot jump or use the run action, and you can move at only half speed.
-You retain your Dexterity bonus to Armor Class, if any, and opponents gain no special bonuses against you. 
+You retain your Dexterity bonus to Armor Class, if any, and opponents gain no special bonuses against you.
 
 Weapon of Energy
 Psychokinesis [see text]

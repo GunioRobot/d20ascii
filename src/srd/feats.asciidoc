@@ -259,7 +259,7 @@ Choose one type of weapon for which you have already selected Weapon Focus. You 
  Prerequisites: Proficiency with selected weapon, Weapon Focus with selected weapon, fighter level 8th.
 Benefit: You gain a +1 bonus on all attack rolls you make using the selected weapon. This bonus stacks with other bonuses on attack rolls, including the one from Weapon Focus (see below).
 Special: You can gain Greater Weapon Focus multiple times. Its effects do not stack. Each time you take the feat, it applies to a new type of weapon.
-A fighter must have Greater Weapon Focus with a given weapon to gain the Greater Weapon Specialization feat for that weapon. 
+A fighter must have Greater Weapon Focus with a given weapon to gain the Greater Weapon Specialization feat for that weapon.
 A fighter may select Greater Weapon Focus as one of his fighter bonus feats.
 
 GREATER WEAPON SPECIALIZATION [GENERAL]
@@ -270,7 +270,7 @@ Special: You can gain Greater Weapon Specialization multiple times. Its effects 
 A fighter may select Greater Weapon Specialization as one of his fighter bonus feats.
 
 HEIGHTEN SPELL [METAMAGIC]
-Benefit: A heightened spell has a higher spell level than normal (up to a maximum of 9th level). Unlike other metamagic feats, Heighten Spell actually increases the effective level of the spell that it modifies. All effects dependent on spell level (such as saving throw DCs and ability to penetrate a lesser globe of invulnerability) are calculated according to the heightened level. The heightened spell is as difficult to prepare and cast as a spell of its effective level. 
+Benefit: A heightened spell has a higher spell level than normal (up to a maximum of 9th level). Unlike other metamagic feats, Heighten Spell actually increases the effective level of the spell that it modifies. All effects dependent on spell level (such as saving throw DCs and ability to penetrate a lesser globe of invulnerability) are calculated according to the heightened level. The heightened spell is as difficult to prepare and cast as a spell of its effective level.
 
 IMPROVED BULL RUSH [GENERAL]
 Prerequisites: Str 13, Power Attack.
@@ -301,26 +301,26 @@ This feat allows spellcasters to acquire a new familiar from a nonstandard list,
 Prerequisites: Ability to acquire a new familiar, compatible alignment, sufficiently high level (see below).
 Benefit: When choosing a familiar, the creatures listed below are also available to the spellcaster. The spellcaster may choose a familiar with an alignment up to one step away on each of the alignment axes (lawful through chaotic, good through evil).
 
-Familiar 
-Alignment 
+Familiar
+Alignment
 Arcane Spellcaster Level
-Shocker lizard 
-Neutral 
+Shocker lizard
+Neutral
 5th
-Stirge 
-Neutral 
+Stirge
+Neutral
 5th
-Formian worker 
-Lawful neutral 
+Formian worker
+Lawful neutral
 7th
-Imp 
-Lawful evil 
+Imp
+Lawful evil
 7th
-Pseudodragon 
-Neutral good 
+Pseudodragon
+Neutral good
 7th
-Quasit 
-Chaotic evil 
+Quasit
+Chaotic evil
 7th
 
 Improved familiars otherwise use the rules for regular familiars, with two exceptions: If the creature’s type is something other than animal, its type does not change; and improved familiars do not gain the ability to speak with other creatures of their kind (although many of them already have the ability to communicate).
@@ -408,7 +408,7 @@ Special: A fighter may select Improved Sunder as one of his fighter bonus feats.
 IMPROVED TRIP [GENERAL]
 Prerequisites: Int 13, Combat Expertise.
 Benefit: You do not provoke an attack of opportunity when you attempt to trip an opponent while you are unarmed. You also gain a +4 bonus on your Strength check to trip your opponent.
-If you trip an opponent in melee combat, you immediately get a melee attack against that opponent as if you hadn’t used your attack for the trip attempt. 
+If you trip an opponent in melee combat, you immediately get a melee attack against that opponent as if you hadn’t used your attack for the trip attempt.
 Normal: Without this feat, you provoke an attack of opportunity when you attempt to trip an opponent while you are unarmed.
 Special: At 6th level, a monk may select Improved Trip as a bonus feat, even if she does not have the prerequisites.
 A fighter may select Improved Trip as one of his fighter bonus feats.
@@ -428,7 +428,7 @@ IMPROVED UNARMED STRIKE [GENERAL]
 Benefit: You are considered to be armed even when unarmed —that is, you do not provoke attacks or opportunity from armed opponents when you attack them while unarmed. However, you still get an attack of opportunity against any opponent who makes an unarmed attack on you.
 In addition, your unarmed strikes can deal lethal or nonlethal damage, at your option.
 Normal: Without this feat, you are considered unarmed when attacking with an unarmed strike, and you can deal only nonlethal damage with such an attack.
-Special: A monk automatically gains Improved Unarmed Strike as a bonus feat at 1st level. She need not select it. 
+Special: A monk automatically gains Improved Unarmed Strike as a bonus feat at 1st level. She need not select it.
 A fighter may select Improved Unarmed Strike as one of his fighter bonus feats.
 
 INVESTIGATOR [GENERAL]
@@ -442,40 +442,40 @@ Prerequisite: Character level 6th.
 Benefits: Having this feat enables the character to attract loyal companions and devoted followers, subordinates who assist her. See the table below for what sort of cohort and how many followers the character can recruit.
 Leadership Modifiers: Several factors can affect a character’s Leadership score, causing it to vary from the base score (character level + Cha modifier). A character’s reputation (from the point of view of the cohort or follower he is trying to attract) raises or lowers his Leadership score:
 
-Leader’s Reputation 
+Leader’s Reputation
 Modifier
-Great renown 
+Great renown
 +2
-Fairness and generosity 
+Fairness and generosity
 +1
-Special power 
+Special power
 +1
-Failure 
+Failure
 –1
-Aloofness 
+Aloofness
 –1
-Cruelty 
+Cruelty
 –2
 
 Other modifiers may apply when the character tries to attract a cohort:
-The Leader . . . 
+The Leader . . .
 Modifier
-Has a familiar, special mount, or animal companion 
+Has a familiar, special mount, or animal companion
 –2
 Recruits a cohort of a different alignment
 –1
-Caused the death of a cohort 
+Caused the death of a cohort
 –2*
 * Cumulative per cohort killed.
 
 Followers have different priorities from cohorts. When the character tries to attract a new follower, use any of the following modifiers that apply.
-The Leader . . . 
+The Leader . . .
 Modifier
 Has a stronghold, base of operations, guildhouse, or the like
 +2
-Moves around a lot 
+Moves around a lot
 –1
-Caused the death of other followers 
+Caused the death of other followers
 –1.
 
 Leadership Score
@@ -696,7 +696,7 @@ Cohorts earn XP as follows:
 The cohort does not count as a party member when determining the party’s XP.
 Divide the cohort’s level by the level of the PC with whom he or she is associated (the character with the Leadership feat who attracted the cohort).
 Multiply this result by the total XP awarded to the PC and add that number of experience points to the cohort’s total.
-If a cohort gains enough XP to bring it to a level one lower than the associated PC’s character level, the cohort does not gain the new level—its new XP total is 1 less than the amount needed attain the next level. 
+If a cohort gains enough XP to bring it to a level one lower than the associated PC’s character level, the cohort does not gain the new level—its new XP total is 1 less than the amount needed attain the next level.
 
 Number of Followers by Level: The character can lead up to the indicated number of characters of each level. Followers are similar to cohorts, except they’re generally low-level NPCs. Because they’re generally five or more levels behind the character they follow, they’re rarely effective in combat.
 Followers don’t earn experience and thus don’t gain levels. However, when a character with Leadership attains a new level, the player consults the table above to determine if she has acquired more followers, some of which may be higher level than the existing followers. (You don’t consult the table to see if your cohort gains levels, however, because cohorts earn experience on their own.)
@@ -721,7 +721,7 @@ Choose a type of martial weapon. You understand how to use that type of martial 
 Benefit: You make attack rolls with the selected weapon normally.
 Normal: When using a weapon with which you are not proficient, you take a –4 penalty on attack rolls.
 Special: Barbarians, fighters, paladins, and rangers are proficient with all martial weapons. They need not select this feat.
-You can gain Martial Weapon Proficiency multiple times. Each time you take the feat, it applies to a new type of weapon. 
+You can gain Martial Weapon Proficiency multiple times. Each time you take the feat, it applies to a new type of weapon.
 A cleric who chooses the War domain automatically gains the Martial Weapon Proficiency feat related to his deity’s favored weapon as a bonus feat, if the weapon is a martial one. He need not select it.
 
 MAXIMIZE SPELL [METAMAGIC]
@@ -789,7 +789,7 @@ Choose a type of crossbow (hand, light, or heavy).
 Prerequisite: Weapon Proficiency (crossbow type chosen).
 Benefit: The time required for you to reload your chosen type of crossbow is reduced to a free action (for a hand or light crossbow) or a move action (for a heavy crossbow). Reloading a crossbow still provokes an attack of opportunity.
 If you have selected this feat for hand crossbow or light crossbow, you may fire that weapon as many times in a full attack action as you could attack if you were using a bow.
-Normal: A character without this feat needs a move action to reload a hand or light crossbow, or a full-round action to reload a heavy crossbow. 
+Normal: A character without this feat needs a move action to reload a hand or light crossbow, or a full-round action to reload a heavy crossbow.
 Special: You can gain Rapid Reload multiple times. Each time you take the feat, it applies to a new type of crossbow.
 A fighter may select Rapid Reload as one of his fighter bonus feats.
 
@@ -898,63 +898,63 @@ Benefit: To find tracks or to follow them for 1 mile requires a successful Survi
 You move at half your normal speed (or at your normal speed with a –5 penalty on the check, or at up to twice your normal speed with a –20 penalty on the check). The DC depends on the surface and the prevailing conditions, as given on the table below:
 
 Surface
-Survival DC 
-Surface Survival 
+Survival DC
+Surface Survival
 DC
-Very soft ground 
-5 
-Firm ground 
+Very soft ground
+5
+Firm ground
 15
-Soft ground 
-10 
-Hard ground 
+Soft ground
+10
+Hard ground
 20
 
 Very Soft Ground: Any surface (fresh snow, thick dust, wet mud) that holds deep, clear impressions of footprints.
 Soft Ground: Any surface soft enough to yield to pressure, but firmer than wet mud or fresh snow, in which a creature leaves frequent but shallow footprints.
 Firm Ground: Most normal outdoor surfaces (such as lawns, fields, woods, and the like) or exceptionally soft or dirty indoor surfaces (thick rugs and very dirty or dusty floors). The creature might leave some traces (broken branches or tufts of hair), but it leaves only occasional or partial footprints.
-Hard Ground: Any surface that doesn’t hold footprints at all, such as bare rock or an indoor floor. Most streambeds fall into this category, since any footprints left behind are obscured or washed away. The creature leaves only traces (scuff marks or displaced pebbles). 
+Hard Ground: Any surface that doesn’t hold footprints at all, such as bare rock or an indoor floor. Most streambeds fall into this category, since any footprints left behind are obscured or washed away. The creature leaves only traces (scuff marks or displaced pebbles).
 Several modifiers may apply to the Survival check, as given on the table below.
 
-Condition 
+Condition
 Survival DC Modifier
-Every three creatures in the group being tracked 
+Every three creatures in the group being tracked
 –1
 Size of creature or creatures being tracked:1
 
-Fine 
+Fine
 +8
-Diminutive 
+Diminutive
 +4
-Tiny 
+Tiny
 +2
-Small 
+Small
 +1
-Medium 
+Medium
 +0
-Large 
+Large
 –1
-Huge 
+Huge
 –2
-Gargantuan 
+Gargantuan
 –4
-Colossal 
+Colossal
 –8
-Every 24 hours since the trail was made 
+Every 24 hours since the trail was made
 +1
-Every hour of rain since the trail was made 
+Every hour of rain since the trail was made
 +1
-Fresh snow cover since the trail was made 
+Fresh snow cover since the trail was made
 +10
 Poor visibility:2
 
-Overcast or moonless night 
+Overcast or moonless night
 +6
-Moonlight 
+Moonlight
 +3
-Fog or precipitation 
+Fog or precipitation
 +3
-Tracked party hides trail (and moves at half speed) 
+Tracked party hides trail (and moves at half speed)
 +5
 1 For a group of mixed sizes, apply only the modifier for the largest size category.
 2 Apply only the largest modifier from this category.
@@ -1033,19 +1033,19 @@ The price of psionic items (and thus the XP cost and the cost of the raw materia
 Power Stones: Base price = power level x manifester level x 25 gp
 Psionic Tattoos: Base price = power level x manifester level x 50 gp
 Dorjes: Base price = power level x manifester level x 750 gp
-Extra Costs: Any dorje, power stone, or psionic tattoo that stores a power with an XP cost also carries a commensurate cost. 
-For psionic tattoos and power stones, the creator must pay the XP cost when creating the item. For a dorje, the creator must pay fifty times the XP cost. 
+Extra Costs: Any dorje, power stone, or psionic tattoo that stores a power with an XP cost also carries a commensurate cost.
+For psionic tattoos and power stones, the creator must pay the XP cost when creating the item. For a dorje, the creator must pay fifty times the XP cost.
 Some psionic items similarly incur extra costs in XP, as noted in their descriptions.
 
 METAPSIONIC FEATS
 As a manifester’s knowledge of psionics grows, he can learn to manifest powers in ways slightly different from how the powers were originally designed or learned. Of course, manifesting a power while using a metapsionic feat is more expensive than manifesting the power normally.
 Manifesting Time: Powers manifested using metapsionic feats take the same time as manifesting the powers normally unless the feat description specifically says otherwise.
 Manifestation Cost: To use a metapsionic feat, a psionic character must both expend his psionic focus (see the Concentration skill description) and pay an increased power point cost as given in the feat description.
-Limits on Use: As with all powers, you cannot spend more power points on a power than your manifester level. Metapsionic feats merely let you manifest powers in different ways; they do not let you violate this rule. 
+Limits on Use: As with all powers, you cannot spend more power points on a power than your manifester level. Metapsionic feats merely let you manifest powers in different ways; they do not let you violate this rule.
 Effects of Metapsionic Feats on a Power: In all ways, a metapsionic power operates at its original power level, even though it costs additional power points. The modifications to a power made by a metapsionic feat have only their noted effect on the power. A manifester can’t use a metapsionic feat to alter a power being cast from a power stone, dorje, or other device.
 Manifesting a power modified by the Quicken Power feat does not provoke attacks of opportunity.
 Some metapsionic feats apply only to certain powers, as described in each specific feat entry.
-Psionic Items and Metapsionic Powers: With the right psionic item creation feat, you can store a metapsionic power in a power stone, psionic tattoo, or dorje. Level limits for psionic tattoos apply to the power’s higher metapsionic level. 
+Psionic Items and Metapsionic Powers: With the right psionic item creation feat, you can store a metapsionic power in a power stone, psionic tattoo, or dorje. Level limits for psionic tattoos apply to the power’s higher metapsionic level.
 A character doesn’t need the appropriate metapsionic feat to activate an item in which a metapsionic power is stored, but does need the metapsionic feat to create such an item.
 
 FEAT DESCRIPTIONS
@@ -1063,7 +1063,7 @@ Your spells are more potent when used against psionic characters and creatures.
 Prerequisite: Spellcraft 5 ranks.
 Benefit: You get a get a +2 bonus on caster level checks made to overcome a psionic creature’s power resistance.
 This bonus stacks with the bonus conferred by Spell Penetration and Greater Spell Penetration. Moreover, whenever a psionic creature attempts to dispel a spell you cast, it makes its manifester level check against a DC of 13 + its manifester level.
-The benefits of this feat apply only to power resistance. 
+The benefits of this feat apply only to power resistance.
 The bonus does not apply to spell resistance. This is an exception to the psionics–magic transparency rule.
 Special: You cannot take or use this feat if you have the ability to use powers (if you have a power point reserve or psi-like abilities).
 
@@ -1088,7 +1088,7 @@ The strength and thickness of the barrier determine your chance of success. To s
 If a power requires line of sight (which includes most powers that affect a target or targets instead of an area), you cannot manifest it as a burrowing power unless you can somehow see the target, such as with clairvoyant sense. Using this feat increases the power point cost of the power by 2. The power’s total cost cannot exceed your manifester level.
 
 CHAIN POWER [METAPSIONIC]
-You can manifest powers that arc to hit other targets in addition to the primary target. 
+You can manifest powers that arc to hit other targets in addition to the primary target.
 Benefit: To use this feat, you must expend your psionic focus. You can chain any power that affects a single target and that deals either acid, cold, electricity, fire, or sonic damage. After the primary target is struck, the power can arc to a number of secondary targets equal to your manifester level (maximum twenty). The secondary arcs each strike one target and deal half as much damage as the primary one did (round down).
 Each target gets to make a saving throw, if one is allowed by the power. You choose secondary targets as you like, but they must all be within 30 feet of the primary target, and no target can be struck more than once. You can choose to affect fewer secondary targets than the maximum (to avoid allies in the area, for example).
 Using this feat increases the power point cost of the power by 6. The power’s total cost cannot exceed your manifester level.
@@ -1166,7 +1166,7 @@ You can manifest powers that go off up to 5 rounds later.
 Benefit: To use this feat, you must expend your psionic focus. You can manifest a power as a delayed power. A delayed power doesn’t activate immediately. When you manifest the power, you choose one of three trigger mechanisms: (1) The power activates when you take a standard action to activate it; (2) It activates when a creature enters the area that the power will affect (only powers that affect areas can use this trigger condition); or (3) It activates on your turn after 5 rounds pass. If you choose one of the first two triggers and the conditions are not met within 5 rounds, the power activates automatically on the fifth round.
 Only area and personal powers can be delayed.
 Any decisions you would make about the delayed power, including attack rolls, designating targets, or determining or shaping an area, are decided when the power is manifested. Any effects resolved by those affected by the power, including saving throws, are decided when the delay period ends.
-A delayed power can be dispelled normally during the delay, and can be detected normally in the area or on the target by the use of powers that can detect psionic effects. 
+A delayed power can be dispelled normally during the delay, and can be detected normally in the area or on the target by the use of powers that can detect psionic effects.
 Using this feat increases the power point cost of the power by 2. The power’s total cost cannot exceed your manifester level.
 
 EMPOWER POWER [METAPSIONIC]
@@ -1274,12 +1274,12 @@ Prerequisites: Psicrystal Affinity.
 Benefit: You can implant another personality fragment in your psicrystal. You gain the benefits of both psicrystal personalities. Your psicrystal’s personality adjusts and becomes a blend between all implanted personality fragments. From now on, when determining the abilities of your psicrystal, treat your manifester level as one higher than your normal manifester level.
 Special: You can gain this feat multiple times. Each time, you implant a new personality fragment in your psicrystal, from which you derive the noted benefits, and you treat your level as one higher for the purpose of determining your psicrystal’s abilities.
 
-INQUISITOR [PSIONIC] 
+INQUISITOR [PSIONIC]
 You know when others lie.
 Prerequisite: Wis 13.
 Benefit: To use this feat, you must expend your psionic focus.
 You gain a +10 bonus on a Sense Motive check to oppose a Bluff check.
-You must decide whether or not to use this feat prior to making a Sense Motive check. If your check fails, or if the opponent isn’t lying, you still expend your psionic focus. 
+You must decide whether or not to use this feat prior to making a Sense Motive check. If your check fails, or if the opponent isn’t lying, you still expend your psionic focus.
 
 MAXIMIZE POWER [METAPSIONIC]
 You can manifest powers to maximum effect.
@@ -1292,7 +1292,7 @@ Using this feat increases the power point cost of the power by 4. The power’s 
 MENTAL LEAP [PSIONIC]
 You can make amazing jumps.
 Prerequisite: Str 13, Jump 5 ranks.
-Benefit: To use this feat, you must expend your psionic focus. You gain a +10 bonus on a Jump check. 
+Benefit: To use this feat, you must expend your psionic focus. You gain a +10 bonus on a Jump check.
 
 MENTAL RESISTANCE [GENERAL]
 Your mind is armored against mental intrusion.
@@ -1312,7 +1312,7 @@ Special: You can gain this feat multiple times. Each time, you can gain one addi
 MIND OVER BODY [GENERAL]
 Your ability damage heals more rapidly.
 Prerequisite: Con 13.
-Benefit: You heal ability damage and ability burn damage more quickly than normal. You heal a number of ability points per day equal to 1 + your Constitution bonus. 
+Benefit: You heal ability damage and ability burn damage more quickly than normal. You heal a number of ability points per day equal to 1 + your Constitution bonus.
 Normal: You heal ability damage and ability burn damage at a rate of 1 point per day.
 
 NARROW MIND [PSIONIC]
@@ -1322,7 +1322,7 @@ Benefit: You gain a +4 bonus on Concentration checks you make to become psionica
 
 OPEN MINDED [GENERAL]
 You are naturally able to reroute your memory, mind, and skill expertise.
-Benefit: You immediately gain an extra 5 skill points. You spend these skill points as normal. If you spend them on a cross-class skills they count as 1/2 ranks. You cannot exceed the normal maximum ranks for your level in any skill. 
+Benefit: You immediately gain an extra 5 skill points. You spend these skill points as normal. If you spend them on a cross-class skills they count as 1/2 ranks. You cannot exceed the normal maximum ranks for your level in any skill.
 Special: You can gain this feat multiple times. Each time, you immediately gain another 5 skill points.
 
 OPPORTUNITY POWER [METAPSIONIC]
@@ -1364,7 +1364,7 @@ Benefit: You get a +2 bonus on all Psicraft checks and Use Psionic Device checks
 
 PSIONIC BODY [PSIONIC]
 Your mind reinforces your body.
-Benefit: When you take this feat, you gain 2 hit points for each psionic feat you have (including this one). Whenever you take a new psionic feat, you gain 2 more hit points. 
+Benefit: When you take this feat, you gain 2 hit points for each psionic feat you have (including this one). Whenever you take a new psionic feat, you gain 2 more hit points.
 
 PSIONIC CHARGE [PSIONIC]
 You can charge in a crooked line.
@@ -1514,174 +1514,174 @@ You must decide whether or not to use this feat prior to making an attack. If yo
 Epic Feats
 ----------
 
-EPIC FEATS 
+EPIC FEATS
 
 ACQUIRING EPIC FEATS
-Characters gain epic feats in the following ways: 
+Characters gain epic feats in the following ways:
 At 21st level, and every three levels thereafter, the character may select an epic feat in place of a nonepic feat.
-Each character class gains bonus epic feats according to the class description. These feats must be selected from the list of bonus epic feats for that class. 
+Each character class gains bonus epic feats according to the class description. These feats must be selected from the list of bonus epic feats for that class.
 
 PREREQUISITES
-Most epic feats have prerequisites. A character must have the listed ability score, feat, skill, class feature, or base attack modifier in order to select or use that feat. A character can gain an epic feat at the same level at which he or she gains the prerequisite, just as with regular feats. A prerequisite expressed as a numerical value is a minimum; any value higher than the one given also meets the prerequisite. A character can’t use an epic feat if he or she has lost a prerequisite. 
+Most epic feats have prerequisites. A character must have the listed ability score, feat, skill, class feature, or base attack modifier in order to select or use that feat. A character can gain an epic feat at the same level at which he or she gains the prerequisite, just as with regular feats. A prerequisite expressed as a numerical value is a minimum; any value higher than the one given also meets the prerequisite. A character can’t use an epic feat if he or she has lost a prerequisite.
 
-TYPES OF EPIC FEATS 
-Most epic feats are general, meaning that no special rules govern them as a group. Others may be item creation feats or metamagic feats, which follow all the normal rules for such feats, except as specified in the feat’s description. In addition, some feats are defined as divine feats or as wild feats. Such feats are described below. 
+TYPES OF EPIC FEATS
+Most epic feats are general, meaning that no special rules govern them as a group. Others may be item creation feats or metamagic feats, which follow all the normal rules for such feats, except as specified in the feat’s description. In addition, some feats are defined as divine feats or as wild feats. Such feats are described below.
 
-DIVINE FEATS 
-The feats in this category share a few characteristics. First, they all have as a prerequisite the ability to turn (or, in most cases, rebuke) undead. Thus, they are open to clerics, paladins of 4th level or higher, and any prestige class that has that ability. (An ability to turn other creatures does not qualify a character to select one of these feats.) Second, the force that powers a divine feat is the ability to channel positive or negative energy to turn or rebuke undead. Each use of a divine feat costs the character one turn/rebuke attempt from his or her number of attempts each day. If a character doesn’t have any turn/rebuke attempts left, he or she can’t use the feat. Since turning or rebuking is a standard action, activating any of these feats is also a standard action. 
+DIVINE FEATS
+The feats in this category share a few characteristics. First, they all have as a prerequisite the ability to turn (or, in most cases, rebuke) undead. Thus, they are open to clerics, paladins of 4th level or higher, and any prestige class that has that ability. (An ability to turn other creatures does not qualify a character to select one of these feats.) Second, the force that powers a divine feat is the ability to channel positive or negative energy to turn or rebuke undead. Each use of a divine feat costs the character one turn/rebuke attempt from his or her number of attempts each day. If a character doesn’t have any turn/rebuke attempts left, he or she can’t use the feat. Since turning or rebuking is a standard action, activating any of these feats is also a standard action.
 
-WILD FEATS 
-The feats in this category share the characteristic of relating to the ability to use wild shape as a druid. These feats require the character to have the ability to use wild shape before acquiring the feat. 
+WILD FEATS
+The feats in this category share the characteristic of relating to the ability to use wild shape as a druid. These feats require the character to have the ability to use wild shape before acquiring the feat.
 
-EPIC PSIONIC FEATS 
-Psionic characters can acquire epic “psionically flavored” feats.  Some feats require so much translation that converted feats are provided. Whenever a feat concerns conferring or altering a spell in some fashion, some translation must be done to use it with psionics. Sometimes this translation is as straightforward as changing a few names. Translating epic metamagic feats to epic metapsionic feats requires that Spellcraft prerequisites be replaced with Psicraft. It also requires a little math—instead of casting a spell at a higher level, a psionic character pays more power points. For every spell slot one level higher than the spell’s actual level the metamagic feat requires, the metapsionic feat requires a character to pay a power point cost equal to its standard cost +2. Likewise, when a feat allows a spellcaster to “pay” one less level to use a metamagic feat, the psionic version allows a character to pay 2 power points less for a given metapsionic feat. 
+EPIC PSIONIC FEATS
+Psionic characters can acquire epic “psionically flavored” feats.  Some feats require so much translation that converted feats are provided. Whenever a feat concerns conferring or altering a spell in some fashion, some translation must be done to use it with psionics. Sometimes this translation is as straightforward as changing a few names. Translating epic metamagic feats to epic metapsionic feats requires that Spellcraft prerequisites be replaced with Psicraft. It also requires a little math—instead of casting a spell at a higher level, a psionic character pays more power points. For every spell slot one level higher than the spell’s actual level the metamagic feat requires, the metapsionic feat requires a character to pay a power point cost equal to its standard cost +2. Likewise, when a feat allows a spellcaster to “pay” one less level to use a metamagic feat, the psionic version allows a character to pay 2 power points less for a given metapsionic feat.
 
 FEATS
 
-ADDITIONAL MAGIC ITEM SPACE [EPIC] 
-Benefit: Choose one type of magic item that has a limit on the number a character can simultaneously wear and gain its benefit. The character can now wear one more magic item of this type and also gain its benefit. 
-Normal: Without this feat, a character is limited to one headband, hat, or helmet; one pair of eye lenses or goggles; one cloak, cape, or mantle; one amulet, brooch, medallion, necklace, periapt, or scarab; one suit of armor; one robe; one vest, vestment, or shirt; one pair of bracers or bracelets; one pair of gloves or gauntlets; two rings; one belt; and one pair of boots. 
-Special: A character can gain this feat multiple times. Each time the character takes the feat, it applies to a new type of wearable magic item. 
+ADDITIONAL MAGIC ITEM SPACE [EPIC]
+Benefit: Choose one type of magic item that has a limit on the number a character can simultaneously wear and gain its benefit. The character can now wear one more magic item of this type and also gain its benefit.
+Normal: Without this feat, a character is limited to one headband, hat, or helmet; one pair of eye lenses or goggles; one cloak, cape, or mantle; one amulet, brooch, medallion, necklace, periapt, or scarab; one suit of armor; one robe; one vest, vestment, or shirt; one pair of bracers or bracelets; one pair of gloves or gauntlets; two rings; one belt; and one pair of boots.
+Special: A character can gain this feat multiple times. Each time the character takes the feat, it applies to a new type of wearable magic item.
 
-ARMOR SKIN [EPIC] 
-Benefit: The character gains a +1 natural armor bonus to Armor Class, or his or her existing natural armor bonus increases by 1. 
-Special: A character can gain this feat multiple times. Its effects stack. 
+ARMOR SKIN [EPIC]
+Benefit: The character gains a +1 natural armor bonus to Armor Class, or his or her existing natural armor bonus increases by 1.
+Special: A character can gain this feat multiple times. Its effects stack.
 
-AUGMENTED ALCHEMY [EPIC] 
-Prerequisites: Int 21, Craft(alchemy) 24 ranks. 
-Benefit: Whenever creating an alchemical item or substance, the character can choose to make it more powerful than normal by adding +20 to the DC required to create it and multiplying its price by 5. If the item or substance deals damage, double the damage dealt. If the item or substance doesn’t deal damage, double the duration of its effect. If the item or substance doesn’t deal damage and doesn’t have a specific listed duration (or has an instantaneous duration), double all dimensions of its area. If the item or substance doesn’t fit any of these categories, then it cannot be affected by this feat. See the Craft (alchemy) skill description. 
+AUGMENTED ALCHEMY [EPIC]
+Prerequisites: Int 21, Craft(alchemy) 24 ranks.
+Benefit: Whenever creating an alchemical item or substance, the character can choose to make it more powerful than normal by adding +20 to the DC required to create it and multiplying its price by 5. If the item or substance deals damage, double the damage dealt. If the item or substance doesn’t deal damage, double the duration of its effect. If the item or substance doesn’t deal damage and doesn’t have a specific listed duration (or has an instantaneous duration), double all dimensions of its area. If the item or substance doesn’t fit any of these categories, then it cannot be affected by this feat. See the Craft (alchemy) skill description.
 
-AUTOMATIC QUICKEN SPELL [EPIC] 
-Prerequisites: Quicken Spell, Spellcraft 30 ranks, ability to cast 9th-level arcane or divine spells. 
-Benefit: The character may cast all 0-, 1st-, 2nd-, and 3rd-level spells as quickened spells without using higher-level spell slots. The normal limit to the number of quickened spells a character may cast per round applies. Spells with a casting time of more than 1 full round can’t be quickened. 
-Special: A character can gain this feat multiple times. Each time a character takes the feat, the spells of his or her next three lowest spell levels can now be quickened with no adjustment to their spell slots. This feat doesn’t increase the casting time for those spells that normally become full-round actions when cast in metamagic form. 
+AUTOMATIC QUICKEN SPELL [EPIC]
+Prerequisites: Quicken Spell, Spellcraft 30 ranks, ability to cast 9th-level arcane or divine spells.
+Benefit: The character may cast all 0-, 1st-, 2nd-, and 3rd-level spells as quickened spells without using higher-level spell slots. The normal limit to the number of quickened spells a character may cast per round applies. Spells with a casting time of more than 1 full round can’t be quickened.
+Special: A character can gain this feat multiple times. Each time a character takes the feat, the spells of his or her next three lowest spell levels can now be quickened with no adjustment to their spell slots. This feat doesn’t increase the casting time for those spells that normally become full-round actions when cast in metamagic form.
 
-AUTOMATIC SILENT SPELL [EPIC] 
-Prerequisites: Silent Spell, Spellcraft 24 ranks, ability to cast 9th-level arcane or divine spells. 
-Benefit: The character may cast all 0-, 1st-, 2nd-, and 3rd-level spells as silent spells without using higher-level spell slots. 
-Special: A character can gain this feat multiple times. Each time a character takes the feat, the spells of his or her next three lowest spell levels can now be silenced with no adjustment to their spell slots. This feat doesn’t increase the casting time for those spells that normally become full-round actions when cast in metamagic form. However, since bard spells can’t be enhanced with the Silent Spell feat, they can’t be affected by this feat either. 
+AUTOMATIC SILENT SPELL [EPIC]
+Prerequisites: Silent Spell, Spellcraft 24 ranks, ability to cast 9th-level arcane or divine spells.
+Benefit: The character may cast all 0-, 1st-, 2nd-, and 3rd-level spells as silent spells without using higher-level spell slots.
+Special: A character can gain this feat multiple times. Each time a character takes the feat, the spells of his or her next three lowest spell levels can now be silenced with no adjustment to their spell slots. This feat doesn’t increase the casting time for those spells that normally become full-round actions when cast in metamagic form. However, since bard spells can’t be enhanced with the Silent Spell feat, they can’t be affected by this feat either.
 
-AUTOMATIC STILL SPELL [EPIC] 
-Prerequisites: Still Spell, Spellcraft 27 ranks, ability to cast 9th-level arcane or divine spells. 
-Benefit: The character may cast all 0-, 1st-, 2nd-, and 3rd-level spells as stilled spells without using higher-level spell slots. 
-Special: A character can gain this feat multiple times. Each time a character takes the feat, the spells of his or her next three lowest spell levels can now be stilled with no adjustment to their spell slots. This feat doesn’t increase the casting time for those spells that normally become full-round actions when cast in metamagic form. 
+AUTOMATIC STILL SPELL [EPIC]
+Prerequisites: Still Spell, Spellcraft 27 ranks, ability to cast 9th-level arcane or divine spells.
+Benefit: The character may cast all 0-, 1st-, 2nd-, and 3rd-level spells as stilled spells without using higher-level spell slots.
+Special: A character can gain this feat multiple times. Each time a character takes the feat, the spells of his or her next three lowest spell levels can now be stilled with no adjustment to their spell slots. This feat doesn’t increase the casting time for those spells that normally become full-round actions when cast in metamagic form.
 
-BANE OF ENEMIES [EPIC] 
-Prerequisites: Survival 24 ranks, five or more favored enemies. 
-Benefit: Any weapon the character wields against one of his or her favored enemies is treated as a bane weapon for that creature type (thus, its enhancement bonus is increased by +2 and it deals +2d6 points of damage). This ability doesn’t stack with similar abilities. 
+BANE OF ENEMIES [EPIC]
+Prerequisites: Survival 24 ranks, five or more favored enemies.
+Benefit: Any weapon the character wields against one of his or her favored enemies is treated as a bane weapon for that creature type (thus, its enhancement bonus is increased by +2 and it deals +2d6 points of damage). This ability doesn’t stack with similar abilities.
 
-BLINDING SPEED [EPIC] 
-Prerequisite: Dex 25. 
-Benefit: The character can act as if hasted for 5 rounds each day. The duration of the effect need not be consecutive rounds. Activating this power is a free action. 
-Special: A character can gain this feat multiple times. Each time he or she takes the feat, it grants an additional 5 rounds of haste per day. 
+BLINDING SPEED [EPIC]
+Prerequisite: Dex 25.
+Benefit: The character can act as if hasted for 5 rounds each day. The duration of the effect need not be consecutive rounds. Activating this power is a free action.
+Special: A character can gain this feat multiple times. Each time he or she takes the feat, it grants an additional 5 rounds of haste per day.
 
-BONUS DOMAIN [EPIC] 
-Prerequisites: Wis 21, ability to cast 9th-level divine spells. 
-Benefit: Choose an additional domain from the character’s deity’s domain list. The character now has access to that domain’s spells as normal for his or her domain spells and the domain’s granted powers. 
-Special: A character can gain this feat multiple times. Each time he or she takes the feat, it applies to a different domain. 
+BONUS DOMAIN [EPIC]
+Prerequisites: Wis 21, ability to cast 9th-level divine spells.
+Benefit: Choose an additional domain from the character’s deity’s domain list. The character now has access to that domain’s spells as normal for his or her domain spells and the domain’s granted powers.
+Special: A character can gain this feat multiple times. Each time he or she takes the feat, it applies to a different domain.
 
-BULWARK OF DEFENSE [EPIC] 
-Prerequisites: Con 25, defensive stance 3/day. 
-Benefit: The character’s defensive stance bonuses increase to +4 Strength, +6 Constitution, +4 resistance bonus on all saves, and +6 dodge bonus to AC. 
+BULWARK OF DEFENSE [EPIC]
+Prerequisites: Con 25, defensive stance 3/day.
+Benefit: The character’s defensive stance bonuses increase to +4 Strength, +6 Constitution, +4 resistance bonus on all saves, and +6 dodge bonus to AC.
 
-CHAOTIC RAGE [EPIC] 
-Prerequisites: Rage 5/day, chaotic alignment. 
-Benefit: Any weapon the character wields while in a rage is treated as an anarchic weapon (it is chaos-aligned and deals an extra 2d6 points of damage against creatures of lawful alignment). This ability does not stack with similar abilities. 
+CHAOTIC RAGE [EPIC]
+Prerequisites: Rage 5/day, chaotic alignment.
+Benefit: Any weapon the character wields while in a rage is treated as an anarchic weapon (it is chaos-aligned and deals an extra 2d6 points of damage against creatures of lawful alignment). This ability does not stack with similar abilities.
 
-COLOSSAL WILD SHAPE [WILD][EPIC] 
+COLOSSAL WILD SHAPE [WILD][EPIC]
 Prerequisite: The ability to wild shape into a Gargantuan creature.
-Benefit: The character can use his or her wild shape to take the shape of a Colossal animal. 
-Normal: Without this feat, a character cannot wild shape into an animal of greater than Huge size. 
+Benefit: The character can use his or her wild shape to take the shape of a Colossal animal.
+Normal: Without this feat, a character cannot wild shape into an animal of greater than Huge size.
 
-COMBAT ARCHERY [EPIC] 
-Prerequisites: Dodge, Mobility, Point Blank Shot. 
-Benefit: The character does not incur any attacks of opportunity for firing a bow when threatened. 
-Normal: Without this feat, a character incurs an attack of opportunity from all opponents who threaten him or her whenever he or she uses a bow. 
+COMBAT ARCHERY [EPIC]
+Prerequisites: Dodge, Mobility, Point Blank Shot.
+Benefit: The character does not incur any attacks of opportunity for firing a bow when threatened.
+Normal: Without this feat, a character incurs an attack of opportunity from all opponents who threaten him or her whenever he or she uses a bow.
 
-CRAFT EPIC MAGIC ARMS AND ARMOR [ITEM CREATION] [EPIC] 
-Prerequisites: Craft Magic Arms and Armor, Knowledge (arcana) 28 ranks, Spellcraft 28 ranks. 
+CRAFT EPIC MAGIC ARMS AND ARMOR [ITEM CREATION] [EPIC]
+Prerequisites: Craft Magic Arms and Armor, Knowledge (arcana) 28 ranks, Spellcraft 28 ranks.
 Benefit: The character can craft magic arms and armor which exceed the normal limits for such items
 
-CRAFT EPIC ROD [ITEM CREATION][EPIC] 
-Prerequisites: Craft Rod, Knowledge (arcana) 32 ranks, Spellcraft 32 ranks. 
-Benefit: The character can craft rods that exceed the normal limits for such items. 
+CRAFT EPIC ROD [ITEM CREATION][EPIC]
+Prerequisites: Craft Rod, Knowledge (arcana) 32 ranks, Spellcraft 32 ranks.
+Benefit: The character can craft rods that exceed the normal limits for such items.
 
-CRAFT EPIC STAFF [ITEM CREATION][EPIC] 
-Prerequisites: Craft Staff, Knowledge (arcana) 35 ranks, Spellcraft 35 ranks. 
-Benefit: The character can craft staffs that exceed the normal limits for such items. 
+CRAFT EPIC STAFF [ITEM CREATION][EPIC]
+Prerequisites: Craft Staff, Knowledge (arcana) 35 ranks, Spellcraft 35 ranks.
+Benefit: The character can craft staffs that exceed the normal limits for such items.
 
-CRAFT EPIC WONDROUS ITEM [ITEM CREATION][EPIC] 
-Prerequisites: Craft Wondrous Item, Knowledge (arcana) 26 ranks, Spellcraft 26 ranks. 
-Benefit: The character can craft wondrous items that exceed the normal limits for such items. 
+CRAFT EPIC WONDROUS ITEM [ITEM CREATION][EPIC]
+Prerequisites: Craft Wondrous Item, Knowledge (arcana) 26 ranks, Spellcraft 26 ranks.
+Benefit: The character can craft wondrous items that exceed the normal limits for such items.
 
-DAMAGE REDUCTION [EPIC] 
-Prerequisite: Con 21. 
-Benefit: The character gains damage reduction 3/–. This does not stack with damage reduction granted by magic items or nonpermanent magical effects, but it does stack with any damage reduction granted by permanent magical effects, class features, or this feat itself. 
-Special: A character can gain this feat multiple times. Each time he or she gains the feat, his or her damage reduction increases by 3. 
+DAMAGE REDUCTION [EPIC]
+Prerequisite: Con 21.
+Benefit: The character gains damage reduction 3/–. This does not stack with damage reduction granted by magic items or nonpermanent magical effects, but it does stack with any damage reduction granted by permanent magical effects, class features, or this feat itself.
+Special: A character can gain this feat multiple times. Each time he or she gains the feat, his or her damage reduction increases by 3.
 
-DEAFENING SONG [EPIC] 
-Prerequisites: Perform 24 ranks, bardic music class feature. 
-Benefit: The character can use song or poetics to temporarily deafen all enemies within a 30-foot spread from him or her. A successful Fortitude save (DC 10 + 1/2 the character’s class level + the character’s Charisma modifier) negates the effect. The deafening effect lasts for as long as the character continues the deafening song. The character can choose to exclude any characters from this effect. The character may sing, play, or recite a deafening song while taking other mundane actions, but not magical ones (see the bard’s inspire courage ability for more details). The character may keep up the deafening song for a maximum of 10 rounds. Using the deafening song counts as one of the character’s uses of song or poetics for the day. 
+DEAFENING SONG [EPIC]
+Prerequisites: Perform 24 ranks, bardic music class feature.
+Benefit: The character can use song or poetics to temporarily deafen all enemies within a 30-foot spread from him or her. A successful Fortitude save (DC 10 + 1/2 the character’s class level + the character’s Charisma modifier) negates the effect. The deafening effect lasts for as long as the character continues the deafening song. The character can choose to exclude any characters from this effect. The character may sing, play, or recite a deafening song while taking other mundane actions, but not magical ones (see the bard’s inspire courage ability for more details). The character may keep up the deafening song for a maximum of 10 rounds. Using the deafening song counts as one of the character’s uses of song or poetics for the day.
 
-DEATH OF ENEMIES [EPIC] 
-Prerequisites: Bane of Enemies, Survival 30 ranks, five or more favored enemies. 
+DEATH OF ENEMIES [EPIC]
+Prerequisites: Bane of Enemies, Survival 30 ranks, five or more favored enemies.
 Benefit: Any time the character scores a critical hit against one of his or her favored enemies, it must make a Fortitude save (DC 10 + 1/2 character’s ranger class level + character’s Wisdom modifier) or die instantly.
-Special: Creatures immune to critical hits can’t be affected by this feat. 
+Special: Creatures immune to critical hits can’t be affected by this feat.
 
-DEVASTATING CRITICAL [EPIC] 
-Prerequisites: Str 25, Cleave, Great Cleave, Improved Critical (chosen weapon), Overwhelming Critical (chosen weapon), Power Attack, Weapon Focus (chosen weapon). 
-Benefit: Whenever the character scores a critical hit with the chosen weapon, the target must make a Fortitude save (DC 10 + 1/2 character level + character’s Strength modifier) or die instantly. (Creatures immune to critical hits can’t be affected by this feat.) 
-Special: A character can gain this feat multiple times. Its effects do not stack. Each time a character takes the feat, it applies to a different type of weapon. 
+DEVASTATING CRITICAL [EPIC]
+Prerequisites: Str 25, Cleave, Great Cleave, Improved Critical (chosen weapon), Overwhelming Critical (chosen weapon), Power Attack, Weapon Focus (chosen weapon).
+Benefit: Whenever the character scores a critical hit with the chosen weapon, the target must make a Fortitude save (DC 10 + 1/2 character level + character’s Strength modifier) or die instantly. (Creatures immune to critical hits can’t be affected by this feat.)
+Special: A character can gain this feat multiple times. Its effects do not stack. Each time a character takes the feat, it applies to a different type of weapon.
 
-DEXTEROUS FORTITUDE [EPIC] 
-Prerequisites: Dex 25, slippery mind class feature. 
-Benefit: Once per round, when targeted by an effect that requires a Fortitude saving throw, the character may make a Reflex save instead to avoid the effect (evasion is not applicable). 
+DEXTEROUS FORTITUDE [EPIC]
+Prerequisites: Dex 25, slippery mind class feature.
+Benefit: Once per round, when targeted by an effect that requires a Fortitude saving throw, the character may make a Reflex save instead to avoid the effect (evasion is not applicable).
 
-DEXTEROUS WILL [EPIC] 
-Prerequisites: Dex 25, slippery mind class feature. 
-Benefit: Once per round, when targeted by an effect that requires a Will saving throw, the character may make a Reflex save instead to avoid the effect (evasion is not applicable). 
+DEXTEROUS WILL [EPIC]
+Prerequisites: Dex 25, slippery mind class feature.
+Benefit: Once per round, when targeted by an effect that requires a Will saving throw, the character may make a Reflex save instead to avoid the effect (evasion is not applicable).
 
-DIMINUTIVE WILD SHAPE [WILD][EPIC] 
-Prerequisite: Ability to wild shape into a Huge animal. 
-Benefit: The character can use wild shape to take the shape of a Diminutive animal. 
-Normal: Without this feat, a character cannot wild shape into an animal of smaller than Tiny size. 
+DIMINUTIVE WILD SHAPE [WILD][EPIC]
+Prerequisite: Ability to wild shape into a Huge animal.
+Benefit: The character can use wild shape to take the shape of a Diminutive animal.
+Normal: Without this feat, a character cannot wild shape into an animal of smaller than Tiny size.
 
-DIRE CHARGE [EPIC] 
-Prerequisite: Improved Initiative. 
-Benefit: If the character charges a foe during the first round of combat (or the surprise round, if the character is allowed to act in it), he or she can make a full attack against the opponent charged. 
-Normal: Without this feat, a character may only make a single attack as part of a charge. 
+DIRE CHARGE [EPIC]
+Prerequisite: Improved Initiative.
+Benefit: If the character charges a foe during the first round of combat (or the surprise round, if the character is allowed to act in it), he or she can make a full attack against the opponent charged.
+Normal: Without this feat, a character may only make a single attack as part of a charge.
 
 DISTANT SHOT [EPIC]
-Prerequisites: Dex 25, Far Shot, Point Blank Shot, Spot 20 ranks. 
-Benefit: The character may throw or fire a ranged weapon at any target within line of sight, with no penalty for range. 
+Prerequisites: Dex 25, Far Shot, Point Blank Shot, Spot 20 ranks.
+Benefit: The character may throw or fire a ranged weapon at any target within line of sight, with no penalty for range.
 
 DRAGON WILD SHAPE [WILD][EPIC]
-Prerequisites: Wis 30, Knowledge (nature) 30 ranks, wild shape 6/day. 
-Benefit: The character may use wild shape to change into a dragon (black, blue, green, red, white, brass, bronze, copper, gold, or silver). The size limitation is the same as the character’s limitation on animal size. The character gains all extraordinary and supernatural abilities of the dragon whose form he or she takes. 
+Prerequisites: Wis 30, Knowledge (nature) 30 ranks, wild shape 6/day.
+Benefit: The character may use wild shape to change into a dragon (black, blue, green, red, white, brass, bronze, copper, gold, or silver). The size limitation is the same as the character’s limitation on animal size. The character gains all extraordinary and supernatural abilities of the dragon whose form he or she takes.
 
-EFFICIENT ITEM CREATION [EPIC] 
-Prerequisites: Item creation feat to be selected, Knowledge (arcana) 24 ranks, Spellcraft 24 ranks. 
-Benefit: Select an item creation feat. Creating a magic item using that feat requires one day per 10,000 gp of the item’s market price, with a minimum of one day. 
+EFFICIENT ITEM CREATION [EPIC]
+Prerequisites: Item creation feat to be selected, Knowledge (arcana) 24 ranks, Spellcraft 24 ranks.
+Benefit: Select an item creation feat. Creating a magic item using that feat requires one day per 10,000 gp of the item’s market price, with a minimum of one day.
 Normal: Without this feat, creating a magic item requires one day for each 1,000 gp of the item’s market price.
-Special: A character can gain this feat multiple times. Its effects do not stack. Each time a character takes the feat, it applies to a different item creation feat. 
+Special: A character can gain this feat multiple times. Its effects do not stack. Each time a character takes the feat, it applies to a different item creation feat.
 
-ENERGY RESISTANCE [EPIC] 
-Benefit: Choose a type of energy (acid, cold, electricity, fire, or sonic). The character gains resistance 10 to that type of energy, or the character’s existing resistance to that type of energy increases by 10. This feat does not stack with energy resistance granted by magic items or nonpermanent magical effects. 
-Special: A character can gain this feat multiple times. If the same type of energy is chosen, the effects stack. 
+ENERGY RESISTANCE [EPIC]
+Benefit: Choose a type of energy (acid, cold, electricity, fire, or sonic). The character gains resistance 10 to that type of energy, or the character’s existing resistance to that type of energy increases by 10. This feat does not stack with energy resistance granted by magic items or nonpermanent magical effects.
+Special: A character can gain this feat multiple times. If the same type of energy is chosen, the effects stack.
 
-ENHANCE SPELL [METAMAGIC][EPIC] 
-Prerequisite: Maximize Spell. 
-Benefit: The damage cap for the character’s spells increases by 10 dice (for spells that deal a number of dice of damage equal to caster level) or by 5 dice (for spells that deal a number of dice of damage equal to half caster level). An enhanced spell uses up a spell slot four levels higher than the spell’s actual level. This feat has no effect on spells that don’t specifically deal a number of dice of damage equal to the caster’s level or half level, even if the spell’s effect is largely dictated by the caster’s level. 
-Normal: Without this feat, use the damage dice caps indicated in the spell’s description. 
-Special: A character may gain this feat multiple times. Each time he or she selects this feat, the damage cap increases by 10 dice or 5 dice, as appropriate to the spell, and the enhanced spell takes up a spell slot an additional four levels higher. 
+ENHANCE SPELL [METAMAGIC][EPIC]
+Prerequisite: Maximize Spell.
+Benefit: The damage cap for the character’s spells increases by 10 dice (for spells that deal a number of dice of damage equal to caster level) or by 5 dice (for spells that deal a number of dice of damage equal to half caster level). An enhanced spell uses up a spell slot four levels higher than the spell’s actual level. This feat has no effect on spells that don’t specifically deal a number of dice of damage equal to the caster’s level or half level, even if the spell’s effect is largely dictated by the caster’s level.
+Normal: Without this feat, use the damage dice caps indicated in the spell’s description.
+Special: A character may gain this feat multiple times. Each time he or she selects this feat, the damage cap increases by 10 dice or 5 dice, as appropriate to the spell, and the enhanced spell takes up a spell slot an additional four levels higher.
 
-EPIC DODGE [EPIC] 
-Prerequisites: Dex 25, Dodge, Tumble 30 ranks, improved evasion, defensive roll class feature. 
-Benefit: Once per round, when struck by an attack from an opponent the character has designated as the object of his or her dodge, the character may automatically avoid all damage from the attack. 
+EPIC DODGE [EPIC]
+Prerequisites: Dex 25, Dodge, Tumble 30 ranks, improved evasion, defensive roll class feature.
+Benefit: Once per round, when struck by an attack from an opponent the character has designated as the object of his or her dodge, the character may automatically avoid all damage from the attack.
 
-EPIC ENDURANCE [EPIC] 
-Prerequisites: Con 25, Endurance. 
-Benefit: Whenever the character makes a check for performing a physical action that extends over a period of time, he or she gets a +10 bonus on the check. 
+EPIC ENDURANCE [EPIC]
+Prerequisites: Con 25, Endurance.
+Benefit: Whenever the character makes a check for performing a physical action that extends over a period of time, he or she gets a +10 bonus on the check.
 
 EPIC EXPANDED KNOWLEDGE [EPIC, PSIONIC]
 You learn another power.
@@ -1689,16 +1689,16 @@ Prerequisites: Character level 21st, ability to manifest powers of the normal ma
 Benefit: You learn one additional power at any level up to the highest level of power you can manifest. You can choose any power, even one that is part of another discipline’s list or another class’s list.
 Special: You can gain this feat multiple times. Each time, you learn one new power at any level up to the highest level of power you can manifest.
 
-EPIC FORTITUDE [EPIC] 
-Benefit: The character gains a +4 bonus on all Fortitude saving throws. 
+EPIC FORTITUDE [EPIC]
+Benefit: The character gains a +4 bonus on all Fortitude saving throws.
 
-EPIC INSPIRATION [EPIC] 
-Prerequisites: Cha 25, Perform 30 ranks, bardic music class feature. 
-Benefit: All competence bonuses, dodge bonuses, and morale bonuses granted by the character’s bardic music ability increase by +1.  If you have the inspire greatness bardic music ability, it grants one additional bonus HD. 
-Special: A character can gain this feat multiple times. Its effects stack. 
+EPIC INSPIRATION [EPIC]
+Prerequisites: Cha 25, Perform 30 ranks, bardic music class feature.
+Benefit: All competence bonuses, dodge bonuses, and morale bonuses granted by the character’s bardic music ability increase by +1.  If you have the inspire greatness bardic music ability, it grants one additional bonus HD.
+Special: A character can gain this feat multiple times. Its effects stack.
 
-EPIC LEADERSHIP [EPIC] 
-Prerequisites: Cha 25, Leadership, Leadership score 25. 
+EPIC LEADERSHIP [EPIC]
+Prerequisites: Cha 25, Leadership, Leadership score 25.
 Benefit: The character attracts a cohort and followers as shown below on Table: Epic Leadership.  In all other ways Epic Leadership functions as the Leadership feat.
 Normal: The Leadership feat provides no benefit for leadership scores beyond 25.
 
@@ -1923,12 +1923,12 @@ per +1
 †
 †
 
-Leadership Score: A character’s Leadership score equals his or her level plus any Charisma modifier. Outside factors can affect a character’s Leadership score, as detailed in the Leadership feat. 
-Cohort Level: The character can attract a cohort of up to this level. Regardless of the character’s Leadership score, he or she can’t recruit a cohort of his or her level or higher. 
-Number of Followers by Level: The character can lead up to the indicated number of characters of each level. 
-*The maximum cohort level increases by 1 for every 2 points of Leadership above 40. **The number of 1st-level followers increases by 100 for every point of Leadership above 40. 
+Leadership Score: A character’s Leadership score equals his or her level plus any Charisma modifier. Outside factors can affect a character’s Leadership score, as detailed in the Leadership feat.
+Cohort Level: The character can attract a cohort of up to this level. Regardless of the character’s Leadership score, he or she can’t recruit a cohort of his or her level or higher.
+Number of Followers by Level: The character can lead up to the indicated number of characters of each level.
+*The maximum cohort level increases by 1 for every 2 points of Leadership above 40. **The number of 1st-level followers increases by 100 for every point of Leadership above 40.
 †A character can command one-tenth as many 2nd-level followers as 1st-level followers. A character can command one-half as many 3rd-level followers as 2nd-level followers, one-half as many 4th-level followers as 3rd-level followers, and so on (round fractions up, except any fraction less than 1 rounds to 0). A character can’t have a follower of higher than 20th level.
-Table: Example Special Epic Cohorts presents some creatures that make good cohorts for epic characters. 
+Table: Example Special Epic Cohorts presents some creatures that make good cohorts for epic characters.
 
 Table: Example Special Epic Cohorts
 Creature
@@ -1946,7 +1946,7 @@ Lawful good
 Giant, cloud
 Neutral good
 24th
-Ghaele 
+Ghaele
 Chaotic good
 20st
 Giant, storm
@@ -1983,9 +1983,9 @@ Dragon, wyrm white
 Chaotic evil
 41th
 
-EPIC PROWESS [EPIC] 
-Benefit: Gain a +1 bonus on all attacks. 
-Special: A character can gain this feat multiple times. Its effects stack. 
+EPIC PROWESS [EPIC]
+Benefit: Gain a +1 bonus on all attacks.
+Special: A character can gain this feat multiple times. Its effects stack.
 
 EPIC PSIONIC FOCUS [EPIC, PSIONIC]
 You can expend your psionic focus to greater effect.
@@ -1993,189 +1993,189 @@ Prerequisites: Character level 21st, ability to manifest powers of the normal ma
 Benefit: When you expend your psionic focus, you can simultaneously use two feats that require a psionic focus to be expended, instead of just one. The feats must be stackable. You must still spend the requisite power points required to use each metapsionic feat, and you cannot exceed the power point limit set by your manifester level.
 Special: You can take this feat multiple times. Each time you do so, you can simultaneously use one additional feat that requires a psionic focus to be expended.
 
-EPIC REFLEXES [EPIC] 
-Benefit: The character gains a +4 bonus on all Reflex saving throws. 
+EPIC REFLEXES [EPIC]
+Benefit: The character gains a +4 bonus on all Reflex saving throws.
 
-EPIC REPUTATION [EPIC] 
-Benefit: The character gains a +4 bonus on Bluff, Diplomacy, Gather Information, Intimidate, and Perform checks. 
+EPIC REPUTATION [EPIC]
+Benefit: The character gains a +4 bonus on Bluff, Diplomacy, Gather Information, Intimidate, and Perform checks.
 
-EPIC SKILL FOCUS [EPIC] 
-Prerequisite: 20 ranks in the skill selected. 
-Benefit: The character gains a +10 bonus on all skill checks with that skill. 
-Special: A character can gain this feat multiple times. Its effects do not stack. Each time a character takes the feat, it applies to a different skill. 
+EPIC SKILL FOCUS [EPIC]
+Prerequisite: 20 ranks in the skill selected.
+Benefit: The character gains a +10 bonus on all skill checks with that skill.
+Special: A character can gain this feat multiple times. Its effects do not stack. Each time a character takes the feat, it applies to a different skill.
 
-EPIC SPEED [EPIC] 
-Prerequisites: Dex 21, Run. 
-Benefit: The character’s speed increases by 30 feet. This benefit does not stack with increased speed granted by magic items or nonpermanent magical effects. 
-Special: This feat only functions when the character is wearing medium armor, light armor, or no armor. 
+EPIC SPEED [EPIC]
+Prerequisites: Dex 21, Run.
+Benefit: The character’s speed increases by 30 feet. This benefit does not stack with increased speed granted by magic items or nonpermanent magical effects.
+Special: This feat only functions when the character is wearing medium armor, light armor, or no armor.
 
-EPIC SPELL FOCUS [EPIC] 
-Prerequisites: Greater Spell Focus and Spell Focus in the school selected, ability to cast at least one 9th-level spell of the school to be chosen. 
-Benefit: Add +1 to the Difficulty Class for all saving throws against spells from the school of magic the character selects to focus on. This stacks with the bonuses from Spell Focus and Greater Spell Focus. 
-Special: A character can gain this feat multiple times. Its effects do not stack. Each time the character takes the feat, it applies to a different school of magic. 
+EPIC SPELL FOCUS [EPIC]
+Prerequisites: Greater Spell Focus and Spell Focus in the school selected, ability to cast at least one 9th-level spell of the school to be chosen.
+Benefit: Add +1 to the Difficulty Class for all saving throws against spells from the school of magic the character selects to focus on. This stacks with the bonuses from Spell Focus and Greater Spell Focus.
+Special: A character can gain this feat multiple times. Its effects do not stack. Each time the character takes the feat, it applies to a different school of magic.
 
-EPIC SPELL PENETRATION [EPIC] 
-Prerequisites: Greater Spell Penetration, Spell Penetration. 
-Benefit: The character gets a +2 bonus on caster level checks to beat a creature’s spell resistance. This stacks with the bonuses from Spell Penetration and Greater Spell Penetration. 
+EPIC SPELL PENETRATION [EPIC]
+Prerequisites: Greater Spell Penetration, Spell Penetration.
+Benefit: The character gets a +2 bonus on caster level checks to beat a creature’s spell resistance. This stacks with the bonuses from Spell Penetration and Greater Spell Penetration.
 
-EPIC SPELLCASTING [EPIC] 
-Prerequisite: Spellcraft 24 ranks, Knowledge (arcana) 24 ranks, ability to cast 9th-level arcane spells. OR Spellcraft 24 ranks, Knowledge (religion) 24 ranks, ability to cast 9th-level divine spells. OR Spellcraft 24 ranks, Knowledge (nature) 24 ranks, ability to cast 9th-level divine spells. 
-Benefit: The character may develop and cast epic spells.  If the character is an arcane spellcaster, he or she may cast a number of epic spells per day equal to his or her ranks in Knowledge (arcana) divided by 10. If the character is a divine spellcaster, he or she may cast a number of epic spells per day equal to his or her ranks in Knowledge (religion) or Knowledge (nature) divided by 10. 
-Special: If the character meets more than one set of prerequisites, the limit on the number of spells he or she may cast per day is cumulative. 
+EPIC SPELLCASTING [EPIC]
+Prerequisite: Spellcraft 24 ranks, Knowledge (arcana) 24 ranks, ability to cast 9th-level arcane spells. OR Spellcraft 24 ranks, Knowledge (religion) 24 ranks, ability to cast 9th-level divine spells. OR Spellcraft 24 ranks, Knowledge (nature) 24 ranks, ability to cast 9th-level divine spells.
+Benefit: The character may develop and cast epic spells.  If the character is an arcane spellcaster, he or she may cast a number of epic spells per day equal to his or her ranks in Knowledge (arcana) divided by 10. If the character is a divine spellcaster, he or she may cast a number of epic spells per day equal to his or her ranks in Knowledge (religion) or Knowledge (nature) divided by 10.
+Special: If the character meets more than one set of prerequisites, the limit on the number of spells he or she may cast per day is cumulative.
 
-EPIC TOUGHNESS [EPIC] 
-Benefit: The character gains +30 hit points. 
-Special: A character can gain this feat multiple times. Its effects stack. 
+EPIC TOUGHNESS [EPIC]
+Benefit: The character gains +30 hit points.
+Special: A character can gain this feat multiple times. Its effects stack.
 
-EPIC WEAPON FOCUS [EPIC] 
-Prerequisite: Weapon Focus in the chosen weapon. 
-Benefit: Add a +2 bonus to all attack rolls the character makes using the selected weapon. 
-Special: A character can gain this feat multiple times. Its effects do not stack. Each time the character takes the feat it applies to a different type of weapon. 
+EPIC WEAPON FOCUS [EPIC]
+Prerequisite: Weapon Focus in the chosen weapon.
+Benefit: Add a +2 bonus to all attack rolls the character makes using the selected weapon.
+Special: A character can gain this feat multiple times. Its effects do not stack. Each time the character takes the feat it applies to a different type of weapon.
 
-EPIC WEAPON SPECIALIZATION [EPIC] 
-Prerequisites: Epic Weapon Focus, Weapon Focus, Weapon Specialization (all in the chosen weapon). 
-Benefit: Add +4 to all damage the character deals using the selected weapon. If the weapon is a ranged weapon, the damage bonus only applies if the target is within 30 feet. 
-Special: A character can gain this feat multiple times. Its effects do not stack. Each time the character takes the feat, it applies to a different type of weapon. 
+EPIC WEAPON SPECIALIZATION [EPIC]
+Prerequisites: Epic Weapon Focus, Weapon Focus, Weapon Specialization (all in the chosen weapon).
+Benefit: Add +4 to all damage the character deals using the selected weapon. If the weapon is a ranged weapon, the damage bonus only applies if the target is within 30 feet.
+Special: A character can gain this feat multiple times. Its effects do not stack. Each time the character takes the feat, it applies to a different type of weapon.
 
-EPIC WILL [EPIC] 
-Benefit: The character gains a +4 bonus on all Will saving throws. 
+EPIC WILL [EPIC]
+Benefit: The character gains a +4 bonus on all Will saving throws.
 
-EXCEPTIONAL DEFLECTION [EPIC] 
-Prerequisites: Dex 21, Wis 19, Deflect Arrows, Improved Unarmed Strike. 
-Benefit: The character can deflect any ranged attacks (including spells that require ranged touch attacks) as if they were arrows. 
+EXCEPTIONAL DEFLECTION [EPIC]
+Prerequisites: Dex 21, Wis 19, Deflect Arrows, Improved Unarmed Strike.
+Benefit: The character can deflect any ranged attacks (including spells that require ranged touch attacks) as if they were arrows.
 
-EXTENDED LIFE SPAN [EPIC] 
-Benefit: Add one-half the maximum result of the character’s race’s maximum age modifier to the character’s normal middle age, old, and venerable age categories. Calculate the character’s maximum age using the new venerable number. This feat can’t lower the character’s current age category. 
-Special: A character can gain this feat multiple times. Its effects stack. 
+EXTENDED LIFE SPAN [EPIC]
+Benefit: Add one-half the maximum result of the character’s race’s maximum age modifier to the character’s normal middle age, old, and venerable age categories. Calculate the character’s maximum age using the new venerable number. This feat can’t lower the character’s current age category.
+Special: A character can gain this feat multiple times. Its effects stack.
 
-FAMILIAR SPELL [EPIC] 
-Prerequisite: Int 25 (if the character’s spellcasting is controlled by Intelligence) or Cha 25 (if the character’s spellcasting is controlled by Charisma). 
-Benefit: Choose one arcane spell the character knows of 8th level or lower. The character’s familiar can now use this spell once per day as a spell-like ability, at a caster level equal to the character’s caster level. A character cannot bestow a spell to his or her familiar if the spell normally has a material component cost of more than 1 gp or an XP cost. 
-Special: A character can gain this feat multiple times. Each time the character takes the feat, he or she can give his or her familiar a different spell-like ability or another daily use of the same spell-like ability. 
+FAMILIAR SPELL [EPIC]
+Prerequisite: Int 25 (if the character’s spellcasting is controlled by Intelligence) or Cha 25 (if the character’s spellcasting is controlled by Charisma).
+Benefit: Choose one arcane spell the character knows of 8th level or lower. The character’s familiar can now use this spell once per day as a spell-like ability, at a caster level equal to the character’s caster level. A character cannot bestow a spell to his or her familiar if the spell normally has a material component cost of more than 1 gp or an XP cost.
+Special: A character can gain this feat multiple times. Each time the character takes the feat, he or she can give his or her familiar a different spell-like ability or another daily use of the same spell-like ability.
 
-FAST HEALING [EPIC] 
-Prerequisite: Con 25. 
-Benefit: The character gains fast healing 3, or the character’s existing fast healing increases by 3. This feat does not stack with fast healing granted by magic items or nonpermanent magical effects. 
-Special: This feat may be taken multiple times. Its effects stack. 
+FAST HEALING [EPIC]
+Prerequisite: Con 25.
+Benefit: The character gains fast healing 3, or the character’s existing fast healing increases by 3. This feat does not stack with fast healing granted by magic items or nonpermanent magical effects.
+Special: This feat may be taken multiple times. Its effects stack.
 
 FINE WILD SHAPE [WILD][EPIC]
-Prerequisite: Ability to wild shape into a Diminutive creature. 
-Benefit: The character can use his or her wild shape to take the shape of a Fine animal. 
-Normal: Without this feat, a character cannot wild shape into an animal smaller than Tiny size. 
+Prerequisite: Ability to wild shape into a Diminutive creature.
+Benefit: The character can use his or her wild shape to take the shape of a Fine animal.
+Normal: Without this feat, a character cannot wild shape into an animal smaller than Tiny size.
 
-FORGE EPIC RING [ITEM CREATION][EPIC] 
-Prerequisites: Forge Ring, Knowledge (arcana) 35 ranks, Spellcraft 35 ranks. 
+FORGE EPIC RING [ITEM CREATION][EPIC]
+Prerequisites: Forge Ring, Knowledge (arcana) 35 ranks, Spellcraft 35 ranks.
 Benefit: The character can forge magic rings that exceed the normal limits for such items.
 
 GARGANTUAN WILD SHAPE [WILD][EPIC]
-Prerequisite: Ability to wild shape into a Huge animal. 
-Benefit: The character can use your wild shape to take the shape of a Gargantuan animal. 
-Normal: Without this feat, a character cannot wild shape into an animal greater than Huge size. 
+Prerequisite: Ability to wild shape into a Huge animal.
+Benefit: The character can use your wild shape to take the shape of a Gargantuan animal.
+Normal: Without this feat, a character cannot wild shape into an animal greater than Huge size.
 
-GREAT CHARISMA [EPIC] 
-Benefit: The character’s Charisma increases by 1 point. 
-Special: A character can gain this feat multiple times. Its effects stack. 
+GREAT CHARISMA [EPIC]
+Benefit: The character’s Charisma increases by 1 point.
+Special: A character can gain this feat multiple times. Its effects stack.
 
-GREAT CONSTITUTION [EPIC] 
+GREAT CONSTITUTION [EPIC]
 Benefit: The character’s Constitution increases by 1 point.
-Special: A character can gain this feat multiple times. Its effects stack. 
+Special: A character can gain this feat multiple times. Its effects stack.
 
-GREAT DEXTERITY [EPIC] 
-Benefit: The character’s Dexterity increases by 1 point. 
-Special: A character can gain this feat multiple times. Its effects stack. 
+GREAT DEXTERITY [EPIC]
+Benefit: The character’s Dexterity increases by 1 point.
+Special: A character can gain this feat multiple times. Its effects stack.
 
-GREAT INTELLIGENCE [EPIC] 
-Benefit: The character’s Intelligence increases by 1 point. 
-Special: A character can gain this feat multiple times. Its effects stack. 
+GREAT INTELLIGENCE [EPIC]
+Benefit: The character’s Intelligence increases by 1 point.
+Special: A character can gain this feat multiple times. Its effects stack.
 
-GREAT SMITING [EPIC] 
-Prerequisites: Cha 25, smite ability (from class feature or domain granted power). 
-Benefit: Whenever the character makes a successful smite attack, add twice the appropriate level to damage (rather than just the character’s level). 
+GREAT SMITING [EPIC]
+Prerequisites: Cha 25, smite ability (from class feature or domain granted power).
+Benefit: Whenever the character makes a successful smite attack, add twice the appropriate level to damage (rather than just the character’s level).
 Special: A character may select this feat multiple times. Its effects stack. Remember that two doublings equals a tripling, and so forth.
 
-GREAT STRENGTH [EPIC] 
-Benefit: The character’s Strength increases by 1 point. 
-Special: A character can gain this feat multiple times. Its effects stack. 
+GREAT STRENGTH [EPIC]
+Benefit: The character’s Strength increases by 1 point.
+Special: A character can gain this feat multiple times. Its effects stack.
 
-GREAT WISDOM [EPIC] 
-Benefit: The character’s Wisdom increases by 1 point. 
-Special: A character can gain this feat multiple times. Its effects stack. 
+GREAT WISDOM [EPIC]
+Benefit: The character’s Wisdom increases by 1 point.
+Special: A character can gain this feat multiple times. Its effects stack.
 
-GROUP INSPIRATION [EPIC] 
-Prerequisite: Perform 30 ranks, bardic music class feature. 
-Benefit: The number of allies the character can affect with his or her inspire competence or inspire greatness bardic music ability doubles. When inspiring competence in multiple allies, the character can choose different skills to inspire for different allies. 
-Special: A character can gain this feat multiple times. Its effects stack. Remember that two doublings equals a tripling, and so forth. 
+GROUP INSPIRATION [EPIC]
+Prerequisite: Perform 30 ranks, bardic music class feature.
+Benefit: The number of allies the character can affect with his or her inspire competence or inspire greatness bardic music ability doubles. When inspiring competence in multiple allies, the character can choose different skills to inspire for different allies.
+Special: A character can gain this feat multiple times. Its effects stack. Remember that two doublings equals a tripling, and so forth.
 
-HINDERING SONG [EPIC] 
-Prerequisite: Deafening Song, Perform 27 ranks, bardic music class feature. 
-Benefit: The character can use song or poetics to hinder enemy spellcasters within a 30-foot spread from the character. To successfully cast a spell within this area, a spellcaster must make a Concentration check as if he or she were casting defensively, and all such checks have a penalty equal to half the character’s level. The character can choose to exclude any characters from this effect. The character may sing, play, or recite a hindering song while taking other mundane actions, but not magical ones (see the bard’s inspire courage ability for more details). The character may keep up the hindering song for a maximum of 10 rounds. Using the hindering song counts as one of the character’s uses of song or poetics for the day. 
+HINDERING SONG [EPIC]
+Prerequisite: Deafening Song, Perform 27 ranks, bardic music class feature.
+Benefit: The character can use song or poetics to hinder enemy spellcasters within a 30-foot spread from the character. To successfully cast a spell within this area, a spellcaster must make a Concentration check as if he or she were casting defensively, and all such checks have a penalty equal to half the character’s level. The character can choose to exclude any characters from this effect. The character may sing, play, or recite a hindering song while taking other mundane actions, but not magical ones (see the bard’s inspire courage ability for more details). The character may keep up the hindering song for a maximum of 10 rounds. Using the hindering song counts as one of the character’s uses of song or poetics for the day.
 
-HOLY STRIKE [EPIC] 
-Prerequisites: Smite evil class feature, any good alignment. 
-Benefit: Any weapon the character wields is treated as a holy weapon (is good-aligned and deals an extra 2d6 points of damage against creatures of evil alignment).If the weapon already has an alignment, this feat has no effect on the weapon. 
+HOLY STRIKE [EPIC]
+Prerequisites: Smite evil class feature, any good alignment.
+Benefit: Any weapon the character wields is treated as a holy weapon (is good-aligned and deals an extra 2d6 points of damage against creatures of evil alignment).If the weapon already has an alignment, this feat has no effect on the weapon.
 
-IGNORE MATERIAL COMPONENTS [EPIC] 
-Prerequisites: Eschew Materials, Spellcraft 25 ranks, ability to cast 9th-level arcane or divine spells. 
-Benefit: The character may cast spells without any material components. This feat does not affect the need for a focus or divine focus. 
+IGNORE MATERIAL COMPONENTS [EPIC]
+Prerequisites: Eschew Materials, Spellcraft 25 ranks, ability to cast 9th-level arcane or divine spells.
+Benefit: The character may cast spells without any material components. This feat does not affect the need for a focus or divine focus.
 
-IMPROVED ALIGNMENT-BASED CASTING [EPIC] 
-Prerequisites: Access to domain of Chaos, Evil, Good, or Law, alignment must match domain chosen, ability to cast 9th-level divine spells. 
-Benefit: Select an alignment-based domain (Chaos, Evil, Good, or Law) to which the character has access. The character casts spells with that alignment descriptor at +3 caster level. 
-Special: This benefit overrides (does not stack with) the granted powers of the Chaos, Evil, Good, and Law domains. A character may select this feat multiple times. Its effects do not stack. Each time a character takes the feat, it applies to a different alignment-based domain to which the character has access. 
+IMPROVED ALIGNMENT-BASED CASTING [EPIC]
+Prerequisites: Access to domain of Chaos, Evil, Good, or Law, alignment must match domain chosen, ability to cast 9th-level divine spells.
+Benefit: Select an alignment-based domain (Chaos, Evil, Good, or Law) to which the character has access. The character casts spells with that alignment descriptor at +3 caster level.
+Special: This benefit overrides (does not stack with) the granted powers of the Chaos, Evil, Good, and Law domains. A character may select this feat multiple times. Its effects do not stack. Each time a character takes the feat, it applies to a different alignment-based domain to which the character has access.
 
-IMPROVED ARROW OF DEATH [EPIC] 
-Prerequisites: Dex 19, Wis 19, Point Blank Shot, Precise Shot, arrow of death class feature. 
-Benefit: Add +2 to the DC of the character’s arrows of death. This feat may be taken multiple times. Its effects stack. 
+IMPROVED ARROW OF DEATH [EPIC]
+Prerequisites: Dex 19, Wis 19, Point Blank Shot, Precise Shot, arrow of death class feature.
+Benefit: Add +2 to the DC of the character’s arrows of death. This feat may be taken multiple times. Its effects stack.
 
-IMPROVED AURA OF COURAGE [EPIC] 
-Prerequisite: Cha 25, aura of courage class ability. 
-Benefit: The character’s aura of courage grants a +8 morale bonus on saving throws against fear effects. 
+IMPROVED AURA OF COURAGE [EPIC]
+Prerequisite: Cha 25, aura of courage class ability.
+Benefit: The character’s aura of courage grants a +8 morale bonus on saving throws against fear effects.
 
-IMPROVED AURA OF DESPAIR [EPIC] 
-Prerequisite: Cha 25, aura of despair class ability. 
-Benefit: The character’s aura of despair causes a –4 morale penalty on all saving throws. 
+IMPROVED AURA OF DESPAIR [EPIC]
+Prerequisite: Cha 25, aura of despair class ability.
+Benefit: The character’s aura of despair causes a –4 morale penalty on all saving throws.
 
-IMPROVED COMBAT CASTING [EPIC] 
-Prerequisites: Combat Casting, Concentration 25 ranks. 
-Benefit: The character doesn’t incur attacks of opportunity for casting spells when threatened. 
+IMPROVED COMBAT CASTING [EPIC]
+Prerequisites: Combat Casting, Concentration 25 ranks.
+Benefit: The character doesn’t incur attacks of opportunity for casting spells when threatened.
 
-IMPROVED COMBAT REFLEXES [EPIC] 
-Prerequisites: Dex 21, Combat Reflexes. 
-Benefit: There is no limit to the number of attacks of opportunity the character can make in one round. (the character still can’t make more than one attack of opportunity for a given oppertunity.) 
+IMPROVED COMBAT REFLEXES [EPIC]
+Prerequisites: Dex 21, Combat Reflexes.
+Benefit: There is no limit to the number of attacks of opportunity the character can make in one round. (the character still can’t make more than one attack of opportunity for a given oppertunity.)
 
 IMPROVED DARKVISION [EPIC]
-Prerequisite: Darkvision. 
-Benefit: The range of the character’s darkvision doubles. This feat does not stack with darkvision granted by magic items or nonpermanent magical effects. 
-Special: This feat may be taken multiple times. Its effects stack. Remember that two doublings equals a tripling, and so on. 
+Prerequisite: Darkvision.
+Benefit: The range of the character’s darkvision doubles. This feat does not stack with darkvision granted by magic items or nonpermanent magical effects.
+Special: This feat may be taken multiple times. Its effects stack. Remember that two doublings equals a tripling, and so on.
 
-IMPROVED DEATH ATTACK [EPIC] 
-Prerequisites: Death attack class feature, sneak attack +5d6. 
-Benefit: Add +2 to the DC of the character’s death attack. 
-Special: This feat may be taken multiple times. Its effects stack. 
+IMPROVED DEATH ATTACK [EPIC]
+Prerequisites: Death attack class feature, sneak attack +5d6.
+Benefit: Add +2 to the DC of the character’s death attack.
+Special: This feat may be taken multiple times. Its effects stack.
 
-IMPROVED ELEMENTAL WILD SHAPE [WILD][EPIC] 
-Prerequisites: Wis 25, ability to wild shape into an elemental. 
-Benefit: The character’s ability to wild shape into an elemental is expanded to include all elemental creatures (not just air, earth, fire, and water elementals) of any size that the character can take when using wild shape to become an animal. The character gains all extraordinary and supernatural abilities of the elemental whose form he or she takes. 
-Normal: Without this feat, a character may only wild shape into a Small, Medium-size, or Large air, earth, fire, or water elemental. 
+IMPROVED ELEMENTAL WILD SHAPE [WILD][EPIC]
+Prerequisites: Wis 25, ability to wild shape into an elemental.
+Benefit: The character’s ability to wild shape into an elemental is expanded to include all elemental creatures (not just air, earth, fire, and water elementals) of any size that the character can take when using wild shape to become an animal. The character gains all extraordinary and supernatural abilities of the elemental whose form he or she takes.
+Normal: Without this feat, a character may only wild shape into a Small, Medium-size, or Large air, earth, fire, or water elemental.
 
-IMPROVED FAVORED ENEMY [EPIC] 
-Prerequisite: Five or more favored enemies. 
-Benefit: Add +1 to the bonus on Bluff, Listen, Sense Motive, Spot, and Survival checks and damage rolls against all the character’s favored enemies. 
-Special: This feat may be taken multiple times. Its effects stack. 
+IMPROVED FAVORED ENEMY [EPIC]
+Prerequisite: Five or more favored enemies.
+Benefit: Add +1 to the bonus on Bluff, Listen, Sense Motive, Spot, and Survival checks and damage rolls against all the character’s favored enemies.
+Special: This feat may be taken multiple times. Its effects stack.
 
-IMPROVED HEIGHTEN SPELL [EPIC] 
-Prerequisites: Heighten Spell, Spellcraft 20 ranks. 
-Benefit: As Heighten Spell, but there is no limit to the level to which the character can heighten the spell. 
-Normal: Without this feat, a spell can only be heightened to a maximum of 9th level. 
+IMPROVED HEIGHTEN SPELL [EPIC]
+Prerequisites: Heighten Spell, Spellcraft 20 ranks.
+Benefit: As Heighten Spell, but there is no limit to the level to which the character can heighten the spell.
+Normal: Without this feat, a spell can only be heightened to a maximum of 9th level.
 
-IMPROVED KI STRIKE [EPIC] 
-Prerequisites: Wis 21, Ki strike (adamantine). 
-Benefit: The character’s unarmed strikes are treated as epic magic weapons for the purposes of damage reduction. 
+IMPROVED KI STRIKE [EPIC]
+Prerequisites: Wis 21, Ki strike (adamantine).
+Benefit: The character’s unarmed strikes are treated as epic magic weapons for the purposes of damage reduction.
 
-IMPROVED LOW-LIGHT VISION [EPIC] 
-Prerequisite: Low-light vision. 
-Benefit: The range of the character’s low-light vision doubles. This feat does not stack with low-light vision granted by magic items or nonpermanent magical effects. 
-Special: This feat may be taken multiple times. Its effects stack. Remember that two doublings equals a tripling, and so on. 
+IMPROVED LOW-LIGHT VISION [EPIC]
+Prerequisite: Low-light vision.
+Benefit: The range of the character’s low-light vision doubles. This feat does not stack with low-light vision granted by magic items or nonpermanent magical effects.
+Special: This feat may be taken multiple times. Its effects stack. Remember that two doublings equals a tripling, and so on.
 
 IMPROVED MANIFESTATION [EPIC, PSIONIC]
 You increase your power point reserve.
@@ -2184,16 +2184,16 @@ Benefit: When you select this feat, you gain 19 power points.
 Special: You can gain this feat multiple times. Each time you do so, you gain an additional number of power points
 equal to your previous benefit +2.
 
-IMPROVED MANYSHOT [EPIC] 
-Prerequisites: Dex 19, base attack bonus +21, Many-shot, Point Blank Shot, Rapid Shot 
-Benefits: As Manyshot, but the number of arrows the character can fire is limited only by his or her base attack bonus (two arrows, plus one arrow for every 5 points of base attack bonus above +6). 
-Special: Regardless of the number of arrows the character fires, he or she only applies precision-based damage (such as sneak attack damage or the ranger’s favored enemy bonus) once. If the character scores a critical hit, only one of the arrows deals critical damage (character’s choice); all others deal normal damage. 
+IMPROVED MANYSHOT [EPIC]
+Prerequisites: Dex 19, base attack bonus +21, Many-shot, Point Blank Shot, Rapid Shot
+Benefits: As Manyshot, but the number of arrows the character can fire is limited only by his or her base attack bonus (two arrows, plus one arrow for every 5 points of base attack bonus above +6).
+Special: Regardless of the number of arrows the character fires, he or she only applies precision-based damage (such as sneak attack damage or the ranger’s favored enemy bonus) once. If the character scores a critical hit, only one of the arrows deals critical damage (character’s choice); all others deal normal damage.
 Normal: With the Manyshot feat, the character is limited to a maximum of four arrows fired (when the character’s base attack bonus is +16 or higher).
 
-IMPROVED METAMAGIC [EPIC] 
-Prerequisites: Four metamagic feats, Spellcraft 30 ranks. 
-Benefit: The spell slot modifier of all the character’s metamagic feats is reduced by one level, to a minimum of +1. This feat has no effect on metamagic feats whose spell slot modifier is +1 or less. 
-Special: A character can gain this feat multiple times. The effects stack, though a character can’t reduce any metamagic feat’s spell slot modifier to less than +1. 
+IMPROVED METAMAGIC [EPIC]
+Prerequisites: Four metamagic feats, Spellcraft 30 ranks.
+Benefit: The spell slot modifier of all the character’s metamagic feats is reduced by one level, to a minimum of +1. This feat has no effect on metamagic feats whose spell slot modifier is +1 or less.
+Special: A character can gain this feat multiple times. The effects stack, though a character can’t reduce any metamagic feat’s spell slot modifier to less than +1.
 
 IMPROVED METAPSIONICS [EPIC, PSIONIC]
 You can manifest powers using metapsionic feats more easily than normal.
@@ -2203,20 +2203,20 @@ This feat has no effect on metapsionic powers that inflate the cost by only 2 po
 Special: You can gain this feat multiple times. The effects stack, though you can’t lower the cost of any metapsionic
 power to less than 1 power point.
 
-IMPROVED SNEAK ATTACK [EPIC] 
-Prerequisite: Sneak attack +8d6. 
-Benefit: Add +1d6 to the character’s sneak attack damage. 
-Special: This feat may be taken multiple times. Its effects stack. 
+IMPROVED SNEAK ATTACK [EPIC]
+Prerequisite: Sneak attack +8d6.
+Benefit: Add +1d6 to the character’s sneak attack damage.
+Special: This feat may be taken multiple times. Its effects stack.
 
-IMPROVED SPELL CAPACITY [EPIC] 
-Prerequisite: Ability to cast spells of the normal maximum spell level in at least one spellcasting class. 
+IMPROVED SPELL CAPACITY [EPIC]
+Prerequisite: Ability to cast spells of the normal maximum spell level in at least one spellcasting class.
 Benefit: When the character selects this feat, he or she gains one spell slot per day of any level up to one level higher than the highest-level spell the character can already cast in a particular class. The character must still have the requisite ability score (10 + spell level) in order to cast any spell stored in this slot. If the character has a high enough ability modifier to gain one or more bonus spells for this spell level, he or she also gains the bonus spells for this spell level. The character must use the spell slot as a member of the class in which he or she can already cast spells of the normal maximum spell level.
 Special: A character can gain this feat multiple times.
 
-Spell Slots Above 9th Level 
+Spell Slots Above 9th Level
 The Improved Spell Capacity feat allows characters to gain spell slots above 9th level (which can be used to hold lower-level spells or spells whose level has been increased beyond 9th by the use of metamagic feats).
 A character with a very high score in the ability associated with his or her spellcasting (Intelligence for wizards; Wisdom for clerics, druids, paladins, and rangers; or Charisma for bards and sorcerers) may receive bonus spells of those levels, as shown on Table: Expanded Ability Modifiers and Bonus Spells, but only if they already have at least one spell slot of that level (such as from the Improved Spell Capacity feat). A character without any spell slots of a level can’t receive any bonus spells of that level, even if the appropriate ability score is high enough to award them.
-Even though the table only includes ability scores up to 61 and spell slots up to 25th level, the progression continues infinitely in both directions. For ability scores beyond 61, or for spell slots above 25th level, expand the table to follow the same patterns as shown. 
+Even though the table only includes ability scores up to 61 and spell slots up to 25th level, the progression continues infinitely in both directions. For ability scores beyond 61, or for spell slots above 25th level, expand the table to follow the same patterns as shown.
 
 Table: Expanded Ability Modifiers and Bonus Spells
 
@@ -2707,7 +2707,7 @@ Modifier
 1
 1
 1
-etc. . . 
+etc. . .
 
 
 
@@ -2726,98 +2726,98 @@ etc. . .
 
 
 
-IMPROVED SPELL RESISTANCE [EPIC] 
-Prerequisite: Must have spell resistance from a feat, class feature, or other permanent effect. 
-Benefit: The character’s spell resistance increases by +2. 
-Special: A character can gain this feat multiple times. Its effects stack. 
+IMPROVED SPELL RESISTANCE [EPIC]
+Prerequisite: Must have spell resistance from a feat, class feature, or other permanent effect.
+Benefit: The character’s spell resistance increases by +2.
+Special: A character can gain this feat multiple times. Its effects stack.
 
-IMPROVED STUNNING FIST [EPIC] 
-Prerequisite: Dex 19, Wis 19, Improved Unarmed Strike, Stunning Fist. 
-Benefit: Add +2 to the DC of the character’s stunning attack. 
-Special: This feat may be taken multiple times. Its effects stack. 
+IMPROVED STUNNING FIST [EPIC]
+Prerequisite: Dex 19, Wis 19, Improved Unarmed Strike, Stunning Fist.
+Benefit: Add +2 to the DC of the character’s stunning attack.
+Special: This feat may be taken multiple times. Its effects stack.
 
-IMPROVED WHIRLWIND ATTACK [EPIC] 
-Prerequisites: Int 13, Dex 23, Combat Expertise, Dodge, Mobility, Spring Attack, Whirlwind Attack. 
+IMPROVED WHIRLWIND ATTACK [EPIC]
+Prerequisites: Int 13, Dex 23, Combat Expertise, Dodge, Mobility, Spring Attack, Whirlwind Attack.
 Benefit: As a standard action, the character can make one melee attack for every five points of his or her base attack bonus (including epic attack bonus, round fractions down).
 The character cannot attack any one opponent more than once as part of this action.  These attacks (as well as all other attacks made until the start of the character’s next turn) suffer a –4 penalty.
 When using the Improved Whirlwind feat, the character also forfeits any bonus or extra attacks granted by other spells or abilities (such as Cleave or the haste spell).
 Since these attacks are made as part of a standard action the character can’t make a 5-foot step between any two of the attacks.
-Normal: Without this feat, using the Whirlwind Attack feat requires a full attack action, and the character can take a 5-foot step between any two of the attacks. 
+Normal: Without this feat, using the Whirlwind Attack feat requires a full attack action, and the character can take a 5-foot step between any two of the attacks.
 
-INCITE RAGE [EPIC] 
-Prerequisites: Cha 25, greater rage class feature. 
-Benefit: When the character enters a rage, he or she can incite a barbarian rage in any or all allies within 60 feet. (Any ally who doesn’t wish to become enraged is unaffected.) The ally gains +4 to Strength, +4 to Constitution, and a +2 morale bonus on Will saves, but takes a –2 penalty to AC, for as long as the character remains raging. The rage of affected allies lasts a number of rounds equal to 3 + their Constitution modifier, regardless of whether they remain within 60 feet of the character. This is otherwise identical with normal barbarian rage (including the fatigue at its end). 
-Special: This is a mind-affecting effect. 
+INCITE RAGE [EPIC]
+Prerequisites: Cha 25, greater rage class feature.
+Benefit: When the character enters a rage, he or she can incite a barbarian rage in any or all allies within 60 feet. (Any ally who doesn’t wish to become enraged is unaffected.) The ally gains +4 to Strength, +4 to Constitution, and a +2 morale bonus on Will saves, but takes a –2 penalty to AC, for as long as the character remains raging. The rage of affected allies lasts a number of rounds equal to 3 + their Constitution modifier, regardless of whether they remain within 60 feet of the character. This is otherwise identical with normal barbarian rage (including the fatigue at its end).
+Special: This is a mind-affecting effect.
 
 INFINITE DEFLECTION [EPIC]
-Prerequisites: Dex 25, Combat Reflexes, Deflect Arrows, Improved Unarmed Strike. 
+Prerequisites: Dex 25, Combat Reflexes, Deflect Arrows, Improved Unarmed Strike.
 Benefit: The character may perform any number of deflections each round, as the Deflect Arrows feat.
 
-INSPIRE EXCELLENCE [EPIC] 
-Prerequisite: Perform 30 ranks, bardic music class feature. 
+INSPIRE EXCELLENCE [EPIC]
+Prerequisite: Perform 30 ranks, bardic music class feature.
 Benefit: The character can use song or poetics to grant a bonus to one ability score to his or her allies. To be affected, an ally must hear the bard sing for 1 full round. The effect lasts as long as the bard sings and for 5 rounds after the bard stops singing (or 5 rounds after the ally can no longer hear the bard). While singing, the bard can fight but cannot cast spells, activate magic items by spell completion (such as scrolls), or activate magic items by command word (such as wands). Each ally to be inspired gains a +4 competence bonus to the same ability score, which the character must choose before he or she begins inspiring. Inspire excellence is a supernatural, mind-affecting ability. Use of this feat counts as one of the character’s bardic music uses for the day.
-Special: This feat is treated as a bardic music inspiration ability for purposes of feats that affect such abilities. 
+Special: This feat is treated as a bardic music inspiration ability for purposes of feats that affect such abilities.
 
 INSTANT RELOAD [EPIC]
-Prerequisite: Quick Draw, Rapid Reload, Weapon Focus (crossbow type to be selected). 
-Benefit: The character may fire the selected type of crossbow at his or her full normal attack rate. Reloading the crossbow does not provoke attacks of opportunity. 
-Special: A character can gain this feat multiple times. Its effects do not stack. Each time a character takes the feat, it applies to a different type of crossbow. 
+Prerequisite: Quick Draw, Rapid Reload, Weapon Focus (crossbow type to be selected).
+Benefit: The character may fire the selected type of crossbow at his or her full normal attack rate. Reloading the crossbow does not provoke attacks of opportunity.
+Special: A character can gain this feat multiple times. Its effects do not stack. Each time a character takes the feat, it applies to a different type of crossbow.
 
-INTENSIFY SPELL [METAMAGIC][EPIC] 
-Prerequisites: Empower Spell, Maximize Spell, Spellcraft 30 ranks, ability to cast 9th-level arcane or divine spells. 
-Benefit: All variable, numeric effects of an intensified spell are maximized, then doubled. An intensified spell deals twice maximum damage, cures twice the maximum number of hit points, affects twice the maximum number of targets, and so forth, as appropriate. Saving throws and opposed rolls are not affected. An intensified spell uses up a spell slot seven levels higher than the spell’s actual level. A character can’t combine the effects of this feat with any other feat that affects the variable, numeric effects of a spell. 
+INTENSIFY SPELL [METAMAGIC][EPIC]
+Prerequisites: Empower Spell, Maximize Spell, Spellcraft 30 ranks, ability to cast 9th-level arcane or divine spells.
+Benefit: All variable, numeric effects of an intensified spell are maximized, then doubled. An intensified spell deals twice maximum damage, cures twice the maximum number of hit points, affects twice the maximum number of targets, and so forth, as appropriate. Saving throws and opposed rolls are not affected. An intensified spell uses up a spell slot seven levels higher than the spell’s actual level. A character can’t combine the effects of this feat with any other feat that affects the variable, numeric effects of a spell.
 
-KEEN STRIKE [EPIC] 
-Prerequisites: Str 23, Wis 23, Improved Critical (unarmed strike), Improved Unarmed Strike, Stunning fist, ki strike (adamantine). 
-Benefit: The character’s unarmed strike has a critical threat range of 18-20 and deals slashing damage (at the character’s option any attack can deal bludgeoning damage, but cannot then take advantage of the enhanced threat range). This ability doesn’t stack with other abilities that expand that character’s unarmed strike’s threat range. 
+KEEN STRIKE [EPIC]
+Prerequisites: Str 23, Wis 23, Improved Critical (unarmed strike), Improved Unarmed Strike, Stunning fist, ki strike (adamantine).
+Benefit: The character’s unarmed strike has a critical threat range of 18-20 and deals slashing damage (at the character’s option any attack can deal bludgeoning damage, but cannot then take advantage of the enhanced threat range). This ability doesn’t stack with other abilities that expand that character’s unarmed strike’s threat range.
 
-LASTING INSPIRATION [EPIC] 
-Prerequisite: Perform 25 ranks, bardic music class feature. 
-Benefit: The effects of the character’s bardic music inspiration abilities last for ten times as long as normal after he or she stops singing. This feat has no effect on inspiration abilities that have no duration after the character stops singing. 
+LASTING INSPIRATION [EPIC]
+Prerequisite: Perform 25 ranks, bardic music class feature.
+Benefit: The effects of the character’s bardic music inspiration abilities last for ten times as long as normal after he or she stops singing. This feat has no effect on inspiration abilities that have no duration after the character stops singing.
 
 LEGENDARY CLIMBER [EPIC]
-Prerequisites: Dex 21, Balance 12 ranks, Climb 24 ranks. 
-Benefit: The character can ignore any check penalties applied for accelerated climbing or rapid climbing. 
+Prerequisites: Dex 21, Balance 12 ranks, Climb 24 ranks.
+Benefit: The character can ignore any check penalties applied for accelerated climbing or rapid climbing.
 Normal: Without this feat, a character takes a –5 penalty on Climb checks when attempting to cover his or her full speed in climbing distance in a round, or a –20 penalty when attempting to cover twice his or her speed in climbing distance in a round.
 
 LEGENDARY COMMANDER [EPIC]
-Prerequisites: Cha 25, Epic Leadership, Leadership, Diplomacy 30 ranks, must rule own kingdom and have a stronghold. 
-Benefit: Multiply the number of followers of each level that the character can lead by 10. This has no effect on cohorts. 
+Prerequisites: Cha 25, Epic Leadership, Leadership, Diplomacy 30 ranks, must rule own kingdom and have a stronghold.
+Benefit: Multiply the number of followers of each level that the character can lead by 10. This has no effect on cohorts.
 
-LEGENDARY LEAPER [EPIC] 
-Prerequisite: Jump 24 ranks. 
+LEGENDARY LEAPER [EPIC]
+Prerequisite: Jump 24 ranks.
 Benefit: The character need only move 5 feet in a straight line to make a running jump.
-Normal: Without this feat, a character must move at least 20 feet in a straight line before attempting a running jump. 
+Normal: Without this feat, a character must move at least 20 feet in a straight line before attempting a running jump.
 
 LEGENDARY RIDER [EPIC]
-Prerequisite: Ride 24 ranks. 
-Benefit: The character doesn’t take a penalty on Ride checks when riding a mount without a saddle (bareback).  The character never needs to make a Ride check to control a mount in combat (and even controlling a mount not trained for combat doesn’t require an action). 
-Normal: Without this feat, a character takes a –5 penalty on Ride checks without a saddle, and must make a Ride check to control a mount in combat (and controlling a mount not trained for combat requires a move action). 
+Prerequisite: Ride 24 ranks.
+Benefit: The character doesn’t take a penalty on Ride checks when riding a mount without a saddle (bareback).  The character never needs to make a Ride check to control a mount in combat (and even controlling a mount not trained for combat doesn’t require an action).
+Normal: Without this feat, a character takes a –5 penalty on Ride checks without a saddle, and must make a Ride check to control a mount in combat (and controlling a mount not trained for combat requires a move action).
 
-LEGENDARY TRACKER [EPIC] 
-Prerequisites: Wis 25, Track, Knowledge (nature) 30 ranks, Survival 30 ranks. 
-Benefit: The character can track creatures across water, under-water, or through the air. This adds the surfaces of water, underwater, and air to the list of surfaces found under the Track feat: 
+LEGENDARY TRACKER [EPIC]
+Prerequisites: Wis 25, Track, Knowledge (nature) 30 ranks, Survival 30 ranks.
+Benefit: The character can track creatures across water, under-water, or through the air. This adds the surfaces of water, underwater, and air to the list of surfaces found under the Track feat:
 Surface
-DC 
+DC
 Water
-60 
+60
 Underwater
-80 
+80
 Air
-120 
+120
 
-LEGENDARY WRESTLER [EPIC] 
-Prerequisite: Str 21, Dex 21, Improved Unarmed Strike, Escape Artist 15 ranks. 
-Benefit: The character gains a +10 bonus on all grapple checks. 
+LEGENDARY WRESTLER [EPIC]
+Prerequisite: Str 21, Dex 21, Improved Unarmed Strike, Escape Artist 15 ranks.
+Benefit: The character gains a +10 bonus on all grapple checks.
 
-LINGERING DAMAGE [EPIC] 
-Prerequisite: Sneak attack +8d6, crippling strike class feature. 
-Benefit: Any time the character deals damage with a sneak attack, that target takes damage equal to the character’s sneak attack bonus damage on the character’s next turn as well. 
+LINGERING DAMAGE [EPIC]
+Prerequisite: Sneak attack +8d6, crippling strike class feature.
+Benefit: Any time the character deals damage with a sneak attack, that target takes damage equal to the character’s sneak attack bonus damage on the character’s next turn as well.
 
-MAGICAL BEAST COMPANION [WILD][EPIC] 
-Prerequisites: Knowledge (nature) 24 ranks, wild shape 6/day. 
+MAGICAL BEAST COMPANION [WILD][EPIC]
+Prerequisites: Knowledge (nature) 24 ranks, wild shape 6/day.
 Benefit: The following magical beasts are added to the lists of animal companions from which you can select.
-1st Level (no adjustment) 
+1st Level (no adjustment)
 Stirge
 Darkmantle
 
@@ -2850,89 +2850,89 @@ Gray render
 Special: Creatures marked with an asterisk are available only in an aquatic environment.
 
 MAGICAL BEAST WILD SHAPE [WILD][EPIC]
-Prerequisites: Wis 25, Knowledge (nature) 27 ranks, wild shape 6/day. 
-Benefit: The character can use his or her normal wild shape ability to take the form of a magical beast. The size limitation is the same as the character’s limitation on animal size. The character gains all supernatural abilities of the magical beast whose form he or she takes. 
+Prerequisites: Wis 25, Knowledge (nature) 27 ranks, wild shape 6/day.
+Benefit: The character can use his or her normal wild shape ability to take the form of a magical beast. The size limitation is the same as the character’s limitation on animal size. The character gains all supernatural abilities of the magical beast whose form he or she takes.
 
-MASTER STAFF [EPIC] 
-Prerequisite: Craft Staff, Spellcraft 15 ranks. 
+MASTER STAFF [EPIC]
+Prerequisite: Craft Staff, Spellcraft 15 ranks.
 Benefit: When the character activates a staff, he or she can substitute a spell slot instead of using a charge. The spell slot must be one the character ahs not used for the day, though the character may lose a prepared spell to emulate a wand charge (the character may not lose prepared spells from his or her school of specialty, if any). The spell slot lost must be equal to or higher in level than the specific spell stored in the staff, including any level-increasing metamagic enhancements. A character cannot emulate a charge for a staff function that does not match a specific spell.
 
-MASTER WAND [EPIC] 
-Prerequisite: Craft Wand, Spellcraft 15 ranks. 
-Benefit: When the character activates a wand, he or she can substitute a spell slot instead of using a charge. The spell slot must be one the character has not used for the day, though he or she may lose a prepared spell to emulate a wand charge (the character may not lose prepared spells from his or her school of specialty, if any). The spell slot lost must be equal to or higher in level than the spell stored in the wand, including any level-increasing metamagic enhancements. 
+MASTER WAND [EPIC]
+Prerequisite: Craft Wand, Spellcraft 15 ranks.
+Benefit: When the character activates a wand, he or she can substitute a spell slot instead of using a charge. The spell slot must be one the character has not used for the day, though he or she may lose a prepared spell to emulate a wand charge (the character may not lose prepared spells from his or her school of specialty, if any). The spell slot lost must be equal to or higher in level than the spell stored in the wand, including any level-increasing metamagic enhancements.
 
-MIGHTY RAGE [EPIC] 
-Prerequisites: Str 21, Con 21, greater rage class feature, rage 5/day. 
-Benefit: When the character rages, he or she gains a +8 bonus to Strength and Constitution and a +4 morale bonus on Will saves. (These bonuses replace the normal rage bonuses.) 
+MIGHTY RAGE [EPIC]
+Prerequisites: Str 21, Con 21, greater rage class feature, rage 5/day.
+Benefit: When the character rages, he or she gains a +8 bonus to Strength and Constitution and a +4 morale bonus on Will saves. (These bonuses replace the normal rage bonuses.)
 
 MOBILE DEFENSE [EPIC]
-Prerequisites: Dex 15, Dodge, Mobility, Spring Attack, defensive stance 3/day class feature. 
-Benefit: While in a defensive stance, the character may take one 5-foot adjustment each round without losing the benefits of the stance. 
-Normal: Without this feat, a character can’t move while in a defensive stance. 
+Prerequisites: Dex 15, Dodge, Mobility, Spring Attack, defensive stance 3/day class feature.
+Benefit: While in a defensive stance, the character may take one 5-foot adjustment each round without losing the benefits of the stance.
+Normal: Without this feat, a character can’t move while in a defensive stance.
 
-MULTISPELL [EPIC] 
-Prerequisites: Quicken Spell, ability to cast 9th-level arcane or divine spells. 
-Benefit: The character may cast one additional quickened spell in a round. 
-Special: A character can gain this feat multiple times. Its effects stack. 
+MULTISPELL [EPIC]
+Prerequisites: Quicken Spell, ability to cast 9th-level arcane or divine spells.
+Benefit: The character may cast one additional quickened spell in a round.
+Special: A character can gain this feat multiple times. Its effects stack.
 
-MULTIWEAPON REND [EPIC] 
-Prerequisites: Dex 15, base attack bonus +9, three or more hands, Multiweapon Fighting. 
-Benefit: If the character hits an opponent with two or more weapons (wielded in different hands) in the same round, he or she may automatically rend the opponent. This rending deals additional damage equal to the base damage of the smallest weapon that hit plus 1 1/2 times the character’s Strength modifier. The character can only rend once per round, regardless of how many successful attacks he or she makes. 
-Special: This feat replaces the Two-Weapon Rend feat for creatures with more than two arms. 
+MULTIWEAPON REND [EPIC]
+Prerequisites: Dex 15, base attack bonus +9, three or more hands, Multiweapon Fighting.
+Benefit: If the character hits an opponent with two or more weapons (wielded in different hands) in the same round, he or she may automatically rend the opponent. This rending deals additional damage equal to the base damage of the smallest weapon that hit plus 1 1/2 times the character’s Strength modifier. The character can only rend once per round, regardless of how many successful attacks he or she makes.
+Special: This feat replaces the Two-Weapon Rend feat for creatures with more than two arms.
 
-MUSIC OF THE GODS [EPIC] 
-Prerequisites: Cha 25, Perform 30 ranks, bardic music class feature. 
-Benefit: The character’s bardic music can affect even those normally immune to mind-affecting effects. However, such creatures gain a +10 bonus on their Will saves to resist such effects. 
+MUSIC OF THE GODS [EPIC]
+Prerequisites: Cha 25, Perform 30 ranks, bardic music class feature.
+Benefit: The character’s bardic music can affect even those normally immune to mind-affecting effects. However, such creatures gain a +10 bonus on their Will saves to resist such effects.
 
-NEGATIVE ENERGY BURST [DIVINE][EPIC] 
-Prerequisites: Cha 25, ability to rebuke or command undead, ability to cast inflict critical wounds, any evil alignment. 
-Benefit: The character can use one rebuke or command undead attempt to unleash a wave of negative energy in a 60-foot-burst. Roll a normal rebuke (or command) check, except that the negative energy burst affects living creatures rather than undead. Any creature that would be rebuked by this result gains one negative level. Any creature that would be commanded by this check gains two negative levels. The Fortitude save DC to remove these levels one day later is equal to 10 + 1/2 the character’s effective turning level + the character’s Charisma modifier. 
+NEGATIVE ENERGY BURST [DIVINE][EPIC]
+Prerequisites: Cha 25, ability to rebuke or command undead, ability to cast inflict critical wounds, any evil alignment.
+Benefit: The character can use one rebuke or command undead attempt to unleash a wave of negative energy in a 60-foot-burst. Roll a normal rebuke (or command) check, except that the negative energy burst affects living creatures rather than undead. Any creature that would be rebuked by this result gains one negative level. Any creature that would be commanded by this check gains two negative levels. The Fortitude save DC to remove these levels one day later is equal to 10 + 1/2 the character’s effective turning level + the character’s Charisma modifier.
 
-OVERWHELMING CRITICAL [EPIC] 
-Prerequisites: Str 23, Cleave, Great Cleave, Improved Critical (chosen weapon), Power Attack, Weapon Focus (chosen weapon). 
+OVERWHELMING CRITICAL [EPIC]
+Prerequisites: Str 23, Cleave, Great Cleave, Improved Critical (chosen weapon), Power Attack, Weapon Focus (chosen weapon).
 Benefit: When using the weapon the character has selected, he or she deals an extra 1d6 points of bonus damage on a successful critical hit. If the weapon’s critical multiplier is x3, add +2d6 points of bonus damage instead, and if the multiplier is x4, add +3d6 points of bonus damage instead. Creatures immune to critical hits can’t be affected by this feat.
-Special: A character can gain this feat multiple times. Its effects do not stack. Each time a character takes the feat, it applies to a different type of weapon. 
+Special: A character can gain this feat multiple times. Its effects do not stack. Each time a character takes the feat, it applies to a different type of weapon.
 
-PENETRATE DAMAGE REDUCTION [EPIC] 
-Select a special material, such as adamantine. 
+PENETRATE DAMAGE REDUCTION [EPIC]
+Select a special material, such as adamantine.
 Benefit: The character melee weapons (including natural weapons) are treated as being crafted from the chosen special material for the purposes of bypassing the damage reduction of any creature the character strikes. None of the other special properties of special materials are gained by the character’s melee weapons.
 Special: A character can gain this feat multiple times.  Each time the feat is selected the character selects a different special material.  The character’s melee attacks are treated as being crafted of all chosen materials for the purposes of bypassing damage reduction.
 
-PERFECT HEALTH [EPIC] 
-Prerequisite: Con 25, Great Fortitude. 
-Benefit: The character is immune to all nonmagical diseases, as well as to all poisons whose Fortitude save DC is 25 or less. 
+PERFECT HEALTH [EPIC]
+Prerequisite: Con 25, Great Fortitude.
+Benefit: The character is immune to all nonmagical diseases, as well as to all poisons whose Fortitude save DC is 25 or less.
 
-PERFECT MULTIWEAPON FIGHTING [EPIC] 
-Prerequisite: Dex 25, three or more hands, Greater Multiweapon Fighting, Multiweapon Fighting. 
-Benefit: The character can make as many attacks with each extra weapon as with his or her primary weapon, using the same base attack bonus. The character still takes the normal penalties for fighting with two weapons. 
-Normal: A creature without this feat can make only one attack per round with each extra weapon (or two attacks per round with each weapon if it has Multiweapon Fighting, or three attacks per round with each extra weapon if it has Greater Multiweapon Fighting). Each attack after the first extra attack has a cumulative –5 penalty. 
+PERFECT MULTIWEAPON FIGHTING [EPIC]
+Prerequisite: Dex 25, three or more hands, Greater Multiweapon Fighting, Multiweapon Fighting.
+Benefit: The character can make as many attacks with each extra weapon as with his or her primary weapon, using the same base attack bonus. The character still takes the normal penalties for fighting with two weapons.
+Normal: A creature without this feat can make only one attack per round with each extra weapon (or two attacks per round with each weapon if it has Multiweapon Fighting, or three attacks per round with each extra weapon if it has Greater Multiweapon Fighting). Each attack after the first extra attack has a cumulative –5 penalty.
 Special: This feat replaces the Perfect Two-Weapon Fighting feat for creatures with more than two arms.
 
-PERFECT TWO-WEAPON FIGHTING [EPIC] 
-Prerequisites: Dex 25, Greater Two-Weapon Fighting, Improved Two-Weapon Fighting, Two-Weapon Fighting. 
-Benefit: The character can make as many attacks with his or her off-hand weapon as with his or her primary weapon, using the same base attack bonus. The character still takes the normal penalties for fighting with two weapons. 
-Normal: Without this feat, a character can only get a single attack with an off-hand weapon (or two attacks with an off-hand weapon if he or she has Improved Two-Weapon Fighting, or three attacks with an off-hand weapon if he or she has Greater Two-Weapon Fighting). 
+PERFECT TWO-WEAPON FIGHTING [EPIC]
+Prerequisites: Dex 25, Greater Two-Weapon Fighting, Improved Two-Weapon Fighting, Two-Weapon Fighting.
+Benefit: The character can make as many attacks with his or her off-hand weapon as with his or her primary weapon, using the same base attack bonus. The character still takes the normal penalties for fighting with two weapons.
+Normal: Without this feat, a character can only get a single attack with an off-hand weapon (or two attacks with an off-hand weapon if he or she has Improved Two-Weapon Fighting, or three attacks with an off-hand weapon if he or she has Greater Two-Weapon Fighting).
 
-PERMANENT EMANATION [EPIC] 
-Prerequisites: Spellcraft 25 ranks, ability to cast the spell to be made permanent. 
-Benefit: Designate any one of the character’s spells whose area is an emanation from the character. This spell’s effect is permanent (though the character can dismiss or restart it as a free action). Effects that would normally dispel this spell instead suppress it for 2d4 rounds. 
-Special: This feat may be taken multiple times. Each time, select a different spell to become permanent. 
+PERMANENT EMANATION [EPIC]
+Prerequisites: Spellcraft 25 ranks, ability to cast the spell to be made permanent.
+Benefit: Designate any one of the character’s spells whose area is an emanation from the character. This spell’s effect is permanent (though the character can dismiss or restart it as a free action). Effects that would normally dispel this spell instead suppress it for 2d4 rounds.
+Special: This feat may be taken multiple times. Each time, select a different spell to become permanent.
 
-PLANAR TURNING [EPIC] 
-Prerequisites: Wis 25, Cha 25, ability to turn or rebuke undead. 
-Benefit: The character can turn or rebuke outsiders as if they were undead. An outsider has effective turn resistance equal to half its spell resistance (round down). If the character can turn undead, he or she turns (or destroys) all evil outsiders and rebukes (or commands) all nonevil outsiders. If the character can rebuke undead, he or she rebukes (or commands) all evil outsiders and turns (or destroys) all nonevil outsiders. 
+PLANAR TURNING [EPIC]
+Prerequisites: Wis 25, Cha 25, ability to turn or rebuke undead.
+Benefit: The character can turn or rebuke outsiders as if they were undead. An outsider has effective turn resistance equal to half its spell resistance (round down). If the character can turn undead, he or she turns (or destroys) all evil outsiders and rebukes (or commands) all nonevil outsiders. If the character can rebuke undead, he or she rebukes (or commands) all evil outsiders and turns (or destroys) all nonevil outsiders.
 
 PLANT WILD SHAPE [WILD][EPIC]
-Prerequisites: Knowledge (nature) 24 ranks, wild shape 4/day. 
-Benefit: The character can use his or her normal wild shape ability to take the form of a plant. The size limitation is the same as the character’s limitation on animal size. 
+Prerequisites: Knowledge (nature) 24 ranks, wild shape 4/day.
+Benefit: The character can use his or her normal wild shape ability to take the form of a plant. The size limitation is the same as the character’s limitation on animal size.
 
-POLYGLOT [EPIC] 
-Prerequisites: Int 25, Speak Language (five languages). 
-Benefit: The character can speak all languages. If the character is literate, he or she can also read and write all languages (not including magical script). 
+POLYGLOT [EPIC]
+Prerequisites: Int 25, Speak Language (five languages).
+Benefit: The character can speak all languages. If the character is literate, he or she can also read and write all languages (not including magical script).
 
-POSITIVE ENERGY AURA [EPIC] 
-Prerequisites: Cha 25, ability to turn undead, ability to cast dispel evil. 
-Benefit: Every undead creature that comes within 15 feet of the character is automatically affected as if the character had turned it. This doesn’t cost a turning attempt, and the character doesn’t have to roll turning damage (it automatically affects all undead in a 15-foot burst), but it only turns undead with Hit Dice equal to or less than the character’s effective cleric level minus 10 (and automatically destroys undead with Hit Dice equal to or less than the character’s effective cleric level minus 20). Just as with normal turning, the character can’t affect undead that have total cover relative to him or her. 
+POSITIVE ENERGY AURA [EPIC]
+Prerequisites: Cha 25, ability to turn undead, ability to cast dispel evil.
+Benefit: Every undead creature that comes within 15 feet of the character is automatically affected as if the character had turned it. This doesn’t cost a turning attempt, and the character doesn’t have to roll turning damage (it automatically affects all undead in a 15-foot burst), but it only turns undead with Hit Dice equal to or less than the character’s effective cleric level minus 10 (and automatically destroys undead with Hit Dice equal to or less than the character’s effective cleric level minus 20). Just as with normal turning, the character can’t affect undead that have total cover relative to him or her.
 
 POWER KNOWLEDGE [EPIC, PSIONIC]
 You add two additional powers to your list of powers known.
@@ -2947,148 +2947,148 @@ Benefit: Choose one power you know of 8th level or lower. Your psicrystal can no
 Special: You can gain this feat multiple times. Each time you take the feat, you can give your psicrystal knowledge of a new power (and it gains sufficient power points to manifest that power once).
 All power points gained by a psicrystal from multiple applications of this feat go into its reserve and can be used to manifest the powers it knows as you desire.
 
-RANGED INSPIRATION [EPIC] 
-Prerequisite: Bardic music class feature, Perform 25 ranks 
-Benefit: Double the range of any bardic music ability that has a range. (If the creature must hear the bard to be affected by the ability, that requirement doesn’t change regardless of any extended range the bard’s ability may have.) 
+RANGED INSPIRATION [EPIC]
+Prerequisite: Bardic music class feature, Perform 25 ranks
+Benefit: Double the range of any bardic music ability that has a range. (If the creature must hear the bard to be affected by the ability, that requirement doesn’t change regardless of any extended range the bard’s ability may have.)
 Special: A character can gain this feat multiple times. Its effects stack. Remember that two doublings equals a tripling, and so forth.
 
 RAPID INSPIRATION [EPIC]
-Prerequisite: Perform 25 ranks, bardic music class feature. 
-Benefit: The character can use any of his or her bardic music inspiration abilities as a standard action. The inspiration takes effect immediately after the character concludes the action. 
+Prerequisite: Perform 25 ranks, bardic music class feature.
+Benefit: The character can use any of his or her bardic music inspiration abilities as a standard action. The inspiration takes effect immediately after the character concludes the action.
 
-REACTIVE COUNTERSONG [EPIC] 
-Prerequisite: Combat Reflexes, Perform 30 ranks, bardic music class feature. 
-Benefit: The character can begin a countersong at any time, even when it isn’t his or her turn (much like a wizard who has readied a counterspell action), though the character doesn’t have to ready an action to do so. The character can’t use Reactive Countersong at the same time he or she isusing another bardic music ability (though the character could stop the other bardic music ability to begin Reactive Countersong if so desired). 
-Normal: Without this feat, a character can only use counter-song on his or her turn. 
+REACTIVE COUNTERSONG [EPIC]
+Prerequisite: Combat Reflexes, Perform 30 ranks, bardic music class feature.
+Benefit: The character can begin a countersong at any time, even when it isn’t his or her turn (much like a wizard who has readied a counterspell action), though the character doesn’t have to ready an action to do so. The character can’t use Reactive Countersong at the same time he or she isusing another bardic music ability (though the character could stop the other bardic music ability to begin Reactive Countersong if so desired).
+Normal: Without this feat, a character can only use counter-song on his or her turn.
 
-REFLECT ARROWS [EPIC] 
-Prerequisites: Dex 25, Deflect Arrows, Improved Unarmed Strike. 
-Benefit: When the character deflects an arrow or other ranged attack, the attack is reflected back upon the attacker at the character’s base ranged attack bonus. 
+REFLECT ARROWS [EPIC]
+Prerequisites: Dex 25, Deflect Arrows, Improved Unarmed Strike.
+Benefit: When the character deflects an arrow or other ranged attack, the attack is reflected back upon the attacker at the character’s base ranged attack bonus.
 
-RIGHTEOUS STRIKE [EPIC] 
-Prerequisites: Wis 19, Improved Unarmed Strike, Stunning Fist, any lawful alignment. 
-Benefit: The character’s unarmed strike is treated as an axiomatic weapon (it is lawfully aligned and deals an extra 2d6 points of damage against creatures of chaotic alignment). This ability doesn’t stack with similar abilities. 
+RIGHTEOUS STRIKE [EPIC]
+Prerequisites: Wis 19, Improved Unarmed Strike, Stunning Fist, any lawful alignment.
+Benefit: The character’s unarmed strike is treated as an axiomatic weapon (it is lawfully aligned and deals an extra 2d6 points of damage against creatures of chaotic alignment). This ability doesn’t stack with similar abilities.
 
-RUINOUS RAGE [EPIC] 
-Prerequisites: Str 25, Improved Sunder, Power Attack, rage 5/day. 
-Benefit: While in a rage, the character ignores the hardness of any object he or she strikes. Also, double the character’s Strength bonus for the purposes of any Strength check made to break an object with sudden force rather than by dealing normal damage (including bursting bindings, such as ropes or manacles). 
+RUINOUS RAGE [EPIC]
+Prerequisites: Str 25, Improved Sunder, Power Attack, rage 5/day.
+Benefit: While in a rage, the character ignores the hardness of any object he or she strikes. Also, double the character’s Strength bonus for the purposes of any Strength check made to break an object with sudden force rather than by dealing normal damage (including bursting bindings, such as ropes or manacles).
 
-SCRIBE EPIC SCROLL [ITEM CREATION][EPIC] 
-Prerequisites: Scribe Scroll, Knowledge (arcana) 24 ranks, Spellcraft 24 ranks. 
+SCRIBE EPIC SCROLL [ITEM CREATION][EPIC]
+Prerequisites: Scribe Scroll, Knowledge (arcana) 24 ranks, Spellcraft 24 ranks.
 Benefit: The character can scribe scrolls that exceed the normal limits for such items. Even this feat does not allow the character to scribe a scroll with an epic spell.
 
-SELF-CONCEALMENT [EPIC] 
-Prerequisites: Dex 30, Hide 30 ranks, Tumble 30 ranks, improved evasion. 
-Benefit: Attacks against the character have a 10% miss chance, similar to the effect of concealment. The character loses this benefit whenever he or she would lose his or her Dexterity bonus to AC. 
-Special: This feat may be taken multiple times. Each time it is taken, the miss chance increases by 10% to a maximum of 50% after it has been taken five times. 
+SELF-CONCEALMENT [EPIC]
+Prerequisites: Dex 30, Hide 30 ranks, Tumble 30 ranks, improved evasion.
+Benefit: Attacks against the character have a 10% miss chance, similar to the effect of concealment. The character loses this benefit whenever he or she would lose his or her Dexterity bonus to AC.
+Special: This feat may be taken multiple times. Each time it is taken, the miss chance increases by 10% to a maximum of 50% after it has been taken five times.
 
-SHATTERING STRIKE [EPIC] 
-Prerequisites: Epic Weapon Focus (unarmed strike), Weapon Focus (unarmed strike), Concentration 25 ranks, ki strike (adamantine). 
-Benefit: When using an unarmed strike to attempt to break an object with sudden force (rather than by dealing normal damage), make a Concentration check rather than a Strength check. The break DC remains the same. Using Shattering Strike is a full-round action that incurs attacks of opportunity. The character can’t use Shattering Strike to escape bonds (unless he or she is so bound as to allow the character to make an unarmed strike against his or her bindings). 
+SHATTERING STRIKE [EPIC]
+Prerequisites: Epic Weapon Focus (unarmed strike), Weapon Focus (unarmed strike), Concentration 25 ranks, ki strike (adamantine).
+Benefit: When using an unarmed strike to attempt to break an object with sudden force (rather than by dealing normal damage), make a Concentration check rather than a Strength check. The break DC remains the same. Using Shattering Strike is a full-round action that incurs attacks of opportunity. The character can’t use Shattering Strike to escape bonds (unless he or she is so bound as to allow the character to make an unarmed strike against his or her bindings).
 
-SNEAK ATTACK OF OPPORTUNITY [EPIC] 
-Prerequisites: Sneak attack +8d6, opportunist class feature. 
-Benefit: Any attack of opportunity the character makes is considered a sneak attack. 
+SNEAK ATTACK OF OPPORTUNITY [EPIC]
+Prerequisites: Sneak attack +8d6, opportunist class feature.
+Benefit: Any attack of opportunity the character makes is considered a sneak attack.
 
-SPECTRAL STRIKE [EPIC] 
-Prerequisites: Wis 19, ability to turn or rebuke undead. 
-Benefit: The character’s attacks deal damage normally against incorporeal creatures. 
+SPECTRAL STRIKE [EPIC]
+Prerequisites: Wis 19, ability to turn or rebuke undead.
+Benefit: The character’s attacks deal damage normally against incorporeal creatures.
 Normal: Without this feat, even attacks that can damage an incorporeal creature have a 50% chance to deal no damage.
 
-SPELL KNOWLEDGE [EPIC] 
-Prerequisite: Ability to cast spells of the maximum normal spell level of an arcane spellcasting class. 
-Benefit: The character learns two new arcane spells of any level up to the maximum level he or she can cast. This feat does not grant any additional spell slots. 
-Special: A character can gain this feat multiple times. 
+SPELL KNOWLEDGE [EPIC]
+Prerequisite: Ability to cast spells of the maximum normal spell level of an arcane spellcasting class.
+Benefit: The character learns two new arcane spells of any level up to the maximum level he or she can cast. This feat does not grant any additional spell slots.
+Special: A character can gain this feat multiple times.
 
-SPELL OPPORTUNITY [EPIC] 
-Prerequisites: Combat Casting, Combat Reflexes, Quicken Spell, Spellcraft 25 ranks. 
-Benefit: Whenever the character is allowed an attack of opportunity, he or she may cast (and attack with) a touch spell as the character’s attack of opportunity. This incurs attacks of opportunity just as if the character had cast the spell normally. 
-Normal: Without this feat, a character can only make a melee attack as an attack of opportunity. 
+SPELL OPPORTUNITY [EPIC]
+Prerequisites: Combat Casting, Combat Reflexes, Quicken Spell, Spellcraft 25 ranks.
+Benefit: Whenever the character is allowed an attack of opportunity, he or she may cast (and attack with) a touch spell as the character’s attack of opportunity. This incurs attacks of opportunity just as if the character had cast the spell normally.
+Normal: Without this feat, a character can only make a melee attack as an attack of opportunity.
 
-SPELL STOWAWAY [EPIC] 
-Prerequisites: Spellcraft 24 ranks, caster level 12th. 
-Benefit: Choose a spell-like ability the character knows, or a spell the character cam cast.  The character is attuned to the magic he or she chooses. If another spellcaster within 300 feet of the character uses this magic, the character also immediately gains the magic’s effect as if it had been used on the character by the same caster. The character must have direct line of effect to the spellcaster in order to gain the benefit of the attuned magic (though the character does not have to know the spellcaster is present, and he or she can be flat-footed). The magic’s duration, effect, and other specifics are determined by its original caster’s level. 
-Special: A character can gain this feat multiple times. Its effects do not stack. Each time a character takes the feat, it applies to a different spell or spell-like ability. 
+SPELL STOWAWAY [EPIC]
+Prerequisites: Spellcraft 24 ranks, caster level 12th.
+Benefit: Choose a spell-like ability the character knows, or a spell the character cam cast.  The character is attuned to the magic he or she chooses. If another spellcaster within 300 feet of the character uses this magic, the character also immediately gains the magic’s effect as if it had been used on the character by the same caster. The character must have direct line of effect to the spellcaster in order to gain the benefit of the attuned magic (though the character does not have to know the spellcaster is present, and he or she can be flat-footed). The magic’s duration, effect, and other specifics are determined by its original caster’s level.
+Special: A character can gain this feat multiple times. Its effects do not stack. Each time a character takes the feat, it applies to a different spell or spell-like ability.
 
-SPELLCASTING HARRIER [EPIC] 
-Prerequisite: Combat Reflexes. 
+SPELLCASTING HARRIER [EPIC]
+Prerequisite: Combat Reflexes.
 Benefit: Any spellcaster the character threatens in melee provokes an attack of opportunity if he or she tries to cast defensively.  The character gets a +4 bonus on this attack roll.
 
 SPONTANEOUS DOMAIN ACCESS [EPIC]
-Prerequisites: Wis 25, Spellcraft 30 ranks, ability to cast 9th-level divine spells. 
-Benefit: Select a domain the character has access to. The character may spontaneously convert any prepared cleric spell (except a domain spell) into a domain spell of the same level in the selected domain, just as a cleric channels energy to convert spells into cure spells. 
-Special: A character can gain this feat multiple times. Each time a character takes the feat, it applies to a different domain. 
+Prerequisites: Wis 25, Spellcraft 30 ranks, ability to cast 9th-level divine spells.
+Benefit: Select a domain the character has access to. The character may spontaneously convert any prepared cleric spell (except a domain spell) into a domain spell of the same level in the selected domain, just as a cleric channels energy to convert spells into cure spells.
+Special: A character can gain this feat multiple times. Each time a character takes the feat, it applies to a different domain.
 
 SPONTANEOUS SPELL [EPIC]
-Prerequisite: Spellcraft 25 ranks, ability to cast the maximum normal spell level of at least one spell-casting class. 
-Benefit: Select a spell the character can cast. The character may spontaneously convert any prepared spell of the selected spell’s level into the selected spell, just as a cleric channels energy to convert spells into cure spells. 
-Special: A character can gain this feat multiple times. Each time he or she takes the feat, it applies to a different spell. 
+Prerequisite: Spellcraft 25 ranks, ability to cast the maximum normal spell level of at least one spell-casting class.
+Benefit: Select a spell the character can cast. The character may spontaneously convert any prepared spell of the selected spell’s level into the selected spell, just as a cleric channels energy to convert spells into cure spells.
+Special: A character can gain this feat multiple times. Each time he or she takes the feat, it applies to a different spell.
 
-STORM OF THROWS [EPIC] 
-Prerequisite: Dex 23, Point Blank Shot, Quick Draw, Rapid Shot. 
-Benefit: As a full-round action, the character may throw a light weapon at his or her full base attack bonus at each opponent within 30 feet. All light weapons thrown need not be the same type. 
+STORM OF THROWS [EPIC]
+Prerequisite: Dex 23, Point Blank Shot, Quick Draw, Rapid Shot.
+Benefit: As a full-round action, the character may throw a light weapon at his or her full base attack bonus at each opponent within 30 feet. All light weapons thrown need not be the same type.
 
-SUPERIOR INITIATIVE [EPIC] 
-Prerequisite: Improved Initiative. 
-Benefit: The character gets a +8 bonus on initiative checks. This bonus overlaps (does not stack with) the bonus from Improved Initiative. 
+SUPERIOR INITIATIVE [EPIC]
+Prerequisite: Improved Initiative.
+Benefit: The character gets a +8 bonus on initiative checks. This bonus overlaps (does not stack with) the bonus from Improved Initiative.
 
 SWARM OF ARROWS [EPIC]
-Prerequisites: Dex 23, Point Blank Shot, Rapid Shot, Weapon Focus (type of bow used). 
-Benefit: As a full-round action, the character may fire an arrow at his or her full base attack bonus at each opponent within 30 feet. 
+Prerequisites: Dex 23, Point Blank Shot, Rapid Shot, Weapon Focus (type of bow used).
+Benefit: As a full-round action, the character may fire an arrow at his or her full base attack bonus at each opponent within 30 feet.
 
 TERRIFYING RAGE [EPIC]
 Prerequisites: Intimidate 25 ranks, rage 5/day
 Benefit: While you are raging, any enemy that views you must make a Will save opposed by your Intimidate check of become panicked (if it have HD less than your character level) or shaken (if it has HD equal to or up to twice your character level) for 4d6 rounds.  An enemy with Hit Dice greater than twice your character level is not affected by this feat.
 
-TENACIOUS MAGIC [EPIC] 
-Prerequisites: Spellcraft 15 ranks. 
-Benefit: Choose one spell the character knows or spell-like ability the character possesses. Whenever the chosen form of magic would otherwise end due to a dispel effect, the magic is instead only suppressed for 1d4 rounds. The magic still ends when its duration expires, but the suppressed rounds do not count against its duration. The character can dismiss his or her own spell or spell-like ability (if dismissible) or dispel his or her own tenacious magic normally. 
-Special: A character can gain this feat multiple times. Each time he or she takes the feat, it applies to a different spell or spell-like ability. 
+TENACIOUS MAGIC [EPIC]
+Prerequisites: Spellcraft 15 ranks.
+Benefit: Choose one spell the character knows or spell-like ability the character possesses. Whenever the chosen form of magic would otherwise end due to a dispel effect, the magic is instead only suppressed for 1d4 rounds. The magic still ends when its duration expires, but the suppressed rounds do not count against its duration. The character can dismiss his or her own spell or spell-like ability (if dismissible) or dispel his or her own tenacious magic normally.
+Special: A character can gain this feat multiple times. Each time he or she takes the feat, it applies to a different spell or spell-like ability.
 
-THUNDERING RAGE [EPIC] 
-Prerequisites: Str 25, rage 5/day. 
-Benefit: Any weapon the character wields while in a rage is treated as a thundering weapon. The DC of the Fortitude save to resist deafness is equal to 10 + 1/2 the character’s level. This ability does not stack with similar abilities. 
+THUNDERING RAGE [EPIC]
+Prerequisites: Str 25, rage 5/day.
+Benefit: Any weapon the character wields while in a rage is treated as a thundering weapon. The DC of the Fortitude save to resist deafness is equal to 10 + 1/2 the character’s level. This ability does not stack with similar abilities.
 
-TRAP SENSE [EPIC] 
-Prerequisites: Search 25 ranks, Spot 25 ranks, trapfinding class ability. 
-Benefit: If the character passes within 5 feet of a trap, he or she is entitled to a Search check to notice it as if the character was actively looking for it. 
+TRAP SENSE [EPIC]
+Prerequisites: Search 25 ranks, Spot 25 ranks, trapfinding class ability.
+Benefit: If the character passes within 5 feet of a trap, he or she is entitled to a Search check to notice it as if the character was actively looking for it.
 
-TWO-WEAPON REND [EPIC] 
-Prerequisites: Dex 15, base attack bonus +9, Improved Two-Weapon Fighting, Two-Weapon Fighting. 
-Benefit: If the character hits an opponent with a weapon in each hand in the same round, he or she may automatically rend the opponent. This deals additional damage equal to the base damage of the smaller weapon plus 1 1/2 times the character’s Strength modifier. Base weapon damage includes an enhancement bonus on damage, if any. The character can only rend once per round, regardless of how many successful attacks he or she makes. 
+TWO-WEAPON REND [EPIC]
+Prerequisites: Dex 15, base attack bonus +9, Improved Two-Weapon Fighting, Two-Weapon Fighting.
+Benefit: If the character hits an opponent with a weapon in each hand in the same round, he or she may automatically rend the opponent. This deals additional damage equal to the base damage of the smaller weapon plus 1 1/2 times the character’s Strength modifier. Base weapon damage includes an enhancement bonus on damage, if any. The character can only rend once per round, regardless of how many successful attacks he or she makes.
 
 UNCANNY ACCURACY [EPIC]
-Prerequisites: Dex 21, base attack bonus +11, Point Blank Shot, Precise Shot, Improved Precise Shot, Spot 20 ranks. 
-Benefit: The character’s ranged attacks ignore the miss chance granted to targets by total concealment.  The character must aim his or her attacks at the correct square to gain advantage of this feat. 
+Prerequisites: Dex 21, base attack bonus +11, Point Blank Shot, Precise Shot, Improved Precise Shot, Spot 20 ranks.
+Benefit: The character’s ranged attacks ignore the miss chance granted to targets by total concealment.  The character must aim his or her attacks at the correct square to gain advantage of this feat.
 Normal: Without this feat, characters suffer a 50% miss chance when making a ranged attack against a target with total concealment.
 Special: A character with at least 11 levels of ranger can qualify for this feat even if he or she does not have the prerequisites for it, but can only use it when wearing light or no armor.
 
-UNDEAD MASTERY [DIVINE][EPIC] 
-Prerequisites: Cha 21, ability to rebuke or command undead. 
-Benefit: The character may command up to ten times his or her level in HD of undead. 
+UNDEAD MASTERY [DIVINE][EPIC]
+Prerequisites: Cha 21, ability to rebuke or command undead.
+Benefit: The character may command up to ten times his or her level in HD of undead.
 
-UNHOLY STRIKE [EPIC] 
-Prerequisites: Smite good class feature, any evil alignment. 
+UNHOLY STRIKE [EPIC]
+Prerequisites: Smite good class feature, any evil alignment.
 Benefit: Any weapon the character wields is treated as an unholy weapon (it is evil-aligned and deals an extra 2d6 points of damage against creatures of good alignment). This ability doesn’t stack with similar abilities. If the weapon already has an alignment, this feat has no effect on the weapon.
 
-VERMIN WILD SHAPE [WILD][EPIC] 
-Prerequisites: Knowledge (nature) 24 ranks, wild shape 6/day. 
-Benefit: The character can use his or her normal wild shape ability to take the form of a vermin. The size limitation is the same as the character’s limitation on animal size. 
+VERMIN WILD SHAPE [WILD][EPIC]
+Prerequisites: Knowledge (nature) 24 ranks, wild shape 6/day.
+Benefit: The character can use his or her normal wild shape ability to take the form of a vermin. The size limitation is the same as the character’s limitation on animal size.
 
-VORPAL STRIKE [EPIC] 
-Prerequisites: Str 25, Wis 25, Improved Critical (unarmed strike), Improved Unarmed Strike, Keen Strike, Stunning Fist, ki strike (adamantine). 
+VORPAL STRIKE [EPIC]
+Prerequisites: Str 25, Wis 25, Improved Critical (unarmed strike), Improved Unarmed Strike, Keen Strike, Stunning Fist, ki strike (adamantine).
 Benefit: The character’s unarmed strike is considered to be a slashing vorpal weapon. (At the character’s option, any unarmed strike can do bludgeoning damage instead, but it loses the vorpal quality.) This ability doesn’t stack with similar abilities
 
 WIDEN AURA OF COURAGE [EPIC]
-Prerequisite: Cha 25, aura of courage class ability. 
-Benefit: The character’s aura of courage extends to all allies within 100 feet of the character. 
+Prerequisite: Cha 25, aura of courage class ability.
+Benefit: The character’s aura of courage extends to all allies within 100 feet of the character.
 
-WIDEN AURA OF DESPAIR [EPIC] 
-Prerequisite: Cha 25, aura of despair class ability. 
-Benefit: The character’s aura of despair extends to all allies within 100 feet of the character. 
+WIDEN AURA OF DESPAIR [EPIC]
+Prerequisite: Cha 25, aura of despair class ability.
+Benefit: The character’s aura of despair extends to all allies within 100 feet of the character.
 
 ZONE OF ANIMATION [DIVINE][EPIC]
-Prerequisite: Cha 25, Undead Mastery, ability to rebuke or command undead. 
+Prerequisite: Cha 25, Undead Mastery, ability to rebuke or command undead.
 Benefit: The character can use a rebuke or command undead attempt to animate corpses within range of his or her rebuke or command attempt. The character animates a total number of HD of undead equal to the number of undead that would be commanded by the character’s result (though the character can’t animate more undead than there are available corpses within range). The character can’t animate more undead with any single attempt than the maximum number he or she can command (including any undead already under his or her command). These undead are automatically under the character’s command, though his or her normal limit of commanded undead still applies. If the corpses are relatively fresh, the animated undead are zombies. Otherwise, they are skeletons.
 
 
@@ -3100,8 +3100,8 @@ Prerequisites: Dex 19, three or more arms, Improved Multiweapon Fighting, Multiw
 Benefit: The creature may make up to three extra attacks with each extra offhand weapon it wields, albeit at a –10 penalty on the third attack with each weapon.
 Special: This feat replaces the Greater Two-Weapon Fighting feat for creatures with more than two arms.
 
-IMPROVED FLYBY ATTACK [GENERAL] 
-Prerequisite: Fly speed, Dodge, Flyby Attack, Mobility. 
+IMPROVED FLYBY ATTACK [GENERAL]
+Prerequisite: Fly speed, Dodge, Flyby Attack, Mobility.
 Benefit: If the standard action taken by a creature during a round in which it uses Flyby Attack is a melee attack, the creature provokes no attacks of opportunity from moving out of squares threatened by its target.
 Normal: Without this feat, a creature making an attack as part of a Flyby Attack maneuver provokes attacks of opportunity as normal from moving out of squares threatened by its target.
 
@@ -3113,7 +3113,7 @@ Normal: Without this feat, the creature’s secondary natural attacks have a –
 IMPROVED MULTIWEAPON FIGHTING [GENERAL]
 Prerequisites: Dex 15, three or more arms, Multiweapon Fighting, base attack bonus +9.
 Benefit: In addition to the single extra attack a creature gets with each extra weapon from Multiweapon Fighting, it gets a second attack with each extra weapon, albeit at a –5 penalty.
-Normal: With only Multiweapon Fighting, a creater can only get a single attack with each extra weapon. 
+Normal: With only Multiweapon Fighting, a creater can only get a single attack with each extra weapon.
 Special: This feat replaces the Improved Two-Weapon Fighting feat for creatures with more than two arms.
 
 Monster Feats
@@ -3142,7 +3142,7 @@ EMPOWER SPELL-LIKE ABILITY  [GENERAL]
 Prerequisite: Spell-like ability at caster level 6th or higher.
 Benefit: Choose one of the creature’s spell-like abilities, subject to the restrictions below. The creature can use that ability as an empowered spell-like ability three times per day (or less, if the ability is normally usable only once or twice per day).
 When a creature uses an empowered spell-like ability, all variable, numeric effects of the spell-like ability are increased by one half. Saving throws and opposed rolls are not affected. Spell-like abilities without random variables are not affected.
-The creature can only select a spell-like ability duplicating a spell with a level less than or equal to half its caster level (round down) –2. For a summary, see the table in the description of the Quicken Spell-Like Ability feat. 
+The creature can only select a spell-like ability duplicating a spell with a level less than or equal to half its caster level (round down) –2. For a summary, see the table in the description of the Quicken Spell-Like Ability feat.
 Special: This feat can be taken multiple times. Each time it is taken, the creature can apply it to a different one of its spell-like abilities.
 
 FLYBY ATTACK  [GENERAL]
@@ -3165,7 +3165,7 @@ Special: A creature can gain this feat multiple times. Each time the creature ta
 
 IMPROVED NATURAL ATTACK  [GENERAL]
 Prerequisite: Natural weapon, base attack bonus +4.
-Benefit: Choose one of the creature’s natural attack forms. The damage for this natural weapon increases by one step, as if the creature’s size had increased by one category: 1d2, 1d3, 1d4, 1d6, 1d8, 2d6, 3d6, 4d6, 6d6, 8d6, 12d6. 
+Benefit: Choose one of the creature’s natural attack forms. The damage for this natural weapon increases by one step, as if the creature’s size had increased by one category: 1d2, 1d3, 1d4, 1d6, 1d8, 2d6, 3d6, 4d6, 6d6, 8d6, 12d6.
 A weapon or attack that deals 1d10 points of damage increases as follows: 1d10, 2d8, 3d8, 4d8, 6d8, 8d8, 12d8.
 
 MULTIATTACK  [GENERAL]
@@ -3238,7 +3238,7 @@ Salient Divine Abilities
 
 SALIENT DIVINE ABILITIES
 
-A salient divine ability is like a feat—it gives a deity a new capability or improves one that the deity already has. A deity has one salient divine ability for each divine rank the deity has, plus additional salient divine abilities reflecting its status: Demigods receive one bonus ability, lesser deities receive two bonus abilities, intermediate deities receive three, and greater deities receive five. 
+A salient divine ability is like a feat—it gives a deity a new capability or improves one that the deity already has. A deity has one salient divine ability for each divine rank the deity has, plus additional salient divine abilities reflecting its status: Demigods receive one bonus ability, lesser deities receive two bonus abilities, intermediate deities receive three, and greater deities receive five.
 Some salient divine abilities have prerequisites. Usually, the deity must have all the listed prerequisites to have the ability. A divine rank of 1 is a prerequisite for all salient divine abilities. The most common salient divine abilities are described here. A few deities have unique salient divine abilities that are described in the deity’s individual entry.
 
 Using Salient Divine Abilities: Using a salient divine ability is a standard action unless otherwise noted in the ability description. Using a salient divine ability does not provoke an attack of opportunity.
@@ -3252,7 +3252,7 @@ Ability Name
 Prerequisite: A minimum divine rank, minimum ability score, another salient divine ability, a minimum base attack bonus, a feat, a skill, or some other condition that a deity must have in order to acquire this salient divine ability. This entry is absent if a salient divine ability has no prerequisite. An ability may have more than one prerequisite. All salient divine abilities have a minimum prerequisite of divine rank 1. Quasi-deities (rank 0) have no salient divine abilities.
 Benefit: What the ability enables the deity to do. If a deity has the same ability more than once, its benefits do not stack unless indicated otherwise in the description. In general, having a salient divine ability twice is the same as having it once.
 Notes: Additional facts about the ability that may be helpful when using the ability in play.
-Rest: Some abilities require the deity to rest afterward. If no rest is required, the entry is absent. A resting deity can engage in light activities such as talking or walking at half speed. When attempting anything more strenuous than that, the deity can only take partial actions and suffers a –6 penalty on all attack rolls, saves, and checks. The deity cannot use another ability that requires rest until its current rest requirement is fulfilled. Any time the deity spends performing strenuous activities does not count toward the required rest time. 
+Rest: Some abilities require the deity to rest afterward. If no rest is required, the entry is absent. A resting deity can engage in light activities such as talking or walking at half speed. When attempting anything more strenuous than that, the deity can only take partial actions and suffers a –6 penalty on all attack rolls, saves, and checks. The deity cannot use another ability that requires rest until its current rest requirement is fulfilled. Any time the deity spends performing strenuous activities does not count toward the required rest time.
 Suggested Portfolio Elements: This entry gives one or more portfolio elements that are associated with the salient divine ability in question. The information is provided as guidance and should not be taken as a rule.
 
 
@@ -3268,12 +3268,12 @@ Suggested Portfolio Elements: Nature, secrets, thieves.
 Alter Reality
 Prerequisite: Cha 29.
 Benefit: This ability is similar to the wish spell. The deity merely thinks of something and then makes it so. Doing this requires at least a standard action.
-Notes: The deity can duplicate any spell of 9th level or lower as a standard action. The duplicated spell has no material or XP component, and the DC of its saving throw (if one is allowed) is 20 + the deity’s rank + the deity’s Charisma modifier. 
-The deity also can duplicate a spell with any metamagic feat (so long as the metamagic feat is available to characters of 20th level or lower). This use of the ability requires the deity to rest for 1 round for each level that the feat would normally add to the spell. It still takes a standard action to use this ability, so there is no point in using the ability to duplicate a quickened spell. 
-The deity can render a magical or supernatural effect permanent. The rest requirement varies with the effect: 10 minutes per level of the effect times the number of subjects affected, 10 minutes per total Hit Dice of creatures affected, or 10 minutes per 10-foot cube affected. Use the highest applicable value. 
+Notes: The deity can duplicate any spell of 9th level or lower as a standard action. The duplicated spell has no material or XP component, and the DC of its saving throw (if one is allowed) is 20 + the deity’s rank + the deity’s Charisma modifier.
+The deity also can duplicate a spell with any metamagic feat (so long as the metamagic feat is available to characters of 20th level or lower). This use of the ability requires the deity to rest for 1 round for each level that the feat would normally add to the spell. It still takes a standard action to use this ability, so there is no point in using the ability to duplicate a quickened spell.
+The deity can render a magical or supernatural effect permanent. The rest requirement varies with the effect: 10 minutes per level of the effect times the number of subjects affected, 10 minutes per total Hit Dice of creatures affected, or 10 minutes per 10-foot cube affected. Use the highest applicable value.
 The deity can create temporary, nonmagical objects. This works like the Create Object ability (including the required rest period), except that the items last one day per rank.
-The deity also can create permanent nonmagical objects as if using the Create Object ability except that all rest requirements are doubled and there is no reduction in rest time for being on an Outer Plane or in the deity’s own realm. 
-The deity can create temporary magic items or creatures. This works like the Divine Creation ability (including the required rest period), except that the items or creatures created last 1 hour per rank. This ability cannot create permanent magic items or creatures. 
+The deity also can create permanent nonmagical objects as if using the Create Object ability except that all rest requirements are doubled and there is no reduction in rest time for being on an Outer Plane or in the deity’s own realm.
+The deity can create temporary magic items or creatures. This works like the Divine Creation ability (including the required rest period), except that the items or creatures created last 1 hour per rank. This ability cannot create permanent magic items or creatures.
 The deity can reshape a landscape, creating any type of terrain the deity can imagine. Each 10-foot cube of material to be reshaped requires 1 round of effort, and the deity must rest for one day per 10-foot cube shaped after the work is completed.
 Suggested Portfolio Elements: Any.
 
@@ -3322,21 +3322,21 @@ Banestrike
 Prerequisite: Base attack bonus +20.
 Benefit: Any weapon the deity weilds gains a bonus of +4 on attack rolls, and it deals an extra +4d6 points of damage against the designated foe. The bonus and extra damage stack with any other properties the weapon has.
 Notes: The deity selects one kind of enemy from the list below.
-Aberrations 
+Aberrations
 Oozes
-Animals 
+Animals
 Outsiders, chaotic
-Beasts 
+Beasts
 Outsiders, evil
-Constructs 
+Constructs
 Outsiders, good
-Dragons 
+Dragons
 Outsiders, lawful
 Elementals
 Plants
-Fey 
+Fey
 Undead
-Giants 
+Giants
 Vermin
 Monstrous humanoids
 Humanoids (choose one subtype)
@@ -3361,7 +3361,7 @@ Benefit: The deity can see illusions, transmuted creatures and objects, and disg
 Suggested Portfolio Elements: Knowledge, truth.
 
 Command Plants
-Benefit: The deity can make plants grow in a radius of up to one mile per divine rank once per day. The deity can use this ability even in a place where no plants grow, though in this case the plants wither and die after one day. This ability works like the plant growth spell, except that it cannot be countered except by a deity of higher rank than the deity using the ability. 
+Benefit: The deity can make plants grow in a radius of up to one mile per divine rank once per day. The deity can use this ability even in a place where no plants grow, though in this case the plants wither and die after one day. This ability works like the plant growth spell, except that it cannot be countered except by a deity of higher rank than the deity using the ability.
 Also once per day, the deity can charm plant creatures, animate plants, or make them entangle its foes. This ability functions like the command plants spell, except that its maximum duration is one day no matter which option the deity chooses. At any one time, the deity can charm a number of plant creatures equal to its divine rank with this ability, regardless of Hit Dice.
 Suggested Portfolio Elements: Agriculture, earth, fertility.
 
@@ -3370,7 +3370,7 @@ Benefit: The deity can command some kind of creature as noted in the deity’s d
 be affected must be within the deity’s line of sight when first affected. Once control is established, distance is not a factor and the deity can maintain control remotely, even across planes and through wards or barriers (except divine shields and warding spells cast by deities of higher rank than the deity using the ability). The subject is allowed a Will save (DC 10 + the deity’s rank + the deity’s Charisma modifier) to resist and is allowed a
 new save if the deity commands the subject to do something against its nature.
 At any given time, the deity cannot have more creatures under its control than 10 times its divine rank. If the deity already has the maximum number of creatures under its control, it can still attempt to take control of other creatures, but must first release
-one or more creatures already under its control. 
+one or more creatures already under its control.
 Notes: A deity can have this ability multiple times, choosing a different kind of creature each time.
 Suggested Portfolio Elements: Any.
 
@@ -3455,7 +3455,7 @@ Benefit: As a full-round action, the deity can create mortal creatures or magic 
 own godly realm, double the volume and weight the deity can create. If the deity’s realm is located on a divinely morphic plane, triple the volume and weight the deity can create there.
 Notes: This ability works like the Create Greater Object ability, except as noted below.
 A deity can use this ability to create any kind of creature that does not have a divine rank. The deity can create a creature with class levels, but never with more class levels than the deity has itself or the deity’s divine rank, whichever is lower.
-Rest: The deity must convert a considerable amount of its own energy into a creature, which always leaves the deity impaired. The deity must rest for 10 minutes ×the creature’s Hit Dice ×the creature’s Challenge Rating for each creature created, with a minimum of 10 minutes per creature. If the creature has class levels, each level counts as an additional Hit Die. 
+Rest: The deity must convert a considerable amount of its own energy into a creature, which always leaves the deity impaired. The deity must rest for 10 minutes ×the creature’s Hit Dice ×the creature’s Challenge Rating for each creature created, with a minimum of 10 minutes per creature. If the creature has class levels, each level counts as an additional Hit Die.
 The deity can create any kind of magic item except an artifact.
 The rest requirement for creating magic items is the same as for the Create Greater object ability.
 Suggested Portfolio Elements: Crafts, creation, supreme.
@@ -3522,8 +3522,8 @@ Suggested Portfolio Elements: Law.
 
 Divine Paladin
 Prerequisites: Paladin level 20th.
-Benefit: The deity’s aura of courage grants a +8 morale bonus on saving throws against fear effects and extends to all allies within 100 feet of the deity. 
-The deity’s special mount, if any, gains the celestial template. 
+Benefit: The deity’s aura of courage grants a +8 morale bonus on saving throws against fear effects and extends to all allies within 100 feet of the deity.
+The deity’s special mount, if any, gains the celestial template.
 The deity can smite evil ten times per day, and gets an extra 3 points of damage per class level on a successful smite attempt.
 Suggested Portfolio Elements: Good, justice, law, nobility, war.
 
@@ -3545,9 +3545,9 @@ Surface
 DC
 Across water
 60
-Underwater 
+Underwater
 80
-Air 
+Air
 120
 Suggested Portfolio Elements: Archers, hunting, nature.
 
@@ -3582,7 +3582,7 @@ Prerequisites: Sneak attack +10d6, crippling strike.
 Benefit: The deity’s sneak attacks deal an additional +3d6 points of damage.
 Any attack of opportunity the deity makes is considered a sneak attack.
 The deity can flank or catch flat-footed any opponent whose divine rank does not exceed the deity’s and can sneak attack that opponent. The deity cannot deal sneak attack damage to opponents that are immune to critical hits. Any time the deity inflicts damage with a sneak attack, that target suffers damage equal to the deity’s sneak attack bonus
-damage on the deity’s next turn as well. 
+damage on the deity’s next turn as well.
 Suggested Portfolio Elements: Thieves.
 
 Divine Spell Focus
@@ -3595,9 +3595,9 @@ Divine Spellcasting
 Prerequisites: Spellcaster level 20th.
 Benefit: The deity can cast spells whose effective level is above 9th. The number of spells per day the deity can cast of each spell level above 9th depends on the deity’s key ability score for spell-casting classes in which the deity has achieved 20th level, as shown
 on Table: Divine Spellcasting. The numbers on that table represent one spell per day at each spell level above 9th in which it receives bonus spells from its key ability score, plus
-bonus spells based on the key ability score. The deity can use these slots for spells prepared or cast with a metamagic feat, or for lower-level spells. 
+bonus spells based on the key ability score. The deity can use these slots for spells prepared or cast with a metamagic feat, or for lower-level spells.
 If the deity has achieved 20th level in a spellcasting class with fewer than nine levels of spells (such as bard, paladin, or ranger), the deity can also cast one spell per day of each level between the maximum normal spell level and 9th, plus appropriate bonus spells
-of each level based on the deity’s key ability score. These spells are not shown on the table. 
+of each level based on the deity’s key ability score. These spells are not shown on the table.
 The deity also doesn’t incur attacks of opportunity for casting spells when threatened.
 In addition, the deity receives the benefit of the Spell Focus feat on any spell it casts.
 Suggested Portfolio Elements: Magic.
@@ -3608,7 +3608,7 @@ Even though the table only includes ability scores up to 61 and spell slots up t
 as shown.
 The numbers on this table include bonus spells that a deity receives for having a sufficiently high ability score, as well as one additional spell of each level at which the deity gains at least one bonus spell. This additional spell is one of the benefits of the
 Divine Spellcasting salient divine ability.
- 
+
 Table: Divine Spellcasting
 
 ——————————————— Spells per Day ——–———————–————————
@@ -4098,7 +4098,7 @@ Modifier
 2
 2
 2
-etc. . . 
+etc. . .
 
 
 
@@ -4139,19 +4139,19 @@ At will, as a full-round action, the deity can create a devastating tidal wave o
 make a Fortitude save (DC 15). Large or smaller creatures that fail the save are swept
 away, taking 1d6 points of subdual damage per round (1d3 points on a successful
 Swim check against DC 20). Huge creatures that fail are knocked down, while Gar-gantuan and Colossal creatures are checked. The wave destroys all wooden buildings and
-25% of the stone buildings it comes into contact with. At sea, the tidal wave capsizes ships and crushes them to splinters. The wave affects a number of miles of coastland up to the deity’s divine rank. 
+25% of the stone buildings it comes into contact with. At sea, the tidal wave capsizes ships and crushes them to splinters. The wave affects a number of miles of coastland up to the deity’s divine rank.
 When touching water, the deity can automatically sense the location of anything within 10 feet per divine rank that is in contact with the same body of water.
 Suggested Portfolio Elements: Water.
 
 Divine Weapon Focus
-Benefit: This ability works like the Weapon Focus feat except that the deity receives a bonus of +4 on attacks with the weapon. 
+Benefit: This ability works like the Weapon Focus feat except that the deity receives a bonus of +4 on attacks with the weapon.
 Notes: This bonus stacks with the divine rank bonus deities get on attack rolls, and with the Divine Weapon Mastery salient divine ability. It also stacks with the Weapon Focus and Greater Weapon Focus feats.
 A deity can have this ability multiple times, choosing a different kind of weapon each time.
 Suggested Portfolio Elements: War.
 
 Divine Weapon Mastery
 Prerequisites: Fighter level 20th, War domain.
-Benefit: The deity receives the benefits of the Weapon Focus, Weapon Specialization, and Improved Critical feats when wielding any simple or martial weapon. 
+Benefit: The deity receives the benefits of the Weapon Focus, Weapon Specialization, and Improved Critical feats when wielding any simple or martial weapon.
 Suggested Portfolio Elements: War.
 
 Divine Weapon Specialization
@@ -4232,13 +4232,13 @@ Suggested Portfolio Elements: Death.
 
 Increased Damage Reduction
 Prerequisites: Con 29.
-Benefit: The deity’s damage reduction increases 5 and adds an alignment requirement opposed to the deity’s alignment to bypass the damage reduction. For example, a lawful good deity with DR25/epic would gain DR 30/epic and evil or DR 30 epic and chaotic. 
+Benefit: The deity’s damage reduction increases 5 and adds an alignment requirement opposed to the deity’s alignment to bypass the damage reduction. For example, a lawful good deity with DR25/epic would gain DR 30/epic and evil or DR 30 epic and chaotic.
 Notes: A deity cannot chose this ability more than once.
 Suggested Portfolio Elements: Any.
 
 Increased Energy Resistance
-Benefit: The deity gains resistance equal to its divine rank to acid, cold, electricity, fire, or sonic energy. 
-Notes: A deity can have this ability multiple times, choosing a different form of energy each time. The deity also can have this ability more than once for a single type of energy. When applied to an energy type that the deity already resists, this ability increases the resistance by 10. 
+Benefit: The deity gains resistance equal to its divine rank to acid, cold, electricity, fire, or sonic energy.
+Notes: A deity can have this ability multiple times, choosing a different form of energy each time. The deity also can have this ability more than once for a single type of energy. When applied to an energy type that the deity already resists, this ability increases the resistance by 10.
 Suggested Portfolio Elements: Any.
 
 Increased Spell Resistance
@@ -4263,7 +4263,7 @@ Suggested Portfolio Elements: Travel.
 
 Irresistible Blows
 Prerequisites: Weapon Focus and Improved Critical with the selected melee weapon.
-Benefit: When the deity makes a melee attack with the chosen weapon against a creature, resolve the attack as a melee touch attack (the weapon blow ignores armor and natural armor bonuses). If the weapon hits, the creature struck must make a Fortitude save (DC 10 + the deity’s Constitution modifier + the deity’s divine rank) or be stunned for 1d10 rounds. 
+Benefit: When the deity makes a melee attack with the chosen weapon against a creature, resolve the attack as a melee touch attack (the weapon blow ignores armor and natural armor bonuses). If the weapon hits, the creature struck must make a Fortitude save (DC 10 + the deity’s Constitution modifier + the deity’s divine rank) or be stunned for 1d10 rounds.
 The deity’s attacks with the chosen weapons are considered to be adamantine for purposes of bypassing damage reduction and hardness.
 Notes: A deity can have this ability multiple times, choosing a different kind of weapon each time.
 Suggested Portfolio Elements: War.
@@ -4370,11 +4370,11 @@ Benefit: The deity can perform any of the following in a radius of one mile per 
 • Set the temperature anywhere from –50°F to 120°F.
 • Shake the earth, as the earthquake spell.
 • Create rain, sleet, hail, snow, or thunderstorms.
-These effects last as long as the deity concentrates and for up to 1 minute per divine rank afterward. The deity can end an effect as a free action. 
+These effects last as long as the deity concentrates and for up to 1 minute per divine rank afterward. The deity can end an effect as a free action.
 Suggested Portfolio Elements: Nature, sea, weather.
 
 Power of Truth
-Benefit: The deity knows when anyone (other than a deity of equal or higher rank) deliberately lies. This ability works like the discern lies spell, except that it works continuously and applies to any creature the deity can perceive. The deity also can enchant creatures so they become truthful. The deity can affect up to one creature per divine rank at once, but no more than that number each day. All must be within the deity’s line of sight when first affected. The enchanted creatures become unable to utter any deliberate falsehoods or evasions of truth for one day. The subject is allowed a Will save (DC 10 + the deity’s Charisma modifier + the deity’s divine rank) to resist. Subjects who make successful saves become immune to this ability for one day. 
+Benefit: The deity knows when anyone (other than a deity of equal or higher rank) deliberately lies. This ability works like the discern lies spell, except that it works continuously and applies to any creature the deity can perceive. The deity also can enchant creatures so they become truthful. The deity can affect up to one creature per divine rank at once, but no more than that number each day. All must be within the deity’s line of sight when first affected. The enchanted creatures become unable to utter any deliberate falsehoods or evasions of truth for one day. The subject is allowed a Will save (DC 10 + the deity’s Charisma modifier + the deity’s divine rank) to resist. Subjects who make successful saves become immune to this ability for one day.
 Suggested Portfolio Elements: Justice, law, truth.
 
 Rejuvenation
@@ -4406,7 +4406,7 @@ Prerequisites: Divine rank 6, Alter Size salient divine ability, Alter Form sali
 Benefit: The deity can assume the form of another creature. The forms a deity can assume are limited and vary with each deity. The forms allowed are listed in the deity’s description. The deity can remain in the assumed form indefinitely, but it
 resumes its own form if slain.
 Notes: The deity acquires the physical, natural, and extraordinary abilities of the form it has assumed (but not spell-like or supernatural abilities) while retaining its own mind. Physical abilities include natural size and Strength, Dexterity, and Constitution scores. Natural abilities include armor, natural weapons (such as claws, bite, swoop and rake, and constriction; but not petrification, breath weapons, energy drain, energy effect, and the like), and similar gross physical qualities (presence or absence of wings, number of extremities, and so on). A body with extra limbs does not allow the deity to make more attacks (or more advantageous two-weapon attacks) than normal. Natural abilities also include mundane movement capabilities, such as walking, swimming, and flight with wings. The deity’s speed is that of the assumed form or the deity’s normal speed, whichever is higher.
-In general, any part of the body or piece of equipment that is separated from the whole reverts to its original form. However, if the assumed form has an extraordinary ability that allows it to produce a substance or shed part of its body, then this ability also grants that ability. 
+In general, any part of the body or piece of equipment that is separated from the whole reverts to its original form. However, if the assumed form has an extraordinary ability that allows it to produce a substance or shed part of its body, then this ability also grants that ability.
 The deity retains its Intelligence, Wisdom, and Charisma scores, level and class, hit points (despite any change in its Constitution score), alignment, base attack bonus, and base saves. (New Strength, Dexterity, and Constitution scores may affect final attack and save bonuses.) The deity retains its outsider type, extraordinary abilities, spells, and spell-like abilities, but not its supernatural abilities.
 The deity also retains its divine Armor Class bonus and divine qualities and abilities, provided they are not supernatural.
 The deity can cast spells for which it has components. It needs a voice like that of a humanoid for verbal components and hands like those of a humanoid for somatic components, Likewise, the deity needs hands to use many of its powers, such as creating objects related to its portfolio.
@@ -4435,7 +4435,7 @@ In addition, the deity can impart extra overland speed to living creatures. The 
 Suggested Portfolio Elements: Travel.
 
 Sunder and Disjoin
-Benefit: If any weapon or item is used against the deity in combat, the deity can destroy it with a touch. Treat a successful touch as a combination of a disintegrate spell and a 
+Benefit: If any weapon or item is used against the deity in combat, the deity can destroy it with a touch. Treat a successful touch as a combination of a disintegrate spell and a
 disjunction spell, both targeted exclusively at the touched item. The save DC for both effects is 19 + the deity’s Charisma modifier. Anitem remains vulnerable to this ability for up to one day after being used against the deity.
 Suggested Portfolio Elements: Victory, war.
 
@@ -4496,7 +4496,7 @@ Prerequisites: Base attack bonus +20.
 Benefit: The affected weapon deals damage to a creature such that a wound it causes deals 1d6 points of damage per round thereafter in addition to the normal damage from the weapon. Multiple wounds from the weapon result in cumulative bleeding loss (two
 wounds for 2d6 points of damage per round, and so on). The bleeding can only be stopped by a successful Heal check (DC 15 + the deity’s rank) or the application of any cure spell or other healing spell (heal, healing circle, and so on).
 Notes: The ability functions only when the deity personally attacks with a physical weapon. The ability works with a ranged weapon, but not if someone else uses the weapon. The deity can apply to the ability to any weapon or natural weapon, but not to a
-spell, spell-like ability, supernatural ability, or divine ability. A deity can have this ability multiple times, and its effects stack. 
+spell, spell-like ability, supernatural ability, or divine ability. A deity can have this ability multiple times, and its effects stack.
 Suggested Portfolio Elements: Death, pain, war.
 
 
@@ -4522,7 +4522,7 @@ Benefit: You can spend one of your turn undead attempts to add 2d6 points of sac
 ENERGY SUBSTITUTION [METAMAGIC]
 Prerequisites: Any other metamagic feat, Knowledge (arcana) 5 ranks.
 Benefit: You choose one type of energy: acid, cold, electricity, fire, or sonic. When employing a spell with the acid, cold, electricity, fire, or sonic designator, you can modify the spell to use your chosen type of energy instead. The altered spell uses a spell slot of the spell’s normal level.
-The altered spell works normally in all respects except the type of damage dealt. 
+The altered spell works normally in all respects except the type of damage dealt.
 Special: You can gain this feat multiple times. Each time the feat applies to a different type of energy.
 
 EXTRA MUSIC [GENERAL]
@@ -4591,12 +4591,12 @@ Special: A fighter may select Sharp-Shooting as one of his bonus feats.
 SUBDUAL SUBSTITUTION [METAMAGIC]
 Prerequisites: Any other metamagic feat, Knowledge (arcana) 5 ranks.
 Benefit: When employing a spell with the acid, cold, electricity, fire, or sonic designator, you can modify the spell to deal subdual damage instead of the indicated type of energy damage. The altered spell uses a spell slot of the spell’s normal level.
-The altered spell works normally in all respects except the type of damage dealt. 
+The altered spell works normally in all respects except the type of damage dealt.
 
 SUPERIOR EXPERTISE [GENERAL]
 Prerequisites: Int 13, Combat Expertise, base attack bonus +6.
 Benefit: When you use the Combat Expertise feat to improve your Armor Class, the number you subtract from your attack and add to your AC can be any number that does not exceed your base attack bonus.
-This feat eliminates the +5 maximum for the Combat Expertise feat. 
+This feat eliminates the +5 maximum for the Combat Expertise feat.
 
 Divine Ranks and Powers
 -----------------------
@@ -4613,7 +4613,7 @@ Rank 1–5: These entities, called demigods, are the weakest of the deities. A d
 
 Rank 6–10: Called lesser deities, these entities grant spells and can perform more powerful deeds than demigods can. Lesser deities have anywhere from a few thousand to tens of thousands of worshipers and control larger godly realms than demigods. They also have keener senses where their portfolios are concerned.
 
-Rank 11–15: These entities are called intermediate deities. They have hundreds of thousands of mortal worshipers and control larger godly realms than demigods or lesser deities. 
+Rank 11–15: These entities are called intermediate deities. They have hundreds of thousands of mortal worshipers and control larger godly realms than demigods or lesser deities.
 
 Rank 16–20: Called greater deities, these entities may have millions of mortal worshipers, and they command respect even among other deities. The most powerful of greater deities rule over other deities just as mortal sovereigns rule over commoners.
 
@@ -4629,35 +4629,35 @@ Beyond character level 20th, deities’ attack and saving throw bonuses increase
 Hit Points: Deities receive maximum hit points for each Hit Die.
 
 Speed: Deities can move much more quickly than mortals. A deity’s base land speed depends on its form (biped or quadruped) and its size, as shown on the following table. Some deities are exceptions, with speeds faster or slower than the norm.
-Size 
+Size
 Biped*
 Quadruped**
-Fine 
-20 ft. 
+Fine
+20 ft.
 60 ft.
-Diminutive 
-30 ft. 
+Diminutive
+30 ft.
 70 ft.
-Tiny 
+Tiny
 40 ft.
 80 ft.
-Small 
-50 ft. 
+Small
+50 ft.
 90 ft.
-Medium 
-60 ft. 
+Medium
+60 ft.
 100 ft.
 Large
-80 ft. 
+80 ft.
 120 ft.
-Huge 
+Huge
 100 ft.
 140 ft.
-Gargantuan 
-120 ft. 
+Gargantuan
+120 ft.
 160 ft.
-Colossal 
-140 ft. 
+Colossal
+140 ft.
 180 ft.
 *Or any form with two or fewer legs.
 **Or any form with three or more legs.
@@ -4739,16 +4739,16 @@ Automatic Actions: When performing an action within its portfolio, a deity can p
 Divine Rank
 Maximum DC for Automatic Action
 Free Actions per Round
-1–5 
+1–5
 15
 2
-6–10 
+6–10
 20
 5
-11–15 
+11–15
 25
 10
-16–20 
+16–20
 30
 20
 
@@ -4756,28 +4756,28 @@ Create Magic Items: A deity of rank 1 or higher can create magic items related t
 
 Divine Rank
 Maximum Market Price
-1–5 
+1–5
 4,500 gp
-6–10 
+6–10
 30,000 gp
-11–15 
+11–15
 200,000 gp (any nonartifact)
-16–20 
+16–20
 No maximum (including artifact)
 
 If a deity has the item creation feat pertaining to the item it wishes to create, the cost (in gold and XP) and creation times are halved.
 
 Divine Aura: The mere presence of a deity of rank 1 or higher can deeply affect mortals and beings of lower divine rank. All divine aura effects are mind-affecting, extraordinary abilities. Mortals and other deities of lower rank can resist the aura’s effects with successful Will saves; the DC is 10 + the deity’s rank + the deity’s Charisma modifier. Deities are immune to the auras of deities of equal or lower rank. Any being who makes a successful saving throw against a deity’s aura power becomes immune to that deity’s aura power for one day. Divine aura is an emanation that extends around the deity in a radius whose size is a function of divine rank. The deity chooses the size of the radius and can change it as a free action. If the deity chooses a radius of 0 feet, its aura power effectively becomes non-functional. When two or more deities’ auras cover the same area, only the aura that belongs to the deity with the highest rank functions. If divine ranks are equal, the auras coexist.
 
-Divine Rank 
+Divine Rank
 Divine Aura Size
-1–5 
+1–5
 10 ft./rank
-6–10 
+6–10
 100 ft./rank
-11–15 
+11–15
 100 ft./rank
-16–20 
+16–20
 1 mile/rank
 
 The deity can make its own worshipers, beings of its alignment, or both types of individuals immune to the effect as a free action. The immunity lasts one day or until the deity dismisses it. Once affected by an aura power, creatures remain affected as long as they remain within the aura’s radius. The deity can choose from the following effects each round as a free action.
@@ -4787,7 +4787,7 @@ Resolve: The deity’s allies receive a +4 morale bonus on attack rolls, saves, 
 
 Grant Spells: A deity automatically grants spells and domain powers to mortal divine spellcasters who pray to it. Most deities can grant spells from the cleric spell list, the ranger spell list, and from three or more domains. Deities with levels in the druid class can grant spells from the druid spell list, and deities with paladin levels can grant spells from the paladin spell list. A deity can withhold spells from any particular mortal as a free action; once a spell has been granted, it remains in the mortal’s mind until expended.
 
-Spontaneous Casting: A deity of rank 1 or higher who has levels in a divine spellcasting class can spontaneously cast any spell it can grant. 
+Spontaneous Casting: A deity of rank 1 or higher who has levels in a divine spellcasting class can spontaneously cast any spell it can grant.
 
 Communication: A deity of rank 1 or higher can understand, speak, and read any language, including nonverbal languages. The deity can speak directly to any beings within one mile of itself per divine rank.
 Remote Communication: As a standard action, a deity of rank 1 or higher can send a communication to a remote location. The deity can speak to any of its own worshipers, and to anyone within one mile per rank away from a site dedicated to the deity, or within one mile per rank away from a statue or other likeness of the deity. The creature being contacted can receive a telepathic message that only it can hear. Alternatively, the deity’s voice can seem to issue from the air, the ground, or from some object of the deity’s choosing (but not an object or locale dedicated to another deity of equal or higher rank than the deity who is speaking). In the latter case, anyone within earshot of the sound can hear it. The deity can send a manifestation or omen instead of a spoken or telepathic message. The exact nature of this communication varies with the deity, but it usually is some visible phenomenon. A deity’s communication power can cross planes and penetrate any barrier. Once communication is initiated, the deity can continue communicating as a free action until it decides to end the communication. A deity can carry on as many remote communications at one time as it can remote sense at one time (see Remote Sensing, above).
@@ -4796,19 +4796,19 @@ Godly Realm: Each deity of rank 1 or higher has a location that serves as a work
 
 Divine Rank
 ——— Radius of Control ———
- 
-Outer Plane 
+
+Outer Plane
 Material Plane
-1–5 
-100 ft./rank 
+1–5
 100 ft./rank
-6–10 
-1 mile 
 100 ft./rank
-11–15 
-10 miles 
+6–10
+1 mile
 100 ft./rank
-16–20 
+11–15
+10 miles
+100 ft./rank
+16–20
 100 miles
 100 ft./rank
 
@@ -4819,7 +4819,7 @@ A greater deity (rank 16 or higher) also can perform any one of the following ac
 • Change or apply an elemental or energy trait within the realm.
 • Change or apply a time trait within the realm.
 • Apply the limited magic trait to a particular school, domain, or spell descriptor within the area, preventing such spells and spell-like abilities from functioning. The greater deity’s own spells and spell-like abilities are not limited by these restrictions.
-Once a deity sets the conditions in its realm, they are permanent, though the deity can change them. As a standard action, the deity can specify a new environmental condition. The change gradually takes effect over the next 10 minutes. Changing astral links, planar traits, or terrain requires more effort, and the deity must labor for a year and a day to change them. During this time, the deity must spend 8 hours a day on the project. During the remaining 16 hours of each day, the deity can perform any action it desires, so long as it remains within the realm. The astral links, planar traits, and terrain remain unchanged until the labor is complete. 
+Once a deity sets the conditions in its realm, they are permanent, though the deity can change them. As a standard action, the deity can specify a new environmental condition. The change gradually takes effect over the next 10 minutes. Changing astral links, planar traits, or terrain requires more effort, and the deity must labor for a year and a day to change them. During this time, the deity must spend 8 hours a day on the project. During the remaining 16 hours of each day, the deity can perform any action it desires, so long as it remains within the realm. The astral links, planar traits, and terrain remain unchanged until the labor is complete.
 
 Travel: A deity of rank 1 or higher can use teleport without error as a spell-like ability at will, as the spell cast by a 20th-level character, except that the deity can transport only itself and up to 100 pounds of objects per divine rank. A deity of rank 6 or higher also can use plane shift as a spell-like ability at will, as the spell cast by a 20th-level character, except that the deity can only transport itself and up to 100 pounds of objects. If the deity has a familiar, personal mount, or personal intelligent weapon, the creature can accompany the deity in any mode of travel if the deity touches it. The creature’s weight counts against the deity’s weight limit.
 

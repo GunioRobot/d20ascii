@@ -23,7 +23,7 @@ When your character uses a skill, you make a skill check to see how well he or s
 Circumstances can affect your check. A character who is free to work without distractions can make a careful attempt and avoid simple mistakes. A character who has lots of time can try over and over again, thereby assuring the best outcome. If others help, the character may succeed where otherwise he or she would fail.
 
 SKILL CHECKS
-A skill check takes into account a character’s training (skill rank), natural talent (ability modifier), and luck (the die roll). It may also take into account his or her race’s knack for doing certain things (racial bonus) or what armor he or she is wearing (armor check penalty), or a certain feat the character possesses, among other things. 
+A skill check takes into account a character’s training (skill rank), natural talent (ability modifier), and luck (the die roll). It may also take into account his or her race’s knack for doing certain things (racial bonus) or what armor he or she is wearing (armor check penalty), or a certain feat the character possesses, among other things.
 To make a skill check, roll 1d20 and add your character’s skill modifier for that skill. The skill modifier incorporates the character’s ranks in that skill and the ability modifier for that skill’s key ability, plus any other miscellaneous modifiers that may apply, including racial bonuses and armor check penalties. The higher the result, the better. Unlike with attack rolls and saving throws, a natural roll of 20 on the d20 is not an automatic success, and a natural roll of 1 is not an automatic failure.
 
 Difficulty Class
@@ -32,19 +32,19 @@ Some checks are made against a Difficulty Class (DC). The DC is a number (set us
 Table: Difficulty Class Examples
 Difficulty (DC)
 Example (Skill Used)
-Very easy (0) 
+Very easy (0)
 Notice something large in plain sight (Spot)
-Easy (5) 
+Easy (5)
 Climb a knotted rope (Climb)
-Average (10) 
+Average (10)
 Hear an approaching guard (Listen)
-Tough (15) 
+Tough (15)
 Rig a wagon wheel to fall off (Disable Device)
-Challenging (20) 
+Challenging (20)
 Swim in stormy water (Swim)
-Formidable (25) 
+Formidable (25)
 Open an average lock (Open Lock)
-Heroic (30) 
+Heroic (30)
 Leap across a 30-foot chasm (Jump)
 Nearly impossible (40)
 Track a squad of orcs across hard ground after 24 hours of rainfall (Survival)
@@ -53,32 +53,32 @@ Opposed Checks
 An opposed check is a check whose success or failure is determined by comparing the check result to another character’s check result. In an opposed check, the higher result succeeds, while the lower result fails. In case of a tie, the higher skill modifier wins. If these scores are the same, roll again to break the tie.
 
 Table: Example Opposed Checks
-Task 
+Task
 Skill (Key Ability)
 Opposing Skill (Key Ability)
-Con someone 
-Bluff (Cha) 
+Con someone
+Bluff (Cha)
 Sense Motive (Wis)
 Pretend to be someone else
-Disguise (Cha) 
+Disguise (Cha)
 Spot (Wis)
-Create a false map 
-Forgery (Int) 
+Create a false map
 Forgery (Int)
-Hide from someone 
-Hide (Dex) 
+Forgery (Int)
+Hide from someone
+Hide (Dex)
 Spot (Wis)
-Make a bully back down 
-Intimidate (Cha) 
+Make a bully back down
+Intimidate (Cha)
 Special1
-Sneak up on someone 
-Move Silently (Dex) 
+Sneak up on someone
+Move Silently (Dex)
 Listen (Wis)
-Steal a coin pouch 
-Sleight of Hand (Dex) 
+Steal a coin pouch
+Sleight of Hand (Dex)
 Spot (Wis)
-Tie a prisoner securely 
-Use Rope (Dex) 
+Tie a prisoner securely
+Use Rope (Dex)
 Escape Artist (Dex)
 1 An Intimidate check is opposed by the target’s level check, not a skill check. See the Intimidate skill description for more information.
 
@@ -92,7 +92,7 @@ Many skills can be used only by someone who is trained in them.
 Favorable and Unfavorable Conditions
 Some situations may make a skill easier or harder to use, resulting in a bonus or penalty to the skill modifier for a skill check or a change to the DC of the skill check.
 The chance of success can be altered in four ways to take into account exceptional circumstances.
-1. Give the skill user a +2 circumstance bonus to represent conditions that improve performance, such as having the perfect tool for the job, getting help from another character (see Combining Skill Attempts), or possessing unusually accurate information. 
+1. Give the skill user a +2 circumstance bonus to represent conditions that improve performance, such as having the perfect tool for the job, getting help from another character (see Combining Skill Attempts), or possessing unusually accurate information.
 2. Give the skill user a –2 circumstance penalty to represent conditions that hamper performance, such as being forced to use improvised tools or having misleading information.
 3. Reduce the DC by 2 to represent circumstances that make the task easier, such as having a friendly audience or doing work that can be subpar.
 4. Increase the DC by 2 to represent circumstances that make the task harder, such as having an uncooperative audience or doing work that must be flawless.
@@ -117,14 +117,14 @@ Individual Events
 Often, several characters attempt some action and each succeeds or fails independently.  The result of one character’s Climb check does not influence the results of other characters Climb check.
 
 Aid Another
-You can help another character achieve success on his or her skill check by making the same kind of skill check in a cooperative effort. If you roll a 10 or higher on your check, the character you are helping gets a +2 bonus to his or her check, as per the rule for favorable conditions. (You can’t take 10 on a skill check to aid another.) In many cases, a character’s help won’t be beneficial, or only a limited number of characters can help at once. 
+You can help another character achieve success on his or her skill check by making the same kind of skill check in a cooperative effort. If you roll a 10 or higher on your check, the character you are helping gets a +2 bonus to his or her check, as per the rule for favorable conditions. (You can’t take 10 on a skill check to aid another.) In many cases, a character’s help won’t be beneficial, or only a limited number of characters can help at once.
 In cases where the skill restricts who can achieve certain results you can’t aid another to grant a bonus to a task that your character couldn’t achieve alone.
 
 Skill Synergy
 It’s possible for a character to have two skills that work well together. In general, having 5 or more ranks in one skill gives the character a +2 bonus on skill checks with each of its synergistic skills, as noted in the skill description. In some cases, this bonus applies only to specific uses of the skill in question, and not to all checks. Some skills provide benefits on other checks made by a character, such as those checks required to use certain class features.
 
 ABILITY CHECKS
-Sometimes a character tries to do something to which no specific skill really applies. In these cases, you make an ability check. An ability check is a roll of 1d20 plus the appropriate ability modifier. Essentially, you’re making an untrained skill check. 
+Sometimes a character tries to do something to which no specific skill really applies. In these cases, you make an ability check. An ability check is a roll of 1d20 plus the appropriate ability modifier. Essentially, you’re making an untrained skill check.
 In some cases, an action is a straight test of one’s ability with no luck involved. Just as you wouldn’t make a height check to see who is taller, you don’t make a Strength check to see who is stronger.
 
 SKILL DESCRIPTIONS
@@ -162,38 +162,38 @@ Untrained: For common items, failure on an untrained check means no estimate. Fo
 BALANCE (DEX; ARMOR CHECK PENALTY)
 Check: You can walk on a precarious surface. A successful check lets you move at half your speed along the surface for 1 round. A failure by 4 or less means you can’t move for 1 round. A failure by 5 or more means you fall. The difficulty varies with the surface, as follows:
 
-Narrow Surface 
-Balance DC1 
+Narrow Surface
+Balance DC1
 Difficult Surface
 Balance DC1
-7–12 inches wide 
-10 
-Uneven flagstone 
+7–12 inches wide
+10
+Uneven flagstone
 102
-2–6 inches wide 
-15 
-Hewn stone floor 
+2–6 inches wide
+15
+Hewn stone floor
 102
-Less than 2 inches wide 
-20 
-Sloped or angled floor 
+Less than 2 inches wide
+20
+Sloped or angled floor
 102
 1 Add modifiers from Narrow Surface Modifiers, below, as appropriate.
 2 Only if running or charging. Failure by 4 or less means the character can’t run or charge, but may otherwise act normally.
 
 Narrow Surface Modifiers
 
-Surface 
+Surface
 DC Modifier1
-Lightly obstructed  
+Lightly obstructed
 +2
-Severely obstructed 
+Severely obstructed
 +5
 Lightly slippery
 +2
-Severely slippery 
+Severely slippery
 +5
-Sloped or angled 
+Sloped or angled
 +2
 1 Add the appropriate modifier to the Balance DC of a narrow surface.
 These modifiers stack.
@@ -207,7 +207,7 @@ Synergy: If you have 5 or more ranks in Tumble, you get a +2 bonus on Balance ch
 BLUFF (CHA)
 Check: A Bluff check is opposed by the target’s Sense Motive check. See the accompanying table for examples of different kinds of bluffs and the modifier to the target’s Sense Motive check for each one.
 Favorable and unfavorable circumstances weigh heavily on the outcome of a bluff. Two circumstances can weigh against you: The bluff is hard to believe, or the action that the target is asked to take goes against its self-interest, nature, personality, orders, or the like. If it’s important, you can distinguish between a bluff that fails because the target doesn’t believe it and one that fails because it just asks too much of the target. For instance, if the target gets a +10 bonus on its Sense Motive check because the bluff demands something risky, and the Sense Motive check succeeds by 10 or less, then the target didn’t so much see through the bluff as prove reluctant to go along with it. A target that succeeds by 11 or more has seen through the bluff.
-A successful Bluff check indicates that the target reacts as you wish, at least for a short time (usually 1 round or less) or believes something that you want it to believe. Bluff, however, is not a suggestion spell. 
+A successful Bluff check indicates that the target reacts as you wish, at least for a short time (usually 1 round or less) or believes something that you want it to believe. Bluff, however, is not a suggestion spell.
 A bluff requires interaction between you and the target. Creatures unaware of you cannot be bluffed.
 Feinting in Combat: You can also use Bluff to mislead an opponent in melee combat (so that it can’t dodge your next attack effectively). To feint, make a Bluff check opposed by your target’s Sense Motive check, but in this case, the target may add its base attack bonus to the roll along with any other applicable modifiers.
 If your Bluff check result exceeds this special Sense Motive check result, your target is denied its Dexterity bonus to AC (if any) for the next melee attack you make against it. This attack must be made on or before your next turn.
@@ -228,11 +228,11 @@ Example Circumstances
 Sense Motive Modifier
 The target wants to believe you.
 –5
-The bluff is believable and doesn’t affect the target much. 
+The bluff is believable and doesn’t affect the target much.
 +0
-The bluff is a little hard to believe or puts the target at some risk. 
+The bluff is a little hard to believe or puts the target at some risk.
 +5
-The bluff is hard to believe or puts the target at significant risk. 
+The bluff is hard to believe or puts the target at significant risk.
 +10
 The bluff is way out there, almost too incredible to consider.
 +20
@@ -243,30 +243,30 @@ A Climb check that fails by 4 or less means that you make no progress, and one t
 A climber’s kit gives you a +2 circumstance bonus on Climb checks.
 The DC of the check depends on the conditions of the climb. Compare the task with those on the following table to determine an appropriate DC.
 
-Climb DC 
+Climb DC
 Example Surface or Activity
-0 
+0
 A slope too steep to walk up, or a knotted rope with a wall to brace against.
-5 
-A rope with a wall to brace against, or a knotted rope, or a rope affected by the rope trick spell. 
-10 
-A surface with ledges to hold on to and stand on, such as a very rough wall or a ship’s rigging. 
-15 
-Any surface with adequate handholds and footholds (natural or artificial), such as a very rough natural rock surface or a tree, or an unknotted rope, or pulling yourself up when dangling by your hands. 
-20 
-An uneven surface with some narrow handholds and footholds, such as a typical wall in a dungeon or ruins. 
-25 
-A rough surface, such as a natural rock wall or a brick wall. 
-25 
-An overhang or ceiling with handholds but no footholds. 
-— 
+5
+A rope with a wall to brace against, or a knotted rope, or a rope affected by the rope trick spell.
+10
+A surface with ledges to hold on to and stand on, such as a very rough wall or a ship’s rigging.
+15
+Any surface with adequate handholds and footholds (natural or artificial), such as a very rough natural rock surface or a tree, or an unknotted rope, or pulling yourself up when dangling by your hands.
+20
+An uneven surface with some narrow handholds and footholds, such as a typical wall in a dungeon or ruins.
+25
+A rough surface, such as a natural rock wall or a brick wall.
+25
+An overhang or ceiling with handholds but no footholds.
+—
 A perfectly smooth, flat, vertical surface cannot be climbed.
 
-Climb DC Modifier1 
+Climb DC Modifier1
 Example Surface or Activity
 –10
  Climbing a chimney (artificial or natural) or other location where you can brace against two opposite walls (reduces DC by 10).
-–5 
+–5
 Climbing a corner where you can brace against perpendicular walls (reduces DC by 5).
 +5
  Surface is slippery (increases DC by 5).
@@ -291,29 +291,29 @@ Check: You must make a Concentration check whenever you might potentially be dis
 If the Concentration check succeeds, you may continue with the action as normal. If the check fails, the action automatically fails and is wasted. If you were in the process of casting a spell, the spell is lost. If you were concentrating on an active spell, the spell ends as if you had ceased concentrating on it. If you were directing a spell, the direction fails but the spell remains active. If you were using a spell-like ability, that use of the ability is lost. A skill use also fails, and in some cases a failed skill check may have other ramifications as well.
 The table below summarizes various types of distractions that cause you to make a Concentration check. If the distraction occurs while you are trying to cast a spell, you must add the level of the spell you are trying to cast to the appropriate Concentration DC. If more than one type of distraction is present, make a check for each one; any failed Concentration check indicates that the task is not completed.
 
-Concentration DC1 
+Concentration DC1
 Distraction
-10 + damage dealt 
+10 + damage dealt
 Damaged during the action.2
-10 + half of continuous 
+10 + half of continuous
 Taking continuous damage during the damage last dealt action.3
-Distracting spell’s save DC 
+Distracting spell’s save DC
 Distracted by nondamaging spell.4
-10 
+10
 Vigorous motion (on a moving mount, taking a bouncy wagon ride, in a small boat in rough water, belowdecks in a stormtossed ship).
-15 
+15
 Violent motion (on a galloping horse, taking a very rough wagon ride, in a small boat in rapids, on the deck of a storm-tossed ship).
-20 
+20
 Extraordinarily violent motion (earthquake).
-15 
+15
 Entangled.
-20 
+20
 Grappling or pinned. (You can cast only spells without somatic components for which you have any required material component in hand.)
-5 
+5
 Weather is a high wind carrying blinding rain or sleet.
-10 
+10
 Weather is wind-driven hail, dust, or debris.
-Distracting spell’s save DC 
+Distracting spell’s save DC
 Weather caused by a spell, such as storm of vengeance.4
 1 If you are trying to cast, concentrate on, or direct a spell when the distraction occurs, add the level of the spell to the indicated DC.
 2 Such as during the casting of a spell with a casting time of 1 round or more, or the execution of an activity that takes more than a single full-round action (such as Disable Device). Also, damage stemming from an attack of opportunity or readied attack made in response to the spell being cast (for spells with a casting time of 1 action) or the action being taken (for activities requiring no more than a full-round action).
@@ -323,7 +323,7 @@ Weather caused by a spell, such as storm of vengeance.4
 Action: None. Making a Concentration check doesn’t take an action; it is either a free action (when attempted reactively) or part of another action (when attempted actively).
 Try Again: Yes, though a success doesn’t cancel the effect of a previous failure, such as the loss of a spell you were casting or the disruption of a spell you were concentrating on.
 Special: You can use Concentration to cast a spell, use a spell-like ability, or use a skill defensively, so as to avoid attacks of opportunity altogether. This doesn’t apply to other actions that might provoke attacks of opportunity.
-The DC of the check is 15 (plus the spell’s level, if casting a spell or using a spell-like ability defensively). If the Concentration check succeeds, you may attempt the action normally without provoking any attacks of opportunity. A successful Concentration check still doesn’t allow you to take 10 on another check if you are in a stressful situation; you must make the check normally. If the Concentration check fails, the related action also automatically fails (with any appropriate ramifications), and the action is wasted, just as if your concentration had been disrupted by a distraction. 
+The DC of the check is 15 (plus the spell’s level, if casting a spell or using a spell-like ability defensively). If the Concentration check succeeds, you may attempt the action normally without provoking any attacks of opportunity. A successful Concentration check still doesn’t allow you to take 10 on another check if you are in a stressful situation; you must make the check normally. If the Concentration check fails, the related action also automatically fails (with any appropriate ramifications), and the action is wasted, just as if your concentration had been disrupted by a distraction.
 A character with the Combat Casting feat gets a +4 bonus on Concentration checks made to cast a spell or use a spell-like ability while on the defensive or while grappling or pinned.
 
 CRAFT (INT)
@@ -344,60 +344,60 @@ If you fail a check by 4 or less, you make no progress this week.
 If you fail by 5 or more, you ruin half the raw materials and have to pay half the original raw material cost again.
 Progress by the Day: You can make checks by the day instead of by the week. In this case your progress (check result × DC) is in copper pieces instead of silver pieces.
 Creating Masterwork Items: You can make a masterwork item—a weapon, suit of armor, shield, or tool that conveys a bonus on its use through its exceptional craftsmanship, not through being magical. To create a masterwork item, you create the masterwork component as if it were a separate item in addition to the standard item. The masterwork component has its own price (300 gp for a weapon or 150 gp for a suit of armor or a shield) and a Craft DC of 20. Once both the standard component and the masterwork component are completed, the masterwork item is finished. Note: The cost you pay for the masterwork component is one-third of the given amount, just as it is for the cost in raw materials.
-Repairing Items: Generally, you can repair an item by making checks against the same DC that it took to make the item in the first place. The cost of repairing an item is one-fifth of the item’s price. 
+Repairing Items: Generally, you can repair an item by making checks against the same DC that it took to make the item in the first place. The cost of repairing an item is one-fifth of the item’s price.
 
 When you use the Craft skill to make a particular sort of item, the DC for checks involving the creation of that item are typically as given on the following table.
 
-Item 
-Craft Skill 
+Item
+Craft Skill
 Craft DC
-Acid 
-Alchemy1 
+Acid
+Alchemy1
 15
-Alchemist’s fire, smokestick, or tindertwig 
-Alchemy1 
+Alchemist’s fire, smokestick, or tindertwig
+Alchemy1
 20
-Antitoxin, sunrod, tanglefoot bag, or thunderstone 
-Alchemy1 
+Antitoxin, sunrod, tanglefoot bag, or thunderstone
+Alchemy1
 25
-Armor or shield 
-Armorsmithing 
+Armor or shield
+Armorsmithing
 10 + AC bonus
-Longbow or shortbow 
-Bowmaking 
+Longbow or shortbow
+Bowmaking
 12
 Composite longbow or composite shortbow
-Bowmaking 
+Bowmaking
 15
 Composite longbow or composite shortbow with high strength rating
-Bowmaking 
+Bowmaking
 15 + (2 × rating)
-Crossbow 
-Weaponsmithing 
+Crossbow
+Weaponsmithing
 15
-Simple melee or thrown weapon 
-Weaponsmithing 
+Simple melee or thrown weapon
+Weaponsmithing
 12
-Martial melee or thrown weapon 
-Weaponsmithing 
+Martial melee or thrown weapon
+Weaponsmithing
 15
-Exotic melee or thrown weapon 
-Weaponsmithing 
+Exotic melee or thrown weapon
+Weaponsmithing
 18
-Mechanical trap 
-Trapmaking 
+Mechanical trap
+Trapmaking
 Varies2
-Very simple item (wooden spoon) 
+Very simple item (wooden spoon)
 Varies
 5
-Typical item (iron pot) 
-Varies 
+Typical item (iron pot)
+Varies
 10
 High-quality item (bell)
-Varies 
+Varies
 15
-Complex or superior item (lock) 
-Varies 
+Complex or superior item (lock)
+Varies
 20
 1 You must be a spellcaster to craft any of these items.
 2 Traps have their own rules for construction.
@@ -432,7 +432,7 @@ Use the table below to determine the effectiveness of Diplomacy checks (or Chari
 
 Initial Attitude
 ————— New Attitude (DC to achieve)—————
- 
+
 Hostile
 Unfriendly
 Indifferent
@@ -469,23 +469,23 @@ Helpful
 Less than 1
 1
 
-Attitude 
-Means 
+Attitude
+Means
 Possible Actions
-Hostile 
-Will take risks to hurt you 
+Hostile
+Will take risks to hurt you
 Attack, interfere, berate, flee
-Unfriendly 
-Wishes you ill 
+Unfriendly
+Wishes you ill
 Mislead, gossip, avoid, watch suspiciously, insult
-Indifferent 
-Doesn’t much care 
+Indifferent
+Doesn’t much care
 Socially expected interaction
-Friendly 
-Wishes you well 
+Friendly
+Wishes you well
 Chat, advise, offer limited help, advocate
-Helpful 
-Will take risks to help you 
+Helpful
+Will take risks to help you
 Protect, back up, heal, aid
 
 DISABLE DEVICE (INT; TRAINED ONLY)
@@ -494,8 +494,8 @@ The DC depends on how tricky the device is. Disabling (or rigging or jamming) a 
 If the check succeeds, you disable the device. If it fails by 4 or less, you have failed but can try again. If you fail by 5 or more, something goes wrong. If the device is a trap, you spring it. If you’re attempting some sort of sabotage, you think the device is disabled, but it still works normally.
 You also can rig simple devices such as saddles or wagon wheels to work normally for a while and then fail or fall off some time later (usually after 1d4 rounds or minutes of use).
 
-Device 
-Time 
+Device
+Time
 Disable Device DC1
 Example
 Simple
@@ -535,13 +535,13 @@ Check: Your Disguise check result determines how good the disguise is, and it is
 You get only one Disguise check per use of the skill, even if several people are making Spot checks against it. The Disguise check is made secretly, so that you can’t be sure how good the result is.
 The effectiveness of your disguise depends in part on how much you’re attempting to change your appearance.
 
-Disguise 
+Disguise
 Disguise Check Modifier
-Minor details only 
+Minor details only
 +5
-Disguised as different gender1 
+Disguised as different gender1
 –2
-Disguised as different race1 
+Disguised as different race1
 –2
 Disguised as different age category1
 –22
@@ -550,18 +550,18 @@ Disguised as different age category1
 
 If you are impersonating a particular individual, those who know what that person looks like get a bonus on their Spot checks according to the table below. Furthermore, they are automatically considered to be suspicious of you, so opposed checks are always called for.
 
-Familiarity 
+Familiarity
 Viewer’s Spot Check Bonus
-Recognizes on sight 
+Recognizes on sight
 +4
-Friends or associates 
+Friends or associates
 +6
-Close friends 
+Close friends
 +8
-Intimate 
+Intimate
 +10
 
-Usually, an individual makes a Spot check to see through your disguise immediately upon meeting you and each hour thereafter. If you casually meet many different creatures, each for a short time, check once per day or hour, using an average Spot modifier for the group. 
+Usually, an individual makes a Spot check to see through your disguise immediately upon meeting you and each hour thereafter. If you casually meet many different creatures, each for a short time, check once per day or hour, using an average Spot modifier for the group.
 Action: Creating a disguise requires 1d3×10 minutes of work.
 Try Again: Yes. You may try to redo a failed disguise, but once others know that a disguise was attempted, they’ll be more suspicious.
 Special: Magic that alters your form, such as alter self, disguise self, polymorph, or shapechange, grants you a +10 bonus on Disguise checks (see the individual spell descriptions). You must succeed on a Disguise check with a +10 bonus to duplicate the appearance of a specific individual using the veil spell. Divination magic that allows people to see through illusions (such as true seeing) does not penetrate a mundane disguise, but it can negate the magical component of a magically enhanced one.
@@ -576,21 +576,21 @@ Manacles and Masterwork Manacles: The DC for manacles is set by their constructi
 Tight Space: The DC noted on the table is for getting through a space where your head fits but your shoulders don’t. If the space is long you may need to make multiple checks. You can’t get through a space that your head does not fit through.
 Grappler: You can make an Escape Artist check opposed by your enemy’s grapple check to get out of a grapple or out of a pinned condition (so that you’re only grappling).
 
-Restraint 
+Restraint
 Escape Artist DC
-Ropes Binder’s 
+Ropes Binder’s
 Use Rope check at +10
 Net, animate rope spell, command plants spell, control plants spell, or entangle spell
 20
-Snare spell 
+Snare spell
 23
-Manacles 
+Manacles
 30
-Tight space 
+Tight space
 30
-Masterwork manacles 
+Masterwork manacles
 35
-Grappler 
+Grappler
 Grappler’s grapple check result
 
 Action: Making an Escape Artist check to escape from rope bindings, manacles, or other restraints (except a grappler) requires 1 minute of work. Escaping from a net or an animate rope, command plants, control plants, or entangle spell is a full-round action. Escaping from a grapple or pin is a standard action. Squeezing through a tight space takes at least 1 minute, maybe longer, depending on how long the space is.
@@ -603,21 +603,21 @@ FORGERY (INT)
 Check: Forgery requires writing materials appropriate to the document being forged, enough light or sufficient visual acuity to see the details of what you’re writing, wax for seals (if appropriate), and some time. To forge a document on which the handwriting is not specific to a person (military orders, a government decree, a business ledger, or the like), you need only to have seen a similar document before, and you gain a +8 bonus on your check. To forge a signature, you need an autograph of that person to copy, and you gain a +4 bonus on the check. To forge a longer document written in the hand of some particular person, a large sample of that person’s handwriting is needed.
 The Forgery check is made secretly, so that you’re not sure how good your forgery is. As with Disguise, you don’t even need to make a check until someone examines the work. Your Forgery check is opposed by the Forgery check of the person who examines the document to check its authenticity. The examiner gains modifiers on his or her check if any of the conditions on the table below exist.
 
-Condition 
+Condition
 Reader’s Forgery Check Modifier
-Type of document unknown to reader 
+Type of document unknown to reader
 –2
-Type of document somewhat known to reader 
+Type of document somewhat known to reader
 +0
-Type of document well known to reader 
+Type of document well known to reader
 +2
-Handwriting not known to reader 
+Handwriting not known to reader
 –2
-Handwriting somewhat known to reader 
+Handwriting somewhat known to reader
 +0
-Handwriting intimately known to reader 
+Handwriting intimately known to reader
 +2
-Reader only casually reviews the document 
+Reader only casually reviews the document
 –2
 
 A document that contradicts procedure, orders, or previous knowledge, or one that requires sacrifice on the part of the person checking the document can increase that character’s suspicion (and thus create favorable circumstances for the checker’s opposing Forgery check).
@@ -638,37 +638,37 @@ Synergy: If you have 5 or more ranks in Knowledge (local), you get a +2 bonus on
 HANDLE ANIMAL (CHA; TRAINED ONLY)
 Check: The DC depends on what you are trying to do.
 
-Task 
+Task
 Handle Animal DC
-Handle an animal 
+Handle an animal
 10
-“Push” an animal 
+“Push” an animal
 25
-Teach an animal a trick 
+Teach an animal a trick
 15 or 201
-Train an animal for a general purpose 
+Train an animal for a general purpose
 15 or 201
-Rear a wild animal 
+Rear a wild animal
 15 + HD of animal
 1See the specific trick or purpose below.
 
-General Purpose 
-DC 
-General Purpose 
+General Purpose
 DC
-Combat riding 
-20 
-Hunting 
+General Purpose
+DC
+Combat riding
 20
-Fighting 
-20 
-Performance 
+Hunting
+20
+Fighting
+20
+Performance
 15
-Guarding 
-20 
-Riding 
+Guarding
+20
+Riding
 15
-Heavy labor 
+Heavy labor
 15
 
 
@@ -690,7 +690,7 @@ Track (DC 20): The animal tracks the scent presented to it. (This requires the a
 Work (DC 15): The animal pulls or pushes a medium or heavy load.
 
 Train an Animal for a Purpose: Rather than teaching an animal individual tricks, you can simply train it for a general purpose. Essentially, an animal’s purpose represents a preselected set of known tricks that fit into a common scheme, such as guarding or heavy labor. The animal must meet all the normal prerequisites for all tricks included in the training package. If the package includes more than three tricks, the animal must have an Intelligence score of 2.
-An animal can be trained for only one general purpose, though if the creature is capable of learning additional tricks (above and beyond those included in its general purpose), it may do so. Training an animal for a purpose requires fewer checks than teaching individual tricks does, but no less time. 
+An animal can be trained for only one general purpose, though if the creature is capable of learning additional tricks (above and beyond those included in its general purpose), it may do so. Training an animal for a purpose requires fewer checks than teaching individual tricks does, but no less time.
 Combat Riding (DC 20): An animal trained to bear a rider into combat knows the tricks attack, come, defend, down, guard, and heel. Training an animal for combat riding takes six weeks. You may also “upgrade” an animal trained for riding to one trained for combat riding by spending three weeks and making a successful DC 20 Handle Animal check. The new general purpose and tricks completely replace the animal’s previous purpose and any tricks it once knew. Warhorses and riding dogs are already trained to bear riders into combat, and they don’t require any additional training for this purpose.
 Fighting (DC 20): An animal trained to engage in combat knows the tricks attack, down, and stay. Training an animal for fighting takes three weeks.
 Guarding (DC 20): An animal trained to guard knows the tricks attack, defend, down, and guard. Training an animal for guarding takes four weeks.
@@ -713,17 +713,17 @@ Untrained: If you have no ranks in Handle Animal, you can use a Charisma check t
 HEAL (WIS)
 Check: The DC and effect depend on the task you attempt.
 
-Task Heal 
+Task Heal
 DC
 First aid
 15
-Long-term care 
+Long-term care
 15
-Treat wound from caltrop, spike growth, or spike stones 
+Treat wound from caltrop, spike growth, or spike stones
 15
-Treat poison 
+Treat poison
 Poison’s save DC
-Treat disease 
+Treat disease
 Disease’s save DC
 
 First Aid: You usually use first aid to save a dying character. If a character has negative hit points and is losing hit points (at the rate of 1 per round, 1 per hour, or 1 per day), you can make him or her stable. A stable character regains no hit points but stops losing them.
@@ -790,23 +790,23 @@ Jump DC1
 High Jump: A high jump is a vertical leap made to reach a ledge high above or to grasp something overhead. The DC is equal to 4 times the distance to be cleared.
 If you jumped up to grab something, a successful check indicates that you reached the desired height. If you wish to pull yourself up, you can do so with a move action and a DC 15 Climb check. If you fail the Jump check, you do not reach the height, and you land on your feet in the same spot from which you jumped. As with a long jump, the DC is doubled if you do not get a running start of at least 20 feet.
 
-High Jump Distance1 
+High Jump Distance1
 Jump DC2
-1 foot 
+1 foot
 4
-2 feet 
+2 feet
 8
-3 feet 
+3 feet
 12
-4 feet 
+4 feet
 16
-5 feet 
+5 feet
 20
-6 feet 
+6 feet
 24
-7 feet 
+7 feet
 28
-8 feet 
+8 feet
 32
 1 Not including vertical reach; see below.
 2 Requires a 20-foot running start. Without a running start, double the DC.
@@ -814,25 +814,25 @@ Jump DC2
 Obviously, the difficulty of reaching a given height varies according to the size of the character or creature. The maximum vertical reach (height the creature can reach without jumping) for an average creature of a given size is shown on the table below. (As a Medium creature, a typical human can reach 8 feet without jumping.)
 Quadrupedal creatures don’t have the same vertical reach as a bipedal creature; treat them as being one size category smaller.
 
-Creature Size 
+Creature Size
 Vertical Reach
-Colossal 
+Colossal
 128 ft.
-Gargantuan 
+Gargantuan
 64 ft.
-Huge 
+Huge
 32 ft.
-Large 
+Large
 16 ft.
-Medium 
+Medium
 8 ft.
-Small 
+Small
 4 ft.
-Tiny 
+Tiny
 2 ft.
-Diminutive 
+Diminutive
 1 ft.
-Fine 
+Fine
 1/2 ft.
 
 Hop Up: You can jump up onto an object as tall as your waist, such as a table or small boulder, with a DC 10 Jump check. Doing so counts as 10 feet of movement, so if your speed is 30 feet, you could move 20 feet, then hop up onto a counter. You do not need to get a running start to hop up, so the DC is not doubled if you do not get a running start.
@@ -880,23 +880,23 @@ Untrained: An untrained Knowledge check is simply an Intelligence check. Without
 LISTEN (WIS)
 Check: Your Listen check is either made against a DC that reflects how quiet the noise is that you might hear, or it is opposed by your target’s Move Silently check.
 
-Listen DC 
+Listen DC
 Sound
-–10 
+–10
 A battle
-0 
+0
 People talking1
-5 
+5
 A person in medium armor walking at a slow pace (10 ft./round) trying not to make any noise.
-10 
+10
 An unarmored person walking at a slow pace (15 ft./round) trying not to make any noise
-15 
+15
 A 1st-level rogue using Move Silently to sneak past the listener
-15 
+15
 People whispering1
-19 
+19
 A cat stalking
-30 
+30
 An owl gliding in for a kill
 1 If you beat the DC by 10 or more, you can make out what’s being said, assuming that you understand the language.
 
@@ -911,14 +911,14 @@ Per 10 feet of distance
 +5
 Listener distracted
 
-In the case of people trying to be quiet, the DCs given on the table could be replaced by Move Silently checks, in which case the indicated DC would be their average check result. 
+In the case of people trying to be quiet, the DCs given on the table could be replaced by Move Silently checks, in which case the indicated DC would be their average check result.
 Action: Varies. Every time you have a chance to hear something in a reactive manner (such as when someone makes a noise or you move into a new area), you can make a Listen check without using an action. Trying to hear something you failed to hear previously is a move action.
 Try Again: Yes. You can try to hear something that you failed to hear previously with no penalty.
 Special: When several characters are listening to the same thing, a single 1d20 roll can be used for all the individuals’ Listen checks.
 A fascinated creature takes a –4 penalty on Listen checks made as reactions.
 If you have the Alertness feat, you get a +2 bonus on Listen checks.
 A ranger gains a bonus on Listen checks when using this skill against a favored enemy.
-An elf, gnome, or halfling has a +2 racial bonus on Listen checks. 
+An elf, gnome, or halfling has a +2 racial bonus on Listen checks.
 A half-elf has a +1 racial bonus on Listen checks..
 A sleeping character may make Listen checks at a –10 penalty. A successful check awakens the sleeper.
 
@@ -926,11 +926,11 @@ MOVE SILENTLY (DEX; ARMOR CHECK PENALTY)
 Check: Your Move Silently check is opposed by the Listen check of anyone who might hear you. You can move up to one-half your normal speed at no penalty. When moving at a speed greater than one-half but less than your full speed, you take a –5 penalty. It’s practically impossible (–20 penalty) to move silently while running or charging.
 Noisy surfaces, such as bogs or undergrowth, are tough to move silently across. When you try to sneak across such a surface, you take a penalty on your Move Silently check as indicated below.
 
-Surface 
+Surface
 Check Modifier
 Noisy (scree, shallow or deep bog, undergrowth, dense rubble)
 –2
-Very noisy (dense undergrowth, deep snow) 
+Very noisy (dense undergrowth, deep snow)
 –5
 
 Action:None. A Move Silently check is included in your movement or other activity, so it is part of another action.
@@ -942,17 +942,17 @@ OPEN LOCK (DEX; TRAINED ONLY)
 Attempting an Open Lock check without a set of thieves’ tools imposes a –2 circumstance penalty on the check, even if a simple tool is employed. If you use masterwork thieves’ tools, you gain a +2 circumstance bonus on the check.
 Check: The DC for opening a lock varies from 20 to 40, depending on the quality of the lock, as given on the table below.
 
-Lock 
-DC 
-Lock 
+Lock
 DC
-Very simple lock 
-20 
-Good lock 
+Lock
+DC
+Very simple lock
+20
+Good lock
 30
 Average lock
- 25 
-Amazing lock 
+ 25
+Amazing lock
 40
 
 Action: Opening a lock is a full-round action.
@@ -993,7 +993,7 @@ Special: A bard must have at least 3 ranks in a Perform skill to inspire courage
 In addition to using the Perform skill, you can entertain people with sleight of hand, tumbling, tightrope walking, and spells (especially illusions).
 
 PROFESSION (WIS; TRAINED ONLY)
-Like Craft, Knowledge, and Perform, Profession is actually a number of separate skills. You could have several Profession skills, each with its own ranks, each purchased as a separate skill. While a Craft skill represents ability in creating or making an item, a Profession skill represents an aptitude in a vocation requiring a broader range of less specific knowledge. 
+Like Craft, Knowledge, and Perform, Profession is actually a number of separate skills. You could have several Profession skills, each with its own ranks, each purchased as a separate skill. While a Craft skill represents ability in creating or making an item, a Profession skill represents an aptitude in a vocation requiring a broader range of less specific knowledge.
 Check: You can practice your trade and make a decent living, earning about half your Profession check result in gold pieces per week of dedicated work. You know how to use the tools of your trade, how to perform the profession’s daily tasks, how to supervise helpers, and how to handle common problems.
 Action: Not applicable. A single check generally represents a week of work.
 Try Again: Varies. An attempt to use a Profession skill to earn an income cannot be retried. You are stuck with whatever weekly wage your check result brought you. Another check may be made after a week to determine a new income for the next period of time. An attempt to accomplish some specific task can usually be retried.
@@ -1004,23 +1004,23 @@ If you attempt to ride a creature that is ill suited as a mount, you take a –5
 Check: Typical riding actions don’t require checks. You can saddle, mount, ride, and dismount from a mount without a problem.
 The following tasks do require checks.
 
-Task 
-Ride DC 
-Task 
+Task
 Ride DC
-Guide with knees 
+Task
+Ride DC
+Guide with knees
 5
-Leap 
+Leap
 15
-Stay in saddle 
+Stay in saddle
 5
-Spur mount 
+Spur mount
 15
-Fight with warhorse 
+Fight with warhorse
 10
  Control mount in battle
 20
-Cover 
+Cover
 15
 Fast mount or dismount
 201
@@ -1054,15 +1054,15 @@ Task
 Search DC
 Ransack a chest full of junk to find a certain item
 10
-Notice a typical secret door or a simple trap 
+Notice a typical secret door or a simple trap
 20
-Find a difficult nonmagical trap (rogue only)1 
+Find a difficult nonmagical trap (rogue only)1
 21 or higher
-Find a magic trap (rogue only)1 
+Find a magic trap (rogue only)1
 25 + level of spell used to create trap
-Notice a well-hidden secret door 
+Notice a well-hidden secret door
 30
-Find a footprint 
+Find a footprint
 Varies2
 1 Dwarves (even if they are not rogues) can use Search to find traps built into or out of stone.
 2 A successful Search check can find a footprint or similar sign of a creature’s passage, but it won’t let you find or follow a trail. See the Track feat for the appropriate DC.
@@ -1078,15 +1078,15 @@ Restriction: While anyone can use Search to find a trap whose DC is 20 or lower,
 A dwarf, even one who is not a rogue, can use the Search skill to find a difficult trap (one with a DC higher than 20) if the trap is built into or out of stone. He gains a +2 racial bonus on the Search check from his stonecunning ability.
 
 SENSE MOTIVE (WIS)
-Check: A successful check lets you avoid being bluffed (see the Bluff skill). You can also use this skill to determine when “something is up” (that is, something odd is going on) or to assess someone’s trustworthiness. 
+Check: A successful check lets you avoid being bluffed (see the Bluff skill). You can also use this skill to determine when “something is up” (that is, something odd is going on) or to assess someone’s trustworthiness.
 
-Task 
+Task
 Sense Motive DC
-Hunch 
+Hunch
 20
-Sense enchantment 
+Sense enchantment
 25 or 15
-Discern secret message 
+Discern secret message
 Varies
 
 Hunch: This use of the skill involves making a gut assessment of the social situation. You can get the feeling from another’s behavior that something is wrong, such as when you’re talking to an impostor. Alternatively, you can get the feeling that someone is trustworthy.
@@ -1106,7 +1106,7 @@ Drawing a hidden weapon is a standard action and doesn’t provoke an attack of 
 If you try to take something from another creature, you must make a DC 20 Sleight of Hand check to obtain it. The opponent makes a Spot check to detect the attempt, opposed by the same Sleight of Hand check result you achieved when you tried to grab the item. An opponent who succeeds on this check notices the attempt, regardless of whether you got the item.
 You can also use Sleight of Hand to entertain an audience as though you were using the Perform skill. In such a case, your “act” encompasses elements of legerdemain, juggling, and the like.
 
-Sleight of Hand DC 
+Sleight of Hand DC
 Task
 10
 Palm a coin-sized object, make a coin disappear
@@ -1121,67 +1121,67 @@ Untrained: An untrained Sleight of Hand check is simply a Dexterity check. Witho
 
 SPEAK LANGUAGE (NONE; TRAINED ONLY)
 Common Languages and Their Alphabets
-Language 
-Typical Speakers 
+Language
+Typical Speakers
 Alphabet
-Abyssal 
-Demons, chaotic evil outsiders 
+Abyssal
+Demons, chaotic evil outsiders
 Infernal
-Aquan 
-Water-based creatures 
+Aquan
+Water-based creatures
 Elven
-Auran 
-Air-based creatures 
+Auran
+Air-based creatures
 Draconic
-Celestial 
-Good outsiders 
 Celestial
-Common 
-Humans, halflings, half-elves, half-orcs 
+Good outsiders
+Celestial
 Common
-Draconic 
+Humans, halflings, half-elves, half-orcs
+Common
+Draconic
 Kobolds, troglodytes, lizardfolk, dragons
 Draconic
-Druidic 
-Druids (only) 
 Druidic
-Dwarven 
-Dwarves 
+Druids (only)
+Druidic
 Dwarven
-Elven 
-Elves 
+Dwarves
+Dwarven
 Elven
-Giant 
-Ogres, giants 
+Elves
+Elven
+Giant
+Ogres, giants
 Dwarven
-Gnome 
-Gnomes 
+Gnome
+Gnomes
 Dwarven
-Goblin 
-Goblins, hobgoblins, bugbears 
+Goblin
+Goblins, hobgoblins, bugbears
 Dwarven
-Gnoll 
-Gnolls 
+Gnoll
+Gnolls
 Common
-Halfling 
-Halflings 
+Halfling
+Halflings
 Common
-Ignan 
-Fire-based creatures 
+Ignan
+Fire-based creatures
 Draconic
-Infernal 
-Devils, lawful evil outsiders 
 Infernal
-Orc 
-Orcs 
+Devils, lawful evil outsiders
+Infernal
+Orc
+Orcs
 Dwarven
-Sylvan 
-Dryads, brownies, leprechauns 
+Sylvan
+Dryads, brownies, leprechauns
 Elven
-Terran 
+Terran
 Xorns and other earth-based creatures
 Dwarven
-Undercommon 
+Undercommon
 Drow
 Elven
 
@@ -1196,33 +1196,33 @@ The Speak Language skill doesn’t work like other skills. Languages work as fol
 SPELLCRAFT (INT; TRAINED ONLY)
 Use this skill to identify spells as they are cast or spells already in place.
 
-Spellcraft DC 
+Spellcraft DC
 Task
-13 
+13
 When using read magic, identify a glyph of warding. No action required.
-15 + spell level 
-Identify a spell being cast. (You must see or hear the spell’s verbal or somatic components.) No action required. No retry. 
-15 + spell level 
+15 + spell level
+Identify a spell being cast. (You must see or hear the spell’s verbal or somatic components.) No action required. No retry.
+15 + spell level
 Learn a spell from a spellbook or scroll (wizard only). No retry for that spell until you gain at least 1 rank in Spellcraft (even if you find another source to try to learn the spell from). Requires 8 hours.
-15 + spell level 
-Prepare a spell from a borrowed spellbook (wizard only). One try per day. No extra time required. 
-15 + spell level 
+15 + spell level
+Prepare a spell from a borrowed spellbook (wizard only). One try per day. No extra time required.
+15 + spell level
 When casting detect magic, determine the school of magic involved in the aura of a single item or creature you can see. (If the aura is not a spell effect, the DC is 15 + one-half caster level.) No action required.
-19 
+19
 When using read magic, identify a symbol. No action required.
-20 + spell level 
+20 + spell level
 Identify a spell that’s already in place and in effect. You must be able to see or detect the effects of the spell. No action required. No retry.
-20 + spell level 
+20 + spell level
 Identify materials created or shaped by magic, such as noting that an iron wall is the result of a wall of iron spell. No action required. No retry.
-20 + spell level 
+20 + spell level
 Decipher a written spell (such as a scroll) without using read magic. One try per day. Requires a full-round action.
-25 + spell level 
+25 + spell level
 After rolling a saving throw against a spell targeted on you, determine what that spell was. No action required. No retry.
-25 
+25
 Identify a potion. Requires 1 minute. No retry.
-20 
+20
 Draw a diagram to allow dimensional anchor to be cast on a magic circle spell. Requires 10 minutes. No retry. This check is made secretly so you do not know the result.
-30 or higher 
+30 or higher
 Understand a strange or unique magical effect, such as the effects of a magic stream. Time required varies. No retry.
 
 Check: You can identify spells and magic effects. The DCs for Spellcraft checks relating to various tasks are summarized on the table above.
@@ -1241,11 +1241,11 @@ A Spot check result higher than 20 generally lets you become aware of an invisib
 Spot is also used to detect someone in disguise (see the Disguise skill), and to read lips when you can’t hear or understand what someone is saying.
 Spot checks may be called for to determine the distance at which an encounter begins. A penalty applies on such checks, depending on the distance between the two individuals or groups, and an additional penalty may apply if the character making the Spot check is distracted (not concentrating on being observant).
 
-Condition 
+Condition
 Penalty
-Per 10 feet of distance 
+Per 10 feet of distance
 –1
-Spotter distracted 
+Spotter distracted
 –5
 
 Read Lips: To understand what someone is saying by reading lips, you must be within 30 feet of the speaker, be able to see him or her speak, and understand the speaker’s language. (This use of the skill is language-dependent.) The base DC is 15, but it increases for complex speech or an inarticulate speaker. You must maintain a line of sight to the lips being read.
@@ -1264,17 +1264,17 @@ SURVIVAL (WIS)
 Check: You can keep yourself and others safe and fed in the wild. The table below gives the DCs for various tasks that require Survival checks.
 Survival does not allow you to follow difficult tracks unless you are a ranger or have the Track feat (see the Restriction section below).
 
-Survival DC 
+Survival DC
 Task
-10 
+10
 Get along in the wild. Move up to one-half your overland speed while hunting and foraging (no food or water supplies needed). You can provide food and water for one other person for every 2 points by which your check result exceeds 10.
 15
 Gain a +2 bonus on all Fortitude saves against severe weather while moving up to one-half your overland speed, or gain a +4 bonus if you remain stationary. You may grant the same bonus to one other character for every 1 point by which your Survival check result exceeds 15.
-15 
+15
 Keep from getting lost or avoid natural hazards, such as quicksand.
-15 
+15
 Predict the weather up to 24 hours in advance. For every 5 points by which your Survival check result exceeds 15, you can predict the weather for one additional day in advance.
-Varies 
+Varies
 Follow tracks (see the Track feat).
 
 Action: Varies. A single Survival check may represent activity over the course of hours or a full day. A Survival check made to find tracks is at least a full-round action, and it may take even longer.
@@ -1297,11 +1297,11 @@ The DC for the Swim check depends on the water, as given on the table below.
 
 Water
 Swim DC
-Calm water 
+Calm water
 10
-Rough water 
+Rough water
 15
-Stormy water 
+Stormy water
 201
 1 You can’t take 10 on a Swim check in stormy water, even if you aren’t otherwise being threatened or distracted.
 
@@ -1317,30 +1317,30 @@ TUMBLE (DEX; TRAINED ONLY; ARMOR CHECK PENALTY)
 You can’t use this skill if your speed has been reduced by armor, excess equipment, or loot.
 Check: You can land softly when you fall or tumble past opponents. You can also tumble to entertain an audience (as though using the Perform skill). The DCs for various tasks involving the Tumble skill are given on the table below.
 
-Tumble DC 
+Tumble DC
 Task
-15 
+15
 Treat a fall as if it were 10 feet shorter than it really is when determining damage.
-15 
+15
 Tumble at one-half speed as part of normal movement, provoking no attacks of opportunity while doing so. Failure means you provoke attacks of opportunity normally. Check separately for each opponent you move past, in the order in which you pass them (player’s choice of order in case of a tie).
 Each additional enemy after the first adds +2 to the Tumble DC.
-25 
+25
 Tumble at one-half speed through an area occupied by an enemy (over, under, or around the opponent) as part of normal movement, provoking no attacks of opportunity while doing so. Failure means you stop before entering the enemy-occupied area and provoke an attack of opportunity from that enemy.
 Check separately for each opponent. Each additional enemy after the first adds +2 to the Tumble DC.
 
 Obstructed or otherwise treacherous surfaces, such as natural cavern floors or undergrowth, are tough to tumble through. The DC for any Tumble check made to tumble into such a square is modified as indicated below.
 
-Surface Is . . . 
+Surface Is . . .
 DC Modifier
-Lightly obstructed (scree, light rubble, shallow bog1, undergrowth) 
+Lightly obstructed (scree, light rubble, shallow bog1, undergrowth)
 +2
-Severely obstructed (natural cavern floor, dense rubble, dense undergrowth) 
+Severely obstructed (natural cavern floor, dense rubble, dense undergrowth)
 +5
-Lightly slippery (wet floor) 
+Lightly slippery (wet floor)
 +2
-Severely slippery (ice sheet) 
+Severely slippery (ice sheet)
 +5
-Sloped or angled 
+Sloped or angled
 +2
 1 Tumbling is impossible in a deep bog.
 
@@ -1360,23 +1360,23 @@ Check: You can use this skill to read a spell or to activate a magic item. Use M
 You make a Use Magic Device check each time you activate a device such as a wand. If you are using the check to emulate an alignment or some other quality in an ongoing manner, you need to make the relevant Use Magic Device check once per hour.
 You must consciously choose which requirement to emulate. That is, you must know what you are trying to emulate when you make a Use Magic Device check for that purpose. The DCs for various tasks involving Use Magic Device checks are summarized on the table below.
 
-Task 
+Task
 Use Magic Device DC
-Activate blindly 
+Activate blindly
 25
-Decipher a written spell 
+Decipher a written spell
 25 + spell level
-Use a scroll 
+Use a scroll
 20 + caster level
-Use a wand 
+Use a wand
 20
-Emulate a class feature 
+Emulate a class feature
 20
-Emulate an ability score 
+Emulate an ability score
 See text
-Emulate a race 
+Emulate a race
 25
-Emulate an alignment 
+Emulate an alignment
 30
 
 Activate Blindly: Some magic items are activated by special words, thoughts, or actions. You can activate such an item as if you were using the activation word, thought, or action, even when you’re not and even if you don’t know it. You do have to perform some equivalent activity in order to make the check. That is, you must speak, wave the item around, or otherwise attempt to get it to activate. You get a special +2 bonus on your Use Magic Device check if you’ve activated the item in question at least once before. If you fail by 9 or less, you can’t activate the device. If you fail by 10 or more, you suffer a mishap. A mishap means that magical energy gets released but it doesn’t do what you wanted it to do. The default mishaps are that the item affects the wrong target or that uncontrolled magical energy is released, dealing 2d6 points of damage to you. This mishap is in addition to the chance for a mishap that you normally run when you cast a spell from a scroll that you could not otherwise cast yourself.
@@ -1436,7 +1436,7 @@ SKILL DESCRIPTIONS
 The skills below relate to the use of psionics. In addition to three new skills (Autohypnosis, Psicraft, and Use Psionic Device), a new category is provided for the Knowledge skill, and new uses are given for Concentration.
 
 Table: Skill Synergies
-5 or more ranks in. . . 
+5 or more ranks in. . .
 Gives a +2 bonus on. . .
 Autohypnosis
 Knowledge (psionics) checks
@@ -1478,7 +1478,7 @@ Synergy: If you have 5 or more ranks in Autohypnosis, you get a +2 bonus on Know
 If you have 5 or more ranks in Concentration, you get a +2 bonus on Autohypnosis checks.
 
 CONCENTRATION (CON)
-You are particularly good at focusing your mind. 
+You are particularly good at focusing your mind.
 The following are additional uses for the concentration skill.
 Check: You must make a Concentration check whenever you might potentially be distracted (by taking damage, by harsh weather, and so on) while engaged in some action that requires your full attention. Such actions include manifesting a power, concentrating on an active power, directing a power, or using a psi-like ability.
 If the Concentration check succeeds, you can continue with the action as normal. If the check fails, the action automatically fails and is wasted. If you were in the process of manifesting a power, the power points are lost. If you were concentrating on an active power, the power ends as if you had ceased concentrating on it. If you were directing a power, the direction fails but the power remains active. If you were using a psi-like ability, that use of the ability is lost.
@@ -1490,7 +1490,7 @@ Distraction
 Damaged during the action.2
 10 + half of continuous damage last dealt
 Taking continuous damage during the action.3
-15 + power level 
+15 + power level
 Attempting to manifest a power without its display.
 15
 Entangled.
@@ -1527,9 +1527,9 @@ PSICRAFT (INT; TRAINED ONLY)
 Use this skill to identify powers as they are manifest or powers already in place.
 Check: You can identify powers and psionic effects. The DCs for Psicraft checks relating to various tasks are summarized on the table below.
 
-Psicraft DC 
+Psicraft DC
 Task
-15 + power level 
+15 + power level
 Identify a power being manifested. (You must sense the power’s display, or see some visible effect, to identify a power.) No action required. No retry.
 15 + power level
 When manifesting detect psionics, determine the discipline involved in the aura of a single item or creature you can see. (If the aura is not a power effect, the DC is 15 + 1/2 manifester level.) No action required.
@@ -1549,7 +1549,7 @@ Draw a diagram to enhance manifestation of psionic dimensional anchor on a summo
 Understand a strange or unique psionic effect, such as the effects of an outcrop of psionically resonant crystal. Time required varies. No retry.
 
 Additionally, certain powers allow you to gain information about psionic effects, provided that you make a successful Psicraft check as detailed in the power description.
-Action: Varies, as noted above. 
+Action: Varies, as noted above.
 Try Again: See above.
 Special: A psion gains a +2 bonus on Psicraft checks when dealing with a power or effect from his discipline.
 If you have the Psionic Affinity feat, you get a +2 bonus on Psicraft checks.
@@ -1585,7 +1585,7 @@ Activate Blindly: Some psionic items are activated by special specific thoughts 
 If you fail the check by 10 or more, you suffer brainburn. This brainburn affects you in the same way as brainburn that can occur when you attempt to manifest a power from a power stone, except that the damage is 1d4 points per power level instead of 1d6. Brainburn damage from activating blindly is in addition to brainburn damage from manifesting a power from a power stone.
 Address a Power Stone: Successfully addressing a power stone allows you to find out what power or powers it contains. Doing this requires 1 minute of concentration.
 Emulate an Ability Score: To manifest a power from a power stone, you need a high ability score in the appropriate ability. Your effective ability score (appropriate to the class you’re emulating when you try to manifest the power from the power stone) is your check result minus 15. If you already have a high enough score in the appropriate ability, you don’t need to make this check.
-Emulate an Alignment: Some psionic items have positive or negative effects based on your alignment. Use Psionic Device lets you use these items as if you were of an alignment of your choice. You can emulate only one alignment at a time. 
+Emulate an Alignment: Some psionic items have positive or negative effects based on your alignment. Use Psionic Device lets you use these items as if you were of an alignment of your choice. You can emulate only one alignment at a time.
 Emulate a Class Feature: Sometimes you need to use a class feature to activate a psionic item. Your effective level in the emulated class equals your check result minus 20. This skill does not let you use the class feature of another class. It just lets you activate items as if you had the class feature.
 If the class whose feature you are emulating has an alignment requirement, you must meet it, either honestly or by emulating an appropriate alignment as a separate check (see above).
 Emulate a Race: Some psionic items work only for certain races, or work better for those of certain races. You can use such an item as if you were a race of your choice. You can emulate only one race at a time.
@@ -1604,112 +1604,112 @@ If you have 5 or more ranks in Use Psionic Device, you get a +2 bonus on Psicraf
 Epic Skills
 -----------
 
-EPIC SKILLS 
+EPIC SKILLS
 
-Despite the near-magical nature of some epic level skill uses, all uses of skills are considered exceptional abilities (except if noted otherwise), and thus function normally even within areas of antimagic. 
+Despite the near-magical nature of some epic level skill uses, all uses of skills are considered exceptional abilities (except if noted otherwise), and thus function normally even within areas of antimagic.
 
-Skill Synergy 
-Many skills are noted as granting a synergy bonus to the use of another skill when a character has 5 or more ranks in the first skill. This synergy bonus increases by +2 for every additional 20 ranks the character has in the skill. 
+Skill Synergy
+Many skills are noted as granting a synergy bonus to the use of another skill when a character has 5 or more ranks in the first skill. This synergy bonus increases by +2 for every additional 20 ranks the character has in the skill.
 
-SKILL DESCRIPTIONS 
-This section describes new DCs and new modifiers for skills. 
+SKILL DESCRIPTIONS
+This section describes new DCs and new modifiers for skills.
 
-Appraise 
-The character can sense magical auras in objects. 
+Appraise
+The character can sense magical auras in objects.
 Task
-DC 
+DC
 Detect magic
-50 
-Detect Magic: The character can sense if an item has a magical aura. He or she can then use Spellcraft to learn more about the item as if he or she had already cast detect magic on the item. This requires a full-round action. 
+50
+Detect Magic: The character can sense if an item has a magical aura. He or she can then use Spellcraft to learn more about the item as if he or she had already cast detect magic on the item. This requires a full-round action.
 
-Balance 
+Balance
 Surface
-DC 
+DC
 1–2 inches wide
-20 
+20
 Up to 1 inch wide
-40 
+40
 Hair-thin
-60 
+60
 Liquid*
-90 
+90
 Cloud
-120 
-*Includes any other surface that couldn’t support the character’s weight, such as a fragile branch. 
+120
+*Includes any other surface that couldn’t support the character’s weight, such as a fragile branch.
 
-Bluff 
-The character can implant a nonmagical suggestion in a target, display a false alignment, or disguise his or her surface thoughts. 
+Bluff
+The character can implant a nonmagical suggestion in a target, display a false alignment, or disguise his or her surface thoughts.
 Example Circumstance
 Sense Motive Modifier
 Instill suggestion in target
 +50
 Task
-DC 
-Display false alignment
-70 
-Disguise surface thoughts
-100 
-Instill Suggestion in Target: This is identical to the effect of the suggestion spell, except that it is nonmagical and lasts for only 10 minutes. It can be sensed as if it were an enchantment effect (Sense Motive DC 25). 
-Display False Alignment: The character can fool alignment-sensing effects by displaying a false alignment of his or her choice. Once set, a false alignment remains as long as the character remains conscious and awake. Setting or changing a false alignment requires a full-round action. 
-Disguise Surface Thoughts: The character can fool spells such as detect thoughts (or similar effects) by displaying false surface thoughts. While the character can’t completely mask the presence of his or her thoughts, he or she can change his or her apparent Intelligence score (and thus the character’s apparent mental strength) by as much as 10 points and can place any thought in his or her “surface thoughts” to be read by such spells or effects. If a character attempts to use Sense Motive to detect his or her surface thoughts (see the Sense Motive skill description), this becomes an opposed check (though any result lower than 100 automatically fails). 
-
-Climb 
-The character can climb otherwise unclimbable surfaces. 
 DC
-Surface 
+Display false alignment
 70
-A perfectly smooth, flat, vertical surface 
+Disguise surface thoughts
 100
-A perfectly smooth, flat, overhang or ceiling 
-Rapid Climbing: A character can climb his or her speed as a move-equivalent action, or double his or her speed as a full-round action (requiring two Climb checks), but the character takes a –20 penalty on his or her check. 
-Special: The Legendary Climber feat allows a character to ignore any penalties for accelerated or rapid climbing. 
+Instill Suggestion in Target: This is identical to the effect of the suggestion spell, except that it is nonmagical and lasts for only 10 minutes. It can be sensed as if it were an enchantment effect (Sense Motive DC 25).
+Display False Alignment: The character can fool alignment-sensing effects by displaying a false alignment of his or her choice. Once set, a false alignment remains as long as the character remains conscious and awake. Setting or changing a false alignment requires a full-round action.
+Disguise Surface Thoughts: The character can fool spells such as detect thoughts (or similar effects) by displaying false surface thoughts. While the character can’t completely mask the presence of his or her thoughts, he or she can change his or her apparent Intelligence score (and thus the character’s apparent mental strength) by as much as 10 points and can place any thought in his or her “surface thoughts” to be read by such spells or effects. If a character attempts to use Sense Motive to detect his or her surface thoughts (see the Sense Motive skill description), this becomes an opposed check (though any result lower than 100 automatically fails).
 
-Concentration 
-The character can cast spells with somatic components even while grappled. 
+Climb
+The character can climb otherwise unclimbable surfaces.
+DC
+Surface
+70
+A perfectly smooth, flat, vertical surface
+100
+A perfectly smooth, flat, overhang or ceiling
+Rapid Climbing: A character can climb his or her speed as a move-equivalent action, or double his or her speed as a full-round action (requiring two Climb checks), but the character takes a –20 penalty on his or her check.
+Special: The Legendary Climber feat allows a character to ignore any penalties for accelerated or rapid climbing.
+
+Concentration
+The character can cast spells with somatic components even while grappled.
 Task
-DC 
+DC
 Cast spell with somatic component while grappled
-50 + spell level 
+50 + spell level
 
-Craft 
-The character can craft items more quickly than normal. 
+Craft
+The character can craft items more quickly than normal.
 Task
-DC 
+DC
 Quick creation
-+10 or more to DC 
-Quick Creation: A character can voluntarily increase the DC of crafting an item by any multiple of 10. This allows the character to create an item more quickly (since he or she will be multiplying this higher DC by his or her skill check result to determine progress). The character must decide the increase to the DC before making the check. 
++10 or more to DC
+Quick Creation: A character can voluntarily increase the DC of crafting an item by any multiple of 10. This allows the character to create an item more quickly (since he or she will be multiplying this higher DC by his or her skill check result to determine progress). The character must decide the increase to the DC before making the check.
 
 Craft (Alchemy)
 Task
-DC (or DC Modifier) 
+DC (or DC Modifier)
 Create augmented substance
-+20 or more to DC 
-Create Augmented Alchemical Item or Substance: This requires the Augmented Alchemy feat, and allows a character to create alchemical items and substances of greater power than normal. To augment an alchemical substance, add +20 to the DC required to create the item and multiply the cost by 5. If the item or substance deals damage, double the damage dealt. If the item or substance doesn’t deal damage, double the duration of its effect. If the item or substance doesn’t deal damage and doesn’t have a specific listed duration (or has an instantaneous duration), double all dimensions of its area. If the item or substance doesn’t fit any of these categories, then it cannot be improved in this manner. A character can create an item with multiple degrees of augmentation. For every additional multiplier applied to damage, duration, or area, add an additional +20 to the DC and add an additional 5 to the cost multiplier. 
++20 or more to DC
+Create Augmented Alchemical Item or Substance: This requires the Augmented Alchemy feat, and allows a character to create alchemical items and substances of greater power than normal. To augment an alchemical substance, add +20 to the DC required to create the item and multiply the cost by 5. If the item or substance deals damage, double the damage dealt. If the item or substance doesn’t deal damage, double the duration of its effect. If the item or substance doesn’t deal damage and doesn’t have a specific listed duration (or has an instantaneous duration), double all dimensions of its area. If the item or substance doesn’t fit any of these categories, then it cannot be improved in this manner. A character can create an item with multiple degrees of augmentation. For every additional multiplier applied to damage, duration, or area, add an additional +20 to the DC and add an additional 5 to the cost multiplier.
 Item
-Effect of Augmenting 
+Effect of Augmenting
 Acid
-Direct hit 2d6, splash 2 
+Direct hit 2d6, splash 2
 Alchemist’s fire
-Direct hit 2d6, splash 2 
+Direct hit 2d6, splash 2
 Antitoxin
-Duration 2 hours 
+Duration 2 hours
 Smokestick
-Smoke fills a 20-foot cube 
+Smoke fills a 20-foot cube
 Sunrod
-Glows for 12 hours 
-Tanglefoot bag 
+Glows for 12 hours
+Tanglefoot bag
 Becomes brittle and fragile after 20 minutes
 Tindertwig
-No effect 
+No effect
 
-Decipher Script 
-The character can decipher magic scrolls. 
+Decipher Script
+The character can decipher magic scrolls.
 Task
-DC 
+DC
 Decipher a written spell (such as a scroll) without using read magic. One try per day.
-50 + 5 times spell level 
+50 + 5 times spell level
 
-Diplomacy 
+Diplomacy
 The character can turn a person into a fanatic follower. Refer to the accompanying table.
 
 ——————New Attitude ——————
@@ -1755,49 +1755,49 @@ Helpful
 Less than 1
 1
 50
-Hos: hostile. Unf: unfriendly. Indif: indifferent. Friend: friendly. Help: helpful. 
-Fanatic: The attitude of fanatic is added here. In addition to the obvious effects, any NPC whose attitude is fanatic gains a +2 morale bonus to Strength and Constitution scores, a +1 morale bonus on Will saves, and a –1 penalty to AC whenever fighting for the character or his or her cause. This attitude will remain for one day plus one day per point of the character’s Charisma bonus, at which point the NPC’s attitude will revert to its original attitude (or indifferent, if no attitude is specified). 
-Treat the fanatic attitude as a mind-affecting enchantment effect for purposes of immunity, save bonuses, or being detected by the Sense Motive skill. Since it is nonmagical, it can’t be dispelled; however, any effect that suppresses or counters mind-affecting effects will affect it normally. A fanatic NPC’s attitude can’t be further adjusted by the use of skills. 
-Attitude 
+Hos: hostile. Unf: unfriendly. Indif: indifferent. Friend: friendly. Help: helpful.
+Fanatic: The attitude of fanatic is added here. In addition to the obvious effects, any NPC whose attitude is fanatic gains a +2 morale bonus to Strength and Constitution scores, a +1 morale bonus on Will saves, and a –1 penalty to AC whenever fighting for the character or his or her cause. This attitude will remain for one day plus one day per point of the character’s Charisma bonus, at which point the NPC’s attitude will revert to its original attitude (or indifferent, if no attitude is specified).
+Treat the fanatic attitude as a mind-affecting enchantment effect for purposes of immunity, save bonuses, or being detected by the Sense Motive skill. Since it is nonmagical, it can’t be dispelled; however, any effect that suppresses or counters mind-affecting effects will affect it normally. A fanatic NPC’s attitude can’t be further adjusted by the use of skills.
+Attitude
 Means
-Possible Actions 
-Fanatic 
+Possible Actions
+Fanatic
 Will give life to serve you
-Fight to the death against overwhelming odds, throw self in front of onrushing dragon 
+Fight to the death against overwhelming odds, throw self in front of onrushing dragon
 
-Disable Device 
+Disable Device
 The character can rush his or her Disable Device attempt, reducing the amount of time it takes to perform the attempt.
 Reduce to
-DC Modifier 
+DC Modifier
 1 round
-+20 
++20
 Move-equivalent action
-+50 
++50
 Free action
-+100 
++100
 
-Disguise 
-The character can change his or her apparent height and weight much more than normal. 
+Disguise
+The character can change his or her apparent height and weight much more than normal.
 Disguise
 Modifier
 Change height and/or weight 11% to 25%
 –25*
 Change height and/or weight 26% to 50%
 –50*
-*Can be negated by any effect that can duplicate a height and/or weight change of this degree. 
+*Can be negated by any effect that can duplicate a height and/or weight change of this degree.
 
-Escape Artist 
+Escape Artist
 The character can pass through spaces smaller than his or her head, or even through a wall of force.
 DC
-Task 
+Task
 80
-Extremely tight space 
+Extremely tight space
 120
-Pass through wall of force 
-Extremely Tight Space: This is the DC for getting through a space when one’s head shouldn’t even be able to fit; this can be as small as 2 inches square for Medium-size creatures. Halve this limit for each size category less than Medium-size; double it for each size category greater than Medium-size. If the space is long, such as in a chimney, multiple checks may be called for. 
-Pass through Wall of Force: This allows a character to find a gap of weakness in a wall of force (or similar force effect) and squeeze through it. 
+Pass through wall of force
+Extremely Tight Space: This is the DC for getting through a space when one’s head shouldn’t even be able to fit; this can be as small as 2 inches square for Medium-size creatures. Halve this limit for each size category less than Medium-size; double it for each size category greater than Medium-size. If the space is long, such as in a chimney, multiple checks may be called for.
+Pass through Wall of Force: This allows a character to find a gap of weakness in a wall of force (or similar force effect) and squeeze through it.
 
-Forgery 
+Forgery
 The character can forge handwriting he or she haven’t even seen.
 Condition
 Reader’s Check Modifier
@@ -1805,139 +1805,139 @@ Forge document without sample
 +50
 Forge Document without Sample:  The character can forge a document without having seen a similar document or having a sample of the handwriting to be copied.
 
-Gather Information 
-The character can gather information without eliciting suspicion. 
-Task 
-Check Modifier 
+Gather Information
+The character can gather information without eliciting suspicion.
+Task
+Check Modifier
 Avoid suspicion
 –20
-Avoid Suspicion: By accepting a –20 penalty on his or her Gather Information check, a character can avoid any suspicions that might otherwise be aroused by someone pursuing sensitive information. 
+Avoid Suspicion: By accepting a –20 penalty on his or her Gather Information check, a character can avoid any suspicions that might otherwise be aroused by someone pursuing sensitive information.
 
-Handle Animal 
-The character can handle creatures other than animals, and can teach or train in much less time than normally required. 
+Handle Animal
+The character can handle creatures other than animals, and can teach or train in much less time than normally required.
 Task
 Time
-DC 
-Rear magical beast 
+DC
+Rear magical beast
 1 year
-30 + HD of magical beast 
-Train magical beast 
+30 + HD of magical beast
+Train magical beast
 2 months
-40 + HD of magical beast 
-Rear vermin 
+40 + HD of magical beast
+Rear vermin
 6 months
-35 + HD of vermin 
-Train vermin 
+35 + HD of vermin
+Train vermin
 2 months
-50 + HD of vermin 
-Rear other creature 
+50 + HD of vermin
+Rear other creature
 Varies
-40 + HD of creature 
-Train other creature 
+40 + HD of creature
+Train other creature
 2 months
-60 + HD of creature 
+60 + HD of creature
 
-Reduce Teaching/Training to . . . 
+Reduce Teaching/Training to . . .
 DC Modifier
 1 month
 +25
-1 day 
+1 day
 +50
 1 hour
 +75
 1 minute
 +100
-Reduce Teaching/Training: Normally, teaching or training a creature requires two months of time. A character can accelerate the process of teaching or training a creature, reducing the time required to the listed time, by adding the DC modifier to the base DC for teaching or training the creature. A character can’t reduce the required time to less than 1 minute. 
+Reduce Teaching/Training: Normally, teaching or training a creature requires two months of time. A character can accelerate the process of teaching or training a creature, reducing the time required to the listed time, by adding the DC modifier to the base DC for teaching or training the creature. A character can’t reduce the required time to less than 1 minute.
 
-Heal 
-The character can greatly speed a patient’s recovery of hit points. 
+Heal
+The character can greatly speed a patient’s recovery of hit points.
 Task
-DC 
+DC
 Quicken recovery
-50 
+50
 Perfect recovery
-100 
-Quicken Recovery: The character can allow a character to regain hit points in a single hour as if he or she had provided long-term care for a full day (2 or 3 hit points per level, based on activity). The character can quicken the recovery of up to six patients at a time. No character’s recovery can be quickened more than once per day (even by different healers). 
+100
+Quicken Recovery: The character can allow a character to regain hit points in a single hour as if he or she had provided long-term care for a full day (2 or 3 hit points per level, based on activity). The character can quicken the recovery of up to six patients at a time. No character’s recovery can be quickened more than once per day (even by different healers).
 Perfect Recovery: The character can allow a character to regain hit points in a single hour as if he or she had provided long-term care for a full week (2 or 3 hit points per level per day, based on activity). The character can use perfect recovery on up to six patients at a time. No character’s recovery can be perfected more than once per day, nor can perfect recovery and quicken recovery both be used on the same patient in the same day (even by different healers).
 
-Hide 
-The character can hide others as well as hiding him or herself. 
+Hide
+The character can hide others as well as hiding him or herself.
 Task
 Check Modifier
 Hide another
 –30
-Hide Another: By accepting a –30 penalty on his or her Hide check, a character can hide another adjacent creature whose size is no more than one category larger than the character’s own. Modifiers to the check for the size of the creature still apply, as do all other penalties, including those for moving faster than half speed. Likewise, a character can only hide another creature when it is not under direct observation by a third party. The creature the character hides remains hidden until it is spotted or it takes some other action that breaks its concealment, as normal. 
+Hide Another: By accepting a –30 penalty on his or her Hide check, a character can hide another adjacent creature whose size is no more than one category larger than the character’s own. Modifiers to the check for the size of the creature still apply, as do all other penalties, including those for moving faster than half speed. Likewise, a character can only hide another creature when it is not under direct observation by a third party. The creature the character hides remains hidden until it is spotted or it takes some other action that breaks its concealment, as normal.
 
-Intimidate 
-Intimidate does not possess an epic usage. 
-Special: The DC to intimidate any creature whose attitude is fanatic is increased by +20. 
+Intimidate
+Intimidate does not possess an epic usage.
+Special: The DC to intimidate any creature whose attitude is fanatic is increased by +20.
 
-Jump 
-Jump does not possess an epic usage. 
+Jump
+Jump does not possess an epic usage.
 
 Knowledge
-Knowledge does not possess an epic usage. 
+Knowledge does not possess an epic usage.
 
-Listen 
-The character can pinpoint the location of an invisible creature, or detect an illusion with an auditory component. 
-DC 
-Task 
-80 
-Defeat illusion with auditory component 
-Defeat Illusion: The character can automatically detect any illusion with an auditory component for what it truly is. No Will save is required, and the character doesn’t have to interact with the illusion (but he or she must be able to hear its auditory component). Special: A character can use Listen to notice the presence of an invisible creature (generally opposed by a Move Silently check). If the character beats the DC by 20 or more, he or she can pinpoint the location of the invisible creature, though it still maintains total concealment from the character (50% miss chance). 
+Listen
+The character can pinpoint the location of an invisible creature, or detect an illusion with an auditory component.
+DC
+Task
+80
+Defeat illusion with auditory component
+Defeat Illusion: The character can automatically detect any illusion with an auditory component for what it truly is. No Will save is required, and the character doesn’t have to interact with the illusion (but he or she must be able to hear its auditory component). Special: A character can use Listen to notice the presence of an invisible creature (generally opposed by a Move Silently check). If the character beats the DC by 20 or more, he or she can pinpoint the location of the invisible creature, though it still maintains total concealment from the character (50% miss chance).
 
-Move Silently 
-Move Silently does not possess an epic usage. 
+Move Silently
+Move Silently does not possess an epic usage.
 
-Open Lock 
-The character can open locks more quickly than normal. 
-Open lock as . . . 
-DC Modifier 
-Move-equivalent action 
-+20 
-Free action 
-+50 
+Open Lock
+The character can open locks more quickly than normal.
+Open lock as . . .
+DC Modifier
+Move-equivalent action
++20
+Free action
++50
 
-Perform 
+Perform
 The character can sway an audience’s attitude with his or her performance.
- 
+
 ——————New Attitude ——————
-Initial Attitude 
+Initial Attitude
 Hos
 Unf
 Indif
 Friend
 Help
 Fanatic
-Hostile 
+Hostile
 Less than 20
 20
 25
 35
 50
 150
-Unfriendly 
+Unfriendly
 Less than 5
 5
 15
 25
 40
 120
-Indifferent 
+Indifferent
 —
 Less than 1
 1
 15
 30
 90
-Friendly 
+Friendly
 —
 —
 Less than 1
 1
 20
 60
-Helpful 
+Helpful
 —
 —
 —
@@ -1945,216 +1945,216 @@ Less than 1
 1
 50
 Hos: hostile. Unf: unfriendly. Indif: indifferent. Friend: friendly. Help: helpful.
-Fanatic: The attitude of fanatic is added here. In addition to the obvious effects, any NPC whose attitude is fanatic gains a +2 morale bonus to Strength and Constitution scores, a +1 morale bonus on Will saves, and a –1 penalty to AC whenever fighting for the character or his or her cause. This attitude will remain for one day plus one day per point of the character’s Charisma bonus, at which point the NPC’s attitude will revert to its original attitude (or indifferent, if no attitude is specified). 
-Treat the fanatic attitude as a mind-affecting enchantment effect for purposes of immunity, save bonuses, or being detected by the Sense Motive skill. Since it is nonmagical, it can’t be dispelled; however, any effect that suppresses or counters mind-affecting effects will affect it normally. A fanatic NPC’s attitude can’t be further adjusted by the use of skills. 
-Attitude 
-Means 
-Possible Actions 
-Fanatic 
+Fanatic: The attitude of fanatic is added here. In addition to the obvious effects, any NPC whose attitude is fanatic gains a +2 morale bonus to Strength and Constitution scores, a +1 morale bonus on Will saves, and a –1 penalty to AC whenever fighting for the character or his or her cause. This attitude will remain for one day plus one day per point of the character’s Charisma bonus, at which point the NPC’s attitude will revert to its original attitude (or indifferent, if no attitude is specified).
+Treat the fanatic attitude as a mind-affecting enchantment effect for purposes of immunity, save bonuses, or being detected by the Sense Motive skill. Since it is nonmagical, it can’t be dispelled; however, any effect that suppresses or counters mind-affecting effects will affect it normally. A fanatic NPC’s attitude can’t be further adjusted by the use of skills.
+Attitude
+Means
+Possible Actions
+Fanatic
 Will give life to serve you
-Fight to the death against overwhelming odds, throw self in front of onrushing dragon 
+Fight to the death against overwhelming odds, throw self in front of onrushing dragon
 
-Profession 
-Profession does not possess an epic usage. 
+Profession
+Profession does not possess an epic usage.
 
-Ride 
-The character can stand upon his or her mount in combat. 
+Ride
+The character can stand upon his or her mount in combat.
 DC
-Task 
-40 
-Stand on mount 
-50 
-Unconscious control 
-60 
-Attack from cover 
-Stand on Mount: This allows the character to stand on his or her mount’s back even during movement or combat. The character takes no penalties to actions while doing so. 
-Unconscious Control: As a free action, the character can attempt to control a light horse, pony, or heavy horse while in combat. If the character fails, he or she controls the mount as a move-equivalent action. A character does not need to roll for warhorses or warponies. 
-Attack from Cover: The character can react instantly to drop down and hang alongside his or her mount, using it as one-half cover. The character can attack and cast spells while using his or her mount as cover without penalty. If the character fails, he or she doesn’t get the cover benefit. 
+Task
+40
+Stand on mount
+50
+Unconscious control
+60
+Attack from cover
+Stand on Mount: This allows the character to stand on his or her mount’s back even during movement or combat. The character takes no penalties to actions while doing so.
+Unconscious Control: As a free action, the character can attempt to control a light horse, pony, or heavy horse while in combat. If the character fails, he or she controls the mount as a move-equivalent action. A character does not need to roll for warhorses or warponies.
+Attack from Cover: The character can react instantly to drop down and hang alongside his or her mount, using it as one-half cover. The character can attack and cast spells while using his or her mount as cover without penalty. If the character fails, he or she doesn’t get the cover benefit.
 
-Search 
-The character can sense the presence of magic in an area. 
-Task 
-DC 
-Sense magic 
-60 
-Sense Magic: The character senses the presence of any active magical effects in the area being searched. The character can’t determine the number, strength, or type of the effects. 
+Search
+The character can sense the presence of magic in an area.
+Task
+DC
+Sense magic
+60
+Sense Magic: The character senses the presence of any active magical effects in the area being searched. The character can’t determine the number, strength, or type of the effects.
 
-Sense Motive 
+Sense Motive
 The character can discern a target’s alignment and even detect surface thoughts.
-Task 
+Task
 DC
-Discern partial alignment 
-60 
-Discern full alignment 
-80 
-Detect surface thoughts 
-100 
-Discern Partial Alignment: This use of the skill lets a character discern one component of a target’s alignment. When making the check, the character states whether he or she is trying to discern the law–chaos or good–evil component. A character can’t retry the check, and he or she can’t use this to discern more than one component of the alignment (but see below). The target must be visible and within 30 feet of the character. 
-Discern Full Alignment: This use of the skill lets a character determine both components of a target’s alignment. The character can’t retry the check. The target must be visible and within 30 feet of the character. 
+Discern partial alignment
+60
+Discern full alignment
+80
+Detect surface thoughts
+100
+Discern Partial Alignment: This use of the skill lets a character discern one component of a target’s alignment. When making the check, the character states whether he or she is trying to discern the law–chaos or good–evil component. A character can’t retry the check, and he or she can’t use this to discern more than one component of the alignment (but see below). The target must be visible and within 30 feet of the character.
+Discern Full Alignment: This use of the skill lets a character determine both components of a target’s alignment. The character can’t retry the check. The target must be visible and within 30 feet of the character.
 Detect Surface Thoughts: This lets a character read the surface thoughts of a single target (as the 3rd-round effect of the detect thoughts spell). There is no saving throw to resist this effect, though the target can use Bluff to disguise his or her surface thoughts (see the Bluff skill description), in which case this becomes an opposed check (any result lower than 100 automatically fails). The target must be visible and within 30 feet of the character.
 
-Sleight of Hand 
-The character can lift another’s weapon and perform major feats of legerdemain. 
+Sleight of Hand
+The character can lift another’s weapon and perform major feats of legerdemain.
 DC
  Task
-50 
-Lift a sheathed weapon from another creature and hide it on the character’s person, if the weapon is no more than one size category larger than the character’s own size. 
+50
+Lift a sheathed weapon from another creature and hide it on the character’s person, if the weapon is no more than one size category larger than the character’s own size.
 80
-Make an adjacent, willing creature or object of the character’s size or smaller “disappear” while in plain view. In fact, the willing creature or object is displaced up to 10 feet away—make a separate Hide check to determine how well the “disappeared” creature or object is hidden. 
+Make an adjacent, willing creature or object of the character’s size or smaller “disappear” while in plain view. In fact, the willing creature or object is displaced up to 10 feet away—make a separate Hide check to determine how well the “disappeared” creature or object is hidden.
 
-Spellcraft 
-The character can identify properties of a magic item. 
-DC 
-Task 
-50 + caster level 
-Identify basic property of magic item 
-70 + caster level 
-Identify all properties of magic item 
+Spellcraft
+The character can identify properties of a magic item.
+DC
+Task
+50 + caster level
+Identify basic property of magic item
+70 + caster level
+Identify all properties of magic item
 50
 Quick identification of alchemical substances and potions
-Identify Basic Property of Magic Item: This use of the skill requires one round of inspection, and functions exactly as if the character had cast an identify spell on the item. A character can’t attempt this on the same item more than once. 
-Identify All Properties of Magic Item: This requires one minute of inspection, and reveals all properties of a single magic item (including command words and charges remaining). A character can’t attempt this on the same item more than once. If an item has different caster levels for different properties, use the highest caster level. 
-Quick Identification: A character can identify a substance or potion in the field as a full-round action, without an alchemical lab or any cost. The character can’t retry this check (or take 20); if he or she fails, the character must identify the substance in an alchemical lab, as normal. 
+Identify Basic Property of Magic Item: This use of the skill requires one round of inspection, and functions exactly as if the character had cast an identify spell on the item. A character can’t attempt this on the same item more than once.
+Identify All Properties of Magic Item: This requires one minute of inspection, and reveals all properties of a single magic item (including command words and charges remaining). A character can’t attempt this on the same item more than once. If an item has different caster levels for different properties, use the highest caster level.
+Quick Identification: A character can identify a substance or potion in the field as a full-round action, without an alchemical lab or any cost. The character can’t retry this check (or take 20); if he or she fails, the character must identify the substance in an alchemical lab, as normal.
 
-Spot 
-The character can pinpoint the location of an invisible creature, or detect an illusion with a visual component. 
-DC 
-Task 
-20 
-Notice presence of active invisible creature 
-30 
-Notice presence of unmoving, living invisible creature 
-40 
-Notice presence of inanimate invisible object 
-40 
-Notice presence of unmoving, unliving invisible creature 
-80 
-Defeat illusion 
-A character can use Spot to notice the presence of an invisible creature. The relevant DCs are reprinted here. If the character beats the DC by 20 or more, he or she can pinpoint the location of the invisible creature, though it still maintains total concealment from the character (50% miss chance). 
-Defeat Illusion: The character can automatically detect any illusion with a visual component for what it truly is. No Will save is required, and the character doesn’t have to interact with the illusion (but he or she must be able to see it). 
-Using Spot to Read Lips 
-Task 
-DC Modifier 
+Spot
+The character can pinpoint the location of an invisible creature, or detect an illusion with a visual component.
+DC
+Task
+20
+Notice presence of active invisible creature
+30
+Notice presence of unmoving, living invisible creature
+40
+Notice presence of inanimate invisible object
+40
+Notice presence of unmoving, unliving invisible creature
+80
+Defeat illusion
+A character can use Spot to notice the presence of an invisible creature. The relevant DCs are reprinted here. If the character beats the DC by 20 or more, he or she can pinpoint the location of the invisible creature, though it still maintains total concealment from the character (50% miss chance).
+Defeat Illusion: The character can automatically detect any illusion with a visual component for what it truly is. No Will save is required, and the character doesn’t have to interact with the illusion (but he or she must be able to see it).
+Using Spot to Read Lips
+Task
+DC Modifier
 Read lips while moving at up to full speed
-+20 
-Pronounce unfamiliar language 
-+20 
-Pronounce Unfamiliar Language: This use of the skill allows a character to repeat the speech of an observed creature, potentially allowing a comrade to translate the speech. It doesn’t grant the character any ability to understand the language spoken. 
++20
+Pronounce unfamiliar language
++20
+Pronounce Unfamiliar Language: This use of the skill allows a character to repeat the speech of an observed creature, potentially allowing a comrade to translate the speech. It doesn’t grant the character any ability to understand the language spoken.
 
 Survival
-The character can ignore the effects of terrain on movement and withstand even the harshest weather. If the character is capable of tracking, he or she can identify the races of creatures being tracked. 
-DC 
-Task 
-40 
-Get along in the wild while moving at full speed. The character can provide food and water for one other person for every 2 points by which the check result exceeds 40. 
-60 
-Automatically succeed on all Fortitude saves against severe weather. The character can extend this benefit to one other character for every 2 points by which the check result exceeds 60. 
-60 
-Ignore overland movement penalties of terrain. The character and his or her mount can move at full overland speed regardless of terrain. The character can extend this benefit to one other character for every 5 points by which the check result exceeds 60. 
-60 
-Identify race/kind of creature(s) by tracks.* 
-*Requires the Track feat. 
-
-Wherever the character is, he or she can determine the direction to a location on the same plane. 
+The character can ignore the effects of terrain on movement and withstand even the harshest weather. If the character is capable of tracking, he or she can identify the races of creatures being tracked.
 DC
- Familiarity with Location 
-40 
-Very familiar 
-60 
-Studied carefully 
-80 
-Seen casually 
-100 
-Viewed once 
-120 
-Description only 
-With a successful check, the character knows the direction to the desired location. This merely points the character in the direction of the location; it doesn’t provide him or her with information on how to get there, nor does it take into account any obstacles in the path. “Very familiar” represents a place where the character has been very often and where he or she feels at home. “Studied carefully” represents a place the character knows well, either because he or she has been there often or has used other means to study the place. “Seen casually” is a place that the character has viewed more than once, but which he or she has not studied. “Viewed once” is a place that the character has seen once, possibly using magic. “Description only” is a place whose location and appearance the character knows through someone else’s description. 
-
-Swim 
-The character can swim up vertical surfaces, or swim much faster than normal. 
-DC 
-Task 
-80 
-Swim up waterfall 
-Swim up Waterfall: This use of the skill allows a character to swim an angled or vertical surface, as long as he or she remains completely or mostly immersed in water. Other examples might include swimming up a whirlpool or an incredibly large wave. 
-Circumstance 
-DC Modifier 
-Speed swimming 
-–20 
-Speed Swimming: By taking a –20 penalty on the check, a character can swim his or her speed as a move-equivalent action, or double his or her speed as a full-round action. 
-
-Tumble 
-The character can fall from great heights without taking damage, move greater distances with an adjustment, or “climb” vertical surfaces with a series of bounces. 
-DC 
-Task 
-30 
-Treat a fall as if it were 20 feet shorter when determining damage. 
-35 
-Free stand. 
-45 
-Treat a fall as if it were 30 feet shorter when determining damage. 
-50 
-Climb vertical surface. 
-60 
-Treat a fall as if it were 40 feet shorter when determining damage. 
-100 
-Ignore falling damage. 
-Free Stand: The character can stand up from prone as a free action (instead of as a move-equivalent action). 
-Climb Vertical Surface: The character can climb up to 20 feet (as part of normal move-ment) by jumping and bouncing off walls, trees, or similar vertical surfaces. The character must have at least two vertical surfaces to bounce off, and the two must be within 10 feet of each other. 
-Ignore Falling Damage: The character can fall from any height and take no damage. 
-Special: A character with 25 or more ranks in Tumble gains a +5 dodge bonus when executing the fight defensively standard or full-round action, instead of a +2 bonus (or the +3 bonus from having 5 or more ranks). Increase this dodge bonus by +1 for every 10 additional ranks above 25 the character has. A character with 25 or more ranks in Tumble gains a +10 dodge bonus to AC when executing the total defense standard action, instead of a +4 bonus (or the +6 bonus from having 5 or more ranks). Increase this dodge bonus by +2 for every 10 additional ranks above 25 the character has. 
-
-Use Magic Device 
-Use Magic Device does not possess an epic usage. 
-
-Use Rope 
-The character can splice ropes together quickly, tie unique knots, and even animate a rope he or she holds. 
 Task
-DC 
-Quick splicing 
-50 
-Tie unique knot 
-60 
-Animate held rope 
-80 
-Quick Splicing: The character can splice two ropes together as a move-equivalent action. 
-Tie Unique Knot: The character can tie a knot that only he or she knows how to untie. This doesn’t affect any Escape Artist checks made to escape these bindings. 
-Animate Held Rope: The character can command any rope he or she holds as if it had the animate rope spell cast upon it (except that using the skill in this way doesn’t grant any bonus on Use Rope checks made with the animated rope). Each command requires a separate Use Rope check. Because the effect isn’t magical, it can’t be dispelled. 
+40
+Get along in the wild while moving at full speed. The character can provide food and water for one other person for every 2 points by which the check result exceeds 40.
+60
+Automatically succeed on all Fortitude saves against severe weather. The character can extend this benefit to one other character for every 2 points by which the check result exceeds 60.
+60
+Ignore overland movement penalties of terrain. The character and his or her mount can move at full overland speed regardless of terrain. The character can extend this benefit to one other character for every 5 points by which the check result exceeds 60.
+60
+Identify race/kind of creature(s) by tracks.*
+*Requires the Track feat.
+
+Wherever the character is, he or she can determine the direction to a location on the same plane.
+DC
+ Familiarity with Location
+40
+Very familiar
+60
+Studied carefully
+80
+Seen casually
+100
+Viewed once
+120
+Description only
+With a successful check, the character knows the direction to the desired location. This merely points the character in the direction of the location; it doesn’t provide him or her with information on how to get there, nor does it take into account any obstacles in the path. “Very familiar” represents a place where the character has been very often and where he or she feels at home. “Studied carefully” represents a place the character knows well, either because he or she has been there often or has used other means to study the place. “Seen casually” is a place that the character has viewed more than once, but which he or she has not studied. “Viewed once” is a place that the character has seen once, possibly using magic. “Description only” is a place whose location and appearance the character knows through someone else’s description.
+
+Swim
+The character can swim up vertical surfaces, or swim much faster than normal.
+DC
+Task
+80
+Swim up waterfall
+Swim up Waterfall: This use of the skill allows a character to swim an angled or vertical surface, as long as he or she remains completely or mostly immersed in water. Other examples might include swimming up a whirlpool or an incredibly large wave.
+Circumstance
+DC Modifier
+Speed swimming
+–20
+Speed Swimming: By taking a –20 penalty on the check, a character can swim his or her speed as a move-equivalent action, or double his or her speed as a full-round action.
+
+Tumble
+The character can fall from great heights without taking damage, move greater distances with an adjustment, or “climb” vertical surfaces with a series of bounces.
+DC
+Task
+30
+Treat a fall as if it were 20 feet shorter when determining damage.
+35
+Free stand.
+45
+Treat a fall as if it were 30 feet shorter when determining damage.
+50
+Climb vertical surface.
+60
+Treat a fall as if it were 40 feet shorter when determining damage.
+100
+Ignore falling damage.
+Free Stand: The character can stand up from prone as a free action (instead of as a move-equivalent action).
+Climb Vertical Surface: The character can climb up to 20 feet (as part of normal move-ment) by jumping and bouncing off walls, trees, or similar vertical surfaces. The character must have at least two vertical surfaces to bounce off, and the two must be within 10 feet of each other.
+Ignore Falling Damage: The character can fall from any height and take no damage.
+Special: A character with 25 or more ranks in Tumble gains a +5 dodge bonus when executing the fight defensively standard or full-round action, instead of a +2 bonus (or the +3 bonus from having 5 or more ranks). Increase this dodge bonus by +1 for every 10 additional ranks above 25 the character has. A character with 25 or more ranks in Tumble gains a +10 dodge bonus to AC when executing the total defense standard action, instead of a +4 bonus (or the +6 bonus from having 5 or more ranks). Increase this dodge bonus by +2 for every 10 additional ranks above 25 the character has.
+
+Use Magic Device
+Use Magic Device does not possess an epic usage.
+
+Use Rope
+The character can splice ropes together quickly, tie unique knots, and even animate a rope he or she holds.
+Task
+DC
+Quick splicing
+50
+Tie unique knot
+60
+Animate held rope
+80
+Quick Splicing: The character can splice two ropes together as a move-equivalent action.
+Tie Unique Knot: The character can tie a knot that only he or she knows how to untie. This doesn’t affect any Escape Artist checks made to escape these bindings.
+Animate Held Rope: The character can command any rope he or she holds as if it had the animate rope spell cast upon it (except that using the skill in this way doesn’t grant any bonus on Use Rope checks made with the animated rope). Each command requires a separate Use Rope check. Because the effect isn’t magical, it can’t be dispelled.
 
 
 PSIONIC SKILLS
 
-Autohypnosis 
-The character has trained his or her mind to ignore poison, resist mental influence, and convince his or her body that he or she is tougher than normal. 
+Autohypnosis
+The character has trained his or her mind to ignore poison, resist mental influence, and convince his or her body that he or she is tougher than normal.
 DC
 Task
 Poison’s DC + 5
-When poisoned, the character can make an Autohypnosis check on his or her next action. A successful check indicates the character does not have to make a saving throw against the poison’s secondary damage, which he or she instead automatically ignores. 
-50 
-If a failed saving throw indicates the character is affected by any mind-affecting powers, spells, or spell-like effects, a successful Autohypnosis check allows an immediate second saving throw to resist the effect. If the mind-affecting effect normally does not allow a saving throw, a successful Autohypnosis check allows a saving throw. 
-60 
-With a successful Autohypnosis check, the character gains temporary hit points equal to 10 + his or her Wisdom modifier. The temporary hit points persist until lost. A character cannot check for temporary hit points more than once per day. Temporary hit points gained through Autohypnosis do not stack with temporary hit points gained through any other source 
+When poisoned, the character can make an Autohypnosis check on his or her next action. A successful check indicates the character does not have to make a saving throw against the poison’s secondary damage, which he or she instead automatically ignores.
+50
+If a failed saving throw indicates the character is affected by any mind-affecting powers, spells, or spell-like effects, a successful Autohypnosis check allows an immediate second saving throw to resist the effect. If the mind-affecting effect normally does not allow a saving throw, a successful Autohypnosis check allows a saving throw.
+60
+With a successful Autohypnosis check, the character gains temporary hit points equal to 10 + his or her Wisdom modifier. The temporary hit points persist until lost. A character cannot check for temporary hit points more than once per day. Temporary hit points gained through Autohypnosis do not stack with temporary hit points gained through any other source
 
-Stabilize Self 
-Mortal wounds are less lethal for the character. 
+Stabilize Self
+Mortal wounds are less lethal for the character.
 DC
-Task 
+Task
 30
-If reduced to negative hit points but not dead, make a Stabilize Self check. If successful, the character does not go unconscious and can continue taking actions until he or she bleeds to death or stabilizes (the character can also continue making stabilization checks). If healed or stabilized, the character continues to take actions normally. 
-60 
-On a successful Stabilize Self check, the character gains damage reduction 2/–. The damage reduction lasts for 12 hours. The character cannot check for damage reduction more than once per day. Damage reduction gained through Stabilize Self does not stack with damage reduction gained through any other source. 
+If reduced to negative hit points but not dead, make a Stabilize Self check. If successful, the character does not go unconscious and can continue taking actions until he or she bleeds to death or stabilizes (the character can also continue making stabilization checks). If healed or stabilized, the character continues to take actions normally.
+60
+On a successful Stabilize Self check, the character gains damage reduction 2/–. The damage reduction lasts for 12 hours. The character cannot check for damage reduction more than once per day. Damage reduction gained through Stabilize Self does not stack with damage reduction gained through any other source.
 
 Miscellaneous
 Scrying spells
 To attempt any of these tasks, the scrying spell must be on your class spell list (though it need not be among your spells known). If you have any bonuses that would apply to the caster level of your scrying spell, add these to your caster level check.
 Task
-DC 
-Learn scryer 
+DC
+Learn scryer
 30
-Return scrying 
-50 
-Break scrying 
-Opposed caster level check 
-Learn Scryer: If you determine that you’re being scried upon, you can learn the identity of the scryer with a DC 30 caster level check. If successful, you learn the name, race, and location of the scryer. 
+Return scrying
+50
+Break scrying
+Opposed caster level check
+Learn Scryer: If you determine that you’re being scried upon, you can learn the identity of the scryer with a DC 30 caster level check. If successful, you learn the name, race, and location of the scryer.
 Return Scrying: If you determine that you’re being scried upon, you can look back through the sensor at the scryer with a DC 50 caster level check. This allows you to spy on the scrying being as if you had cast a scrying spell upon that person. This return scrying can be detected by your target as normal.
 Break Scrying: If you determine that you’re being scried, you can make an opposed caster level check with the scryer. (Your caster level must be at least 21st to attempt this task.) If you are successful, the scrying ends, and the scryer may not target you with a Divination (Scrying) spell or effect for a number of hours equal to your Intelligence modifier (minimum 1).
